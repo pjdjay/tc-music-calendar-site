@@ -36,6 +36,7 @@ h1{font-size:1.35rem;margin:0 0 2px}
 .chip[aria-pressed=true]{background:var(--chip-on);color:var(--chip-on-fg);border-color:var(--chip-on)}
 select{font:inherit;padding:6px 8px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--fg);max-width:100%}
 label.tog{display:flex;gap:8px;align-items:center;font-size:.95rem;min-height:32px}
+.updrow{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;justify-content:space-between}
 .seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden}
 .seg button{border:0;background:var(--chip);color:var(--fg);font:inherit;font-size:.85rem;padding:5px 14px;min-height:32px;cursor:pointer}
 .seg button+button{border-left:1px solid var(--line)}
@@ -88,7 +89,7 @@ a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible,
 <body>
 <header class="top">
 <h1>Twin Cities Live Music</h1>
-<div class="updated" id="updated"></div>
+<div class="updrow"><div class="updated" id="updated"></div><div class="seg" id="f-theme" role="group" aria-label="Color scheme"></div></div>
 <div class="jump" id="jump"><label for="jump-date">Jump to</label><input type="date" id="jump-date"><span class="chips" id="quick"></span></div>
 </header>
 <div class="sbar" id="sbar"><div class="sbox">
@@ -104,7 +105,6 @@ a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible,
 <div class="frow"><div class="flabel">City</div><select id="f-city" aria-label="City"></select></div>
 <div class="frow"><label class="tog"><input type="checkbox" id="f-hidden"> Show DJ nights and residencies</label></div>
 <div class="frow"><label class="tog"><input type="checkbox" id="f-new"> New this week only</label></div>
-<div class="frow"><div class="flabel" id="theme-l">Color scheme</div><div class="seg" id="f-theme" role="group" aria-labelledby="theme-l"></div></div>
 <button class="clear" id="f-clear" type="button">Clear filters</button>
 </details>
 <div class="status" id="status" role="status"></div>
