@@ -9,6 +9,7 @@
 :root{--bg:#fafaf7;--fg:#1d1d1b;--muted:#6a6a64;--line:#e1e0d8;--card:#fff;--accent:#b4401f;--chip:#efeee6;--chip-on:#1d1d1b;--chip-on-fg:#fff;--star:#d99a00;--warn:#a1260f;--hdr:#f1f0e8}
 @media (prefers-color-scheme:dark){:root{--bg:#141413;--fg:#ecebe4;--muted:#9c9b92;--line:#2c2c29;--card:#1c1c1a;--accent:#ff8a5c;--chip:#272724;--chip-on:#ecebe4;--chip-on-fg:#141413;--star:#f2b922;--warn:#ff7b63;--hdr:#1a1a18}}
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.4 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 header.top{padding:16px 16px 4px;max-width:760px;margin:0 auto}
@@ -55,7 +56,23 @@ a.h:hover,a.h:focus{text-decoration:underline;color:var(--accent)}
 .new{font-size:.7rem;font-weight:700;color:var(--chip-on-fg);background:var(--accent);border-radius:4px;padding:0 5px;text-transform:uppercase;letter-spacing:.03em}
 .empty{padding:32px 16px;text-align:center;color:var(--muted)}
 footer{max-width:760px;margin:0 auto;padding:16px;color:var(--muted);font-size:.8rem}
-a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.sbar{max-width:760px;margin:12px auto 0;padding:0 16px}
+.sbox{position:relative}
+.sbox input{width:100%;font:inherit;font-size:1rem;padding:10px 44px 10px 12px;min-height:44px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--fg);-webkit-appearance:none;appearance:none}
+.sbox input::placeholder{color:var(--muted)}
+.sclear{position:absolute;right:2px;top:50%;transform:translateY(-50%);width:40px;height:40px;border:0;border-radius:10px;background:none;color:var(--muted);font:inherit;font-size:1.05rem;cursor:pointer}
+.sug{position:absolute;left:0;right:0;top:100%;margin-top:4px;z-index:30;max-height:min(60vh,420px);overflow-y:auto;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,.18);padding:4px 0}
+.sg{padding:8px 12px 2px;font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
+.so{display:flex;gap:10px;justify-content:space-between;align-items:baseline;padding:10px 12px;min-height:44px;cursor:pointer;overflow-wrap:anywhere}
+.so small{color:var(--muted);white-space:nowrap}
+.so:hover,.so[aria-selected=true]{background:color-mix(in srgb,var(--accent) 14%,var(--card))}
+.sno{padding:10px 12px;color:var(--muted);font-size:.9rem}
+.sel{max-width:760px;margin:8px auto 0;padding:0 16px;display:flex;flex-wrap:wrap;gap:6px}
+.sel .chip{max-width:100%;text-align:left;overflow-wrap:anywhere}
+.vlink{background:none;border:0;padding:3px 0;font:inherit;color:inherit;text-align:left;text-decoration:underline dotted;text-underline-offset:3px;cursor:pointer}
+.vlink:hover{color:var(--accent)}
+.status .linkbtn{background:none;border:0;padding:0;margin-left:6px;font:inherit;color:var(--accent);text-decoration:underline;cursor:pointer}
+a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 </style>
 </head>
 <body>
@@ -64,6 +81,12 @@ a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible{
 <div class="updated" id="updated"></div>
 <div class="jump" id="jump"><label for="jump-date">Jump to</label><input type="date" id="jump-date"><span class="chips" id="quick"></span></div>
 </header>
+<div class="sbar" id="sbar"><div class="sbox">
+<input type="text" id="q" placeholder="Search artist or venue" aria-label="Search artist or venue" role="combobox" aria-expanded="false" aria-controls="sug" aria-autocomplete="list" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+<button type="button" class="sclear" id="qclear" aria-label="Clear search" hidden>✕</button>
+<div class="sug" id="sug" role="listbox" aria-label="Suggestions" hidden></div>
+</div></div>
+<div class="sel" id="sel" role="group" aria-label="Active search filters" hidden></div>
 <details class="filters" id="filters">
 <summary id="fsum">Filters</summary>
 <div class="frow"><div class="flabel">Genre</div><div class="chips" id="f-genre"></div></div>
@@ -85,13 +108,15 @@ var D=JSON.parse(document.getElementById("data").textContent);
 var EV=D.events, LIMIT=D.limit;
 var SIZE={T1:"Arena",T2:"Large theater",T3:"Mid-size",T4:"Club",T5:"Small room"};
 var KEY="tcmusic.filters.v1";
-var st={genres:[],tiers:[],city:"",hidden:false,onlyNew:false};
+var st={genres:[],tiers:[],city:"",hidden:false,onlyNew:false,venues:[]};
+var q={k:"",label:""}; // artist text filter: never saved
 var WEEKS=D.weeks||12,STEP=D.step||4,shown=STEP; // weeks opened so far: never saved, every visit starts at STEP
 var expanded={};
 try{var raw=localStorage.getItem(KEY);if(raw){var s=JSON.parse(raw);
  if(Array.isArray(s.genres))st.genres=s.genres.filter(function(x){return typeof x==="string"});
  if(Array.isArray(s.tiers))st.tiers=s.tiers.filter(function(x){return SIZE[x]});
- if(typeof s.city==="string")st.city=s.city; st.hidden=s.hidden===true;st.onlyNew=s.onlyNew===true;}}catch(e){}
+ if(typeof s.city==="string")st.city=s.city; st.hidden=s.hidden===true;st.onlyNew=s.onlyNew===true;
+ if(Array.isArray(s.venues))st.venues=s.venues.filter(function(x){return typeof x==="string"}).slice(0,50);}}catch(e){}
 function save(){try{localStorage.setItem(KEY,JSON.stringify(st))}catch(e){}}
 
 function el(tag,cls,text){var n=document.createElement(tag);if(cls)n.className=cls;if(text!=null)n.textContent=text;return n}
@@ -116,7 +141,7 @@ citySel.appendChild(new Option("All cities",""));cities.forEach(function(c){city
 citySel.onchange=function(){st.city=citySel.value;save();syncUI();render()};
 hid.onchange=function(){st.hidden=hid.checked;save();syncUI();render()};
 newBox.onchange=function(){st.onlyNew=newBox.checked;save();syncUI();render()};
-document.getElementById("f-clear").onclick=function(){st={genres:[],tiers:[],city:"",hidden:false,onlyNew:false};save();syncUI();render()};
+document.getElementById("f-clear").onclick=function(){st={genres:[],tiers:[],city:"",hidden:false,onlyNew:false,venues:st.venues};save();syncUI();render()};
 function active(){return st.genres.length+st.tiers.length+(st.city?1:0)+(st.hidden?1:0)+(st.onlyNew?1:0)}
 function syncUI(){
  genres.forEach(function(g){gBtn[g].setAttribute("aria-pressed",st.genres.indexOf(g)>=0)});
@@ -132,8 +157,11 @@ function matches(e){
  if(st.tiers.length&&st.tiers.indexOf(e.z)<0)return false;
  if(st.city&&e.c!==st.city)return false;
  if(st.onlyNew&&!e.n)return false;
+ if(st.venues.length&&st.venues.indexOf(e.v)<0)return false;
+ if(q.k&&!e._a.some(function(n){return n.indexOf(q.k)>=0}))return false;
  return true;
 }
+function searching(){return st.venues.length>0||q.k!==""}
 function card(e){
  var li=el("li","ev"),l1=el("div","l1"),left=el("div");
  if(e.p){var s=el("span","star","\u2605");s.title="Pinned artist";s.setAttribute("aria-label","Pinned artist");left.appendChild(s)}
@@ -144,7 +172,9 @@ function card(e){
  li.appendChild(l1);
  if(e.o&&e.o.length)li.appendChild(el("div","op","with "+e.o.join(", ")));
  var m=el("div","meta");
- m.appendChild(el("span",null,e.v+" \u00b7 "+e.c));
+ var ms=el("span"),vb=el("button","vlink",e.v);vb.type="button";vb.title="Show only "+e.v;
+ vb.onclick=function(){addVenue(e.v);window.scrollTo({top:0,behavior:smooth()?"smooth":"auto"})};
+ ms.appendChild(vb);ms.appendChild(document.createTextNode(" \u00b7 "+e.c));m.appendChild(ms);
  m.appendChild(el("span","tag"+(e.g==="other"?" other":""),genreLabel(e.g)));
  if(e.n)m.appendChild(el("span","new","New"));
  if(e.x)m.appendChild(el("span","badge",e.x.replace("_"," ")));
@@ -159,18 +189,18 @@ var daysEl=document.getElementById("days"),statusEl=document.getElementById("sta
 function isoPlus(iso,days){var p=iso.split("-"),d=new Date(+p[0],+p[1]-1,+p[2]+days);return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")}
 var START=D.start||todayISO(),NOTE="Small venues usually post shows 2\u20136 weeks ahead, so later weeks lean toward larger venues.";
 function render(){
- var today=todayISO(),groups=[],byDate={},total=0,cut=isoPlus(START,shown*7),wk5=isoPlus(START,28);
+ var S=searching(),today=todayISO(),groups=[],byDate={},total=0,cut=S?"\uffff":isoPlus(START,shown*7),wk5=isoPlus(START,28); // a search looks at all 12 weeks
  EV.forEach(function(e){
   if(e.d<today||e.d>=cut||!matches(e))return;
   var g=byDate[e.d];if(!g){g=byDate[e.d]=[];groups.push([e.d,g])}g.push(e);total++;
  });
- var frag=document.createDocumentFragment(),noted=shown<=STEP;
+ var frag=document.createDocumentFragment(),noted=S||shown<=STEP;
  function note(){frag.appendChild(el("div","wknote",NOTE));noted=true}
  groups.forEach(function(pair){
   var d=pair[0],list=pair[1],sec=el("section","day"),h=el("h2",null,fmtDay(d));sec.id="d-"+d;sec.setAttribute("data-date",d);
   if(!noted&&d>=wk5)note();
   h.appendChild(el("small",null,list.length+(list.length===1?" show":" shows")));sec.appendChild(h);
-  var ul=el("ul"),all=expanded[d],n=all?list.length:Math.min(LIMIT,list.length);
+  var ul=el("ul"),all=S||expanded[d],n=all?list.length:Math.min(LIMIT,list.length);
   for(var i=0;i<n;i++)ul.appendChild(card(list[i]));
   sec.appendChild(ul);
   if(list.length>n){var b=el("button","more","Show "+(list.length-n)+" more");b.type="button";
@@ -179,15 +209,97 @@ function render(){
  });
  if(!noted)note();
  daysEl.textContent="";
- if(!groups.length&&shown<=STEP)daysEl.appendChild(el("div","empty","No shows match these filters."));else daysEl.appendChild(frag);
- statusEl.textContent=total+(total===1?" show":" shows")+" across "+groups.length+(groups.length===1?" day":" days")+" in the next "+shown+" weeks";
- nextBtn.hidden=shown>=WEEKS;
+ if(!groups.length&&(S||shown<=STEP))daysEl.appendChild(el("div","empty","No shows match these filters."));else daysEl.appendChild(frag);
+ statusEl.textContent="";
+ if(S){statusEl.appendChild(document.createTextNode(total+(total===1?" show matches":" shows match")));
+  var ca=el("button","linkbtn","Clear all");ca.type="button";ca.onclick=clearSearch;statusEl.appendChild(ca)}
+ else statusEl.textContent=total+(total===1?" show":" shows")+" across "+groups.length+(groups.length===1?" day":" days")+" in the next "+shown+" weeks";
+ nextBtn.hidden=S||shown>=WEEKS;
 }
 var nextBtn=document.getElementById("nextwk");nextBtn.textContent="Show next "+STEP+" weeks";
 nextBtn.onclick=function(){shown=Math.min(WEEKS,shown+STEP);render()};
 document.getElementById("updated").textContent="Updated "+D.updated+" \u00b7 "+D.window;
 var foot=document.getElementById("foot");
 foot.textContent=D.footer;
+// ---- search: names are normalized and indexed once on load ----
+function smooth(){return!(window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches)}
+function norm(s){return String(s).normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/\s+/g," ").trim()}
+var VIDX=Object.create(null),AIDX=Object.create(null),vKnown=Object.create(null),T0=todayISO();
+EV.forEach(function(e){
+ var names=[e.h].concat(e.o||[]);e._a=names.map(norm);vKnown[e.v]=1;
+ if(e.d<T0)return;                                   // only upcoming shows are suggested
+ var v=VIDX[e.v];if(v)v.c++;else VIDX[e.v]={n:e.v,k:norm(e.v),c:1};
+ var seen={};
+ names.forEach(function(n,i){var k=e._a[i];if(!k||seen[k])return;seen[k]=1;var a=AIDX[k];if(a)a.c++;else AIDX[k]={n:n,k:k,c:1}});
+});
+if(st.venues.length)st.venues=st.venues.filter(function(x){return vKnown[x]});
+function toList(m){return Object.keys(m).map(function(k){return m[k]})}
+var VLIST=toList(VIDX),ALIST=toList(AIDX);
+function rank(k,t){var i=k.indexOf(t);return i<0?-1:i===0?0:k.indexOf(" "+t)>=0?1:2}
+function pick(list,t,skip){var out=[];
+ for(var i=0;i<list.length;i++){if(skip&&skip(list[i]))continue;var r=rank(list[i].k,t);if(r>=0)out.push([r,list[i]])}
+ out.sort(function(a,b){return a[0]-b[0]||b[1].c-a[1].c||(a[1].n<b[1].n?-1:a[1].n>b[1].n?1:0)});
+ return out.slice(0,6).map(function(x){return x[1]})}
+var inp=document.getElementById("q"),sug=document.getElementById("sug"),qclear=document.getElementById("qclear"),sel=document.getElementById("sel"),sbar=document.getElementById("sbar");
+var opts=[],act=-1,timer=0;
+function setAct(i){
+ if(act>=0&&opts[act])opts[act].el.setAttribute("aria-selected","false");
+ act=i;
+ if(i>=0&&opts[i]){opts[i].el.setAttribute("aria-selected","true");inp.setAttribute("aria-activedescendant",opts[i].el.id);opts[i].el.scrollIntoView({block:"nearest"})}
+ else inp.removeAttribute("aria-activedescendant");
+}
+function closeList(){sug.hidden=true;inp.setAttribute("aria-expanded","false");opts=[];act=-1;inp.removeAttribute("aria-activedescendant")}
+function group(label,items,type){
+ if(!items.length)return;
+ sug.appendChild(el("div","sg",label)).setAttribute("role","presentation");
+ items.forEach(function(it){
+  var d=el("div","so");d.id="so-"+opts.length;d.setAttribute("role","option");d.setAttribute("aria-selected","false");
+  d.appendChild(el("span",null,it.n));d.appendChild(el("small",null,it.c+(it.c===1?" show":" shows")));
+  var o={t:type,i:it,el:d};opts.push(o);
+  d.onmousedown=function(ev){ev.preventDefault()};   // keep focus in the box
+  d.onclick=function(){choose(o,true)};
+  sug.appendChild(d)});
+}
+function suggest(){
+ var t=norm(inp.value);
+ if(t.length<2){closeList();return}
+ sug.textContent="";opts=[];act=-1;
+ group("Artists",pick(ALIST,t),"a");
+ group("Venues",pick(VLIST,t,function(v){return st.venues.indexOf(v.n)>=0}),"v");
+ if(!opts.length)sug.appendChild(el("div","sno","No artist or venue matches \u201c"+inp.value.trim()+"\u201d. Press Enter to search artist names anyway."));
+ sug.hidden=false;inp.setAttribute("aria-expanded","true");inp.removeAttribute("aria-activedescendant");
+}
+function syncSel(){
+ sel.textContent="";
+ function c(label,aria,fn){var b=el("button","chip",label+" \u2715");b.type="button";b.setAttribute("aria-pressed","true");b.setAttribute("aria-label","Remove filter: "+aria);b.onclick=fn;sel.appendChild(b)}
+ st.venues.forEach(function(v){c(v,v,function(){st.venues.splice(st.venues.indexOf(v),1);save();syncSel();render()})});
+ if(q.k)c("\u201c"+q.label+"\u201d","artist "+q.label,function(){q.k=q.label="";syncSel();render()});
+ sel.hidden=!sel.firstChild;
+}
+function addVenue(n){if(st.venues.indexOf(n)<0)st.venues.push(n);save();syncSel();render()}
+function setArtist(label){var k=norm(label);if(!k)return;q.k=k;q.label=label.trim().replace(/\s+/g," ");syncSel();render()}
+function resetBox(){clearTimeout(timer);inp.value="";qclear.hidden=true;closeList()}
+function choose(o,pointer){if(o.t==="v")addVenue(o.i.n);else setArtist(o.i.n);resetBox();if(pointer)inp.blur()}
+function clearSearch(){st.venues=[];q.k=q.label="";save();syncSel();resetBox();render()}
+inp.addEventListener("input",function(){qclear.hidden=!inp.value;clearTimeout(timer);
+ if(norm(inp.value).length<2){closeList();return}
+ timer=setTimeout(suggest,150)});
+inp.addEventListener("focus",function(){if(norm(inp.value).length>=2&&sug.hidden)suggest()});
+inp.addEventListener("keydown",function(ev){
+ var k=ev.key;
+ if(k==="ArrowDown"||k==="ArrowUp"){
+  ev.preventDefault();clearTimeout(timer);
+  if(sug.hidden)suggest();
+  if(!opts.length)return;
+  setAct(k==="ArrowDown"?(act+1)%opts.length:(act<=0?opts.length-1:act-1));
+ }else if(k==="Enter"){
+  ev.preventDefault();clearTimeout(timer);
+  if(!sug.hidden&&act>=0&&opts[act])choose(opts[act],false);
+  else if(norm(inp.value)){setArtist(inp.value);resetBox()}
+ }else if(k==="Escape"){if(!sug.hidden){ev.preventDefault();closeList()}}
+});
+qclear.onclick=function(){resetBox();inp.focus()};
+document.addEventListener("pointerdown",function(ev){if(!sbar.contains(ev.target))closeList()});
 // ---- jump to date (scrolls only; not saved; shareable as #YYYY-MM-DD) ----
 var jumpIn=document.getElementById("jump-date"),quick=document.getElementById("quick");
 var ISO=/^\d{4}-\d{2}-\d{2}$/;
@@ -213,17 +325,16 @@ function jumpTo(iso,setHash){
  for(var i=0;i<secs.length;i++){if(secs[i].getAttribute("data-date")>=iso){target=secs[i];break}}
  jumpIn.value=iso;
  if(setHash){try{history.replaceState(null,"","#"+iso)}catch(e){}}
- if(!target){statusEl.textContent="No shows on or after "+fmtDay(iso)+(active()?" with these filters.":".");return}
- var smooth=!(window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches);
- target.scrollIntoView({behavior:smooth?"smooth":"auto",block:"start"});
+ if(!target){statusEl.textContent="No shows on or after "+fmtDay(iso)+(active()||searching()?" with these filters.":".");return}
+ target.scrollIntoView({behavior:smooth()?"smooth":"auto",block:"start"});
  var td=target.getAttribute("data-date");
- if(td!==iso)statusEl.textContent="No shows on "+fmtDay(iso)+(active()?" with these filters":"")+"; showing "+fmtDay(td)+".";
+ if(td!==iso)statusEl.textContent="No shows on "+fmtDay(iso)+(active()||searching()?" with these filters":"")+"; showing "+fmtDay(td)+".";
 }
 jumpIn.onchange=function(){if(jumpIn.value)jumpTo(jumpIn.value,true)};
 jumpIn.addEventListener("click",function(){try{if(jumpIn.showPicker)jumpIn.showPicker()}catch(e){}});
 function fromHash(){var h=location.hash.slice(1);if(ISO.test(h))jumpTo(h,false)}
 window.addEventListener("hashchange",fromHash);
-syncUI();render();setupJump();fromHash();
+syncUI();syncSel();render();setupJump();fromHash();
 })();
 </script>
 </body>
