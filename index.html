@@ -10,16 +10,16 @@
 try{var t=localStorage.getItem("tcmusic.theme.v1");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}
 </script>
 <style>
-:root{--bg:#fafaf7;--fg:#1d1d1b;--muted:#6a6a64;--line:#e1e0d8;--card:#fff;--accent:#b4401f;--chip:#efeee6;--chip-on:#1d1d1b;--chip-on-fg:#fff;--star:#a86b00;--warn:#a1260f;--hdr:#f1f0e8}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#141413;--fg:#ecebe4;--muted:#9c9b92;--line:#2c2c29;--card:#1c1c1a;--accent:#ff8a5c;--chip:#272724;--chip-on:#ecebe4;--chip-on-fg:#141413;--star:#f2b922;--warn:#ff7b63;--hdr:#1a1a18}}
+:root{--bg:#fafaf7;--fg:#1d1d1b;--muted:#6a6a64;--line:#e1e0d8;--card:#fff;--accent:#7140cc;--chip:#efeee6;--chip-on:#1d1d1b;--chip-on-fg:#fff;--star:#a86b00;--warn:#a1260f;--hdr:#f1f0e8}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#141413;--fg:#ecebe4;--muted:#9c9b92;--line:#2c2c29;--card:#1c1c1a;--accent:#b79bff;--chip:#272724;--chip-on:#ecebe4;--chip-on-fg:#141413;--star:#f2b922;--warn:#ff7b63;--hdr:#1a1a18}}
 :root[data-theme="light"]{color-scheme:light}
-:root[data-theme="dark"]{color-scheme:dark;--bg:#141413;--fg:#ecebe4;--muted:#9c9b92;--line:#2c2c29;--card:#1c1c1a;--accent:#ff8a5c;--chip:#272724;--chip-on:#ecebe4;--chip-on-fg:#141413;--star:#f2b922;--warn:#ff7b63;--hdr:#1a1a18}
+:root[data-theme="dark"]{color-scheme:dark;--bg:#141413;--fg:#ecebe4;--muted:#9c9b92;--line:#2c2c29;--card:#1c1c1a;--accent:#b79bff;--chip:#272724;--chip-on:#ecebe4;--chip-on-fg:#141413;--star:#f2b922;--warn:#ff7b63;--hdr:#1a1a18}
 *{box-sizing:border-box}
 [hidden]{display:none!important}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.4 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 header.top{padding:16px 16px 4px;max-width:760px;margin:0 auto}
-h1{font-size:1.35rem;margin:0 0 2px}
+h1{font-size:1.35rem;margin:0 0 2px;color:var(--accent)}
 .updated{color:var(--muted);font-size:.85rem}
 .jump{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:10px}
 .jump label{font-size:.85rem;color:var(--muted)}
