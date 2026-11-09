@@ -14,6 +14,10 @@ body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.4 system-ui,-appl
 header.top{padding:16px 16px 4px;max-width:760px;margin:0 auto}
 h1{font-size:1.35rem;margin:0 0 2px}
 .updated{color:var(--muted);font-size:.85rem}
+.jump{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:10px}
+.jump label{font-size:.85rem;color:var(--muted)}
+.jump input[type=date]{font:inherit;font-size:.9rem;padding:4px 8px;min-height:32px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--fg)}
+.day{scroll-margin-top:0}
 .filters{position:relative;max-width:760px;margin:8px auto 0;padding:0 16px 8px;border-bottom:1px solid var(--line)}
 .filters summary{cursor:pointer;font-weight:600;padding:6px 0;list-style:none}
 .filters summary::-webkit-details-marker{display:none}
@@ -54,6 +58,7 @@ a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible{
 <header class="top">
 <h1>Twin Cities Live Music</h1>
 <div class="updated" id="updated"></div>
+<div class="jump" id="jump"><label for="jump-date">Jump to</label><input type="date" id="jump-date"><span class="chips" id="quick"></span></div>
 </header>
 <details class="filters" id="filters">
 <summary id="fsum">Filters</summary>
@@ -149,7 +154,7 @@ function render(){
  });
  var frag=document.createDocumentFragment();
  groups.forEach(function(pair){
-  var d=pair[0],list=pair[1],sec=el("section","day"),h=el("h2",null,fmtDay(d));
+  var d=pair[0],list=pair[1],sec=el("section","day"),h=el("h2",null,fmtDay(d));sec.id="d-"+d;sec.setAttribute("data-date",d);
   h.appendChild(el("small",null,list.length+(list.length===1?" show":" shows")));sec.appendChild(h);
   var ul=el("ul"),all=expanded[d],n=all?list.length:Math.min(LIMIT,list.length);
   for(var i=0;i<n;i++)ul.appendChild(card(list[i]));
@@ -165,7 +170,40 @@ function render(){
 document.getElementById("updated").textContent="Updated "+D.updated+" \u00b7 "+D.window;
 var foot=document.getElementById("foot");
 foot.textContent=D.footer;
-syncUI();render();
+// ---- jump to date (scrolls only; not saved; shareable as #YYYY-MM-DD) ----
+var jumpIn=document.getElementById("jump-date"),quick=document.getElementById("quick");
+var ISO=/^\d{4}-\d{2}-\d{2}$/;
+function addDays(iso,n){var p=iso.split("-"),d=new Date(+p[0],+p[1]-1,+p[2]+n);return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")}
+function dow(iso){var p=iso.split("-");return new Date(+p[0],+p[1]-1,+p[2]).getDay()}
+var lastDay="";EV.forEach(function(e){if(e.d>lastDay)lastDay=e.d});
+function setupJump(){
+ var today=todayISO();jumpIn.min=today;if(lastDay)jumpIn.max=lastDay;
+ quick.textContent="";
+ var picks=[[today,"Today"]];
+ [5,6,0].forEach(function(w){var d=today;while(dow(d)!==w)d=addDays(d,1);
+  if(d!==today)picks.push([d,DOW[w]])});
+ picks.sort(function(a,b){return a[0]<b[0]?-1:1});
+ picks.forEach(function(p){if(lastDay&&p[0]>lastDay)return;
+  var b=el("button","chip",p[1]);b.type="button";b.title=fmtDay(p[0]);
+  b.onclick=function(){jumpTo(p[0],true)};quick.appendChild(b)});
+}
+function jumpTo(iso,setHash){
+ if(!ISO.test(iso))return;
+ var secs=daysEl.querySelectorAll("section.day"),target=null;
+ for(var i=0;i<secs.length;i++){if(secs[i].getAttribute("data-date")>=iso){target=secs[i];break}}
+ jumpIn.value=iso;
+ if(setHash){try{history.replaceState(null,"","#"+iso)}catch(e){}}
+ if(!target){statusEl.textContent="No shows on or after "+fmtDay(iso)+(active()?" with these filters.":".");return}
+ var smooth=!(window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches);
+ target.scrollIntoView({behavior:smooth?"smooth":"auto",block:"start"});
+ var td=target.getAttribute("data-date");
+ if(td!==iso)statusEl.textContent="No shows on "+fmtDay(iso)+(active()?" with these filters":"")+"; showing "+fmtDay(td)+".";
+}
+jumpIn.onchange=function(){if(jumpIn.value)jumpTo(jumpIn.value,true)};
+jumpIn.addEventListener("click",function(){try{if(jumpIn.showPicker)jumpIn.showPicker()}catch(e){}});
+function fromHash(){var h=location.hash.slice(1);if(ISO.test(h))jumpTo(h,false)}
+window.addEventListener("hashchange",fromHash);
+syncUI();render();setupJump();fromHash();
 })();
 </script>
 </body>
