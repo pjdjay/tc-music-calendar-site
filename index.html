@@ -6,9 +6,14 @@
 <meta name="color-scheme" content="light dark">
 <title>Twin Cities Live Music</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 100 100%27%3E%3Ctext x=%2750%27 y=%27.9em%27 font-size=%2790%27 text-anchor=%27middle%27%3E%F0%9F%8E%B5%3C/text%3E%3C/svg%3E">
+<script>
+try{var t=localStorage.getItem("tcmusic.theme.v1");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}
+</script>
 <style>
-:root{--bg:#fafaf7;--fg:#1d1d1b;--muted:#6a6a64;--line:#e1e0d8;--card:#fff;--accent:#b4401f;--chip:#efeee6;--chip-on:#1d1d1b;--chip-on-fg:#fff;--star:#d99a00;--warn:#a1260f;--hdr:#f1f0e8}
-@media (prefers-color-scheme:dark){:root{--bg:#141413;--fg:#ecebe4;--muted:#9c9b92;--line:#2c2c29;--card:#1c1c1a;--accent:#ff8a5c;--chip:#272724;--chip-on:#ecebe4;--chip-on-fg:#141413;--star:#f2b922;--warn:#ff7b63;--hdr:#1a1a18}}
+:root{--bg:#fafaf7;--fg:#1d1d1b;--muted:#6a6a64;--line:#e1e0d8;--card:#fff;--accent:#b4401f;--chip:#efeee6;--chip-on:#1d1d1b;--chip-on-fg:#fff;--star:#a86b00;--warn:#a1260f;--hdr:#f1f0e8}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#141413;--fg:#ecebe4;--muted:#9c9b92;--line:#2c2c29;--card:#1c1c1a;--accent:#ff8a5c;--chip:#272724;--chip-on:#ecebe4;--chip-on-fg:#141413;--star:#f2b922;--warn:#ff7b63;--hdr:#1a1a18}}
+:root[data-theme="light"]{color-scheme:light}
+:root[data-theme="dark"]{color-scheme:dark;--bg:#141413;--fg:#ecebe4;--muted:#9c9b92;--line:#2c2c29;--card:#1c1c1a;--accent:#ff8a5c;--chip:#272724;--chip-on:#ecebe4;--chip-on-fg:#141413;--star:#f2b922;--warn:#ff7b63;--hdr:#1a1a18}
 *{box-sizing:border-box}
 [hidden]{display:none!important}
 html{-webkit-text-size-adjust:100%}
@@ -31,6 +36,10 @@ h1{font-size:1.35rem;margin:0 0 2px}
 .chip[aria-pressed=true]{background:var(--chip-on);color:var(--chip-on-fg);border-color:var(--chip-on)}
 select{font:inherit;padding:6px 8px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--fg);max-width:100%}
 label.tog{display:flex;gap:8px;align-items:center;font-size:.95rem;min-height:32px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden}
+.seg button{border:0;background:var(--chip);color:var(--fg);font:inherit;font-size:.85rem;padding:5px 14px;min-height:32px;cursor:pointer}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button[aria-pressed=true]{background:var(--chip-on);color:var(--chip-on-fg)}
 .clear{background:none;border:0;color:var(--accent);font:inherit;font-size:.85rem;cursor:pointer;padding:6px 0}
 main{max-width:760px;margin:0 auto;padding:0 0 48px}
 .status{max-width:760px;margin:0 auto;padding:8px 16px;color:var(--muted);font-size:.85rem}
@@ -95,6 +104,7 @@ a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible,
 <div class="frow"><div class="flabel">City</div><select id="f-city" aria-label="City"></select></div>
 <div class="frow"><label class="tog"><input type="checkbox" id="f-hidden"> Show DJ nights and residencies</label></div>
 <div class="frow"><label class="tog"><input type="checkbox" id="f-new"> New this week only</label></div>
+<div class="frow"><div class="flabel" id="theme-l">Color scheme</div><div class="seg" id="f-theme" role="group" aria-labelledby="theme-l"></div></div>
 <button class="clear" id="f-clear" type="button">Clear filters</button>
 </details>
 <div class="status" id="status" role="status"></div>
@@ -127,6 +137,15 @@ function fmtTime(t){if(!t)return"Time TBA";var p=t.split(":"),h=+p[0],m=p[1],ap=
 var DOW=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],MON=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
 function fmtDay(iso){var p=iso.split("-"),d=new Date(+p[0],+p[1]-1,+p[2]);return DOW[d.getDay()]+", "+MON[d.getMonth()]+" "+d.getDate()}
 function todayISO(){var d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")}
+
+// ---- theme (Auto | Light | Dark); the <head> script applied the saved value before first paint ----
+(function(){var box=document.getElementById("f-theme"),root=document.documentElement;
+function cur(){var t=root.getAttribute("data-theme");return t==="light"||t==="dark"?t:"auto"}
+function sync(){var c=cur();Array.prototype.forEach.call(box.children,function(b){b.setAttribute("aria-pressed",b.getAttribute("data-v")===c?"true":"false")})}
+[["auto","Auto"],["light","Light"],["dark","Dark"]].forEach(function(o){var b=el("button",null,o[1]);b.type="button";b.setAttribute("data-v",o[0]);
+ b.onclick=function(){if(o[0]==="auto")root.removeAttribute("data-theme");else root.setAttribute("data-theme",o[0]);
+  try{if(o[0]==="auto")localStorage.removeItem("tcmusic.theme.v1");else localStorage.setItem("tcmusic.theme.v1",o[0])}catch(e){}sync()};box.appendChild(b)});
+sync()})();
 
 // ---- filter UI (built once) ----
 var genres=[],cities=[],gSeen={},cSeen={};
