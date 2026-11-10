@@ -97,6 +97,7 @@ a.h:hover,a.h:focus{text-decoration:underline;color:var(--accent)}
 .pnote{color:var(--muted);font-size:.8rem;margin-top:4px;width:100%}
 .badge{font-size:.75rem;font-weight:700;color:var(--warn);text-transform:uppercase}
 .badge.off{color:#fff;background:#b3261e;border-radius:4px;padding:0 6px;letter-spacing:.03em}
+li.ev .sr{font-size:.75em;text-transform:uppercase;letter-spacing:.04em}
 li.ev.off{opacity:.72;background:transparent;box-shadow:none}li.ev.off .h{text-decoration:line-through;color:var(--muted)}li.ev.off::before{background:var(--line);width:3px}
 .rec{font-size:.8rem;color:var(--accent);font-weight:600}
 .also a{color:var(--muted);font-size:.8rem}
@@ -244,6 +245,7 @@ function card(e){
  left.appendChild(h);l1.appendChild(left);
  l1.appendChild(el("span","time",e.r?e.r+" \u00b7 "+fmtTime(e.t):fmtTime(e.t)));
  li.appendChild(l1);
+ if(e.sr)li.appendChild(el("div","op sr",e.sr));
  if(e.o&&e.o.length)li.appendChild(el("div","op","with "+e.o.join(", ")));
  var m=el("div","meta");
  var ms=el("span"),vb=el("button","vlink",e.v);vb.type="button";vb.title="Show only "+e.v;
