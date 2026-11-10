@@ -106,6 +106,7 @@ a.h:hover,a.h:focus{text-decoration:underline;color:var(--accent)}
 :root:not([data-theme="light"]) .tag[data-g="metal/punk"]{background:#3a3a38;color:#d3d1c7}
 }
 .price{font-weight:600;color:var(--fg);font-size:.8rem}
+.spl{font-size:.78rem;color:var(--accent);text-decoration:none;font-weight:600}.spl:hover{text-decoration:underline}
 .vsite{font-size:.78rem;color:var(--muted,inherit);text-decoration:underline dotted}
 .pnote{color:var(--muted);font-size:.8rem;margin-top:4px;width:100%}
 .badge{font-size:.75rem;font-weight:700;color:var(--warn);text-transform:uppercase}
@@ -267,6 +268,7 @@ function card(e){
  var gt=el("span","tag"+(e.g==="unknown"?" unknown":""),genreLabel(e.g));gt.setAttribute("data-g",e.g);m.appendChild(gt);
  var pl=priceLabel(e);if(pl){var ps=el("span","price",pl);if(e.pt)ps.title=e.pt;m.appendChild(ps)}
  if(u&&e.lh){var vs=el("a","vsite","venue site");vs.href=u;vs.target="_blank";vs.rel="noopener noreferrer";vs.title="No page for this show; opens the venue\u2019s calendar";m.appendChild(vs)}
+ if(e.sp){var su=safeUrl(e.sp);if(su&&/^https:\/\/open\.spotify\.com\/artist\//.test(su)){var sl=el("a","spl","\u266a Spotify");sl.href=su;sl.target="_blank";sl.rel="noopener noreferrer";sl.title="Listen on Spotify. Matched by name, so it can be a different artist with the same name.";m.appendChild(sl)}}
  if(e.n)m.appendChild(el("span","new","New"));
  if(e.x)m.appendChild(el("span",off?"badge off":"badge",e.x.replace("_"," ")));
  if(e.hid==="dj_night")m.appendChild(el("span","rec","DJ night"));
