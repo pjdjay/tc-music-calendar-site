@@ -281,7 +281,7 @@ function card(e){
  if(u&&e.lh){var vs=el("a","vsite","venue site");vs.href=u;vs.target="_blank";vs.rel="noopener noreferrer";vs.title="No page for this show; opens the venue\u2019s calendar";m.appendChild(vs)}
  var acts=el("div","acts");
  if(e.k){var ku=safeUrl(e.k);if(ku){acts.appendChild(actLink("tix","Tickets",ku,"Buy tickets (opens the seller\u2019s page)",TIX_SVG))}}
- if(e.sp){var su=safeUrl(e.sp);if(su&&/^https:\/\/open\.spotify\.com\/artist\//.test(su)){acts.appendChild(actLink("spl","Spotify",su,"Listen on Spotify. Matched by name, so it can be a different artist with the same name.",NOTE_SVG))}}
+ if(e.sp){var su=safeUrl(e.sp);if(su&&e.st&&/^https:\/\/open\.spotify\.com\/search\/./.test(su)){acts.appendChild(actLink("spl","Search Spotify",su,"Several artists share this name, so this opens a Spotify search, not a confirmed artist page.",NOTE_SVG))}else if(su&&/^https:\/\/open\.spotify\.com\/artist\//.test(su)){acts.appendChild(actLink("spl","Spotify",su,"Listen on Spotify. Matched by name, so it can be a different artist with the same name.",NOTE_SVG))}}
  if(e.x)m.appendChild(el("span",off?"badge off":"badge",e.x.replace("_"," ")));
  if(e.dj)m.appendChild(el("span","rec","DJ night"));
  if(e.a&&e.a.length){var al=el("span","also");al.appendChild(document.createTextNode("also on "));
