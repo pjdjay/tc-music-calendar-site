@@ -36,7 +36,7 @@ h1{font-size:1.75rem;margin:0 0 2px;color:var(--accent)}
 .chip[aria-pressed=true]{background:var(--chip-on);color:var(--chip-on-fg);border-color:var(--chip-on)}
 select{font:inherit;padding:6px 8px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--fg);max-width:100%}
 label.tog{display:flex;gap:8px;align-items:center;font-size:.95rem;min-height:32px}
-.updrow{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;justify-content:space-between}
+.appear{margin-top:14px;padding-top:10px;border-top:1px solid var(--line)}
 .seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden}
 .seg button{border:0;background:var(--chip);color:var(--fg);font:inherit;font-size:.85rem;padding:5px 14px;min-height:32px;cursor:pointer}
 .seg button+button{border-left:1px solid var(--line)}
@@ -143,7 +143,7 @@ a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible,
 <body>
 <header class="top">
 <h1>Twin Cities Live Music</h1>
-<div class="updrow"><div class="updated" id="updated"></div><div class="seg" id="f-theme" role="group" aria-label="Color scheme"></div></div>
+<div class="updated" id="updated"></div>
 <div class="jump" id="jump"><label for="jump-date">Jump to</label><input type="date" id="jump-date"><span class="chips" id="quick"></span></div>
 </header>
 <div class="sbar" id="sbar"><div class="sbox">
@@ -153,7 +153,7 @@ a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible,
 </div></div>
 <div class="sel" id="sel" role="group" aria-label="Active search filters" hidden></div>
 <details class="filters" id="filters">
-<summary id="fsum">Filters</summary>
+<summary id="fsum">Options</summary>
 <div class="frow"><div class="flabel">Genre</div><div class="chips" id="f-genre"></div></div>
 <div class="frow"><div class="flabel">Venue size</div><div class="chips" id="f-size"></div></div>
 <div class="frow"><div class="flabel">Price</div><div class="chips" id="f-price" role="radiogroup" aria-label="Price"></div><div class="pnote" id="pnote"></div></div>
@@ -162,6 +162,7 @@ a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible,
 <div class="frow"><label class="tog"><input type="checkbox" id="f-res"> Show residencies</label></div>
 <div class="frow"><label class="tog"><input type="checkbox" id="f-new"> New this week only</label></div>
 <button class="clear" id="f-clear" type="button">Clear filters</button>
+<div class="frow appear"><div class="flabel" id="applbl">Appearance</div><div class="seg" id="f-theme" role="group" aria-labelledby="applbl"></div></div>
 </details>
 <div class="status" id="status" role="status"></div>
 <main id="days"></main>
@@ -234,7 +235,7 @@ function syncUI(){
  Object.keys(sBtn).forEach(function(t){sBtn[t].setAttribute("aria-pressed",st.tiers.indexOf(t)>=0)});
  Object.keys(pBtn).forEach(function(k){pBtn[k].setAttribute("aria-pressed",st.price===k);pBtn[k].setAttribute("aria-checked",st.price===k)});
  if(cSeen[st.city]!==1)st.city="";citySel.value=st.city;djBox.checked=st.dj;resBox.checked=st.res;newBox.checked=st.onlyNew;
- var n=active();document.getElementById("fsum").textContent="Filters"+(n?" ("+n+" on)":"");
+ var n=active();document.getElementById("fsum").textContent="Options"+(n?" ("+n+(n===1?" filter":" filters")+" on)":"");
 }
 
 // ---- rendering ----
