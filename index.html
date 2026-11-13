@@ -137,7 +137,36 @@ footer{max-width:760px;margin:0 auto;padding:16px;color:var(--muted);font-size:.
 .vlink{background:none;border:0;padding:3px 0;font:inherit;color:inherit;text-align:left;text-decoration:underline dotted;text-underline-offset:3px;cursor:pointer}
 .vlink:hover{color:var(--accent)}
 .status .linkbtn{background:none;border:0;padding:0;margin-left:6px;font:inherit;color:var(--accent);text-decoration:underline;cursor:pointer}
-a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.fsub{display:flex;flex-wrap:wrap;gap:0 16px;margin-top:6px}
+.flink{background:none;border:0;padding:10px 0;min-height:44px;font:inherit;color:var(--accent);text-decoration:underline;cursor:pointer}
+.vnote{font-style:italic}
+dialog.subd{width:min(460px,calc(100vw - 24px));max-height:calc(100vh - 24px);max-height:calc(100dvh - 24px);padding:0;border:1px solid var(--line);border-radius:14px;background:var(--card);color:var(--fg);box-shadow:0 12px 40px rgba(0,0,0,.35);overflow:auto}
+dialog.subd::backdrop{background:rgba(0,0,0,.55)}
+.fbox{padding:16px}
+.fbox h2{margin:0 0 4px;font-size:1.2rem;color:var(--accent)}
+.fbox .fhint{margin:0 0 12px;color:var(--muted);font-size:.85rem}
+.fld{margin:0 0 12px}
+.fld label{display:block;font-size:.85rem;font-weight:600;margin-bottom:3px}
+.fld .opt{font-weight:400;color:var(--muted)}
+.fld input,.fld textarea{display:block;width:100%;font:inherit;font-size:16px;padding:9px 10px;min-height:44px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--fg);-webkit-appearance:none;appearance:none}
+.fld textarea{min-height:110px;resize:vertical}
+.fld input[aria-invalid=true],.fld textarea[aria-invalid=true]{border-color:#b3261e;border-width:2px}
+.fld .fnote{font-size:.78rem;color:var(--muted);margin-top:2px}
+.fld .ferr{font-size:.82rem;color:#b3261e;margin-top:3px;font-weight:600}
+:root:not([data-theme="light"]) .fld .ferr,:root:not([data-theme="light"]) .fmsg.bad{color:#ff8a80}
+:root[data-theme="light"] .fld .ferr,:root[data-theme="light"] .fmsg.bad{color:#b3261e}
+.hp{position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden}
+.tsbox{min-height:70px;margin:0 0 12px;overflow:hidden}
+.fmsg{font-size:.9rem;margin:0 0 12px}
+.fmsg.bad{color:#b3261e;font-weight:600}
+.fbtns{display:flex;flex-wrap:wrap;gap:8px;justify-content:flex-end}
+.fbtns button{font:inherit;font-weight:600;min-height:44px;padding:8px 18px;border-radius:999px;cursor:pointer;border:1px solid var(--accent)}
+.fbtns .go{background:var(--accent);color:var(--bg)}
+.fbtns .no{background:none;color:var(--accent)}
+.fbtns button[disabled]{opacity:.6;cursor:wait}
+.fdone{padding:4px 0}
+.fdone:focus{outline:none}
+a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 </style>
 </head>
 <body>
@@ -301,7 +330,9 @@ function card(e){
    if(au){var a=el("a",null,x.n);a.href=au;a.target="_blank";a.rel="noopener noreferrer";al.appendChild(a)}else al.appendChild(document.createTextNode(x.n))});
   m.appendChild(al)}
  if(acts.firstChild)m.appendChild(acts);   // always last, so nothing can sit to the right of the icons
- li.appendChild(m);return li;
+ li.appendChild(m);
+ if(e.vs)li.appendChild(el("div","pnote vnote","Submitted by a visitor"));   // the only source is a visitor's suggestion, approved by the site owner
+ return li;
 }
 var daysEl=document.getElementById("days"),statusEl=document.getElementById("status");
 function isoPlus(iso,days){var p=iso.split("-"),d=new Date(+p[0],+p[1]-1,+p[2]+days);return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")}
@@ -344,6 +375,150 @@ nextBtn.onclick=function(){shown=Math.min(WEEKS,shown+STEP);render()};
 document.getElementById("updated").textContent="Updated "+D.updated+" \u00b7 "+D.window;
 var foot=document.getElementById("foot");
 foot.textContent=D.footer;
+// ---- visitor submissions: footer links and a modal form; present only when config.yaml has an endpoint and a Turnstile site key ----
+(function(){
+var S=D.sub;
+if(!S||typeof S.u!=="string"||typeof S.k!=="string"||typeof HTMLDialogElement!=="function"||typeof fetch!=="function")return;
+var bar=el("div","fsub"),dlg=document.createElement("dialog"),widget=null,token="",busy=false,opener=null,tsQ=null,tsEl=null,tsMsg=null;
+dlg.className="subd";document.body.appendChild(dlg);
+[["Suggest a show","show"],["Suggest a feature","feature"]].forEach(function(o){
+ var b=el("button","flink",o[0]);b.type="button";b.onclick=function(){openForm(o[1],b)};bar.appendChild(b)});
+foot.appendChild(bar);
+var MSG={invalid:"Some details were not accepted. Please check them and try again.",rate_limited:"Too many suggestions from this connection. Please try again later.",
+ verification_failed:"The spam check did not pass. Please complete it again and press Send."};
+function theme(){var t=document.documentElement.getAttribute("data-theme");return t==="light"||t==="dark"?t:(window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")}
+function loadTs(cb){
+ if(window.turnstile)return cb(false);
+ if(tsQ){tsQ.push(cb);return}
+ tsQ=[cb];
+ var sc=document.createElement("script");sc.async=true;sc.src="https:"+"//challenges.cloudflare.com/turnstile/v0/api.js?render=explicit";
+ sc.onload=function(){var q=tsQ;tsQ=null;q.forEach(function(f){f(false)})};
+ sc.onerror=function(){var q=tsQ;tsQ=null;sc.remove();q.forEach(function(f){f(true)})};
+ document.head.appendChild(sc);
+}
+function resetTs(){token="";try{if(widget!==null&&window.turnstile)window.turnstile.reset(widget)}catch(e){}}
+function removeTs(){token="";try{if(widget!==null&&window.turnstile)window.turnstile.remove(widget)}catch(e){}widget=null}
+function renderTs(box,note){
+ loadTs(function(failed){
+  if(failed||!window.turnstile){note.textContent="The spam check could not load (it may be blocked in your browser). Try again later.";return}
+  if(!dlg.open)return;
+  try{widget=window.turnstile.render(box,{sitekey:S.k,theme:theme(),size:"flexible",
+   callback:function(t){token=t;note.textContent=""},
+   "expired-callback":function(){token=""},
+   "error-callback":function(){token="";note.textContent="The spam check had a problem. Close this form and try again."}})}
+  catch(e){note.textContent="The spam check could not start. Try again later."}
+ });
+}
+function field(form,id,label,o){
+ var w=el("div","fld"),l=el("label",null,label);l.setAttribute("for",id);
+ if(o.optional){l.appendChild(el("span","opt"," (optional)"))}
+ var i=el(o.area?"textarea":"input");i.id=id;i.name=o.name||id;
+ if(!o.area)i.type=o.type||"text";else i.rows=4;
+ if(o.max)i.maxLength=o.max;
+ if(o.list)i.setAttribute("list",o.list);
+ if(o.min)i.min=o.min;
+ if(o.auto)i.setAttribute("autocomplete",o.auto);
+ if(o.mode)i.setAttribute("inputmode",o.mode);
+ if(o.ph)i.placeholder=o.ph;
+ if(!o.optional)i.setAttribute("aria-required","true");
+ var err=el("div","ferr");err.id=id+"-err";err.hidden=true;
+ var desc=[];
+ if(o.note){var n=el("div","fnote",o.note);n.id=id+"-note";w.appendChild(l);w.appendChild(i);w.appendChild(n);desc.push(n.id)}else{w.appendChild(l);w.appendChild(i)}
+ w.appendChild(err);i.setAttribute("aria-describedby",desc.concat(err.id).join(" "));
+ i.addEventListener("input",function(){clear(i,err)});
+ form.appendChild(w);return{input:i,err:err};
+}
+function clear(i,err){i.removeAttribute("aria-invalid");err.hidden=true;err.textContent=""}
+function bad(f,msg){f.input.setAttribute("aria-invalid","true");f.err.textContent=msg;f.err.hidden=false;return f}
+function plain(v){return v.replace(/\s+/g," ").trim()}
+var CTRL=/[\u0000-\u001f\u007f-\u009f\u2028\u2029\u202a-\u202e\u2066-\u2069]/;
+function oneLine(f,name,max,req){
+ var raw=f.input.value,v=plain(raw);
+ if(!v){return req?(bad(f,"Please enter "+name+"."),null):""}
+ if(v.length>max){bad(f,"Please keep this under "+(max+1)+" characters.");return null}
+ if(/[<>]/.test(v)||CTRL.test(v)){bad(f,"Please leave out < and > and special characters.");return null}
+ return v;
+}
+function openForm(kind,btn){
+ opener=btn;dlg.textContent="";busy=false;token="";
+ var box=el("div","fbox"),form=el("form");form.noValidate=true;form.setAttribute("autocomplete","off");
+ var h=el("h2",null,kind==="show"?"Suggest a show":"Suggest a feature");h.id="sub-title";dlg.setAttribute("aria-labelledby","sub-title");
+ box.appendChild(h);
+ var hint=el("p","fhint",kind==="show"?"Know of a show that is missing? Tell me about it. I read every suggestion and add the good ones at the next weekly update.":"Have an idea for the page? Tell me. I read every suggestion.");
+ box.appendChild(hint);
+ var F={},iso=todayISO();
+ if(kind==="show"){
+  F.headliner=field(form,"sub-headliner","Headliner",{max:100,auto:"off"});
+  F.openers=field(form,"sub-openers","Openers",{optional:true,max:300,auto:"off",note:"Separate names with commas."});
+  F.venue=field(form,"sub-venue","Venue",{max:100,auto:"off",list:"sub-venues"});
+  var dl=document.createElement("datalist");dl.id="sub-venues";(Array.isArray(S.venues)?S.venues:[]).slice(0,300).forEach(function(v){if(typeof v==="string")dl.appendChild(new Option(v))});form.appendChild(dl);
+  F.date=field(form,"sub-date","Date",{type:"date",min:iso});
+  F.time=field(form,"sub-time","Start time",{optional:true,type:"time"});
+  F.link=field(form,"sub-link","Link to the show",{type:"url",max:500,auto:"off",mode:"url",ph:"https:"+"//",note:"The venue’s page or a ticket page. It is only saved, not opened."});
+ }else{
+  F.text=field(form,"sub-text","Your idea",{area:true,max:1000});
+ }
+ F.contact=field(form,"sub-contact","Email or handle",{optional:true,max:100,auto:"off",note:"Only so I can ask a question. It is never shown on the page."});
+ var hp=el("div","hp"),hl=el("label",null,"Website (leave this empty)"),hi=el("input");hl.setAttribute("for","sub-website");
+ hi.id="sub-website";hi.name="website";hi.type="text";hi.tabIndex=-1;hi.setAttribute("autocomplete","off");hp.appendChild(hl);hp.appendChild(hi);
+ hp.setAttribute("aria-hidden","true");hp.inert=true;form.appendChild(hp);
+ var tsb=el("div","tsbox"),tsn=el("div","fnote");tsEl=tsb;tsMsg=tsn;form.appendChild(tsb);form.appendChild(tsn);
+ var msg=el("div","fmsg bad");msg.setAttribute("role","alert");form.appendChild(msg);
+ var row=el("div","fbtns"),no=el("button","no","Cancel"),go=el("button","go","Send");no.type="button";go.type="submit";
+ no.onclick=function(){dlg.close()};row.appendChild(no);row.appendChild(go);form.appendChild(row);
+ var done=el("div","fdone");done.tabIndex=-1;done.hidden=true;done.setAttribute("role","status");
+ form.addEventListener("submit",function(ev){
+  ev.preventDefault();if(busy)return;msg.textContent="";
+  var body={kind:kind,website:hi.value,token:token},first=null;
+  function need(f,v){if(v===null&&!first)first=f;return v}
+  if(kind==="show"){
+   body.headliner=need(F.headliner,oneLine(F.headliner,"the headliner",100,true));
+   var ops=plain(F.openers.input.value),list=[];
+   if(ops){list=ops.split(",").map(plain).filter(Boolean);
+    if(list.length>5){bad(F.openers,"Please list at most 5 openers.");need(F.openers,null)}
+    else if(list.some(function(o){return o.length>100||/[<>]/.test(o)||CTRL.test(o)})){bad(F.openers,"Each name must be under 101 characters, without < or >.");need(F.openers,null)}}
+   body.openers=list;
+   body.venue=need(F.venue,oneLine(F.venue,"the venue",100,true));
+   var d=F.date.input.value;
+   if(!/^\d{4}-\d{2}-\d{2}$/.test(d)){bad(F.date,"Please pick the show date.");need(F.date,null)}
+   else if(d<iso){bad(F.date,"That date has already passed.");need(F.date,null)}
+   body.date=d;
+   body.start_time=F.time.input.value||"";
+   var lk=plain(F.link.input.value),lu=safeUrl(lk);
+   if(!lk){bad(F.link,"Please add a link to the show.");need(F.link,null)}
+   else if(!lu||lk.length>500||/[\s<>"'`\\]/.test(F.link.input.value.trim())||lu.split("/")[2].indexOf(".")<0||/^https?:\/\/[^\/]*@/.test(lu)){bad(F.link,"Please enter a full web address starting with http:// or https://.");need(F.link,null)}
+   body.link=lu||lk;
+  }else{
+   var tx=F.text.input.value.replace(/\r\n?/g,"\n").trim();
+   if(tx.length<3){bad(F.text,"Please describe your idea.");need(F.text,null)}
+   else if(tx.length>1000){bad(F.text,"Please keep it under 1,001 characters.");need(F.text,null)}
+   else if(/[<>]/.test(tx)||/[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f-\u009f]/.test(tx)){bad(F.text,"Please leave out < and > and special characters.");need(F.text,null)}
+   body.text=tx;
+  }
+  var ct=oneLine(F.contact,"a contact",100,false);need(F.contact,ct);body.contact=ct||"";
+  if(first){first.input.focus();msg.textContent="Please fix the highlighted fields.";return}
+  if(!token){msg.textContent="Please complete the spam check, then press Send again.";return}
+  busy=true;go.disabled=true;go.textContent="Sending…";form.setAttribute("aria-busy","true");
+  var ctl=new AbortController(),to=setTimeout(function(){ctl.abort()},15000);
+  function finish(){clearTimeout(to);busy=false;go.disabled=false;go.textContent="Send";form.removeAttribute("aria-busy");resetTs()}
+  fetch(S.u,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(body),credentials:"omit",referrerPolicy:"no-referrer",signal:ctl.signal})
+   .then(function(r){return r.json().then(function(j){return j},function(){return null})})
+   .then(function(j){
+    if(j&&j.ok===true){clearTimeout(to);removeTs();form.hidden=true;done.hidden=false;done.textContent="";hint.hidden=true;h.textContent="Thank you";
+     done.appendChild(el("p",null,kind==="show"?"Your suggestion was sent. I review each one before anything appears on the page, usually at the next weekly update.":"Your suggestion was sent. Thank you for helping improve the page."));
+     var c=el("button","go","Close");c.type="button";c.onclick=function(){dlg.close()};var r2=el("div","fbtns");r2.appendChild(c);done.appendChild(r2);done.focus();return}
+    msg.textContent=(j&&MSG[j.error])||"Could not send your suggestion right now. Please try again later.";finish();
+   },function(){msg.textContent="Could not reach the server. Please try again later.";finish()});
+ });
+ box.appendChild(form);box.appendChild(done);dlg.appendChild(box);
+ dlg.showModal();
+ try{(F.headliner||F.text).input.focus({preventScroll:true})}catch(e){}
+ dlg.scrollTop=0;   // the browser scrolls the first field into view; keep the title visible
+ renderTs(tsb,tsn);
+}
+dlg.addEventListener("close",function(){removeTs();dlg.textContent="";tsEl=tsMsg=null;if(opener){try{opener.focus()}catch(e){}}});
+dlg.addEventListener("click",function(ev){if(ev.target===dlg&&!busy)dlg.close()});
+})();
 // ---- search: names are normalized and indexed once on load ----
 function smooth(){return!(window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches)}
 function norm(s){return String(s).normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/\s+/g," ").trim()}
