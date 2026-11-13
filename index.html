@@ -303,7 +303,7 @@ function card(e){
  var off=isOff(e),li=el("li",off?"ev off":"ev"),l1=el("div","l1"),left=el("div");if(e.z)li.setAttribute("data-z",e.z);
  if(e.p){var s=el("span","star","\u2605");s.title="Pinned artist";s.setAttribute("aria-label","Pinned artist");left.appendChild(s)}
  var u=safeUrl(e.s),h;
- if(u&&!e.lh){h=el("a","h",e.h);h.href=u;h.target="_blank";h.rel="noopener noreferrer"}else h=el("span","h",e.h);
+ if(u){h=el("a","h",e.h);h.href=u;h.target="_blank";h.rel="noopener noreferrer"}else h=el("span","h",e.h);
  left.appendChild(h);if(e.n)left.appendChild(el("span","new","New"));l1.appendChild(left);
  l1.appendChild(el("span","time",e.r?e.r+" \u00b7 "+fmtTime(e.t):fmtTime(e.t)));
  li.appendChild(l1);
