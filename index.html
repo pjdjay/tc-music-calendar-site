@@ -59,7 +59,6 @@ a.h:hover,a.h:focus{text-decoration:underline;color:var(--accent)}
 .op{color:var(--fg);font-size:.92rem;margin-top:1px;overflow-wrap:anywhere}
 .meta{color:var(--muted);font-size:.85rem;margin-top:3px;display:flex;flex-wrap:wrap;gap:4px 8px;align-items:center}
 .tag{border:1px solid var(--line);border-radius:4px;padding:0 6px;font-size:.75rem;color:var(--fg);background:var(--chip)}
-.tag.unknown{color:var(--muted)}
 .tag[data-g="rock/indie"]{background:#fbe0d8;color:#712b13;border-color:transparent}
 .tag[data-g="jazz/blues"]{background:#dbe9f8;color:#0c447c;border-color:transparent}
 .tag[data-g="country/folk/Americana"]{background:#e3f0d3;color:#27500a;border-color:transparent}
@@ -241,8 +240,8 @@ sync()})();
 
 // ---- filter UI (built once) ----
 var genres=[],cities=[],gSeen={},cSeen={};
-EV.forEach(function(e){if(!gSeen[e.g]){gSeen[e.g]=1;genres.push(e.g)}if(!cSeen[e.c]){cSeen[e.c]=1;cities.push(e.c)}});
-genres.sort(function(a,b){return a==="unknown"?1:b==="unknown"?-1:a.toLowerCase()<b.toLowerCase()?-1:1});cities.sort();
+EV.forEach(function(e){if(e.g!=="unknown"&&!gSeen[e.g]){gSeen[e.g]=1;genres.push(e.g)}if(!cSeen[e.c]){cSeen[e.c]=1;cities.push(e.c)}});
+genres.sort(function(a,b){return a.toLowerCase()<b.toLowerCase()?-1:1});cities.sort();
 function chip(parent,label,on,fn){var b=el("button","chip",label);b.type="button";b.setAttribute("aria-pressed",on?"true":"false");b.onclick=function(){fn();save();syncUI();render()};parent.appendChild(b);return b}
 function toggle(arr,v){var i=arr.indexOf(v);if(i<0)arr.push(v);else arr.splice(i,1)}
 var gBox=document.getElementById("f-genre"),sBox=document.getElementById("f-size"),citySel=document.getElementById("f-city"),djBox=document.getElementById("f-dj"),resBox=document.getElementById("f-res"),newBox=document.getElementById("f-new");
@@ -314,7 +313,7 @@ function card(e){
  var ms=el("span"),vb=el("button","vlink",e.v);vb.type="button";vb.title="Show only "+(e.vf?e.vf:e.v);
  vb.onclick=function(){addVenue(e.v);window.scrollTo({top:0,behavior:smooth()?"smooth":"auto"})};
  ms.appendChild(vb);ms.appendChild(document.createTextNode(" \u00b7 "+e.c));m.appendChild(ms);
- var gt=el("span","tag"+(e.g==="unknown"?" unknown":""),genreLabel(e.g));gt.setAttribute("data-g",e.g);m.appendChild(gt);
+ if(e.g!=="unknown"){var gt=el("span","tag",genreLabel(e.g));gt.setAttribute("data-g",e.g);m.appendChild(gt)}
  var pl=priceLabel(e);if(pl){var ps=el("span","price",pl);if(e.pt)ps.title=e.pt;m.appendChild(ps)}
  if(u&&e.lh){var vs=el("a","vsite","venue site");vs.href=u;vs.target="_blank";vs.rel="noopener noreferrer";vs.title="No page for this show; opens the venue\u2019s calendar";m.appendChild(vs)}
  var acts=el("div","acts");
