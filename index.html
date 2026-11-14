@@ -271,7 +271,7 @@ section.day>ul{padding:4px var(--gut) 0}   /* cards share the search box's edges
 <button type="button" class="sclear" id="qclear" aria-label="Clear search" hidden>✕</button>
 <div class="sug" id="sug" role="listbox" aria-label="Suggestions" hidden></div>
 </div></div>
-<div class="tools"><button type="button" class="fbtn" id="fbtn" aria-controls="filters" aria-expanded="false">Filters</button><button type="button" class="chip hchip" id="hchip" aria-pressed="false"></button><span class="jump" id="jump"><span class="chips" id="quick"></span><label class="jd chip"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="4" y="5" width="16" height="15" rx="2"/><path d="M4 10h16M9 3v4M15 3v4"/></svg><span aria-hidden="true">Date</span><input type="date" id="jump-date" aria-label="Jump to date"></label></span></div>
+<div class="tools"><button type="button" class="fbtn" id="fbtn" aria-controls="filters" aria-expanded="false">Filters</button><button type="button" class="chip hchip" id="hchip" aria-pressed="false"></button><span class="jump" id="jump"><label class="jd chip"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="4" y="5" width="16" height="15" rx="2"/><path d="M4 10h16M9 3v4M15 3v4"/></svg><span aria-hidden="true">Date</span><input type="date" id="jump-date" aria-label="Jump to date"></label></span></div>
 <div class="sel" id="sel" role="group" aria-label="Active search filters" hidden></div>
 <details class="filters" id="filters">
 <summary id="fsum">Options</summary><div class="fpanel">
@@ -1034,21 +1034,11 @@ inp.addEventListener("keydown",function(ev){
 qclear.onclick=function(){resetBox();inp.focus()};
 document.addEventListener("pointerdown",function(ev){if(!sbar.contains(ev.target))closeList()});
 // ---- jump to date (scrolls only; not saved; shareable as #YYYY-MM-DD) ----
-var jumpIn=document.getElementById("jump-date"),quick=document.getElementById("quick");
+var jumpIn=document.getElementById("jump-date");
 var ISO=/^\d{4}-\d{2}-\d{2}$/;
-function addDays(iso,n){var p=iso.split("-"),d=new Date(+p[0],+p[1]-1,+p[2]+n);return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")}
-function dow(iso){var p=iso.split("-");return new Date(+p[0],+p[1]-1,+p[2]).getDay()}
 var lastDay="";EV.forEach(function(e){if(e.d>lastDay)lastDay=e.d});
 function setupJump(){
  var today=todayISO();jumpIn.min=today;if(lastDay)jumpIn.max=lastDay;
- quick.textContent="";
- var picks=[[today,"Today"]];
- [5,6,0].forEach(function(w){var d=today;while(dow(d)!==w)d=addDays(d,1);
-  if(d!==today)picks.push([d,DOW[w]])});
- picks.sort(function(a,b){return a[0]<b[0]?-1:1});
- picks.forEach(function(p){if(lastDay&&p[0]>lastDay)return;
-  var b=el("button","chip",p[1]);b.type="button";b.title=fmtDay(p[0]);
-  b.onclick=function(){jumpTo(p[0],true)};quick.appendChild(b)});
 }
 function jumpTo(iso,setHash){
  if(!ISO.test(iso))return;
