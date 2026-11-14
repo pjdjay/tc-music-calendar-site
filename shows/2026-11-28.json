@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-28",
- "count": 42,
+ "count": 43,
  "shows": [
   {
    "id": "3c2408d42db6",
@@ -199,6 +199,23 @@
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/christmas-soul-joy-with-kijana-gant-tickets-1994762585591",
    "source": "https://www.croonersmn.com/event/christmas-soul-joy-with-kijana-gant/"
+  },
+  {
+   "id": "ba87969337f1",
+   "headliner": "Scott Laurent – Somewhere Along The Line Record Release",
+   "openers": [],
+   "date": "2026-11-28",
+   "start_time": "19:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "price": "$18 adv / $25 door",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://icehouse.turntabletickets.com/shows/13703/2026-11-28?utm_source=icehousempls.com&utm_medium=website&utm_campaign=scott-laurent-20261128",
+   "source": "https://www.icehousempls.com/shows/scott-laurent-somewhere-along-the-line-record-release/"
   },
   {
    "id": "a57d48de8250",
@@ -457,9 +474,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$89.90",
+   "price": "$74.91+",
    "is_free": false,
-   "source": "https://www.jambase.com/show/rickie-lee-jones-dakota-20261128",
+   "source": "https://www.dakotacooks.com/event/rickie-lee-jones-nov-2026/2026-11-28/",
    "spotify": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
   },
   {

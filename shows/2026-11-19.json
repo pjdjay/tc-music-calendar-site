@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-19",
- "count": 31,
+ "count": 32,
  "shows": [
   {
    "id": "6d9806c4eb86",
@@ -53,9 +53,7 @@
   {
    "id": "4945b965cdc5",
    "headliner": "Front Porch Swingin' Liquor Pigs",
-   "openers": [
-    "Qrrrky"
-   ],
+   "openers": [],
    "date": "2026-11-19",
    "start_time": "17:00",
    "venue": "Hook and Ladder",
@@ -353,6 +351,25 @@
    "age": "21+",
    "tickets": "https://www.axs.com/events/1670872/a-twin-cities-all-star-90s-tribute-tickets?skin=turfclub",
    "source": "https://first-avenue.com/event/2026-11-twin-cities-all-star-90s-tribute/"
+  },
+  {
+   "id": "3e6c77a8fdbe",
+   "headliner": "Elsa Krantz Debut Album Release",
+   "openers": [
+    "Nikki Lemire Quartet"
+   ],
+   "date": "2026-11-19",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "price": "$20 adv / $27 door",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://icehouse.turntabletickets.com/shows/13368/2026-11-19?utm_source=icehousempls.com&utm_medium=website&utm_campaign=elsa-krantz-20261119",
+   "source": "https://www.icehousempls.com/shows/elsa-krantz-debut-album-release-with-nikki-lemire-quartet/"
   },
   {
    "id": "f94c9b8ee97c",

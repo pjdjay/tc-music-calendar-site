@@ -9,11 +9,11 @@
 
 ## Saturday, November 21, 2026
 
-- **Fetty Wap** · 19:00 · hip-hop/R&B · $182.30 · [tickets](https://www.ticketmaster.com/fetty-wap-nostalgia-tour-minneapolis-minnesota-11-21-2026/event/060064ABC4911EC3) [info](https://www.ticketmaster.com/fetty-wap-nostalgia-tour-minneapolis-minnesota-11-21-2026/event/060064ABC4911EC3) [spotify](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL)
+- **Fetty Wap** · 19:00 · hip-hop/R&B · $288.50 · [tickets](https://www.ticketmaster.com/fetty-wap-nostalgia-tour-minneapolis-minnesota-11-21-2026/event/060064ABC4911EC3) [info](https://www.ticketmaster.com/fetty-wap-nostalgia-tour-minneapolis-minnesota-11-21-2026/event/060064ABC4911EC3) [spotify](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL)
 
 ## Sunday, November 29, 2026
 
-- **Whitechapel w/ Chelsea Grin, The Acacia Strain, Netherwalker** · 17:00 · metal/punk · $149.85 · [tickets](https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-minneapolis-minnesota-11-29-2026/event/060064C4A3F1924C) [info](https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-minneapolis-minnesota-11-29-2026/event/060064C4A3F1924C) [spotify](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml)
+- **Whitechapel w/ Chelsea Grin, The Acacia Strain, Netherwalker** · 17:00 · metal/punk · $45.75 · [tickets](https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-minneapolis-minnesota-11-29-2026/event/060064C4A3F1924C) [info](https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-minneapolis-minnesota-11-29-2026/event/060064C4A3F1924C) [spotify](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml)
 
 ## Friday, December 4, 2026
 
@@ -45,6 +45,6 @@
 
 ## Saturday, January 16, 2027
 
-- **Wonho** · 19:00 · unknown · $77 · [tickets](https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76) [info](https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76) [spotify](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D)
+- **Wonho** · 19:00 · unknown · [tickets](https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76) [info](https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76) [spotify](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

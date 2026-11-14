@@ -12,7 +12,7 @@
 ## Thursday, November 19, 2026
 
 - **Dirty P’s Thirsty 3rd Thursdays Club** · 17:00 · unknown · 21+ · every third Thursday · residency · [info](https://thehookmpls.com/shows/dirty-p-s-thirsty-3rd-thursdays-club-november-19-2026-652586)
-- **Front Porch Swingin' Liquor Pigs w/ Qrrrky** · 17:00 · country/folk/Americana · every third Thursday · residency · [tickets](https://app.opendate.io/e/dirty-p-s-thirsty-3rd-thursdays-club-november-19-2026-652586?utm_source=jambase) [info](https://www.jambase.com/show/front-porch-swingin-liquor-pigs-the-hook-and-ladder-theater-20261119)
+- **Front Porch Swingin' Liquor Pigs** · 17:00 · country/folk/Americana · every third Thursday · residency · [tickets](https://app.opendate.io/e/dirty-p-s-thirsty-3rd-thursdays-club-november-19-2026-652586?utm_source=jambase) [info](https://www.jambase.com/show/front-porch-swingin-liquor-pigs-the-hook-and-ladder-theater-20261119)
 - **Music For Everyone - Give To The Max Celebration** · 17:00 · unknown · 21+ · [info](https://thehookmpls.com/shows/music-for-everyone-give-to-the-max-celebration-november-19-2026-795688)
 
 ## Friday, November 20, 2026
@@ -51,7 +51,7 @@
 
 ## Saturday, December 5, 2026
 
-- **Demitrious Rallis** · 20:00 · unknown · 21+ · [tickets](https://app.opendate.io/e/demitrious-rallis-band-december-05-2026-758805?utm_source=jambase) [info](https://thehookmpls.com/shows/demitrious-rallis-band-december-05-2026-758805)
+- **Demitrious Rallis Band** · 20:00 · unknown · 21+ · [info](https://thehookmpls.com/shows/demitrious-rallis-band-december-05-2026-758805)
 
 ## Wednesday, December 9, 2026
 
@@ -60,7 +60,7 @@
 ## Thursday, December 10, 2026
 
 - **Rising Voices: Lumberstock Music Fest** · 17:30 · unknown · 21+ · [info](https://thehookmpls.com/shows/rising-voices-lumberstock-music-fest-december-10-2026-800339)
-- **The Steepwater Band w/ Mark Joseph, Nicholas David** · 19:30 · unknown · 21+ · [info](https://thehookmpls.com/shows/the-steepwater-band-december-10-2026-751118) [spotify](https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J)
+- **The Steepwater Band w/ Mark Joseph, Nicholas David** · 19:30 · unknown · 21+ · [tickets](https://app.opendate.io/e/the-steepwater-band-december-10-2026-751118?utm_source=jambase) [info](https://thehookmpls.com/shows/the-steepwater-band-december-10-2026-751118) [spotify](https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J)
 
 ## Friday, December 11, 2026
 

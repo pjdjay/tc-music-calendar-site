@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-20",
- "count": 41,
+ "count": 43,
  "shows": [
   {
    "id": "ef63568d5d32",
@@ -267,6 +267,19 @@
    "source": "https://driftwoodcharbar.com/"
   },
   {
+   "id": "3cc2c78ee4cb",
+   "headliner": "Squid City Slingers",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "19:00",
+   "venue": "56 Brewing",
+   "venue_slug": "56-brewing",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://56brewing.com/event/live-music-squid-city-slingers-2/",
+   "spotify": "https://open.spotify.com/artist/2kglI0o7rM52XzTs1nNIvY"
+  },
+  {
    "id": "172bf45b427c",
    "headliner": "The Jugsluggers",
    "openers": [],
@@ -390,6 +403,26 @@
    "tickets": "https://link.dice.fm/L6848c80ae8c",
    "source": "https://theparkwaytheater.com/all-events/high-48s-20th",
    "spotify": "https://open.spotify.com/artist/2J7WvdhzleWvO1XRa5xBZK"
+  },
+  {
+   "id": "0dab75d0970f",
+   "headliner": "Callback & Scorched Waves (co-headline)",
+   "openers": [
+    "Pullstring",
+    "Call Me Fritz"
+   ],
+   "date": "2026-11-20",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "price": "$12 adv / $20 door",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://tix.gobo.show/events/event/mqo0SBEZkxhNxfruuDJS/dates/OTIQLqFOYZkT63zLyn2R?utm_source=icehousempls.com&utm_medium=website&utm_campaign=callback-20261120",
+   "source": "https://www.icehousempls.com/shows/callback-scorched-waves-co-headline-w-pullstring-and-call-me-fritz/"
   },
   {
    "id": "3606b6ab44e8",
@@ -519,7 +552,7 @@
    "end_date": "2026-11-21",
    "price": "$19.06",
    "is_free": false,
-   "tickets": "https://link.dice.fm/Y6cc031d79c9?utm_source=jambase",
+   "tickets": "https://dice.fm/event/6af249c5cc479800017873b4",
    "source": "https://dice.fm/event/6af249c5cc479800017873b4"
   },
   {

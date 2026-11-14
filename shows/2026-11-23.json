@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -8,19 +8,6 @@
  "date": "2026-11-23",
  "count": 10,
  "shows": [
-  {
-   "id": "d888aef00066",
-   "headliner": "Irish Christmas in America",
-   "openers": [],
-   "date": "2026-11-23",
-   "start_time": "17:30",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "Celtic/Irish",
-   "source": "https://www.songkick.com/concerts/43376822-irish-christmas-in-america-at-dakota?utm_medium=organic&utm_source=microformat",
-   "spotify": "https://open.spotify.com/artist/4EQPkHLXgPUHVPbGCICXrl"
-  },
   {
    "id": "f4d96f83de3f",
    "headliner": "HonkyTonk Ranch",
@@ -96,6 +83,21 @@
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/ben-dunnills-i-loved-you-in-november-tour-tickets-1998993676899",
    "source": "https://www.croonersmn.com/event/ben-dunnills-i-loved-you-in-november-tour/"
+  },
+  {
+   "id": "d888aef00066",
+   "headliner": "Irish Christmas in America",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "19:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "Celtic/Irish",
+   "price": "$52.25+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/irish-christmas-in-america-nov23-2026/",
+   "spotify": "https://open.spotify.com/artist/4EQPkHLXgPUHVPbGCICXrl"
   },
   {
    "id": "e288eab21495",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -101,15 +101,17 @@
   },
   {
    "id": "ac52bdcd8481",
-   "headliner": "Asleep at the Wheel",
+   "headliner": "Asleep At the Wheel",
    "openers": [],
    "date": "2026-12-07",
    "start_time": "19:00",
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://www.jambase.com/show/asleep-at-the-wheel-dakota-20261207"
+   "genre": "country/folk/Americana",
+   "price": "$74.91+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/asleep-at-the-wheel-dec-2026/2026-12-07/"
   },
   {
    "id": "67c73a44f5d4",

@@ -5,7 +5,7 @@
 
 ## Saturday, November 14, 2026
 
-- **Wookiefoot w/ Balkan Bump, The Limns** · 19:00 · rock/indie · $41.25 · 18+ · [tickets](https://www.livenation.com/event/vv17bZ_3GkTVS3x8/wookiefoot-18) [info](https://www.livenation.com/event/vv17bZ_3GkTVS3x8/wookiefoot-18) [spotify](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH)
+- **Wookiefoot w/ Balkan Bump, The Limns** · 19:00 · rock/indie · $34.25 · 18+ · [tickets](https://www.livenation.com/event/vv17bZ_3GkTVS3x8/wookiefoot-18) [info](https://www.livenation.com/event/vv17bZ_3GkTVS3x8/wookiefoot-18) [spotify](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH)
 
 ## Saturday, November 21, 2026
 

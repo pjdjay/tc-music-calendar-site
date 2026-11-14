@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -18,9 +18,7 @@
    "venue_slug": "armory",
    "city": "Minneapolis",
    "genre": "electronic",
-   "price": "$76.55",
-   "is_free": false,
-   "tickets": "https://www.livenation.com/event/vv17bZ_4GkMY9mOa/marshmello",
+   "tickets": "https://www.ticketmaster.com/marshmello-minneapolis-minnesota-12-30-2026/event/0600655DF05EE809",
    "source": "https://www.livenation.com/event/vv17bZ_4GkMY9mOa/marshmello",
    "spotify": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
   }

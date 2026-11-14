@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-05",
- "count": 35,
+ "count": 37,
  "shows": [
   {
    "id": "be8acc17c671",
@@ -217,9 +217,39 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$72.90",
+   "price": "$52.25+",
    "is_free": false,
-   "source": "https://www.jambase.com/show/gunhild-carling-dakota-20261205"
+   "source": "https://www.dakotacooks.com/event/gunhild-carling-dec5-2026/"
+  },
+  {
+   "id": "2a1134357f6c",
+   "headliner": "Mature Content: Cuffing Season",
+   "openers": [],
+   "date": "2026-12-05",
+   "start_time": "19:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "price": "$15",
+   "is_free": false,
+   "age": "21+",
+   "tickets": "https://tix.gobo.show/events/event/u79eHwlOs64mWbUdbWCd/dates/Kc2d32qEXNHC8Hugq77X?utm_source=icehousempls.com&utm_medium=website&utm_campaign=grrrl-scout-20261205",
+   "source": "https://www.icehousempls.com/shows/mature-content-cuffing-season/"
+  },
+  {
+   "id": "029fbc5db053",
+   "headliner": "Extermination Day Album Release Party",
+   "openers": [],
+   "date": "2026-12-05",
+   "start_time": "19:00",
+   "venue": "56 Brewing",
+   "venue_slug": "56-brewing",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://56brewing.com/event/live-music-extermination-day-album-release-party/",
+   "spotify": "https://open.spotify.com/artist/2st1iswEKoPdxE3hxiRN0G"
   },
   {
    "id": "b831db8737b5",
@@ -359,8 +389,8 @@
    "spotify": "https://open.spotify.com/artist/5O6aSojwSiK1j8hOm6Akph"
   },
   {
-   "id": "782ea9a7ac66",
-   "headliner": "Demitrious Rallis",
+   "id": "384b5ccad94d",
+   "headliner": "Demitrious Rallis Band",
    "openers": [],
    "date": "2026-12-05",
    "start_time": "20:00",
@@ -369,7 +399,6 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "age": "21+",
-   "tickets": "https://app.opendate.io/e/demitrious-rallis-band-december-05-2026-758805?utm_source=jambase",
    "source": "https://thehookmpls.com/shows/demitrious-rallis-band-december-05-2026-758805"
   },
   {

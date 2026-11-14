@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-02",
- "count": 14,
+ "count": 16,
  "shows": [
   {
    "id": "3f3383d7cf5d",
@@ -71,6 +71,21 @@
    "source": "https://whitesquirrelbar.com/event/the-second-stringers-w-special-guests/"
   },
   {
+   "id": "e05bfde7affe",
+   "headliner": "Rachael & Vilray",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "18:30",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$61.90",
+   "is_free": false,
+   "tickets": "https://www.etix.com/ticket/p/31784651/rachael-vilray-minneapolis-dakota",
+   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-02/1/"
+  },
+  {
    "id": "cc0e98e19d51",
    "headliner": "“Happy Holi-Dane”",
    "openers": [],
@@ -123,21 +138,6 @@
    "tickets": "https://www.axs.com/events/1488198/tiny-habits-tickets?skin=fineline",
    "source": "https://first-avenue.com/event/2026-12-tiny-habits/",
    "spotify": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-  },
-  {
-   "id": "e05bfde7affe",
-   "headliner": "Rachael & Vilray",
-   "openers": [],
-   "date": "2026-12-02",
-   "start_time": "19:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$61.90",
-   "is_free": false,
-   "tickets": "https://www.etix.com/ticket/p/31784651/rachael-vilray-minneapolis-dakota",
-   "source": "https://www.jambase.com/show/rachael-vilray-dakota-20261202"
   },
   {
    "id": "ca4253540a0a",
@@ -214,6 +214,37 @@
    "age": "all_ages",
    "tickets": "https://www.axs.com/events/1644013/sahn-tickets?skin=firstavenue",
    "source": "https://first-avenue.com/event/2026-12-sahn/"
+  },
+  {
+   "id": "a9a595e68895",
+   "headliner": "Starlight Vinyl Night",
+   "openers": [
+    "DJ Shane Kramer"
+   ],
+   "date": "2026-12-02",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "hidden_category": "dj_night",
+   "price": "No cover",
+   "is_free": true,
+   "age": "21+",
+   "source": "https://www.icehousempls.com/shows/starlight-vinyl-night-with-dj-shane-kramer/"
+  },
+  {
+   "id": "68f75df89345",
+   "headliner": "Rachael & Vilray",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "21:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-02/2/"
   },
   {
    "id": "1b478239ad3e",

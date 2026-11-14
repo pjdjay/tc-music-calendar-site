@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-01",
- "count": 12,
+ "count": 13,
  "shows": [
   {
    "id": "1d72108b68e2",
@@ -49,6 +49,21 @@
    "genre": "country/folk/Americana",
    "source": "https://whitesquirrelbar.com/event/thomas-sticha-3/",
    "spotify": "https://open.spotify.com/artist/0l16reYqmLwCXePRrQKpf4"
+  },
+  {
+   "id": "80df53e92a4e",
+   "headliner": "Rachael & Vilray",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "18:30",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$61.90",
+   "is_free": false,
+   "tickets": "https://www.etix.com/ticket/p/98677694/rachael-vilray-minneapolis-dakota",
+   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-01/1/"
   },
   {
    "id": "d697fefc9fbd",
@@ -99,21 +114,6 @@
    "spotify": "https://open.spotify.com/artist/2A4YAeUVDUcyOZ0GPTL3WF"
   },
   {
-   "id": "80df53e92a4e",
-   "headliner": "Rachael & Vilray",
-   "openers": [],
-   "date": "2026-12-01",
-   "start_time": "19:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$61.90",
-   "is_free": false,
-   "tickets": "https://www.etix.com/ticket/p/98677694/rachael-vilray-minneapolis-dakota",
-   "source": "https://www.jambase.com/show/rachael-vilray-dakota-20261201"
-  },
-  {
    "id": "0733ef42ac24",
    "headliner": "Red Planet",
    "openers": [],
@@ -161,6 +161,18 @@
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/kat-edmonson-have-your-merry-christmas-with-me-tickets-1999224266599",
    "source": "https://www.croonersmn.com/event/kat-edmonson-have-your-merry-christmas-with-me-2/"
+  },
+  {
+   "id": "9ccbb582720c",
+   "headliner": "Rachael & Vilray",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "21:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-01/2/"
   },
   {
    "id": "670584fe219b",

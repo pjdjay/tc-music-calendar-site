@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -29,6 +29,21 @@
    "tickets": "https://link.dice.fm/Kf41d5286cff?utm_source=jambase",
    "source": "https://dice.fm/event/6aadbc97cef0bb00016257e2",
    "spotify": "https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4"
+  },
+  {
+   "id": "6b846a983caf",
+   "headliner": "Keenan TreVon",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "19:00",
+   "venue": "Underground Music Venue",
+   "venue_slug": "underground-music-venue",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "price": "$20",
+   "is_free": false,
+   "source": "https://www.jambase.com/show/keenan-trevon-underground-music-venue-cafe-20261114",
+   "spotify": "https://open.spotify.com/artist/3TRl3Kgn8RGc0sw5QDOMsW"
   },
   {
    "id": "605e0b5b8e63",
@@ -190,24 +205,6 @@
    "tickets": "https://link.dice.fm/xd81001a0cb4?utm_source=jambase",
    "source": "https://www.jambase.com/show/north-by-north-underground-music-venue-cafe-20261212",
    "spotify": "https://open.spotify.com/artist/5IoXcA5DIDSG0QlNNoqQdZ"
-  },
-  {
-   "id": "d87fb1ac6713",
-   "headliner": "Glass Eyed Brother",
-   "openers": [
-    "Arcola",
-    "Sleepy Eye"
-   ],
-   "date": "2026-12-18",
-   "start_time": "19:00",
-   "venue": "Underground Music Venue",
-   "venue_slug": "underground-music-venue",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "price": "$10",
-   "is_free": false,
-   "tickets": "https://link.dice.fm/T85f1d86999b?utm_source=jambase",
-   "source": "https://www.jambase.com/show/glass-eyed-brother-underground-music-venue-cafe-20261218"
   },
   {
    "id": "05b00bb3f9b2",

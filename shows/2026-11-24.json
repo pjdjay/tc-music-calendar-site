@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-24",
- "count": 11,
+ "count": 13,
  "shows": [
   {
    "id": "75470ce400ab",
@@ -70,9 +70,25 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$100.90",
+   "price": "$81.09+",
    "is_free": false,
-   "source": "https://www.jambase.com/show/boney-james-dakota-20261124"
+   "source": "https://www.dakotacooks.com/event/boney-james-nov24-2026/2026-11-24/1/"
+  },
+  {
+   "id": "63f5441e1ff2",
+   "headliner": "Breaking Thread: Fly Tie Meet-up",
+   "openers": [],
+   "date": "2026-11-24",
+   "start_time": "18:30",
+   "venue": "56 Brewing",
+   "venue_slug": "56-brewing",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "some Tuesdays",
+   "price": "free admission",
+   "is_free": true,
+   "source": "https://56brewing.com/event/breaking-thread-fly-tie-meet-up-3/2026-11-24/"
   },
   {
    "id": "7cee2dd4b14d",
@@ -194,6 +210,20 @@
    "tickets": "https://www.axs.com/events/1642674/masto-tickets?skin=firstavenue",
    "source": "https://first-avenue.com/event/2026-11-masto/",
    "spotify": "https://open.spotify.com/artist/5aFbadR0TINJ22xzCR995P"
+  },
+  {
+   "id": "faf0114f2b41",
+   "headliner": "Boney James",
+   "openers": [],
+   "date": "2026-11-24",
+   "start_time": "21:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$81.09+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/boney-james-nov24-2026/2026-11-24/2/"
   }
  ]
 }

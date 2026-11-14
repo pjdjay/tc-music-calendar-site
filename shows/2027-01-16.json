@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -44,8 +44,6 @@
    "venue_slug": "fillmore-minneapolis",
    "city": "Minneapolis",
    "genre": "unknown",
-   "price": "$77",
-   "is_free": false,
    "tickets": "https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76",
    "source": "https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76",
    "spotify": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"

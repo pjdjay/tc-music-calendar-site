@@ -9,7 +9,7 @@
 
 ## Saturday, November 21, 2026
 
-- **Tape B** · 21:00 · electronic · $70.90 · [tickets](https://www.livenation.com/event/vvG1bZ_GKi_TYR/tape-b-saturday-pass) [info](https://www.livenation.com/event/vvG1bZ_GKi_TYR/tape-b-saturday-pass) [spotify](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi)
+- **Tape B** · 21:00 · electronic · $62.15 · [tickets](https://www.livenation.com/event/vvG1bZ_GKi_TYR/tape-b-saturday-pass) [info](https://www.livenation.com/event/vvG1bZ_GKi_TYR/tape-b-saturday-pass) [spotify](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi)
 
 ## Sunday, November 22, 2026
 
@@ -21,11 +21,11 @@
 
 ## Saturday, December 12, 2026
 
-- **A Boogie Wit da Hoodie w/ Zeddy Will, Cash Cobain** · 20:00 · hip-hop/R&B · $143.60 · [tickets](https://www.livenation.com/event/vv1AkZkfYGkd_ao6R/a-boogie-wit-da-hoodie-10-years-of-artist) [info](https://www.livenation.com/event/vv1AkZkfYGkd_ao6R/a-boogie-wit-da-hoodie-10-years-of-artist) [spotify](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I)
+- **A Boogie Wit da Hoodie w/ Zeddy Will, Cash Cobain** · 20:00 · hip-hop/R&B · $123.50 · [tickets](https://www.livenation.com/event/vv1AkZkfYGkd_ao6R/a-boogie-wit-da-hoodie-10-years-of-artist) [info](https://www.livenation.com/event/vv1AkZkfYGkd_ao6R/a-boogie-wit-da-hoodie-10-years-of-artist) [spotify](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I)
 
 ## Wednesday, December 30, 2026
 
-- **Marshmello** · 21:00 · electronic · $76.55 · [tickets](https://www.livenation.com/event/vv17bZ_4GkMY9mOa/marshmello) [info](https://www.livenation.com/event/vv17bZ_4GkMY9mOa/marshmello) [spotify](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T)
+- **Marshmello** · 21:00 · electronic · [tickets](https://www.ticketmaster.com/marshmello-minneapolis-minnesota-12-30-2026/event/0600655DF05EE809) [info](https://www.livenation.com/event/vv17bZ_4GkMY9mOa/marshmello) [spotify](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T)
 
 ## Thursday, December 31, 2026
 

@@ -5,7 +5,7 @@
 
 ## Saturday, November 14, 2026
 
-- **Fox Stevenson w/ Mystery Skulls** · 19:00 · electronic · $45 · [tickets](https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls) [info](https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls) [spotify](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy)
+- **Fox Stevenson w/ Mystery Skulls** · 19:00 · electronic · $39.85 · [tickets](https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls) [info](https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls) [spotify](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy)
 
 ## Wednesday, November 18, 2026
 
@@ -62,7 +62,7 @@
 
 ## Thursday, December 31, 2026
 
-- **Reventón NYE 2027 w/ Cristian Baca** · 21:00 · Latin · $21.30 · dj night · [tickets](https://www.livenation.com/event/vv1FbZ_pFaQKZdu6v/reventon-nye-2027-with-cristian-baca) [info](https://www.livenation.com/event/vv1FbZ_pFaQKZdu6v/reventon-nye-2027-with-cristian-baca)
+- **Reventón NYE 2027 w/ Cristian Baca** · 21:00 · Latin · dj night · [tickets](https://www.ticketmaster.com/reventon-nye-2027-with-cristian-baca-minneapolis-minnesota-12-31-2026/event/0600656209693C60) [info](https://www.livenation.com/event/vv1FbZ_pFaQKZdu6v/reventon-nye-2027-with-cristian-baca)
 
 ## Saturday, January 16, 2027
 

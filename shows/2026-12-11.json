@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-11",
- "count": 33,
+ "count": 34,
  "shows": [
   {
    "id": "6d7ea767e152",
@@ -90,6 +90,19 @@
    "source": "https://www.jambase.com/show/ditch-pigeon-underground-music-venue-cafe-20261211"
   },
   {
+   "id": "07a1b04bde71",
+   "headliner": "Garth Brooks",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.targetcenter.com/events/detail/garthbrooks",
+   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+  },
+  {
    "id": "4ee847c1608d",
    "headliner": "Minnesota Orchestra: Home Alone in Concert with the Minnesota Orchestra",
    "openers": [],
@@ -142,8 +155,10 @@
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://www.songkick.com/concerts/43464578-karrin-allyson-at-dakota?utm_medium=organic&utm_source=microformat"
+   "genre": "jazz/blues",
+   "price": "$41.95+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/karrin-allyson-yuletide-hideaway-dec11-2026/"
   },
   {
    "id": "db1bb945e158",
@@ -252,19 +267,6 @@
    "source": "https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events"
   },
   {
-   "id": "07a1b04bde71",
-   "headliner": "Garth Brooks",
-   "openers": [],
-   "date": "2026-12-11",
-   "start_time": "20:00",
-   "venue": "Target Center",
-   "venue_slug": "target-center",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "source": "https://www.targetcenter.com/events/detail/garthbrooks",
-   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
-  },
-  {
    "id": "90ea71b9dff8",
    "headliner": "House of Heavy",
    "openers": [],
@@ -314,6 +316,23 @@
    "tickets": "https://www.axs.com/events/1405649/temples-tickets?skin=turfclub",
    "source": "https://first-avenue.com/event/2026-12-temples/",
    "spotify": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+  },
+  {
+   "id": "3105d85a5390",
+   "headliner": "The Seasons Show",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "price": "$15 adv / $22 door",
+   "is_free": false,
+   "age": "21+",
+   "tickets": "https://tix.gobo.show/events/event/42gKPBbQOFaWYBlqUBCh/dates/YseogTXYWNVbrkqsBwyJ?utm_source=icehousempls.com&utm_medium=website&utm_campaign=kion-rose-20261211",
+   "source": "https://www.icehousempls.com/shows/kion-rose-presents-the-seasons-show/"
   },
   {
    "id": "481b1cca3879",

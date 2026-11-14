@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -21,7 +21,7 @@
    "venue_slug": "varsity-theater",
    "city": "Minneapolis",
    "genre": "electronic",
-   "price": "$45",
+   "price": "$39.85",
    "is_free": false,
    "tickets": "https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls",
    "source": "https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls",
@@ -270,9 +270,7 @@
    "city": "Minneapolis",
    "genre": "Latin",
    "hidden_category": "dj_night",
-   "price": "$21.30",
-   "is_free": false,
-   "tickets": "https://www.livenation.com/event/vv1FbZ_pFaQKZdu6v/reventon-nye-2027-with-cristian-baca",
+   "tickets": "https://www.ticketmaster.com/reventon-nye-2027-with-cristian-baca-minneapolis-minnesota-12-31-2026/event/0600656209693C60",
    "source": "https://www.livenation.com/event/vv1FbZ_pFaQKZdu6v/reventon-nye-2027-with-cristian-baca"
   },
   {

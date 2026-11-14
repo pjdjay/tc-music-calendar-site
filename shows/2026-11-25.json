@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-25",
- "count": 24,
+ "count": 26,
  "shows": [
   {
    "id": "ba8ef2fea3ff",
@@ -20,6 +20,18 @@
    "genre": "unknown",
    "hidden_category": "dj_night",
    "source": "https://mysticlake.com/shows-and-events/dj-stjoel-nov25"
+  },
+  {
+   "id": "aa4bdaac556f",
+   "headliner": "Parralily",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "16:00",
+   "venue": "56 Brewing",
+   "venue_slug": "56-brewing",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://56brewing.com/event/parralily-3/2026-11-25/"
   },
   {
    "id": "fd757822a085",
@@ -139,7 +151,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "source": "https://www.songkick.com/concerts/43479236-belfast-cowboys-at-dakota?utm_medium=organic&utm_source=microformat",
+   "price": "$35.77+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/the-belfast-cowboys-nov25-2026/",
    "spotify": "https://open.spotify.com/artist/08TtJoCSiwqqoX89vz5Wyi"
   },
   {
@@ -274,6 +288,23 @@
    "age": "21+",
    "tickets": "https://www.axs.com/events/1613782/cole-diamonds-twangsgiving-tickets?skin=turfclub",
    "source": "https://first-avenue.com/event/2026-11-cole-diamonds-twangsgiving/"
+  },
+  {
+   "id": "781cb0366814",
+   "headliner": "DonFest 2",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "price": "$13 adv / $20 door",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://icehouse.turntabletickets.com/shows/13329/2026-11-25?utm_source=icehousempls.com&utm_medium=website&utm_campaign=haters-club-20261125",
+   "source": "https://www.icehousempls.com/shows/donfest-2/"
   },
   {
    "id": "4a8311db8a0a",

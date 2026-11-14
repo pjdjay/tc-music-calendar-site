@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -153,7 +153,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "source": "https://www.songkick.com/concerts/43404305-lee-roy-parnell-at-dakota?utm_medium=organic&utm_source=microformat",
+   "price": "$47.10+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/lee-roy-parnell-nov22-2026/",
    "spotify": "https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ"
   },
   {

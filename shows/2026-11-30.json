@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T19:08:29+00:00",
+ "generated_at": "2026-11-14T19:22:53+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-30",
- "count": 12,
+ "count": 13,
  "shows": [
   {
    "id": "9779db384337",
@@ -51,6 +51,21 @@
    "genre": "country/folk/Americana",
    "source": "https://whitesquirrelbar.com/event/pop-wagner/",
    "spotify": "https://open.spotify.com/artist/1sFxQhVtg7yStQLFhS9OlY"
+  },
+  {
+   "id": "04a1c7251bb3",
+   "headliner": "Rachael & Vilray",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "18:30",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$61.90",
+   "is_free": false,
+   "tickets": "https://www.etix.com/ticket/p/68183817/rachael-vilray-minneapolis-dakota",
+   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-11-30/1/"
   },
   {
    "id": "33109770f79c",
@@ -120,21 +135,6 @@
    "spotify": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
   },
   {
-   "id": "04a1c7251bb3",
-   "headliner": "Rachael & Vilray",
-   "openers": [],
-   "date": "2026-11-30",
-   "start_time": "19:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$61.90",
-   "is_free": false,
-   "tickets": "https://www.etix.com/ticket/p/68183817/rachael-vilray-minneapolis-dakota",
-   "source": "https://www.jambase.com/show/rachael-vilray-dakota-20261130"
-  },
-  {
    "id": "4d59b352bab9",
    "headliner": "SPIKED! Put Some Punch in Your Holidays",
    "openers": [],
@@ -179,6 +179,18 @@
    "is_free": false,
    "source": "https://www.memorylanes.com/live-music-events-minneapolis/",
    "spotify": "https://open.spotify.com/artist/0ycrrURijKFnOIrhPjPvZF"
+  },
+  {
+   "id": "5d4cf31c8e36",
+   "headliner": "Rachael & Vilray",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "21:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-11-30/2/"
   },
   {
    "id": "decda4ece61a",

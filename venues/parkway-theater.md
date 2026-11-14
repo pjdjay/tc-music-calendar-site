@@ -71,7 +71,7 @@
 
 ## Saturday, January 9, 2027
 
-- **Lissie** · 19:30 · unknown · $39 Advance / $44 At The Door · most Saturdays · residency · [tickets](https://link.dice.fm/V6975b8b24bb?utm_source=jambase) [info](https://theparkwaytheater.com/all-events/lissie-2027) [spotify](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt)
+- **Lissie** · 19:30 · unknown · $39 Advance / $44 At The Door · most Saturdays · residency · [info](https://theparkwaytheater.com/all-events/lissie-2027) [spotify](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt)
 
 ## Friday, January 15, 2027
 
