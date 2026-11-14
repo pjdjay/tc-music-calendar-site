@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T19:38:17+00:00",
+ "generated_at": "2026-11-14T20:10:42+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -22,8 +22,8 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "doors_time": "15:00",
+   "status": "sold_out",
    "age": "21+",
-   "tickets": "https://likeit-loveit.com/us/events/bed-by-10pm-green-room-35/",
    "source": "https://www.greenroommn.com/events#/events/173351"
   },
   {

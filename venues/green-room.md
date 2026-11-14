@@ -5,7 +5,7 @@
 
 ## Saturday, November 14, 2026
 
-- **Bed By 10 w/ Because Adults Have Stuff to do Tomorrow** · 15:00 · unknown · 21+ · [tickets](https://likeit-loveit.com/us/events/bed-by-10pm-green-room-35/) [info](https://www.greenroommn.com/events#/events/173351)
+- **Bed By 10 w/ Because Adults Have Stuff to do Tomorrow** · 15:00 · unknown · 21+ · SOLD OUT · [info](https://www.greenroommn.com/events#/events/173351)
 - **Post Animal w/ Brotherkenzie** · 22:00 · rock/indie · 18+ · [tickets](https://tickets.venuepilot.com/e/post-animal-maybe-you-have-to-tour-2026-11-14-green-room-minneapolis-c675ce) [info](https://www.greenroommn.com/events#/events/180675) [spotify](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE)
 
 ## Sunday, November 15, 2026
