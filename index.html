@@ -197,8 +197,9 @@ li.ev.gone{background:transparent;border-style:dashed;border-color:var(--line-2)
 .totop{position:fixed;right:max(16px,env(safe-area-inset-right,0px));bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:20;display:inline-flex;align-items:center;min-height:44px;padding:0 16px;border:0;border-radius:var(--r-pill);background:var(--ink);color:var(--bg);box-shadow:var(--pop);font:inherit;font-size:.9rem;font-weight:800;cursor:pointer}
 footer{padding-top:16px;padding-bottom:calc(72px + env(safe-area-inset-bottom,0px));   /* room for the fixed Top button, so the last footer row is never under it */
 color:var(--muted);font-size:.8rem}
-.fsub{display:flex;flex-wrap:wrap;align-items:center;gap:0 16px;margin-top:6px}
-.fsublabel{flex:0 0 100%;margin-top:4px}   /* its own line; the three links wrap beneath it */
+.fsub{display:flex;flex-wrap:wrap;align-items:center;gap:0 7px;margin-top:6px}
+.fsublabel{flex:none;color:var(--accent)}   /* same colour as the entries; text, not a link */
+.fsep{color:var(--muted)}
 .flink{background:none;border:0;padding:10px 0;min-height:44px;font:inherit;color:var(--accent);text-decoration:underline;cursor:pointer}
 /* correction mode (DESIGN.md "Correction mode and the pencil"): the pencil exists on every listed card but is display:none (no tab stop, no height) until html.cmode is on */
 .cbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin-top:10px;padding-top:0;padding-bottom:0}
@@ -709,9 +710,10 @@ if(!S||typeof S.u!=="string"||typeof S.k!=="string"||typeof HTMLDialogElement!==
 var bar=el("div","fsub"),dlg=document.createElement("dialog"),widget=null,token="",busy=false,opener=null,tsQ=null,tsEl=null,tsMsg=null;
 dlg.className="subd";document.body.appendChild(dlg);
 bar.setAttribute("role","group");bar.setAttribute("aria-label","Make a suggestion");
-bar.appendChild(el("span","fsublabel","Make a suggestion:"));
-[["A show that's missing","show"],["A fix to a listed show","correction"],["A feature","feature"]].forEach(function(o){   // three direct entries, no chooser dialog
- var b=el("button","flink",o[0]);b.type="button";b.setAttribute("data-choice",o[1]);
+bar.appendChild(el("span","fsublabel","Suggest:"));
+[["a missing show","show","Suggest a missing show"],["a fix to a show","correction","Suggest a fix to a show"],["a feature","feature","Suggest a feature"]].forEach(function(o,i){   // three direct entries, no chooser dialog
+ if(i){var d=el("span","fsep","\u00b7");d.setAttribute("aria-hidden","true");bar.appendChild(d)}
+ var b=el("button","flink",o[0]);b.type="button";b.setAttribute("data-choice",o[1]);b.setAttribute("aria-label",o[2]);
  b.onclick=function(){if(o[1]==="correction")startCorrecting();else openForm(o[1],b)};bar.appendChild(b)});
 foot.appendChild(bar);
 var MSG={invalid:"Some details were not accepted. Please check them and try again.",rate_limited:"Too many suggestions from this connection. Please try again later.",
