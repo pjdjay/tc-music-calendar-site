@@ -195,16 +195,12 @@ li.ev.gone{background:transparent;border-style:dashed;border-color:var(--line-2)
 .nextwk{display:block;margin:16px auto 0;padding:10px 20px;min-height:44px;border:1px solid var(--accent);border-radius:var(--r-pill);background:var(--surface);color:var(--accent);font:inherit;font-weight:700;cursor:pointer}
 .empty{padding:32px 16px;text-align:center;color:var(--muted)}
 .totop{position:fixed;right:max(16px,env(safe-area-inset-right,0px));bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:20;display:inline-flex;align-items:center;min-height:44px;padding:0 16px;border:0;border-radius:var(--r-pill);background:var(--ink);color:var(--bg);box-shadow:var(--pop);font:inherit;font-size:.9rem;font-weight:800;cursor:pointer}
-footer{padding-top:16px;padding-bottom:24px;color:var(--muted);font-size:.8rem}
-.fsub{display:flex;flex-wrap:wrap;gap:0 16px;margin-top:6px}
+footer{padding-top:16px;padding-bottom:calc(72px + env(safe-area-inset-bottom,0px));   /* room for the fixed Top button, so the last footer row is never under it */
+color:var(--muted);font-size:.8rem}
+.fsub{display:flex;flex-wrap:wrap;align-items:center;gap:0 16px;margin-top:6px}
+.fsublabel{flex:0 0 100%;margin-top:4px}   /* its own line; the three links wrap beneath it */
 .flink{background:none;border:0;padding:10px 0;min-height:44px;font:inherit;color:var(--accent);text-decoration:underline;cursor:pointer}
-/* chooser and correction mode (DESIGN.md "Suggest chooser" and "Correction mode"): the pencil exists on every listed card but is display:none (no tab stop, no height) until html.cmode is on */
-fieldset.pick{margin:0 0 14px;padding:0;border:0;display:flex;flex-direction:column;gap:8px}
-fieldset.pick legend{padding:0;margin-bottom:8px;font-size:.9rem;color:var(--muted)}
-fieldset.pick label{display:flex;align-items:center;gap:12px;min-height:48px;padding:8px 14px;border:1px solid var(--line-2);border-radius:var(--r-md);background:var(--bg);cursor:pointer;font-weight:600}
-fieldset.pick label:has(input:checked){border-color:var(--accent);background:var(--accent-soft)}
-fieldset.pick input{width:20px;height:20px;margin:0;flex:none;accent-color:var(--accent)}
-fieldset.pick~.fbtns .go[disabled]{opacity:.5;cursor:not-allowed}
+/* correction mode (DESIGN.md "Correction mode and the pencil"): the pencil exists on every listed card but is display:none (no tab stop, no height) until html.cmode is on */
 .cbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin-top:10px;padding-top:0;padding-bottom:0}
 .cbar>*{min-width:0}
 .cbar .ctext{flex:1 1 200px;padding:8px 12px;border-radius:var(--r-md);background:var(--accent-soft);color:var(--ink);font-size:.85rem;font-weight:600}
@@ -712,7 +708,11 @@ var S=D.sub;
 if(!S||typeof S.u!=="string"||typeof S.k!=="string"||typeof HTMLDialogElement!=="function"||typeof fetch!=="function")return;
 var bar=el("div","fsub"),dlg=document.createElement("dialog"),widget=null,token="",busy=false,opener=null,tsQ=null,tsEl=null,tsMsg=null;
 dlg.className="subd";document.body.appendChild(dlg);
-var sbtn=el("button","flink","Make a suggestion");sbtn.type="button";sbtn.setAttribute("aria-haspopup","dialog");sbtn.onclick=function(){openChooser(sbtn)};bar.appendChild(sbtn);
+bar.setAttribute("role","group");bar.setAttribute("aria-label","Make a suggestion");
+bar.appendChild(el("span","fsublabel","Make a suggestion:"));
+[["A show that's missing","show"],["A fix to a listed show","correction"],["A feature","feature"]].forEach(function(o){   // three direct entries, no chooser dialog
+ var b=el("button","flink",o[0]);b.type="button";b.setAttribute("data-choice",o[1]);
+ b.onclick=function(){if(o[1]==="correction")startCorrecting();else openForm(o[1],b)};bar.appendChild(b)});
 foot.appendChild(bar);
 var MSG={invalid:"Some details were not accepted. Please check them and try again.",rate_limited:"Too many suggestions from this connection. Please try again later.",
  verification_failed:"The spam check did not pass. Please complete it again and press Send."};
@@ -843,22 +843,6 @@ function corrFields(form,e,F){
   return{fields:out,first:first,scope:Object.keys(out).length&&!orch&&Object.keys(out).every(function(k){return CSER[k]})&&radios.headliner_at_venue.checked?"headliner_at_venue":"event"};
  }
  return{collect:collect,full:full,first:keys[0]};
-}
-function openChooser(btn){   // a standard "choose one" picker: radio list, then Continue
- opener=btn;dlg.textContent="";busy=false;removeTs();
- var box=el("div","fbox"),form=el("form"),h=el("h2",null,"Make a suggestion");h.id="sub-title";dlg.setAttribute("aria-labelledby","sub-title");box.appendChild(h);
- var fs=el("fieldset","pick"),first=null,go=el("button","go","Continue"),no=el("button","no","Cancel");
- fs.appendChild(el("legend",null,"What would you like to suggest?"));
- [["A show that's missing","show"],["A fix to a listed show","correction"],["A feature","feature"]].forEach(function(o){
-  var l=el("label"),r=el("input");r.type="radio";r.name="sub-choice";r.value=o[1];r.setAttribute("data-choice",o[1]);if(!first)first=r;
-  r.onchange=function(){go.disabled=false};l.appendChild(r);l.appendChild(el("span",null,o[0]));fs.appendChild(l)});
- form.appendChild(fs);
- var row=el("div","fbtns");go.type="submit";go.disabled=true;no.type="button";no.onclick=function(){dlg.close()};row.appendChild(no);row.appendChild(go);form.appendChild(row);
- form.addEventListener("submit",function(ev){ev.preventDefault();var c=form.querySelector("input:checked");if(!c)return;
-  if(c.value==="correction")startCorrecting();else openForm(c.value,btn)});
- box.appendChild(form);dlg.appendChild(box);if(!dlg.open)dlg.showModal();
- try{first.focus({preventScroll:true})}catch(e){}
- dlg.scrollTop=0;
 }
 function openForm(kind,btn,ev0){
  opener=btn;dlg.textContent="";busy=false;token="";removeTs();
