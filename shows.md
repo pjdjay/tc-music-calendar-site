@@ -1,6 +1,6 @@
 # Twin Cities live music: all shows
 
-816 shows, 2026-11-14 to 2027-02-05 (America/Chicago). Data refreshed weekly. Per-day files: https://music.tcshows.org/shows/YYYY-MM-DD.md; per-venue files: https://music.tcshows.org/venues/<slug>.md (see https://music.tcshows.org/venues.json).
+817 shows, 2026-11-14 to 2027-02-05 (America/Chicago). Data refreshed weekly. Per-day files: https://music.tcshows.org/shows/YYYY-MM-DD.md; per-venue files: https://music.tcshows.org/venues/<slug>.md (see https://music.tcshows.org/venues.json).
 
 
 ## Saturday, November 14, 2026
@@ -762,6 +762,7 @@
 - **Bach’s Brandenburg Concertos** · time TBA · Ordway Center, St. Paul · classical · [info](https://ordway.org/events/bachs-brandenburg/)
 - **Early Evening Jazz: Adam Harder Nussbaum Trio** · 16:15 · Berlin, Minneapolis · unknown · NO COVER · [info](https://www.berlinmpls.com/calendar/early-evening-jazz-adam-harder-nussbaum-trio-dec-2026)
 - **Merry Krampus 2026** · 18:00 · Amsterdam Bar & Hall, St. Paul · metal/punk · all ages · [tickets](https://www.etix.com/ticket/p/72942501/impaler-presents-merry-krampus-2026-saint-paul-amsterdam-bar-hall?partner_id=100) [info](https://events.amsterdambarandhall.com/event/impaler-presents-merry-krampus-2026/amsterdam-bar-hall/saint-paul-minnesota/)
+- **Drake Walters** · 18:00 · Buck '54 Bar & Grill, Burnsville · unknown · Free · [info](https://buckhill.com/events/free-live-music-w-drake-walters/)
 - **Harmony Arcade** · 18:00 · White Squirrel, St. Paul · unknown · [info](https://whitesquirrelbar.com/event/harmony-arcade/)
 - **Miners and Gardeners** · 18:00 · Ginkgo, St. Paul · unknown · [info](https://ginkgocoffee.com/event/miners-and-gardeners/) [spotify](https://open.spotify.com/artist/62HcBOzvFNSNgRj8lSJaih)
 - **Ditch Pigeon** · 18:30 · Underground Music Venue, Minneapolis · rock/indie · $12 · [tickets](https://link.dice.fm/X4053a69cfeb?utm_source=jambase) [info](https://www.jambase.com/show/ditch-pigeon-underground-music-venue-cafe-20261211)

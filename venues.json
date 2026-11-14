@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-14T20:10:42+00:00",
+ "generated_at": "2026-11-14T20:50:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
- "count": 68,
+ "count": 69,
  "venues": [
   {
    "slug": "10k-brewing",
@@ -116,6 +116,16 @@
    "last_date": "2026-12-11",
    "json": "https://music.tcshows.org/venues/berlin.json",
    "markdown": "https://music.tcshows.org/venues/berlin.md"
+  },
+  {
+   "slug": "buck-54-bar-grill",
+   "venue": "Buck '54 Bar & Grill",
+   "city": "Burnsville",
+   "show_count": 1,
+   "first_date": "2026-12-11",
+   "last_date": "2026-12-11",
+   "json": "https://music.tcshows.org/venues/buck-54-bar-grill.json",
+   "markdown": "https://music.tcshows.org/venues/buck-54-bar-grill.md"
   },
   {
    "slug": "bunker-s",

@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T20:10:42+00:00",
+ "generated_at": "2026-11-14T20:50:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-11",
- "count": 35,
+ "count": 36,
  "shows": [
   {
    "id": "6d7ea767e152",
@@ -48,6 +48,20 @@
    "age": "all_ages",
    "tickets": "https://www.etix.com/ticket/p/72942501/impaler-presents-merry-krampus-2026-saint-paul-amsterdam-bar-hall?partner_id=100",
    "source": "https://events.amsterdambarandhall.com/event/impaler-presents-merry-krampus-2026/amsterdam-bar-hall/saint-paul-minnesota/"
+  },
+  {
+   "id": "4794ab59c04f",
+   "headliner": "Drake Walters",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "18:00",
+   "venue": "Buck '54 Bar & Grill",
+   "venue_slug": "buck-54-bar-grill",
+   "city": "Burnsville",
+   "genre": "unknown",
+   "price": "Free",
+   "is_free": true,
+   "source": "https://buckhill.com/events/free-live-music-w-drake-walters/"
   },
   {
    "id": "a5b9927ff899",
