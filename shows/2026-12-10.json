@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -168,7 +168,6 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "age": "21+",
-   "tickets": "https://app.opendate.io/e/the-steepwater-band-december-10-2026-751118?utm_source=jambase",
    "source": "https://thehookmpls.com/shows/the-steepwater-band-december-10-2026-751118",
    "spotify": "https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J"
   },

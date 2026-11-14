@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-16",
- "count": 17,
+ "count": 16,
  "shows": [
   {
    "id": "579244e74a85",
@@ -198,25 +198,6 @@
    "hidden_category": "residency",
    "recurrence": "every Monday",
    "source": "https://troubadourwinebar.com/events"
-  },
-  {
-   "id": "44e9b82c9748",
-   "headliner": "L.A.’s Monday Nights",
-   "openers": [],
-   "date": "2026-11-16",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "19:00",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
-   "price": "$10",
-   "is_free": false,
-   "age": "18+",
-   "tickets": "https://tix.gobo.show/events/event/tt-43268/dates/TR4j5VDMBfXou2nm1EHT?utm_source=icehousempls.com&utm_medium=website&utm_campaign=l-a-s-monday-nights-20261116",
-   "source": "https://www.icehousempls.com/shows/l-a-s-monday-nights-18/"
   },
   {
    "id": "4e41ef55206e",

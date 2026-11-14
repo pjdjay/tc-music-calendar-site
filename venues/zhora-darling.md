@@ -22,7 +22,7 @@
 
 ## Friday, November 20, 2026
 
-- **Cursing (CO) w/ Crypt.ID, Gothess** · 21:00 · unknown · $19.06 · [tickets](https://dice.fm/event/6af249c5cc479800017873b4) [info](https://dice.fm/event/6af249c5cc479800017873b4)
+- **Cursing (CO) w/ Crypt.ID, Gothess** · 21:00 · unknown · $19.06 · [tickets](https://link.dice.fm/Y6cc031d79c9?utm_source=jambase) [info](https://dice.fm/event/6af249c5cc479800017873b4)
 
 ## Saturday, November 21, 2026
 

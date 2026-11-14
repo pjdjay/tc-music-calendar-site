@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-29",
- "count": 21,
+ "count": 20,
  "shows": [
   {
    "id": "daa8dc053365",
@@ -116,7 +116,7 @@
    "venue_slug": "fillmore-minneapolis",
    "city": "Minneapolis",
    "genre": "metal/punk",
-   "price": "$45.75",
+   "price": "$149.85",
    "is_free": false,
    "tickets": "https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-minneapolis-minnesota-11-29-2026/event/060064C4A3F1924C",
    "source": "https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-minneapolis-minnesota-11-29-2026/event/060064C4A3F1924C",
@@ -151,22 +151,6 @@
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/the-holiday-songbook-tickets-1993943406404",
    "source": "https://www.croonersmn.com/event/the-holiday-songbook-4/"
-  },
-  {
-   "id": "2620be7abe11",
-   "headliner": "Tim Sparks and Ben Abrahamson",
-   "openers": [],
-   "date": "2026-11-29",
-   "start_time": "17:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "16:00",
-   "price": "No cover",
-   "is_free": true,
-   "age": "21+",
-   "source": "https://www.icehousempls.com/shows/tim-sparks-and-ben-abrahamson/"
   },
   {
    "id": "4be6944c4984",
@@ -302,9 +286,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$74.91+",
+   "price": "$89.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/rickie-lee-jones-nov-2026/2026-11-29/",
+   "source": "https://www.jambase.com/show/rickie-lee-jones-dakota-20261129",
    "spotify": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
   },
   {

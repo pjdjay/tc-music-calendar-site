@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-04",
- "count": 37,
+ "count": 36,
  "shows": [
   {
    "id": "f7fa4b65ef6b",
@@ -214,9 +214,7 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "price": "$30.62+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/turn-turn-turn-dec4-2026/",
+   "source": "https://www.songkick.com/concerts/43410520-turn-turn-turn-at-dakota?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/4TfxzvKmJxQJYyAI9pW9Nl"
   },
   {
@@ -421,23 +419,6 @@
    "genre": "Latin",
    "doors_time": "19:00",
    "source": "https://www.thecedar.org/events/dos-santos"
-  },
-  {
-   "id": "74d35a8c46d7",
-   "headliner": "Willy Porter and The Humans in a Room Quartet",
-   "openers": [],
-   "date": "2026-12-04",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "doors_time": "18:00",
-   "price": "$30 adv / $37 door",
-   "is_free": false,
-   "age": "18+",
-   "tickets": "https://icehouse.turntabletickets.com/shows/13280/2026-12-04?utm_source=icehousempls.com&utm_medium=website&utm_campaign=willy-porter-20261204",
-   "source": "https://www.icehousempls.com/shows/willy-porter-and-the-humans-in-a-room-quartet/"
   },
   {
    "id": "aa4fdbbd3947",

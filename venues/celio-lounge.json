@@ -1,0 +1,36 @@
+{
+ "generated_at": "2026-11-14T19:08:29+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Celio Lounge",
+ "city": "Minneapolis",
+ "count": 1,
+ "shows": [
+  {
+   "id": "a340aa7a9a91",
+   "headliner": "Local.Fm",
+   "openers": [
+    "Damo",
+    "Logan Day",
+    "Roxanne",
+    "Lucky the Unfortunate",
+    "Midnight Gold",
+    "Rulo",
+    "Pross",
+    "Luke Suede"
+   ],
+   "date": "2026-11-14",
+   "start_time": "20:00",
+   "venue": "Celio Lounge",
+   "venue_slug": "celio-lounge",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$10 entry",
+   "is_free": false,
+   "source": "https://music.tcshows.org/"
+  }
+ ]
+}

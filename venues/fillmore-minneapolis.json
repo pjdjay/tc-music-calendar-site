@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -39,7 +39,7 @@
    "venue_slug": "fillmore-minneapolis",
    "city": "Minneapolis",
    "genre": "hip-hop/R&B",
-   "price": "$288.50",
+   "price": "$182.30",
    "is_free": false,
    "tickets": "https://www.ticketmaster.com/fetty-wap-nostalgia-tour-minneapolis-minnesota-11-21-2026/event/060064ABC4911EC3",
    "source": "https://www.ticketmaster.com/fetty-wap-nostalgia-tour-minneapolis-minnesota-11-21-2026/event/060064ABC4911EC3",
@@ -59,7 +59,7 @@
    "venue_slug": "fillmore-minneapolis",
    "city": "Minneapolis",
    "genre": "metal/punk",
-   "price": "$45.75",
+   "price": "$149.85",
    "is_free": false,
    "tickets": "https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-minneapolis-minnesota-11-29-2026/event/060064C4A3F1924C",
    "source": "https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-minneapolis-minnesota-11-29-2026/event/060064C4A3F1924C",
@@ -195,6 +195,8 @@
    "venue_slug": "fillmore-minneapolis",
    "city": "Minneapolis",
    "genre": "unknown",
+   "price": "$77",
+   "is_free": false,
    "tickets": "https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76",
    "source": "https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76",
    "spotify": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"

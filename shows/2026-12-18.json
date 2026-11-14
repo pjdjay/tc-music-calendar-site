@@ -1,13 +1,31 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-18",
- "count": 6,
+ "count": 7,
  "shows": [
+  {
+   "id": "d87fb1ac6713",
+   "headliner": "Glass Eyed Brother",
+   "openers": [
+    "Arcola",
+    "Sleepy Eye"
+   ],
+   "date": "2026-12-18",
+   "start_time": "19:00",
+   "venue": "Underground Music Venue",
+   "venue_slug": "underground-music-venue",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$10",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/T85f1d86999b?utm_source=jambase",
+   "source": "https://www.jambase.com/show/glass-eyed-brother-underground-music-venue-cafe-20261218"
+  },
   {
    "id": "de3e73115ee6",
    "headliner": "Latrice Royale: WHY IT GOTTA BE WHITE CHRISTMAS?!?!",

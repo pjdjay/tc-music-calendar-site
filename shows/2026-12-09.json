@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-09",
- "count": 11,
+ "count": 10,
  "shows": [
   {
    "id": "b4d04d7a860e",
@@ -79,9 +79,7 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "price": "$52.25+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/esera-tuaolo-act-of-kindness-holiday-show-dec9-2026/"
+   "source": "https://www.songkick.com/concerts/43460858-esera-tuaolo-at-dakota?utm_medium=organic&utm_source=microformat"
   },
   {
    "id": "38ec0d8b0516",
@@ -125,23 +123,6 @@
    "age": "18+",
    "tickets": "https://www.axs.com/events/1627710/chris-simpson-of-mineral-tickets?skin=firstavenue",
    "source": "https://first-avenue.com/event/2026-12-chris-simpson-of-mineral/"
-  },
-  {
-   "id": "7ee7f4d6523c",
-   "headliner": "cool nel d and Ciao Bello",
-   "openers": [],
-   "date": "2026-12-09",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "18:00",
-   "price": "$15 adv / $20 door",
-   "is_free": false,
-   "age": "21+",
-   "tickets": "https://tix.gobo.show/events/event/zpw0phWZap161NFPmOss/dates/4AGJzX8WGlqOtGHX5urF?utm_source=icehousempls.com&utm_medium=website&utm_campaign=ciao-bello-20261209",
-   "source": "https://www.icehousempls.com/shows/cool-ned-d-and-ciao-bello/"
   },
   {
    "id": "dcb97bdb470c",

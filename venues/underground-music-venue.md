@@ -6,7 +6,6 @@
 ## Saturday, November 14, 2026
 
 - **When the Sun Sets w/ Halfway Down, Wolf Rd (CHI), Feels Good (NE), Portside Dive** · 18:00 · rock/indie · $31.73 · [tickets](https://link.dice.fm/Kf41d5286cff?utm_source=jambase) [info](https://dice.fm/event/6aadbc97cef0bb00016257e2) [spotify](https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4)
-- **Keenan TreVon** · 19:00 · hip-hop/R&B · $20 · [info](https://www.jambase.com/show/keenan-trevon-underground-music-venue-cafe-20261114) [spotify](https://open.spotify.com/artist/3TRl3Kgn8RGc0sw5QDOMsW)
 
 ## Sunday, November 15, 2026
 
@@ -41,6 +40,10 @@
 
 - **Boy Hero w/ more!, Virginia's Basement, Gauze** · 17:00 · metal/punk · $25.97 · [tickets](https://link.dice.fm/c034be066d89?utm_source=jambase) [info](https://dice.fm/event/6ad96282aa2460000131bfab) [spotify](https://open.spotify.com/artist/6I924s6x4qnOU181EbSGls)
 - **North By North w/ 1947** · 19:00 · unknown · $12 · [tickets](https://link.dice.fm/xd81001a0cb4?utm_source=jambase) [info](https://www.jambase.com/show/north-by-north-underground-music-venue-cafe-20261212) [spotify](https://open.spotify.com/artist/5IoXcA5DIDSG0QlNNoqQdZ)
+
+## Friday, December 18, 2026
+
+- **Glass Eyed Brother w/ Arcola, Sleepy Eye** · 19:00 · unknown · $10 · [tickets](https://link.dice.fm/T85f1d86999b?utm_source=jambase) [info](https://www.jambase.com/show/glass-eyed-brother-underground-music-venue-cafe-20261218)
 
 ## Saturday, December 19, 2026
 

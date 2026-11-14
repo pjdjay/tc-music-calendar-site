@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-14",
- "count": 58,
+ "count": 55,
  "shows": [
   {
    "id": "62a04a20a3dd",
@@ -21,18 +21,6 @@
    "hidden_category": "dj_night",
    "source": "https://mysticlake.com/shows-and-events/dj-smooth-blendz-nov14",
    "spotify": "https://open.spotify.com/artist/6MAfj6nFgM5eHxLSYJJUFK"
-  },
-  {
-   "id": "d729bf859bfc",
-   "headliner": "Family Rock! Brewery Edition",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "10:30",
-   "venue": "56 Brewing",
-   "venue_slug": "56-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://56brewing.com/event/family-rock-brewery-edition/2026-11-14/"
   },
   {
    "id": "af4e0dfed08a",
@@ -122,22 +110,6 @@
    "is_free": true,
    "tickets": "https://www.eventbrite.com/e/jiselle-mccollam-joe-twohy-registration-2004314969027",
    "source": "https://www.croonersmn.com/event/jiselle-mccollam-joe-twohy/"
-  },
-  {
-   "id": "965c9583b6d2",
-   "headliner": "The Brokedown Dollys",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "17:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "doors_time": "16:00",
-   "price": "No cover",
-   "is_free": true,
-   "age": "18+",
-   "source": "https://www.icehousempls.com/shows/the-brokedown-dollys/"
   },
   {
    "id": "5bda49d355b4",
@@ -277,7 +249,7 @@
    "venue_slug": "uptown-theater",
    "city": "Minneapolis",
    "genre": "rock/indie",
-   "price": "$34.25",
+   "price": "$41.25",
    "is_free": false,
    "age": "18+",
    "tickets": "https://www.livenation.com/event/vv17bZ_3GkTVS3x8/wookiefoot-18",
@@ -296,26 +268,11 @@
    "venue_slug": "varsity-theater",
    "city": "Minneapolis",
    "genre": "electronic",
-   "price": "$39.85",
+   "price": "$45",
    "is_free": false,
    "tickets": "https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls",
    "source": "https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls",
    "spotify": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
-  },
-  {
-   "id": "6b846a983caf",
-   "headliner": "Keenan TreVon",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "Underground Music Venue",
-   "venue_slug": "underground-music-venue",
-   "city": "Minneapolis",
-   "genre": "hip-hop/R&B",
-   "price": "$20",
-   "is_free": false,
-   "source": "https://www.jambase.com/show/keenan-trevon-underground-music-venue-cafe-20261114",
-   "spotify": "https://open.spotify.com/artist/3TRl3Kgn8RGc0sw5QDOMsW"
   },
   {
    "id": "054b90cc2ced",
@@ -381,6 +338,18 @@
    "spotify": "https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8"
   },
   {
+   "id": "9c824446a2b8",
+   "headliner": "Waiting for Walter",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "19:00",
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Twin Cities",
+   "genre": "unknown",
+   "source": "https://music.tcshows.org/"
+  },
+  {
    "id": "3e1949588b6f",
    "headliner": "Dan Ferstenou",
    "openers": [],
@@ -405,19 +374,6 @@
    "doors_time": "18:30",
    "source": "https://www.pilllar.com/collections/tickets/products/music-disaster-kid-11-14-2026",
    "spotify": "https://open.spotify.com/artist/11iu46IxtMdKtSL7qBpXgB"
-  },
-  {
-   "id": "35542ca4b26d",
-   "headliner": "Sammie Jean Cohen",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "56 Brewing",
-   "venue_slug": "56-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://56brewing.com/event/live-music-sammie-jean-cohen/",
-   "spotify": "https://open.spotify.com/artist/2UEwAXDWJPq5HkliXuUD1e"
   },
   {
    "id": "a9c66107ac07",
@@ -661,6 +617,29 @@
    "spotify": "https://open.spotify.com/artist/69MACpHHQg9ovd1retYWPq"
   },
   {
+   "id": "a340aa7a9a91",
+   "headliner": "Local.Fm",
+   "openers": [
+    "Damo",
+    "Logan Day",
+    "Roxanne",
+    "Lucky the Unfortunate",
+    "Midnight Gold",
+    "Rulo",
+    "Pross",
+    "Luke Suede"
+   ],
+   "date": "2026-11-14",
+   "start_time": "20:00",
+   "venue": "Celio Lounge",
+   "venue_slug": "celio-lounge",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$10 entry",
+   "is_free": false,
+   "source": "https://music.tcshows.org/"
+  },
+  {
    "id": "0546c9dd633d",
    "headliner": "LUCY (Cooper B. Handy)",
    "openers": [
@@ -824,27 +803,6 @@
    "tickets": "https://www.etix.com/ticket/p/81773637/42dugg-minneapolis-the-cabooze?partner_id=100",
    "source": "https://cabooze.com/event/42dugg/the-cabooze/",
    "spotify": "https://open.spotify.com/artist/5v3HhAurt26FxdtKu3plRs"
-  },
-  {
-   "id": "bd770ffce744",
-   "headliner": "House Sessions",
-   "openers": [
-    "Michael Grey",
-    "Alexis Rose",
-    "TNA!!!"
-   ],
-   "date": "2026-11-14",
-   "start_time": "22:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "21:00",
-   "price": "$10 adv / $15 door",
-   "is_free": false,
-   "age": "21+",
-   "tickets": "https://tix.gobo.show/events/event/x0QU98kyelyBLQ08JHgL/dates/SB0JGWAuYrB7PLaUVqbR?utm_source=icehousempls.com&utm_medium=website&utm_campaign=housesessions-20261114",
-   "source": "https://www.icehousempls.com/shows/house-sessions-feat-michael-grey-alexis-rose-tna/"
   },
   {
    "id": "e29100b31d68",

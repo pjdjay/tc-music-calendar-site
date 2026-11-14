@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,7 +7,7 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Dakota Jazz Club",
  "city": "Minneapolis",
- "count": 35,
+ "count": 28,
  "shows": [
   {
    "id": "2de6fa3d9bda",
@@ -56,21 +56,6 @@
    "price": "$47.10+",
    "is_free": false,
    "source": "https://www.dakotacooks.com/event/an-evening-with-cantus-and-we3-nov15-2026/"
-  },
-  {
-   "id": "33d645920c0a",
-   "headliner": "Charles Lloyd",
-   "openers": [],
-   "date": "2026-11-15",
-   "start_time": "19:30",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$74.91+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/charles-lloyd-quartet-nov15-2026/2026-11-15/2/",
-   "spotify": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
   },
   {
    "id": "d3c0f216443d",
@@ -168,21 +153,6 @@
    "spotify": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
   },
   {
-   "id": "ef8dc262ee5b",
-   "headliner": "Brother Ali",
-   "openers": [],
-   "date": "2026-11-21",
-   "start_time": "21:30",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "hip-hop/R&B",
-   "price": "$74.91+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/brother-ali/2026-11-21/2/",
-   "spotify": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-  },
-  {
    "id": "616785cc7dbe",
    "headliner": "Lee Roy Parnell",
    "openers": [
@@ -194,9 +164,7 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "price": "$47.10+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/lee-roy-parnell-nov22-2026/",
+   "source": "https://www.songkick.com/concerts/43404305-lee-roy-parnell-at-dakota?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ"
   },
   {
@@ -204,14 +172,12 @@
    "headliner": "Irish Christmas in America",
    "openers": [],
    "date": "2026-11-23",
-   "start_time": "19:00",
+   "start_time": "17:30",
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "Celtic/Irish",
-   "price": "$52.25+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/irish-christmas-in-america-nov23-2026/",
+   "source": "https://www.songkick.com/concerts/43376822-irish-christmas-in-america-at-dakota?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/4EQPkHLXgPUHVPbGCICXrl"
   },
   {
@@ -224,23 +190,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$81.09+",
+   "price": "$100.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/boney-james-nov24-2026/2026-11-24/1/"
-  },
-  {
-   "id": "faf0114f2b41",
-   "headliner": "Boney James",
-   "openers": [],
-   "date": "2026-11-24",
-   "start_time": "21:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$81.09+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/boney-james-nov24-2026/2026-11-24/2/"
+   "source": "https://www.jambase.com/show/boney-james-dakota-20261124"
   },
   {
    "id": "90e97354fd9d",
@@ -252,9 +204,7 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "price": "$35.77+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/the-belfast-cowboys-nov25-2026/",
+   "source": "https://www.songkick.com/concerts/43479236-belfast-cowboys-at-dakota?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/08TtJoCSiwqqoX89vz5Wyi"
   },
   {
@@ -266,10 +216,8 @@
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$47.10+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/thanksgiving-with-davina-and-the-vagabonds-nov26-2026/",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43460853-davina-and-the-vagabonds-at-dakota?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/3oLbVep4MpWVFfeLgdRVjd"
   },
   {
@@ -282,9 +230,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$74.91+",
+   "price": "$89.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/rickie-lee-jones-nov-2026/2026-11-27/",
+   "source": "https://www.jambase.com/show/rickie-lee-jones-dakota-20261127",
    "spotify": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
   },
   {
@@ -297,9 +245,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$74.91+",
+   "price": "$89.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/rickie-lee-jones-nov-2026/2026-11-28/",
+   "source": "https://www.jambase.com/show/rickie-lee-jones-dakota-20261128",
    "spotify": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
   },
   {
@@ -312,9 +260,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$74.91+",
+   "price": "$89.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/rickie-lee-jones-nov-2026/2026-11-29/",
+   "source": "https://www.jambase.com/show/rickie-lee-jones-dakota-20261129",
    "spotify": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
   },
   {
@@ -322,7 +270,7 @@
    "headliner": "Rachael & Vilray",
    "openers": [],
    "date": "2026-11-30",
-   "start_time": "18:30",
+   "start_time": "19:00",
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
@@ -330,26 +278,14 @@
    "price": "$61.90",
    "is_free": false,
    "tickets": "https://www.etix.com/ticket/p/68183817/rachael-vilray-minneapolis-dakota",
-   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-11-30/1/"
-  },
-  {
-   "id": "5d4cf31c8e36",
-   "headliner": "Rachael & Vilray",
-   "openers": [],
-   "date": "2026-11-30",
-   "start_time": "21:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-11-30/2/"
+   "source": "https://www.jambase.com/show/rachael-vilray-dakota-20261130"
   },
   {
    "id": "80df53e92a4e",
    "headliner": "Rachael & Vilray",
    "openers": [],
    "date": "2026-12-01",
-   "start_time": "18:30",
+   "start_time": "19:00",
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
@@ -357,26 +293,14 @@
    "price": "$61.90",
    "is_free": false,
    "tickets": "https://www.etix.com/ticket/p/98677694/rachael-vilray-minneapolis-dakota",
-   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-01/1/"
-  },
-  {
-   "id": "9ccbb582720c",
-   "headliner": "Rachael & Vilray",
-   "openers": [],
-   "date": "2026-12-01",
-   "start_time": "21:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-01/2/"
+   "source": "https://www.jambase.com/show/rachael-vilray-dakota-20261201"
   },
   {
    "id": "e05bfde7affe",
    "headliner": "Rachael & Vilray",
    "openers": [],
    "date": "2026-12-02",
-   "start_time": "18:30",
+   "start_time": "19:00",
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
@@ -384,19 +308,7 @@
    "price": "$61.90",
    "is_free": false,
    "tickets": "https://www.etix.com/ticket/p/31784651/rachael-vilray-minneapolis-dakota",
-   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-02/1/"
-  },
-  {
-   "id": "68f75df89345",
-   "headliner": "Rachael & Vilray",
-   "openers": [],
-   "date": "2026-12-02",
-   "start_time": "21:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-02/2/"
+   "source": "https://www.jambase.com/show/rachael-vilray-dakota-20261202"
   },
   {
    "id": "a3fc157024a6",
@@ -407,23 +319,11 @@
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "jazz/blues",
+   "genre": "unknown",
    "price": "$50.90",
    "is_free": false,
    "tickets": "https://www.etix.com/ticket/p/41197086/the-beautiful-day-kurt-elling-sings-christmas-minneapolis-dakota",
-   "source": "https://www.dakotacooks.com/event/the-beautiful-day-kurt-elling-sings-christmas-dec3-2026/2026-12-03/1/"
-  },
-  {
-   "id": "9bf8e688b411",
-   "headliner": "Kurt Elling",
-   "openers": [],
-   "date": "2026-12-03",
-   "start_time": "21:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "source": "https://www.dakotacooks.com/event/the-beautiful-day-kurt-elling-sings-christmas-dec3-2026/2026-12-03/2/"
+   "source": "https://www.jambase.com/show/kurt-elling-dakota-20261203"
   },
   {
    "id": "e0a86473d673",
@@ -435,9 +335,7 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "price": "$30.62+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/turn-turn-turn-dec4-2026/",
+   "source": "https://www.songkick.com/concerts/43410520-turn-turn-turn-at-dakota?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/4TfxzvKmJxQJYyAI9pW9Nl"
   },
   {
@@ -450,9 +348,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$52.25+",
+   "price": "$72.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/gunhild-carling-dec5-2026/"
+   "source": "https://www.jambase.com/show/gunhild-carling-dakota-20261205"
   },
   {
    "id": "2bb1415b0ffd",
@@ -464,38 +362,34 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "price": "$54.47+",
+   "price": "$52.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/mike-cooley-of-drive-by-truckers-dec6-2026/",
+   "source": "https://www.jambase.com/show/mike-cooley-dakota-20261206",
    "spotify": "https://open.spotify.com/artist/2EWc9JObJEzv9ob1hRXU6M"
   },
   {
    "id": "ac52bdcd8481",
-   "headliner": "Asleep At the Wheel",
+   "headliner": "Asleep at the Wheel",
    "openers": [],
    "date": "2026-12-07",
    "start_time": "19:00",
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "price": "$74.91+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/asleep-at-the-wheel-dec-2026/2026-12-07/"
+   "genre": "unknown",
+   "source": "https://www.jambase.com/show/asleep-at-the-wheel-dakota-20261207"
   },
   {
    "id": "631d3e0b0d18",
-   "headliner": "Asleep At the Wheel",
+   "headliner": "Asleep at the Wheel",
    "openers": [],
    "date": "2026-12-08",
    "start_time": "19:00",
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "price": "$74.91+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/asleep-at-the-wheel-dec-2026/2026-12-08/"
+   "genre": "unknown",
+   "source": "https://www.jambase.com/show/asleep-at-the-wheel-dakota-20261208"
   },
   {
    "id": "553775cca99a",
@@ -507,9 +401,7 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "price": "$52.25+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/esera-tuaolo-act-of-kindness-holiday-show-dec9-2026/"
+   "source": "https://www.songkick.com/concerts/43460858-esera-tuaolo-at-dakota?utm_medium=organic&utm_source=microformat"
   },
   {
    "id": "b609ef36f4b5",
@@ -520,10 +412,8 @@
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$41.95+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/karrin-allyson-yuletide-hideaway-dec11-2026/"
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43464578-karrin-allyson-at-dakota?utm_medium=organic&utm_source=microformat"
   }
  ]
 }

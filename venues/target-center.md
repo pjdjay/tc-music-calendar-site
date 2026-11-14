@@ -14,11 +14,11 @@
 
 ## Friday, December 11, 2026
 
-- **Garth Brooks** · 19:00 · country/folk/Americana · [info](https://www.targetcenter.com/events/detail/garthbrooks) [spotify](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7)
+- **Garth Brooks** · 20:00 · country/folk/Americana · [info](https://www.targetcenter.com/events/detail/garthbrooks) [spotify](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7)
 
 ## Saturday, December 12, 2026
 
-- **Garth Brooks** · 19:00 · country/folk/Americana · [tickets](https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg) [info](https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg) [spotify](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7)
+- **Garth Brooks** · 20:00 · country/folk/Americana · [tickets](https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg) [info](https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg) [spotify](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7)
 
 ## Sunday, December 20, 2026
 

@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-15",
- "count": 38,
+ "count": 34,
  "shows": [
   {
    "id": "e0733112f36a",
@@ -19,18 +19,6 @@
    "city": "Anoka",
    "genre": "unknown",
    "source": "https://heartofthecity.org/go/events/6795320?feature_id=480644&occurrence_id=786449291&popup=1"
-  },
-  {
-   "id": "e7065431624b",
-   "headliner": "Young Man",
-   "openers": [],
-   "date": "2026-11-15",
-   "start_time": "12:00",
-   "venue": "56 Brewing",
-   "venue_slug": "56-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://56brewing.com/event/young-man-9/2026-11-15/"
   },
   {
    "id": "0cf45990f944",
@@ -76,25 +64,6 @@
    "hidden_category": "residency",
    "recurrence": "some Sundays",
    "source": "https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-11-15"
-  },
-  {
-   "id": "030ea948260e",
-   "headliner": "Rachel Ries Residency",
-   "openers": [],
-   "date": "2026-11-15",
-   "start_time": "16:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "doors_time": "15:00",
-   "hidden_category": "residency",
-   "recurrence": "most Sundays",
-   "price": "$15 adv / $22 door",
-   "is_free": false,
-   "age": "18+",
-   "tickets": "https://icehouse.turntabletickets.com/shows/13411/2026-11-15?utm_source=icehousempls.com&utm_medium=website&utm_campaign=rachel-ries-20261115",
-   "source": "https://www.icehousempls.com/shows/rachel-ries-residency-saint-grandmas-garage-icehouse/"
   },
   {
    "id": "cbd442db3ad5",
@@ -445,21 +414,6 @@
    "spotify": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
   },
   {
-   "id": "33d645920c0a",
-   "headliner": "Charles Lloyd",
-   "openers": [],
-   "date": "2026-11-15",
-   "start_time": "19:30",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$74.91+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/charles-lloyd-quartet-nov15-2026/2026-11-15/2/",
-   "spotify": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-  },
-  {
    "id": "2af0174a3e8c",
    "headliner": "Duo Andalus",
    "openers": [],
@@ -532,25 +486,6 @@
    "hidden_category": "residency",
    "recurrence": "every Sunday",
    "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-15"
-  },
-  {
-   "id": "3bfac2566505",
-   "headliner": "Obi Original and The Black Atlantics",
-   "openers": [],
-   "date": "2026-11-15",
-   "start_time": "21:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "20:00",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
-   "price": "$10",
-   "is_free": false,
-   "age": "21+",
-   "tickets": "https://tix.gobo.show/events/event/tt-44654/dates/H0SRBEaHAKRMr2qBhM7p?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261115",
-   "source": "https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-15/"
   },
   {
    "id": "58f7e64d30bd",

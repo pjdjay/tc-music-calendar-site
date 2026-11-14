@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
- "count": 807,
+ "count": 778,
  "shows": [
   {
    "id": "62a04a20a3dd",
@@ -20,18 +20,6 @@
    "hidden_category": "dj_night",
    "source": "https://mysticlake.com/shows-and-events/dj-smooth-blendz-nov14",
    "spotify": "https://open.spotify.com/artist/6MAfj6nFgM5eHxLSYJJUFK"
-  },
-  {
-   "id": "d729bf859bfc",
-   "headliner": "Family Rock! Brewery Edition",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "10:30",
-   "venue": "56 Brewing",
-   "venue_slug": "56-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://56brewing.com/event/family-rock-brewery-edition/2026-11-14/"
   },
   {
    "id": "af4e0dfed08a",
@@ -121,22 +109,6 @@
    "is_free": true,
    "tickets": "https://www.eventbrite.com/e/jiselle-mccollam-joe-twohy-registration-2004314969027",
    "source": "https://www.croonersmn.com/event/jiselle-mccollam-joe-twohy/"
-  },
-  {
-   "id": "965c9583b6d2",
-   "headliner": "The Brokedown Dollys",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "17:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "doors_time": "16:00",
-   "price": "No cover",
-   "is_free": true,
-   "age": "18+",
-   "source": "https://www.icehousempls.com/shows/the-brokedown-dollys/"
   },
   {
    "id": "5bda49d355b4",
@@ -276,7 +248,7 @@
    "venue_slug": "uptown-theater",
    "city": "Minneapolis",
    "genre": "rock/indie",
-   "price": "$34.25",
+   "price": "$41.25",
    "is_free": false,
    "age": "18+",
    "tickets": "https://www.livenation.com/event/vv17bZ_3GkTVS3x8/wookiefoot-18",
@@ -295,26 +267,11 @@
    "venue_slug": "varsity-theater",
    "city": "Minneapolis",
    "genre": "electronic",
-   "price": "$39.85",
+   "price": "$45",
    "is_free": false,
    "tickets": "https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls",
    "source": "https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls",
    "spotify": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
-  },
-  {
-   "id": "6b846a983caf",
-   "headliner": "Keenan TreVon",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "Underground Music Venue",
-   "venue_slug": "underground-music-venue",
-   "city": "Minneapolis",
-   "genre": "hip-hop/R&B",
-   "price": "$20",
-   "is_free": false,
-   "source": "https://www.jambase.com/show/keenan-trevon-underground-music-venue-cafe-20261114",
-   "spotify": "https://open.spotify.com/artist/3TRl3Kgn8RGc0sw5QDOMsW"
   },
   {
    "id": "054b90cc2ced",
@@ -380,6 +337,18 @@
    "spotify": "https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8"
   },
   {
+   "id": "9c824446a2b8",
+   "headliner": "Waiting for Walter",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "19:00",
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Twin Cities",
+   "genre": "unknown",
+   "source": "https://music.tcshows.org/"
+  },
+  {
    "id": "3e1949588b6f",
    "headliner": "Dan Ferstenou",
    "openers": [],
@@ -404,19 +373,6 @@
    "doors_time": "18:30",
    "source": "https://www.pilllar.com/collections/tickets/products/music-disaster-kid-11-14-2026",
    "spotify": "https://open.spotify.com/artist/11iu46IxtMdKtSL7qBpXgB"
-  },
-  {
-   "id": "35542ca4b26d",
-   "headliner": "Sammie Jean Cohen",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "56 Brewing",
-   "venue_slug": "56-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://56brewing.com/event/live-music-sammie-jean-cohen/",
-   "spotify": "https://open.spotify.com/artist/2UEwAXDWJPq5HkliXuUD1e"
   },
   {
    "id": "a9c66107ac07",
@@ -660,6 +616,29 @@
    "spotify": "https://open.spotify.com/artist/69MACpHHQg9ovd1retYWPq"
   },
   {
+   "id": "a340aa7a9a91",
+   "headliner": "Local.Fm",
+   "openers": [
+    "Damo",
+    "Logan Day",
+    "Roxanne",
+    "Lucky the Unfortunate",
+    "Midnight Gold",
+    "Rulo",
+    "Pross",
+    "Luke Suede"
+   ],
+   "date": "2026-11-14",
+   "start_time": "20:00",
+   "venue": "Celio Lounge",
+   "venue_slug": "celio-lounge",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$10 entry",
+   "is_free": false,
+   "source": "https://music.tcshows.org/"
+  },
+  {
    "id": "0546c9dd633d",
    "headliner": "LUCY (Cooper B. Handy)",
    "openers": [
@@ -825,27 +804,6 @@
    "spotify": "https://open.spotify.com/artist/5v3HhAurt26FxdtKu3plRs"
   },
   {
-   "id": "bd770ffce744",
-   "headliner": "House Sessions",
-   "openers": [
-    "Michael Grey",
-    "Alexis Rose",
-    "TNA!!!"
-   ],
-   "date": "2026-11-14",
-   "start_time": "22:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "21:00",
-   "price": "$10 adv / $15 door",
-   "is_free": false,
-   "age": "21+",
-   "tickets": "https://tix.gobo.show/events/event/x0QU98kyelyBLQ08JHgL/dates/SB0JGWAuYrB7PLaUVqbR?utm_source=icehousempls.com&utm_medium=website&utm_campaign=housesessions-20261114",
-   "source": "https://www.icehousempls.com/shows/house-sessions-feat-michael-grey-alexis-rose-tna/"
-  },
-  {
    "id": "e29100b31d68",
    "headliner": "Post Animal",
    "openers": [
@@ -908,18 +866,6 @@
    "source": "https://heartofthecity.org/go/events/6795320?feature_id=480644&occurrence_id=786449291&popup=1"
   },
   {
-   "id": "e7065431624b",
-   "headliner": "Young Man",
-   "openers": [],
-   "date": "2026-11-15",
-   "start_time": "12:00",
-   "venue": "56 Brewing",
-   "venue_slug": "56-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://56brewing.com/event/young-man-9/2026-11-15/"
-  },
-  {
    "id": "0cf45990f944",
    "headliner": "International Treasures",
    "openers": [
@@ -963,25 +909,6 @@
    "hidden_category": "residency",
    "recurrence": "some Sundays",
    "source": "https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-11-15"
-  },
-  {
-   "id": "030ea948260e",
-   "headliner": "Rachel Ries Residency",
-   "openers": [],
-   "date": "2026-11-15",
-   "start_time": "16:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "doors_time": "15:00",
-   "hidden_category": "residency",
-   "recurrence": "most Sundays",
-   "price": "$15 adv / $22 door",
-   "is_free": false,
-   "age": "18+",
-   "tickets": "https://icehouse.turntabletickets.com/shows/13411/2026-11-15?utm_source=icehousempls.com&utm_medium=website&utm_campaign=rachel-ries-20261115",
-   "source": "https://www.icehousempls.com/shows/rachel-ries-residency-saint-grandmas-garage-icehouse/"
   },
   {
    "id": "cbd442db3ad5",
@@ -1332,21 +1259,6 @@
    "spotify": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
   },
   {
-   "id": "33d645920c0a",
-   "headliner": "Charles Lloyd",
-   "openers": [],
-   "date": "2026-11-15",
-   "start_time": "19:30",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$74.91+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/charles-lloyd-quartet-nov15-2026/2026-11-15/2/",
-   "spotify": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-  },
-  {
    "id": "2af0174a3e8c",
    "headliner": "Duo Andalus",
    "openers": [],
@@ -1419,25 +1331,6 @@
    "hidden_category": "residency",
    "recurrence": "every Sunday",
    "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-15"
-  },
-  {
-   "id": "3bfac2566505",
-   "headliner": "Obi Original and The Black Atlantics",
-   "openers": [],
-   "date": "2026-11-15",
-   "start_time": "21:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "20:00",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
-   "price": "$10",
-   "is_free": false,
-   "age": "21+",
-   "tickets": "https://tix.gobo.show/events/event/tt-44654/dates/H0SRBEaHAKRMr2qBhM7p?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261115",
-   "source": "https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-15/"
   },
   {
    "id": "58f7e64d30bd",
@@ -1686,25 +1579,6 @@
    "hidden_category": "residency",
    "recurrence": "every Monday",
    "source": "https://troubadourwinebar.com/events"
-  },
-  {
-   "id": "44e9b82c9748",
-   "headliner": "L.A.’s Monday Nights",
-   "openers": [],
-   "date": "2026-11-16",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "19:00",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
-   "price": "$10",
-   "is_free": false,
-   "age": "18+",
-   "tickets": "https://tix.gobo.show/events/event/tt-43268/dates/TR4j5VDMBfXou2nm1EHT?utm_source=icehousempls.com&utm_medium=website&utm_campaign=l-a-s-monday-nights-20261116",
-   "source": "https://www.icehousempls.com/shows/l-a-s-monday-nights-18/"
   },
   {
    "id": "4e41ef55206e",
@@ -2120,6 +1994,21 @@
    "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
   },
   {
+   "id": "bad8771f133a",
+   "headliner": "Mike Baggetta",
+   "openers": [
+    "Eli Winter"
+   ],
+   "date": "2026-11-18",
+   "start_time": "19:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "source": "https://www.songkick.com/concerts/43342914-mike-baggetta-at-icehouse?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/1Rf2dSdjhyLSXRzatVwdFX"
+  },
+  {
    "id": "3e50592bdc43",
    "headliner": "Squirrel Flower",
    "openers": [
@@ -2313,27 +2202,6 @@
    "spotify": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
   },
   {
-   "id": "bad8771f133a",
-   "headliner": "Mike Baggetta",
-   "openers": [
-    "Winnie",
-    "Eli Winter"
-   ],
-   "date": "2026-11-18",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "doors_time": "18:00",
-   "price": "$15 adv / $22 door",
-   "is_free": false,
-   "age": "21+",
-   "tickets": "https://icehouse.turntabletickets.com/shows/12493/2026-11-18?utm_source=icehousempls.com&utm_medium=website&utm_campaign=mike-baggetta-eli-winter-20261118",
-   "source": "https://www.icehousempls.com/shows/mike-baggetta-eli-winter-double-solos-tour-at-icehouse-minneapolis/",
-   "spotify": "https://open.spotify.com/artist/1Rf2dSdjhyLSXRzatVwdFX"
-  },
-  {
    "id": "cdf48a9e18ea",
    "headliner": "Clash Minne Rockers",
    "openers": [
@@ -2439,7 +2307,9 @@
   {
    "id": "4945b965cdc5",
    "headliner": "Front Porch Swingin' Liquor Pigs",
-   "openers": [],
+   "openers": [
+    "Qrrrky"
+   ],
    "date": "2026-11-19",
    "start_time": "17:00",
    "venue": "Hook and Ladder",
@@ -2737,25 +2607,6 @@
    "age": "21+",
    "tickets": "https://www.axs.com/events/1670872/a-twin-cities-all-star-90s-tribute-tickets?skin=turfclub",
    "source": "https://first-avenue.com/event/2026-11-twin-cities-all-star-90s-tribute/"
-  },
-  {
-   "id": "3e6c77a8fdbe",
-   "headliner": "Elsa Krantz Debut Album Release",
-   "openers": [
-    "Nikki Lemire Quartet"
-   ],
-   "date": "2026-11-19",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "18:00",
-   "price": "$20 adv / $27 door",
-   "is_free": false,
-   "age": "18+",
-   "tickets": "https://icehouse.turntabletickets.com/shows/13368/2026-11-19?utm_source=icehousempls.com&utm_medium=website&utm_campaign=elsa-krantz-20261119",
-   "source": "https://www.icehousempls.com/shows/elsa-krantz-debut-album-release-with-nikki-lemire-quartet/"
   },
   {
    "id": "f94c9b8ee97c",
@@ -3144,19 +2995,6 @@
    "source": "https://driftwoodcharbar.com/"
   },
   {
-   "id": "3cc2c78ee4cb",
-   "headliner": "Squid City Slingers",
-   "openers": [],
-   "date": "2026-11-20",
-   "start_time": "19:00",
-   "venue": "56 Brewing",
-   "venue_slug": "56-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://56brewing.com/event/live-music-squid-city-slingers-2/",
-   "spotify": "https://open.spotify.com/artist/2kglI0o7rM52XzTs1nNIvY"
-  },
-  {
    "id": "172bf45b427c",
    "headliner": "The Jugsluggers",
    "openers": [],
@@ -3280,26 +3118,6 @@
    "tickets": "https://link.dice.fm/L6848c80ae8c",
    "source": "https://theparkwaytheater.com/all-events/high-48s-20th",
    "spotify": "https://open.spotify.com/artist/2J7WvdhzleWvO1XRa5xBZK"
-  },
-  {
-   "id": "0dab75d0970f",
-   "headliner": "Callback & Scorched Waves (co-headline)",
-   "openers": [
-    "Pullstring",
-    "Call Me Fritz"
-   ],
-   "date": "2026-11-20",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "18:00",
-   "price": "$12 adv / $20 door",
-   "is_free": false,
-   "age": "18+",
-   "tickets": "https://tix.gobo.show/events/event/mqo0SBEZkxhNxfruuDJS/dates/OTIQLqFOYZkT63zLyn2R?utm_source=icehousempls.com&utm_medium=website&utm_campaign=callback-20261120",
-   "source": "https://www.icehousempls.com/shows/callback-scorched-waves-co-headline-w-pullstring-and-call-me-fritz/"
   },
   {
    "id": "3606b6ab44e8",
@@ -3429,7 +3247,7 @@
    "end_date": "2026-11-21",
    "price": "$19.06",
    "is_free": false,
-   "tickets": "https://dice.fm/event/6af249c5cc479800017873b4",
+   "tickets": "https://link.dice.fm/Y6cc031d79c9?utm_source=jambase",
    "source": "https://dice.fm/event/6af249c5cc479800017873b4"
   },
   {
@@ -3748,7 +3566,7 @@
    "venue_slug": "fillmore-minneapolis",
    "city": "Minneapolis",
    "genre": "hip-hop/R&B",
-   "price": "$288.50",
+   "price": "$182.30",
    "is_free": false,
    "tickets": "https://www.ticketmaster.com/fetty-wap-nostalgia-tour-minneapolis-minnesota-11-21-2026/event/060064ABC4911EC3",
    "source": "https://www.ticketmaster.com/fetty-wap-nostalgia-tour-minneapolis-minnesota-11-21-2026/event/060064ABC4911EC3",
@@ -4130,7 +3948,7 @@
    "venue_slug": "armory",
    "city": "Minneapolis",
    "genre": "electronic",
-   "price": "$62.15",
+   "price": "$70.90",
    "is_free": false,
    "tickets": "https://www.livenation.com/event/vvG1bZ_GKi_TYR/tape-b-saturday-pass",
    "source": "https://www.livenation.com/event/vvG1bZ_GKi_TYR/tape-b-saturday-pass",
@@ -4196,21 +4014,6 @@
    "end_date": "2026-11-22",
    "source": "https://whitesquirrelbar.com/event/the-dirty-pretty/",
    "spotify": "https://open.spotify.com/artist/1uQXU3sLMPGUt8rnqQaQG4"
-  },
-  {
-   "id": "ef8dc262ee5b",
-   "headliner": "Brother Ali",
-   "openers": [],
-   "date": "2026-11-21",
-   "start_time": "21:30",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "hip-hop/R&B",
-   "price": "$74.91+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/brother-ali/2026-11-21/2/",
-   "spotify": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
   },
   {
    "id": "f307443d5ddc",
@@ -4417,9 +4220,7 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "price": "$47.10+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/lee-roy-parnell-nov22-2026/",
+   "source": "https://www.songkick.com/concerts/43404305-lee-roy-parnell-at-dakota?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ"
   },
   {
@@ -4570,6 +4371,19 @@
    "spotify": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
   },
   {
+   "id": "d888aef00066",
+   "headliner": "Irish Christmas in America",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "17:30",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "Celtic/Irish",
+   "source": "https://www.songkick.com/concerts/43376822-irish-christmas-in-america-at-dakota?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/4EQPkHLXgPUHVPbGCICXrl"
+  },
+  {
    "id": "f4d96f83de3f",
    "headliner": "HonkyTonk Ranch",
    "openers": [],
@@ -4644,21 +4458,6 @@
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/ben-dunnills-i-loved-you-in-november-tour-tickets-1998993676899",
    "source": "https://www.croonersmn.com/event/ben-dunnills-i-loved-you-in-november-tour/"
-  },
-  {
-   "id": "d888aef00066",
-   "headliner": "Irish Christmas in America",
-   "openers": [],
-   "date": "2026-11-23",
-   "start_time": "19:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "Celtic/Irish",
-   "price": "$52.25+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/irish-christmas-in-america-nov23-2026/",
-   "spotify": "https://open.spotify.com/artist/4EQPkHLXgPUHVPbGCICXrl"
   },
   {
    "id": "e288eab21495",
@@ -4786,25 +4585,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$81.09+",
+   "price": "$100.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/boney-james-nov24-2026/2026-11-24/1/"
-  },
-  {
-   "id": "63f5441e1ff2",
-   "headliner": "Breaking Thread: Fly Tie Meet-up",
-   "openers": [],
-   "date": "2026-11-24",
-   "start_time": "18:30",
-   "venue": "56 Brewing",
-   "venue_slug": "56-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "some Tuesdays",
-   "price": "free admission",
-   "is_free": true,
-   "source": "https://56brewing.com/event/breaking-thread-fly-tie-meet-up-3/2026-11-24/"
+   "source": "https://www.jambase.com/show/boney-james-dakota-20261124"
   },
   {
    "id": "7cee2dd4b14d",
@@ -4928,20 +4711,6 @@
    "spotify": "https://open.spotify.com/artist/5aFbadR0TINJ22xzCR995P"
   },
   {
-   "id": "faf0114f2b41",
-   "headliner": "Boney James",
-   "openers": [],
-   "date": "2026-11-24",
-   "start_time": "21:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$81.09+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/boney-james-nov24-2026/2026-11-24/2/"
-  },
-  {
    "id": "ba8ef2fea3ff",
    "headliner": "Deejay St. Joel",
    "openers": [],
@@ -4953,18 +4722,6 @@
    "genre": "unknown",
    "hidden_category": "dj_night",
    "source": "https://mysticlake.com/shows-and-events/dj-stjoel-nov25"
-  },
-  {
-   "id": "aa4bdaac556f",
-   "headliner": "Parralily",
-   "openers": [],
-   "date": "2026-11-25",
-   "start_time": "16:00",
-   "venue": "56 Brewing",
-   "venue_slug": "56-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://56brewing.com/event/parralily-3/2026-11-25/"
   },
   {
    "id": "fd757822a085",
@@ -5084,9 +4841,7 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "price": "$35.77+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/the-belfast-cowboys-nov25-2026/",
+   "source": "https://www.songkick.com/concerts/43479236-belfast-cowboys-at-dakota?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/08TtJoCSiwqqoX89vz5Wyi"
   },
   {
@@ -5223,23 +4978,6 @@
    "source": "https://first-avenue.com/event/2026-11-cole-diamonds-twangsgiving/"
   },
   {
-   "id": "781cb0366814",
-   "headliner": "DonFest 2",
-   "openers": [],
-   "date": "2026-11-25",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "18:00",
-   "price": "$13 adv / $20 door",
-   "is_free": false,
-   "age": "18+",
-   "tickets": "https://icehouse.turntabletickets.com/shows/13329/2026-11-25?utm_source=icehousempls.com&utm_medium=website&utm_campaign=haters-club-20261125",
-   "source": "https://www.icehousempls.com/shows/donfest-2/"
-  },
-  {
    "id": "4a8311db8a0a",
    "headliner": "the night before",
    "openers": [],
@@ -5336,10 +5074,8 @@
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$47.10+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/thanksgiving-with-davina-and-the-vagabonds-nov26-2026/",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43460853-davina-and-the-vagabonds-at-dakota?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/3oLbVep4MpWVFfeLgdRVjd"
   },
   {
@@ -5746,23 +5482,6 @@
    "source": "https://www.memorylanes.com/live-music-events-minneapolis/"
   },
   {
-   "id": "79670fdb8d57",
-   "headliner": "Phantom Fears and Synchronicities – Tribute to Rush and the Police",
-   "openers": [],
-   "date": "2026-11-27",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "rock/indie",
-   "doors_time": "18:00",
-   "price": "$25 adv / $32 door",
-   "is_free": false,
-   "age": "21+",
-   "tickets": "https://tix.gobo.show/events/event/w6RTN8KZEuNguHGhPREJ/dates/RjsifBYBHgOIETgbYbV1?utm_source=icehousempls.com&utm_medium=website&utm_campaign=phantom-fears-20261127",
-   "source": "https://www.icehousempls.com/shows/phantom-fears-and-synchronicities-tribute-to-rush-and-the-police/"
-  },
-  {
    "id": "c97b58aa3011",
    "headliner": "Rickie Lee Jones",
    "openers": [],
@@ -5772,9 +5491,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$74.91+",
+   "price": "$89.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/rickie-lee-jones-nov-2026/2026-11-27/",
+   "source": "https://www.jambase.com/show/rickie-lee-jones-dakota-20261127",
    "spotify": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
   },
   {
@@ -6157,23 +5876,6 @@
    "source": "https://www.croonersmn.com/event/christmas-soul-joy-with-kijana-gant/"
   },
   {
-   "id": "ba87969337f1",
-   "headliner": "Scott Laurent – Somewhere Along The Line Record Release",
-   "openers": [],
-   "date": "2026-11-28",
-   "start_time": "19:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "18:00",
-   "price": "$18 adv / $25 door",
-   "is_free": false,
-   "age": "18+",
-   "tickets": "https://icehouse.turntabletickets.com/shows/13703/2026-11-28?utm_source=icehousempls.com&utm_medium=website&utm_campaign=scott-laurent-20261128",
-   "source": "https://www.icehousempls.com/shows/scott-laurent-somewhere-along-the-line-record-release/"
-  },
-  {
    "id": "a57d48de8250",
    "headliner": "Shoeless Revolution",
    "openers": [
@@ -6430,9 +6132,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$74.91+",
+   "price": "$89.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/rickie-lee-jones-nov-2026/2026-11-28/",
+   "source": "https://www.jambase.com/show/rickie-lee-jones-dakota-20261128",
    "spotify": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
   },
   {
@@ -6705,7 +6407,7 @@
    "venue_slug": "fillmore-minneapolis",
    "city": "Minneapolis",
    "genre": "metal/punk",
-   "price": "$45.75",
+   "price": "$149.85",
    "is_free": false,
    "tickets": "https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-minneapolis-minnesota-11-29-2026/event/060064C4A3F1924C",
    "source": "https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-minneapolis-minnesota-11-29-2026/event/060064C4A3F1924C",
@@ -6740,22 +6442,6 @@
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/the-holiday-songbook-tickets-1993943406404",
    "source": "https://www.croonersmn.com/event/the-holiday-songbook-4/"
-  },
-  {
-   "id": "2620be7abe11",
-   "headliner": "Tim Sparks and Ben Abrahamson",
-   "openers": [],
-   "date": "2026-11-29",
-   "start_time": "17:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "16:00",
-   "price": "No cover",
-   "is_free": true,
-   "age": "21+",
-   "source": "https://www.icehousempls.com/shows/tim-sparks-and-ben-abrahamson/"
   },
   {
    "id": "4be6944c4984",
@@ -6891,9 +6577,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$74.91+",
+   "price": "$89.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/rickie-lee-jones-nov-2026/2026-11-29/",
+   "source": "https://www.jambase.com/show/rickie-lee-jones-dakota-20261129",
    "spotify": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
   },
   {
@@ -6956,21 +6642,6 @@
    "genre": "country/folk/Americana",
    "source": "https://whitesquirrelbar.com/event/pop-wagner/",
    "spotify": "https://open.spotify.com/artist/1sFxQhVtg7yStQLFhS9OlY"
-  },
-  {
-   "id": "04a1c7251bb3",
-   "headliner": "Rachael & Vilray",
-   "openers": [],
-   "date": "2026-11-30",
-   "start_time": "18:30",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$61.90",
-   "is_free": false,
-   "tickets": "https://www.etix.com/ticket/p/68183817/rachael-vilray-minneapolis-dakota",
-   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-11-30/1/"
   },
   {
    "id": "33109770f79c",
@@ -7040,6 +6711,21 @@
    "spotify": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
   },
   {
+   "id": "04a1c7251bb3",
+   "headliner": "Rachael & Vilray",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "19:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$61.90",
+   "is_free": false,
+   "tickets": "https://www.etix.com/ticket/p/68183817/rachael-vilray-minneapolis-dakota",
+   "source": "https://www.jambase.com/show/rachael-vilray-dakota-20261130"
+  },
+  {
    "id": "4d59b352bab9",
    "headliner": "SPIKED! Put Some Punch in Your Holidays",
    "openers": [],
@@ -7084,18 +6770,6 @@
    "is_free": false,
    "source": "https://www.memorylanes.com/live-music-events-minneapolis/",
    "spotify": "https://open.spotify.com/artist/0ycrrURijKFnOIrhPjPvZF"
-  },
-  {
-   "id": "5d4cf31c8e36",
-   "headliner": "Rachael & Vilray",
-   "openers": [],
-   "date": "2026-11-30",
-   "start_time": "21:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-11-30/2/"
   },
   {
    "id": "decda4ece61a",
@@ -7154,21 +6828,6 @@
    "spotify": "https://open.spotify.com/artist/0l16reYqmLwCXePRrQKpf4"
   },
   {
-   "id": "80df53e92a4e",
-   "headliner": "Rachael & Vilray",
-   "openers": [],
-   "date": "2026-12-01",
-   "start_time": "18:30",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$61.90",
-   "is_free": false,
-   "tickets": "https://www.etix.com/ticket/p/98677694/rachael-vilray-minneapolis-dakota",
-   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-01/1/"
-  },
-  {
    "id": "d697fefc9fbd",
    "headliner": "Preservation Hall Jazz Band",
    "openers": [],
@@ -7215,6 +6874,21 @@
    "tickets": "https://www.eventbrite.com/e/home-for-the-holidays-with-the-four-freshmen-tickets-1993937358314",
    "source": "https://www.croonersmn.com/event/home-for-the-holidays-with-the-four-freshmen/",
    "spotify": "https://open.spotify.com/artist/2A4YAeUVDUcyOZ0GPTL3WF"
+  },
+  {
+   "id": "80df53e92a4e",
+   "headliner": "Rachael & Vilray",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "19:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$61.90",
+   "is_free": false,
+   "tickets": "https://www.etix.com/ticket/p/98677694/rachael-vilray-minneapolis-dakota",
+   "source": "https://www.jambase.com/show/rachael-vilray-dakota-20261201"
   },
   {
    "id": "0733ef42ac24",
@@ -7264,18 +6938,6 @@
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/kat-edmonson-have-your-merry-christmas-with-me-tickets-1999224266599",
    "source": "https://www.croonersmn.com/event/kat-edmonson-have-your-merry-christmas-with-me-2/"
-  },
-  {
-   "id": "9ccbb582720c",
-   "headliner": "Rachael & Vilray",
-   "openers": [],
-   "date": "2026-12-01",
-   "start_time": "21:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-01/2/"
   },
   {
    "id": "670584fe219b",
@@ -7370,21 +7032,6 @@
    "source": "https://whitesquirrelbar.com/event/the-second-stringers-w-special-guests/"
   },
   {
-   "id": "e05bfde7affe",
-   "headliner": "Rachael & Vilray",
-   "openers": [],
-   "date": "2026-12-02",
-   "start_time": "18:30",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$61.90",
-   "is_free": false,
-   "tickets": "https://www.etix.com/ticket/p/31784651/rachael-vilray-minneapolis-dakota",
-   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-02/1/"
-  },
-  {
    "id": "cc0e98e19d51",
    "headliner": "“Happy Holi-Dane”",
    "openers": [],
@@ -7437,6 +7084,21 @@
    "tickets": "https://www.axs.com/events/1488198/tiny-habits-tickets?skin=fineline",
    "source": "https://first-avenue.com/event/2026-12-tiny-habits/",
    "spotify": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+  },
+  {
+   "id": "e05bfde7affe",
+   "headliner": "Rachael & Vilray",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "19:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$61.90",
+   "is_free": false,
+   "tickets": "https://www.etix.com/ticket/p/31784651/rachael-vilray-minneapolis-dakota",
+   "source": "https://www.jambase.com/show/rachael-vilray-dakota-20261202"
   },
   {
    "id": "ca4253540a0a",
@@ -7513,37 +7175,6 @@
    "age": "all_ages",
    "tickets": "https://www.axs.com/events/1644013/sahn-tickets?skin=firstavenue",
    "source": "https://first-avenue.com/event/2026-12-sahn/"
-  },
-  {
-   "id": "a9a595e68895",
-   "headliner": "Starlight Vinyl Night",
-   "openers": [
-    "DJ Shane Kramer"
-   ],
-   "date": "2026-12-02",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "18:00",
-   "hidden_category": "dj_night",
-   "price": "No cover",
-   "is_free": true,
-   "age": "21+",
-   "source": "https://www.icehousempls.com/shows/starlight-vinyl-night-with-dj-shane-kramer/"
-  },
-  {
-   "id": "68f75df89345",
-   "headliner": "Rachael & Vilray",
-   "openers": [],
-   "date": "2026-12-02",
-   "start_time": "21:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-02/2/"
   },
   {
    "id": "1b478239ad3e",
@@ -7724,11 +7355,11 @@
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "jazz/blues",
+   "genre": "unknown",
    "price": "$50.90",
    "is_free": false,
    "tickets": "https://www.etix.com/ticket/p/41197086/the-beautiful-day-kurt-elling-sings-christmas-minneapolis-dakota",
-   "source": "https://www.dakotacooks.com/event/the-beautiful-day-kurt-elling-sings-christmas-dec3-2026/2026-12-03/1/"
+   "source": "https://www.jambase.com/show/kurt-elling-dakota-20261203"
   },
   {
    "id": "98204cf8ffea",
@@ -7853,18 +7484,6 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://thedublinerpub.com/show/test-site-67/?lre_date=2026-12-03"
-  },
-  {
-   "id": "9bf8e688b411",
-   "headliner": "Kurt Elling",
-   "openers": [],
-   "date": "2026-12-03",
-   "start_time": "21:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "source": "https://www.dakotacooks.com/event/the-beautiful-day-kurt-elling-sings-christmas-dec3-2026/2026-12-03/2/"
   },
   {
    "id": "03fbcd2fd57e",
@@ -8110,9 +7729,7 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "price": "$30.62+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/turn-turn-turn-dec4-2026/",
+   "source": "https://www.songkick.com/concerts/43410520-turn-turn-turn-at-dakota?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/4TfxzvKmJxQJYyAI9pW9Nl"
   },
   {
@@ -8317,23 +7934,6 @@
    "genre": "Latin",
    "doors_time": "19:00",
    "source": "https://www.thecedar.org/events/dos-santos"
-  },
-  {
-   "id": "74d35a8c46d7",
-   "headliner": "Willy Porter and The Humans in a Room Quartet",
-   "openers": [],
-   "date": "2026-12-04",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "doors_time": "18:00",
-   "price": "$30 adv / $37 door",
-   "is_free": false,
-   "age": "18+",
-   "tickets": "https://icehouse.turntabletickets.com/shows/13280/2026-12-04?utm_source=icehousempls.com&utm_medium=website&utm_campaign=willy-porter-20261204",
-   "source": "https://www.icehousempls.com/shows/willy-porter-and-the-humans-in-a-room-quartet/"
   },
   {
    "id": "aa4fdbbd3947",
@@ -8690,39 +8290,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "jazz/blues",
-   "price": "$52.25+",
+   "price": "$72.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/gunhild-carling-dec5-2026/"
-  },
-  {
-   "id": "2a1134357f6c",
-   "headliner": "Mature Content: Cuffing Season",
-   "openers": [],
-   "date": "2026-12-05",
-   "start_time": "19:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "19:00",
-   "price": "$15",
-   "is_free": false,
-   "age": "21+",
-   "tickets": "https://tix.gobo.show/events/event/u79eHwlOs64mWbUdbWCd/dates/Kc2d32qEXNHC8Hugq77X?utm_source=icehousempls.com&utm_medium=website&utm_campaign=grrrl-scout-20261205",
-   "source": "https://www.icehousempls.com/shows/mature-content-cuffing-season/"
-  },
-  {
-   "id": "029fbc5db053",
-   "headliner": "Extermination Day Album Release Party",
-   "openers": [],
-   "date": "2026-12-05",
-   "start_time": "19:00",
-   "venue": "56 Brewing",
-   "venue_slug": "56-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://56brewing.com/event/live-music-extermination-day-album-release-party/",
-   "spotify": "https://open.spotify.com/artist/2st1iswEKoPdxE3hxiRN0G"
+   "source": "https://www.jambase.com/show/gunhild-carling-dakota-20261205"
   },
   {
    "id": "b831db8737b5",
@@ -8862,8 +8432,8 @@
    "spotify": "https://open.spotify.com/artist/5O6aSojwSiK1j8hOm6Akph"
   },
   {
-   "id": "384b5ccad94d",
-   "headliner": "Demitrious Rallis Band",
+   "id": "782ea9a7ac66",
+   "headliner": "Demitrious Rallis",
    "openers": [],
    "date": "2026-12-05",
    "start_time": "20:00",
@@ -8872,6 +8442,7 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "age": "21+",
+   "tickets": "https://app.opendate.io/e/demitrious-rallis-band-december-05-2026-758805?utm_source=jambase",
    "source": "https://thehookmpls.com/shows/demitrious-rallis-band-december-05-2026-758805"
   },
   {
@@ -9189,23 +8760,6 @@
    "source": "https://www.croonersmn.com/event/the-big-christmas-singalong-with-jay-fuchs-and-doug-anderson-12/"
   },
   {
-   "id": "7112bd3f20bc",
-   "headliner": "Twin Cities Flamenco Collective: Holiday Show",
-   "openers": [],
-   "date": "2026-12-06",
-   "start_time": "17:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "Latin",
-   "doors_time": "16:00",
-   "price": "$20 adv / $25 door",
-   "is_free": false,
-   "age": "all_ages",
-   "tickets": "https://icehouse.turntabletickets.com/shows/9411/2026-12-06?utm_source=icehousempls.com&utm_medium=website&utm_campaign=twin-cities-flamenco-collective-20261206",
-   "source": "https://www.icehousempls.com/shows/twin-cities-flamenco-collective-at-icehouse-minneapolis-2/"
-  },
-  {
    "id": "5e184ffc312b",
    "headliner": "DragonForce",
    "openers": [
@@ -9368,9 +8922,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "price": "$54.47+",
+   "price": "$52.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/mike-cooley-of-drive-by-truckers-dec6-2026/",
+   "source": "https://www.jambase.com/show/mike-cooley-dakota-20261206",
    "spotify": "https://open.spotify.com/artist/2EWc9JObJEzv9ob1hRXU6M"
   },
   {
@@ -9534,17 +9088,15 @@
   },
   {
    "id": "ac52bdcd8481",
-   "headliner": "Asleep At the Wheel",
+   "headliner": "Asleep at the Wheel",
    "openers": [],
    "date": "2026-12-07",
    "start_time": "19:00",
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "price": "$74.91+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/asleep-at-the-wheel-dec-2026/2026-12-07/"
+   "genre": "unknown",
+   "source": "https://www.jambase.com/show/asleep-at-the-wheel-dakota-20261207"
   },
   {
    "id": "67c73a44f5d4",
@@ -9717,17 +9269,15 @@
   },
   {
    "id": "631d3e0b0d18",
-   "headliner": "Asleep At the Wheel",
+   "headliner": "Asleep at the Wheel",
    "openers": [],
    "date": "2026-12-08",
    "start_time": "19:00",
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "price": "$74.91+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/asleep-at-the-wheel-dec-2026/2026-12-08/"
+   "genre": "unknown",
+   "source": "https://www.jambase.com/show/asleep-at-the-wheel-dakota-20261208"
   },
   {
    "id": "476462e9a2b4",
@@ -9854,9 +9404,7 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "price": "$52.25+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/esera-tuaolo-act-of-kindness-holiday-show-dec9-2026/"
+   "source": "https://www.songkick.com/concerts/43460858-esera-tuaolo-at-dakota?utm_medium=organic&utm_source=microformat"
   },
   {
    "id": "38ec0d8b0516",
@@ -9900,23 +9448,6 @@
    "age": "18+",
    "tickets": "https://www.axs.com/events/1627710/chris-simpson-of-mineral-tickets?skin=firstavenue",
    "source": "https://first-avenue.com/event/2026-12-chris-simpson-of-mineral/"
-  },
-  {
-   "id": "7ee7f4d6523c",
-   "headliner": "cool nel d and Ciao Bello",
-   "openers": [],
-   "date": "2026-12-09",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "18:00",
-   "price": "$15 adv / $20 door",
-   "is_free": false,
-   "age": "21+",
-   "tickets": "https://tix.gobo.show/events/event/zpw0phWZap161NFPmOss/dates/4AGJzX8WGlqOtGHX5urF?utm_source=icehousempls.com&utm_medium=website&utm_campaign=ciao-bello-20261209",
-   "source": "https://www.icehousempls.com/shows/cool-ned-d-and-ciao-bello/"
   },
   {
    "id": "dcb97bdb470c",
@@ -10104,7 +9635,6 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "age": "21+",
-   "tickets": "https://app.opendate.io/e/the-steepwater-band-december-10-2026-751118?utm_source=jambase",
    "source": "https://thehookmpls.com/shows/the-steepwater-band-december-10-2026-751118",
    "spotify": "https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J"
   },
@@ -10281,19 +9811,6 @@
    "source": "https://www.jambase.com/show/ditch-pigeon-underground-music-venue-cafe-20261211"
   },
   {
-   "id": "07a1b04bde71",
-   "headliner": "Garth Brooks",
-   "openers": [],
-   "date": "2026-12-11",
-   "start_time": "19:00",
-   "venue": "Target Center",
-   "venue_slug": "target-center",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "source": "https://www.targetcenter.com/events/detail/garthbrooks",
-   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
-  },
-  {
    "id": "4ee847c1608d",
    "headliner": "Minnesota Orchestra: Home Alone in Concert with the Minnesota Orchestra",
    "openers": [],
@@ -10346,10 +9863,8 @@
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$41.95+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/karrin-allyson-yuletide-hideaway-dec11-2026/"
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43464578-karrin-allyson-at-dakota?utm_medium=organic&utm_source=microformat"
   },
   {
    "id": "db1bb945e158",
@@ -10458,6 +9973,19 @@
    "source": "https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events"
   },
   {
+   "id": "07a1b04bde71",
+   "headliner": "Garth Brooks",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.targetcenter.com/events/detail/garthbrooks",
+   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+  },
+  {
    "id": "90ea71b9dff8",
    "headliner": "House of Heavy",
    "openers": [],
@@ -10507,23 +10035,6 @@
    "tickets": "https://www.axs.com/events/1405649/temples-tickets?skin=turfclub",
    "source": "https://first-avenue.com/event/2026-12-temples/",
    "spotify": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-  },
-  {
-   "id": "3105d85a5390",
-   "headliner": "The Seasons Show",
-   "openers": [],
-   "date": "2026-12-11",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "18:00",
-   "price": "$15 adv / $22 door",
-   "is_free": false,
-   "age": "21+",
-   "tickets": "https://tix.gobo.show/events/event/42gKPBbQOFaWYBlqUBCh/dates/YseogTXYWNVbrkqsBwyJ?utm_source=icehousempls.com&utm_medium=website&utm_campaign=kion-rose-20261211",
-   "source": "https://www.icehousempls.com/shows/kion-rose-presents-the-seasons-show/"
   },
   {
    "id": "481b1cca3879",
@@ -10760,20 +10271,6 @@
    "source": "https://first-avenue.com/event/2026-12-earlybirds-club-90s-vs-00s/"
   },
   {
-   "id": "2174dc5f62b0",
-   "headliner": "Garth Brooks",
-   "openers": [],
-   "date": "2026-12-12",
-   "start_time": "19:00",
-   "venue": "Target Center",
-   "venue_slug": "target-center",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg",
-   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg",
-   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
-  },
-  {
    "id": "b38d62be8eb9",
    "headliner": "Home Alone in Concert",
    "openers": [],
@@ -10837,11 +10334,25 @@
    "venue_slug": "armory",
    "city": "Minneapolis",
    "genre": "hip-hop/R&B",
-   "price": "$123.50",
+   "price": "$143.60",
    "is_free": false,
    "tickets": "https://www.livenation.com/event/vv1AkZkfYGkd_ao6R/a-boogie-wit-da-hoodie-10-years-of-artist",
    "source": "https://www.livenation.com/event/vv1AkZkfYGkd_ao6R/a-boogie-wit-da-hoodie-10-years-of-artist",
    "spotify": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+  },
+  {
+   "id": "2174dc5f62b0",
+   "headliner": "Garth Brooks",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg",
+   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
   },
   {
    "id": "cca2cabcd1a0",
@@ -11036,6 +10547,24 @@
    "tickets": "https://www.ticketmaster.com/event/0600651CC610C0EA?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_SARAEVANS26",
    "source": "https://mysticlake.com/shows-and-events/sara-evans",
    "spotify": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+  },
+  {
+   "id": "d87fb1ac6713",
+   "headliner": "Glass Eyed Brother",
+   "openers": [
+    "Arcola",
+    "Sleepy Eye"
+   ],
+   "date": "2026-12-18",
+   "start_time": "19:00",
+   "venue": "Underground Music Venue",
+   "venue_slug": "underground-music-venue",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$10",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/T85f1d86999b?utm_source=jambase",
+   "source": "https://www.jambase.com/show/glass-eyed-brother-underground-music-venue-cafe-20261218"
   },
   {
    "id": "de3e73115ee6",
@@ -11416,7 +10945,9 @@
    "venue_slug": "armory",
    "city": "Minneapolis",
    "genre": "electronic",
-   "tickets": "https://www.ticketmaster.com/marshmello-minneapolis-minnesota-12-30-2026/event/0600655DF05EE809",
+   "price": "$76.55",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vv17bZ_4GkMY9mOa/marshmello",
    "source": "https://www.livenation.com/event/vv17bZ_4GkMY9mOa/marshmello",
    "spotify": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
   },
@@ -11528,7 +11059,9 @@
    "city": "Minneapolis",
    "genre": "Latin",
    "hidden_category": "dj_night",
-   "tickets": "https://www.ticketmaster.com/reventon-nye-2027-with-cristian-baca-minneapolis-minnesota-12-31-2026/event/0600656209693C60",
+   "price": "$21.30",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vv1FbZ_pFaQKZdu6v/reventon-nye-2027-with-cristian-baca",
    "source": "https://www.livenation.com/event/vv1FbZ_pFaQKZdu6v/reventon-nye-2027-with-cristian-baca"
   },
   {
@@ -11661,6 +11194,7 @@
    "recurrence": "most Saturdays",
    "price": "$39 Advance / $44 At The Door",
    "is_free": false,
+   "tickets": "https://link.dice.fm/V6975b8b24bb?utm_source=jambase",
    "source": "https://theparkwaytheater.com/all-events/lissie-2027",
    "spotify": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
   },
@@ -11868,6 +11402,8 @@
    "venue_slug": "fillmore-minneapolis",
    "city": "Minneapolis",
    "genre": "unknown",
+   "price": "$77",
+   "is_free": false,
    "tickets": "https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76",
    "source": "https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76",
    "spotify": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"

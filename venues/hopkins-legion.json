@@ -1,0 +1,25 @@
+{
+ "generated_at": "2026-11-14T19:08:29+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Hopkins Legion",
+ "city": "Twin Cities",
+ "count": 1,
+ "shows": [
+  {
+   "id": "9c824446a2b8",
+   "headliner": "Waiting for Walter",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "19:00",
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Twin Cities",
+   "genre": "unknown",
+   "source": "https://music.tcshows.org/"
+  }
+ ]
+}

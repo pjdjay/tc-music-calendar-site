@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-06",
- "count": 25,
+ "count": 24,
  "shows": [
   {
    "id": "29f9b33178c3",
@@ -142,23 +142,6 @@
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/the-big-christmas-singalong-with-jay-fuchs-and-doug-anderson-tickets-1993889642595",
    "source": "https://www.croonersmn.com/event/the-big-christmas-singalong-with-jay-fuchs-and-doug-anderson-12/"
-  },
-  {
-   "id": "7112bd3f20bc",
-   "headliner": "Twin Cities Flamenco Collective: Holiday Show",
-   "openers": [],
-   "date": "2026-12-06",
-   "start_time": "17:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "Latin",
-   "doors_time": "16:00",
-   "price": "$20 adv / $25 door",
-   "is_free": false,
-   "age": "all_ages",
-   "tickets": "https://icehouse.turntabletickets.com/shows/9411/2026-12-06?utm_source=icehousempls.com&utm_medium=website&utm_campaign=twin-cities-flamenco-collective-20261206",
-   "source": "https://www.icehousempls.com/shows/twin-cities-flamenco-collective-at-icehouse-minneapolis-2/"
   },
   {
    "id": "5e184ffc312b",
@@ -323,9 +306,9 @@
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "price": "$54.47+",
+   "price": "$52.90",
    "is_free": false,
-   "source": "https://www.dakotacooks.com/event/mike-cooley-of-drive-by-truckers-dec6-2026/",
+   "source": "https://www.jambase.com/show/mike-cooley-dakota-20261206",
    "spotify": "https://open.spotify.com/artist/2EWc9JObJEzv9ob1hRXU6M"
   },
   {

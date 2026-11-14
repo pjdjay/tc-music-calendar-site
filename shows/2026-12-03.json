@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-03",
- "count": 23,
+ "count": 22,
  "shows": [
   {
    "id": "f06646e7b605",
@@ -170,11 +170,11 @@
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "jazz/blues",
+   "genre": "unknown",
    "price": "$50.90",
    "is_free": false,
    "tickets": "https://www.etix.com/ticket/p/41197086/the-beautiful-day-kurt-elling-sings-christmas-minneapolis-dakota",
-   "source": "https://www.dakotacooks.com/event/the-beautiful-day-kurt-elling-sings-christmas-dec3-2026/2026-12-03/1/"
+   "source": "https://www.jambase.com/show/kurt-elling-dakota-20261203"
   },
   {
    "id": "98204cf8ffea",
@@ -299,18 +299,6 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://thedublinerpub.com/show/test-site-67/?lre_date=2026-12-03"
-  },
-  {
-   "id": "9bf8e688b411",
-   "headliner": "Kurt Elling",
-   "openers": [],
-   "date": "2026-12-03",
-   "start_time": "21:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "source": "https://www.dakotacooks.com/event/the-beautiful-day-kurt-elling-sings-christmas-dec3-2026/2026-12-03/2/"
   },
   {
    "id": "03fbcd2fd57e",

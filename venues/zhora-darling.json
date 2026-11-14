@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -115,7 +115,7 @@
    "end_date": "2026-11-21",
    "price": "$19.06",
    "is_free": false,
-   "tickets": "https://dice.fm/event/6af249c5cc479800017873b4",
+   "tickets": "https://link.dice.fm/Y6cc031d79c9?utm_source=jambase",
    "source": "https://dice.fm/event/6af249c5cc479800017873b4"
   },
   {

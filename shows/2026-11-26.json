@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -17,10 +17,8 @@
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$47.10+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/thanksgiving-with-davina-and-the-vagabonds-nov26-2026/",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43460853-davina-and-the-vagabonds-at-dakota?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/3oLbVep4MpWVFfeLgdRVjd"
   },
   {

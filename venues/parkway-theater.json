@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -311,6 +311,7 @@
    "recurrence": "most Saturdays",
    "price": "$39 Advance / $44 At The Door",
    "is_free": false,
+   "tickets": "https://link.dice.fm/V6975b8b24bb?utm_source=jambase",
    "source": "https://theparkwaytheater.com/all-events/lissie-2027",
    "spotify": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
   },

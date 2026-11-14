@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -152,6 +152,21 @@
    "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAvA73",
    "source": "https://www.dakotacooks.com/event/an-evening-with-lucinda-williams-her-band-nov-2026/2026-11-18/",
    "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+  },
+  {
+   "id": "bad8771f133a",
+   "headliner": "Mike Baggetta",
+   "openers": [
+    "Eli Winter"
+   ],
+   "date": "2026-11-18",
+   "start_time": "19:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "source": "https://www.songkick.com/concerts/43342914-mike-baggetta-at-icehouse?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/1Rf2dSdjhyLSXRzatVwdFX"
   },
   {
    "id": "3e50592bdc43",
@@ -345,27 +360,6 @@
    "tickets": "https://www.axs.com/events/1462571/ghostwoman-tickets?skin=turfclub",
    "source": "https://first-avenue.com/event/2026-11-ghostwoman/",
    "spotify": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
-  },
-  {
-   "id": "bad8771f133a",
-   "headliner": "Mike Baggetta",
-   "openers": [
-    "Winnie",
-    "Eli Winter"
-   ],
-   "date": "2026-11-18",
-   "start_time": "20:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "doors_time": "18:00",
-   "price": "$15 adv / $22 door",
-   "is_free": false,
-   "age": "21+",
-   "tickets": "https://icehouse.turntabletickets.com/shows/12493/2026-11-18?utm_source=icehousempls.com&utm_medium=website&utm_campaign=mike-baggetta-eli-winter-20261118",
-   "source": "https://www.icehousempls.com/shows/mike-baggetta-eli-winter-double-solos-tour-at-icehouse-minneapolis/",
-   "spotify": "https://open.spotify.com/artist/1Rf2dSdjhyLSXRzatVwdFX"
   },
   {
    "id": "cdf48a9e18ea",

@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-21",
- "count": 47,
+ "count": 46,
  "shows": [
   {
    "id": "57e83775fc80",
@@ -208,7 +208,7 @@
    "venue_slug": "fillmore-minneapolis",
    "city": "Minneapolis",
    "genre": "hip-hop/R&B",
-   "price": "$288.50",
+   "price": "$182.30",
    "is_free": false,
    "tickets": "https://www.ticketmaster.com/fetty-wap-nostalgia-tour-minneapolis-minnesota-11-21-2026/event/060064ABC4911EC3",
    "source": "https://www.ticketmaster.com/fetty-wap-nostalgia-tour-minneapolis-minnesota-11-21-2026/event/060064ABC4911EC3",
@@ -590,7 +590,7 @@
    "venue_slug": "armory",
    "city": "Minneapolis",
    "genre": "electronic",
-   "price": "$62.15",
+   "price": "$70.90",
    "is_free": false,
    "tickets": "https://www.livenation.com/event/vvG1bZ_GKi_TYR/tape-b-saturday-pass",
    "source": "https://www.livenation.com/event/vvG1bZ_GKi_TYR/tape-b-saturday-pass",
@@ -656,21 +656,6 @@
    "end_date": "2026-11-22",
    "source": "https://whitesquirrelbar.com/event/the-dirty-pretty/",
    "spotify": "https://open.spotify.com/artist/1uQXU3sLMPGUt8rnqQaQG4"
-  },
-  {
-   "id": "ef8dc262ee5b",
-   "headliner": "Brother Ali",
-   "openers": [],
-   "date": "2026-11-21",
-   "start_time": "21:30",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "hip-hop/R&B",
-   "price": "$74.91+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/brother-ali/2026-11-21/2/",
-   "spotify": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
   },
   {
    "id": "f307443d5ddc",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:41:38+00:00",
+ "generated_at": "2026-11-14T19:08:29+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -71,7 +71,9 @@
   {
    "id": "4945b965cdc5",
    "headliner": "Front Porch Swingin' Liquor Pigs",
-   "openers": [],
+   "openers": [
+    "Qrrrky"
+   ],
    "date": "2026-11-19",
    "start_time": "17:00",
    "venue": "Hook and Ladder",
@@ -306,8 +308,8 @@
    "source": "https://thehookmpls.com/shows/rawk-the-halls-with-the-silverteens-mary-strand-the-garage-and-the-hell-and-the-quiet-december-04-2026-745388"
   },
   {
-   "id": "384b5ccad94d",
-   "headliner": "Demitrious Rallis Band",
+   "id": "782ea9a7ac66",
+   "headliner": "Demitrious Rallis",
    "openers": [],
    "date": "2026-12-05",
    "start_time": "20:00",
@@ -316,6 +318,7 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "age": "21+",
+   "tickets": "https://app.opendate.io/e/demitrious-rallis-band-december-05-2026-758805?utm_source=jambase",
    "source": "https://thehookmpls.com/shows/demitrious-rallis-band-december-05-2026-758805"
   },
   {
@@ -359,7 +362,6 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "age": "21+",
-   "tickets": "https://app.opendate.io/e/the-steepwater-band-december-10-2026-751118?utm_source=jambase",
    "source": "https://thehookmpls.com/shows/the-steepwater-band-december-10-2026-751118",
    "spotify": "https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J"
   },
