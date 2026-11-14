@@ -1,0 +1,671 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "count": 66,
+ "venues": [
+  {
+   "slug": "10k-brewing",
+   "venue": "10K Brewing",
+   "city": "Anoka",
+   "show_count": 8,
+   "first_date": "2026-11-13",
+   "last_date": "2026-11-28",
+   "json": "https://music.tcshows.org/venues/10k-brewing.json",
+   "markdown": "https://music.tcshows.org/venues/10k-brewing.md"
+  },
+  {
+   "slug": "201-tavern",
+   "venue": "201 Tavern",
+   "city": "Anoka",
+   "show_count": 2,
+   "first_date": "2026-11-14",
+   "last_date": "2026-11-21",
+   "json": "https://music.tcshows.org/venues/201-tavern.json",
+   "markdown": "https://music.tcshows.org/venues/201-tavern.md"
+  },
+  {
+   "slug": "331-club",
+   "venue": "331 Club",
+   "city": "Minneapolis",
+   "show_count": 30,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-10",
+   "json": "https://music.tcshows.org/venues/331-club.json",
+   "markdown": "https://music.tcshows.org/venues/331-club.md"
+  },
+  {
+   "slug": "56-brewing",
+   "venue": "56 Brewing",
+   "city": "Minneapolis",
+   "show_count": 8,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-05",
+   "json": "https://music.tcshows.org/venues/56-brewing.json",
+   "markdown": "https://music.tcshows.org/venues/56-brewing.md"
+  },
+  {
+   "slug": "7th-st-entry",
+   "venue": "7th St Entry",
+   "city": "Minneapolis",
+   "show_count": 22,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-10",
+   "json": "https://music.tcshows.org/venues/7th-st-entry.json",
+   "markdown": "https://music.tcshows.org/venues/7th-st-entry.md"
+  },
+  {
+   "slug": "ames-center",
+   "venue": "Ames Center",
+   "city": "Burnsville",
+   "show_count": 8,
+   "first_date": "2026-11-14",
+   "last_date": "2026-12-31",
+   "json": "https://music.tcshows.org/venues/ames-center.json",
+   "markdown": "https://music.tcshows.org/venues/ames-center.md"
+  },
+  {
+   "slug": "amsterdam-bar-hall",
+   "venue": "Amsterdam Bar & Hall",
+   "city": "St. Paul",
+   "show_count": 22,
+   "first_date": "2026-11-13",
+   "last_date": "2027-01-30",
+   "json": "https://music.tcshows.org/venues/amsterdam-bar-hall.json",
+   "markdown": "https://music.tcshows.org/venues/amsterdam-bar-hall.md"
+  },
+  {
+   "slug": "animales-barbeque",
+   "venue": "Animales Barbeque",
+   "city": "Minneapolis",
+   "show_count": 5,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-05",
+   "json": "https://music.tcshows.org/venues/animales-barbeque.json",
+   "markdown": "https://music.tcshows.org/venues/animales-barbeque.md"
+  },
+  {
+   "slug": "armory",
+   "venue": "Armory",
+   "city": "Minneapolis",
+   "show_count": 9,
+   "first_date": "2026-11-13",
+   "last_date": "2027-01-09",
+   "json": "https://music.tcshows.org/venues/armory.json",
+   "markdown": "https://music.tcshows.org/venues/armory.md"
+  },
+  {
+   "slug": "aster-cafe",
+   "venue": "Aster Cafe",
+   "city": "Minneapolis",
+   "show_count": 3,
+   "first_date": "2026-11-27",
+   "last_date": "2026-11-29",
+   "json": "https://music.tcshows.org/venues/aster-cafe.json",
+   "markdown": "https://music.tcshows.org/venues/aster-cafe.md"
+  },
+  {
+   "slug": "berlin",
+   "venue": "Berlin",
+   "city": "Minneapolis",
+   "show_count": 27,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-05",
+   "json": "https://music.tcshows.org/venues/berlin.json",
+   "markdown": "https://music.tcshows.org/venues/berlin.md"
+  },
+  {
+   "slug": "bunker-s",
+   "venue": "Bunker's",
+   "city": "Minneapolis",
+   "show_count": 11,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-05",
+   "json": "https://music.tcshows.org/venues/bunker-s.json",
+   "markdown": "https://music.tcshows.org/venues/bunker-s.md"
+  },
+  {
+   "slug": "cabooze",
+   "venue": "Cabooze",
+   "city": "Minneapolis",
+   "show_count": 9,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-17",
+   "json": "https://music.tcshows.org/venues/cabooze.json",
+   "markdown": "https://music.tcshows.org/venues/cabooze.md"
+  },
+  {
+   "slug": "celtic-junction",
+   "venue": "Celtic Junction",
+   "city": "St. Paul",
+   "show_count": 6,
+   "first_date": "2026-11-14",
+   "last_date": "2026-11-30",
+   "json": "https://music.tcshows.org/venues/celtic-junction.json",
+   "markdown": "https://music.tcshows.org/venues/celtic-junction.md"
+  },
+  {
+   "slug": "cloudland-theater",
+   "venue": "Cloudland Theater",
+   "city": "Minneapolis",
+   "show_count": 6,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-05",
+   "json": "https://music.tcshows.org/venues/cloudland-theater.json",
+   "markdown": "https://music.tcshows.org/venues/cloudland-theater.md"
+  },
+  {
+   "slug": "crooners",
+   "venue": "Crooners",
+   "city": "Fridley",
+   "show_count": 62,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-10",
+   "json": "https://music.tcshows.org/venues/crooners.json",
+   "markdown": "https://music.tcshows.org/venues/crooners.md"
+  },
+  {
+   "slug": "dakota-jazz-club",
+   "venue": "Dakota Jazz Club",
+   "city": "Minneapolis",
+   "show_count": 35,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-09",
+   "json": "https://music.tcshows.org/venues/dakota-jazz-club.json",
+   "markdown": "https://music.tcshows.org/venues/dakota-jazz-club.md"
+  },
+  {
+   "slug": "driftwood-char-bar",
+   "venue": "Driftwood Char Bar",
+   "city": "Minneapolis",
+   "show_count": 25,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-10",
+   "json": "https://music.tcshows.org/venues/driftwood-char-bar.json",
+   "markdown": "https://music.tcshows.org/venues/driftwood-char-bar.md"
+  },
+  {
+   "slug": "dubliner-pub",
+   "venue": "Dubliner Pub",
+   "city": "St. Paul",
+   "show_count": 23,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-07",
+   "json": "https://music.tcshows.org/venues/dubliner-pub.json",
+   "markdown": "https://music.tcshows.org/venues/dubliner-pub.md"
+  },
+  {
+   "slug": "eme-antro-bar",
+   "venue": "EME Antro Bar",
+   "city": "Minneapolis",
+   "show_count": 1,
+   "first_date": "2026-12-04",
+   "last_date": "2026-12-04",
+   "json": "https://music.tcshows.org/venues/eme-antro-bar.json",
+   "markdown": "https://music.tcshows.org/venues/eme-antro-bar.md"
+  },
+  {
+   "slug": "excelsior-brewing",
+   "venue": "Excelsior Brewing",
+   "city": "Excelsior",
+   "show_count": 9,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-05",
+   "json": "https://music.tcshows.org/venues/excelsior-brewing.json",
+   "markdown": "https://music.tcshows.org/venues/excelsior-brewing.md"
+  },
+  {
+   "slug": "fillmore-minneapolis",
+   "venue": "Fillmore Minneapolis",
+   "city": "Minneapolis",
+   "show_count": 11,
+   "first_date": "2026-11-18",
+   "last_date": "2027-01-16",
+   "json": "https://music.tcshows.org/venues/fillmore-minneapolis.json",
+   "markdown": "https://music.tcshows.org/venues/fillmore-minneapolis.md"
+  },
+  {
+   "slug": "fine-line",
+   "venue": "Fine Line",
+   "city": "Minneapolis",
+   "show_count": 27,
+   "first_date": "2026-11-13",
+   "last_date": "2027-02-03",
+   "json": "https://music.tcshows.org/venues/fine-line.json",
+   "markdown": "https://music.tcshows.org/venues/fine-line.md"
+  },
+  {
+   "slug": "first-avenue",
+   "venue": "First Avenue",
+   "city": "Minneapolis",
+   "show_count": 26,
+   "first_date": "2026-11-13",
+   "last_date": "2027-01-30",
+   "json": "https://music.tcshows.org/venues/first-avenue.json",
+   "markdown": "https://music.tcshows.org/venues/first-avenue.md"
+  },
+  {
+   "slug": "first-universalist-church-of-minneapolis",
+   "venue": "First Universalist Church of Minneapolis",
+   "city": "Minneapolis",
+   "show_count": 1,
+   "first_date": "2026-12-13",
+   "last_date": "2026-12-13",
+   "json": "https://music.tcshows.org/venues/first-universalist-church-of-minneapolis.json",
+   "markdown": "https://music.tcshows.org/venues/first-universalist-church-of-minneapolis.md"
+  },
+  {
+   "slug": "fitzgerald-theater",
+   "venue": "Fitzgerald Theater",
+   "city": "St. Paul",
+   "show_count": 5,
+   "first_date": "2026-11-15",
+   "last_date": "2027-02-02",
+   "json": "https://music.tcshows.org/venues/fitzgerald-theater.json",
+   "markdown": "https://music.tcshows.org/venues/fitzgerald-theater.md"
+  },
+  {
+   "slug": "foe-eagles-no-34",
+   "venue": "FOE Eagles No. 34",
+   "city": "Minneapolis",
+   "show_count": 1,
+   "first_date": "2026-11-18",
+   "last_date": "2026-11-18",
+   "json": "https://music.tcshows.org/venues/foe-eagles-no-34.json",
+   "markdown": "https://music.tcshows.org/venues/foe-eagles-no-34.md"
+  },
+  {
+   "slug": "ginkgo",
+   "venue": "Ginkgo",
+   "city": "St. Paul",
+   "show_count": 6,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-04",
+   "json": "https://music.tcshows.org/venues/ginkgo.json",
+   "markdown": "https://music.tcshows.org/venues/ginkgo.md"
+  },
+  {
+   "slug": "granada-theater",
+   "venue": "Granada Theater",
+   "city": "Minneapolis",
+   "show_count": 4,
+   "first_date": "2026-11-21",
+   "last_date": "2026-11-28",
+   "json": "https://music.tcshows.org/venues/granada-theater.json",
+   "markdown": "https://music.tcshows.org/venues/granada-theater.md"
+  },
+  {
+   "slug": "grand-casino-arena",
+   "venue": "Grand Casino Arena",
+   "city": "St. Paul",
+   "show_count": 1,
+   "first_date": "2026-12-04",
+   "last_date": "2026-12-04",
+   "json": "https://music.tcshows.org/venues/grand-casino-arena.json",
+   "markdown": "https://music.tcshows.org/venues/grand-casino-arena.md"
+  },
+  {
+   "slug": "green-room",
+   "venue": "Green Room",
+   "city": "Minneapolis",
+   "show_count": 13,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-08",
+   "json": "https://music.tcshows.org/venues/green-room.json",
+   "markdown": "https://music.tcshows.org/venues/green-room.md"
+  },
+  {
+   "slug": "heart-of-the-city",
+   "venue": "Heart of the City",
+   "city": "Anoka",
+   "show_count": 1,
+   "first_date": "2026-11-15",
+   "last_date": "2026-11-15",
+   "json": "https://music.tcshows.org/venues/heart-of-the-city.json",
+   "markdown": "https://music.tcshows.org/venues/heart-of-the-city.md"
+  },
+  {
+   "slug": "hennepin-avenue-united-methodist-church",
+   "venue": "Hennepin Avenue United Methodist Church",
+   "city": "Minneapolis",
+   "show_count": 1,
+   "first_date": "2026-12-06",
+   "last_date": "2026-12-06",
+   "json": "https://music.tcshows.org/venues/hennepin-avenue-united-methodist-church.json",
+   "markdown": "https://music.tcshows.org/venues/hennepin-avenue-united-methodist-church.md"
+  },
+  {
+   "slug": "hook-and-ladder",
+   "venue": "Hook and Ladder",
+   "city": "Minneapolis",
+   "show_count": 24,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-10",
+   "json": "https://music.tcshows.org/venues/hook-and-ladder.json",
+   "markdown": "https://music.tcshows.org/venues/hook-and-ladder.md"
+  },
+  {
+   "slug": "icehouse",
+   "venue": "Icehouse",
+   "city": "Minneapolis",
+   "show_count": 19,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-09",
+   "json": "https://music.tcshows.org/venues/icehouse.json",
+   "markdown": "https://music.tcshows.org/venues/icehouse.md"
+  },
+  {
+   "slug": "inbound-brewco",
+   "venue": "Inbound BrewCo",
+   "city": "Minneapolis",
+   "show_count": 3,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-05",
+   "json": "https://music.tcshows.org/venues/inbound-brewco.json",
+   "markdown": "https://music.tcshows.org/venues/inbound-brewco.md"
+  },
+  {
+   "slug": "memory-lanes",
+   "venue": "Memory Lanes",
+   "city": "Minneapolis",
+   "show_count": 7,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-04",
+   "json": "https://music.tcshows.org/venues/memory-lanes.json",
+   "markdown": "https://music.tcshows.org/venues/memory-lanes.md"
+  },
+  {
+   "slug": "metronome-brewery",
+   "venue": "MetroNOME Brewery",
+   "city": "St. Paul",
+   "show_count": 16,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-10",
+   "json": "https://music.tcshows.org/venues/metronome-brewery.json",
+   "markdown": "https://music.tcshows.org/venues/metronome-brewery.md"
+  },
+  {
+   "slug": "midway-saloon",
+   "venue": "Midway Saloon",
+   "city": "St. Paul",
+   "show_count": 1,
+   "first_date": "2026-11-18",
+   "last_date": "2026-11-18",
+   "json": "https://music.tcshows.org/venues/midway-saloon.json",
+   "markdown": "https://music.tcshows.org/venues/midway-saloon.md"
+  },
+  {
+   "slug": "music-box-theatre",
+   "venue": "Music Box Theatre",
+   "city": "Minneapolis",
+   "show_count": 1,
+   "first_date": "2026-11-28",
+   "last_date": "2026-11-28",
+   "json": "https://music.tcshows.org/venues/music-box-theatre.json",
+   "markdown": "https://music.tcshows.org/venues/music-box-theatre.md"
+  },
+  {
+   "slug": "mystic-lake-free-stages",
+   "venue": "Mystic Lake free stages",
+   "city": "Prior Lake",
+   "show_count": 13,
+   "first_date": "2026-11-13",
+   "last_date": "2026-11-28",
+   "json": "https://music.tcshows.org/venues/mystic-lake-free-stages.json",
+   "markdown": "https://music.tcshows.org/venues/mystic-lake-free-stages.md"
+  },
+  {
+   "slug": "mystic-lake-showroom",
+   "venue": "Mystic Lake Showroom",
+   "city": "Prior Lake",
+   "show_count": 11,
+   "first_date": "2026-11-13",
+   "last_date": "2027-01-29",
+   "json": "https://music.tcshows.org/venues/mystic-lake-showroom.json",
+   "markdown": "https://music.tcshows.org/venues/mystic-lake-showroom.md"
+  },
+  {
+   "slug": "myth-live",
+   "venue": "Myth Live",
+   "city": "Maplewood",
+   "show_count": 9,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-12",
+   "json": "https://music.tcshows.org/venues/myth-live.json",
+   "markdown": "https://music.tcshows.org/venues/myth-live.md"
+  },
+  {
+   "slug": "northrop-auditorium",
+   "venue": "Northrop Auditorium",
+   "city": "Minneapolis",
+   "show_count": 1,
+   "first_date": "2026-11-17",
+   "last_date": "2026-11-17",
+   "json": "https://music.tcshows.org/venues/northrop-auditorium.json",
+   "markdown": "https://music.tcshows.org/venues/northrop-auditorium.md"
+  },
+  {
+   "slug": "orchestra-hall",
+   "venue": "Orchestra Hall",
+   "city": "Minneapolis",
+   "show_count": 27,
+   "first_date": "2026-11-13",
+   "last_date": "2027-01-24",
+   "json": "https://music.tcshows.org/venues/orchestra-hall.json",
+   "markdown": "https://music.tcshows.org/venues/orchestra-hall.md"
+  },
+  {
+   "slug": "ordway-center",
+   "venue": "Ordway Center",
+   "city": "St. Paul",
+   "show_count": 8,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-17",
+   "json": "https://music.tcshows.org/venues/ordway-center.json",
+   "markdown": "https://music.tcshows.org/venues/ordway-center.md"
+  },
+  {
+   "slug": "pantages-theatre",
+   "venue": "Pantages Theatre",
+   "city": "Minneapolis",
+   "show_count": 3,
+   "first_date": "2026-11-14",
+   "last_date": "2026-12-20",
+   "json": "https://music.tcshows.org/venues/pantages-theatre.json",
+   "markdown": "https://music.tcshows.org/venues/pantages-theatre.md"
+  },
+  {
+   "slug": "parkway-theater",
+   "venue": "Parkway Theater",
+   "city": "Minneapolis",
+   "show_count": 23,
+   "first_date": "2026-11-13",
+   "last_date": "2027-02-04",
+   "json": "https://music.tcshows.org/venues/parkway-theater.json",
+   "markdown": "https://music.tcshows.org/venues/parkway-theater.md"
+  },
+  {
+   "slug": "pilllar-forum",
+   "venue": "Pilllar Forum",
+   "city": "Minneapolis",
+   "show_count": 22,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-10",
+   "json": "https://music.tcshows.org/venues/pilllar-forum.json",
+   "markdown": "https://music.tcshows.org/venues/pilllar-forum.md"
+  },
+  {
+   "slug": "roy-wilkins-auditorium",
+   "venue": "Roy Wilkins Auditorium",
+   "city": "St. Paul",
+   "show_count": 1,
+   "first_date": "2026-11-28",
+   "last_date": "2026-11-28",
+   "json": "https://music.tcshows.org/venues/roy-wilkins-auditorium.json",
+   "markdown": "https://music.tcshows.org/venues/roy-wilkins-auditorium.md"
+  },
+  {
+   "slug": "shaws",
+   "venue": "Shaws",
+   "city": "Minneapolis",
+   "show_count": 3,
+   "first_date": "2026-11-13",
+   "last_date": "2026-11-27",
+   "json": "https://music.tcshows.org/venues/shaws.json",
+   "markdown": "https://music.tcshows.org/venues/shaws.md"
+  },
+  {
+   "slug": "skyway-theatre",
+   "venue": "Skyway Theatre",
+   "city": "Minneapolis",
+   "show_count": 8,
+   "first_date": "2026-11-13",
+   "last_date": "2027-01-22",
+   "json": "https://music.tcshows.org/venues/skyway-theatre.json",
+   "markdown": "https://music.tcshows.org/venues/skyway-theatre.md"
+  },
+  {
+   "slug": "state-theatre",
+   "venue": "State Theatre",
+   "city": "Minneapolis",
+   "show_count": 5,
+   "first_date": "2026-11-17",
+   "last_date": "2026-12-05",
+   "json": "https://music.tcshows.org/venues/state-theatre.json",
+   "markdown": "https://music.tcshows.org/venues/state-theatre.md"
+  },
+  {
+   "slug": "target-center",
+   "venue": "Target Center",
+   "city": "Minneapolis",
+   "show_count": 9,
+   "first_date": "2026-11-15",
+   "last_date": "2027-01-30",
+   "json": "https://music.tcshows.org/venues/target-center.json",
+   "markdown": "https://music.tcshows.org/venues/target-center.md"
+  },
+  {
+   "slug": "ted-mann-concert-hall",
+   "venue": "Ted Mann Concert Hall",
+   "city": "Minneapolis",
+   "show_count": 1,
+   "first_date": "2026-12-04",
+   "last_date": "2026-12-04",
+   "json": "https://music.tcshows.org/venues/ted-mann-concert-hall.json",
+   "markdown": "https://music.tcshows.org/venues/ted-mann-concert-hall.md"
+  },
+  {
+   "slug": "the-cedar",
+   "venue": "The Cedar",
+   "city": "Minneapolis",
+   "show_count": 11,
+   "first_date": "2026-11-14",
+   "last_date": "2026-12-05",
+   "json": "https://music.tcshows.org/venues/the-cedar.json",
+   "markdown": "https://music.tcshows.org/venues/the-cedar.md"
+  },
+  {
+   "slug": "troubadour",
+   "venue": "Troubadour",
+   "city": "Minneapolis",
+   "show_count": 5,
+   "first_date": "2026-11-13",
+   "last_date": "2026-11-24",
+   "json": "https://music.tcshows.org/venues/troubadour.json",
+   "markdown": "https://music.tcshows.org/venues/troubadour.md"
+  },
+  {
+   "slug": "turf-club",
+   "venue": "Turf Club",
+   "city": "St. Paul",
+   "show_count": 17,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-10",
+   "json": "https://music.tcshows.org/venues/turf-club.json",
+   "markdown": "https://music.tcshows.org/venues/turf-club.md"
+  },
+  {
+   "slug": "underground-music-venue",
+   "venue": "Underground Music Venue",
+   "city": "Minneapolis",
+   "show_count": 13,
+   "first_date": "2026-11-14",
+   "last_date": "2027-01-16",
+   "json": "https://music.tcshows.org/venues/underground-music-venue.json",
+   "markdown": "https://music.tcshows.org/venues/underground-music-venue.md"
+  },
+  {
+   "slug": "uptown-theater",
+   "venue": "Uptown Theater",
+   "city": "Minneapolis",
+   "show_count": 4,
+   "first_date": "2026-11-14",
+   "last_date": "2027-01-22",
+   "json": "https://music.tcshows.org/venues/uptown-theater.json",
+   "markdown": "https://music.tcshows.org/venues/uptown-theater.md"
+  },
+  {
+   "slug": "uptown-vfw",
+   "venue": "Uptown VFW",
+   "city": "Minneapolis",
+   "show_count": 9,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-07",
+   "json": "https://music.tcshows.org/venues/uptown-vfw.json",
+   "markdown": "https://music.tcshows.org/venues/uptown-vfw.md"
+  },
+  {
+   "slug": "utepils-brewing",
+   "venue": "Utepils Brewing",
+   "city": "Minneapolis",
+   "show_count": 9,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-07",
+   "json": "https://music.tcshows.org/venues/utepils-brewing.json",
+   "markdown": "https://music.tcshows.org/venues/utepils-brewing.md"
+  },
+  {
+   "slug": "varsity-theater",
+   "venue": "Varsity Theater",
+   "city": "Minneapolis",
+   "show_count": 22,
+   "first_date": "2026-11-13",
+   "last_date": "2027-02-04",
+   "json": "https://music.tcshows.org/venues/varsity-theater.json",
+   "markdown": "https://music.tcshows.org/venues/varsity-theater.md"
+  },
+  {
+   "slug": "waldmann-brewery",
+   "venue": "Waldmann Brewery",
+   "city": "St. Paul",
+   "show_count": 12,
+   "first_date": "2026-11-14",
+   "last_date": "2026-12-07",
+   "json": "https://music.tcshows.org/venues/waldmann-brewery.json",
+   "markdown": "https://music.tcshows.org/venues/waldmann-brewery.md"
+  },
+  {
+   "slug": "white-squirrel",
+   "venue": "White Squirrel",
+   "city": "St. Paul",
+   "show_count": 54,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-10",
+   "json": "https://music.tcshows.org/venues/white-squirrel.json",
+   "markdown": "https://music.tcshows.org/venues/white-squirrel.md"
+  },
+  {
+   "slug": "zhora-darling",
+   "venue": "Zhora Darling",
+   "city": "Minneapolis",
+   "show_count": 15,
+   "first_date": "2026-11-13",
+   "last_date": "2026-12-06",
+   "json": "https://music.tcshows.org/venues/zhora-darling.json",
+   "markdown": "https://music.tcshows.org/venues/zhora-darling.md"
+  }
+ ]
+}

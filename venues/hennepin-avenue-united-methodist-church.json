@@ -1,0 +1,29 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Hennepin Avenue United Methodist Church",
+ "city": "Minneapolis",
+ "count": 1,
+ "shows": [
+  {
+   "id": "6f7896009a4b",
+   "headliner": "Caritas Vocal Ensemble",
+   "openers": [
+    "Hennepin Avenue UMC Sanctuary Choir"
+   ],
+   "date": "2026-12-06",
+   "start_time": "14:00",
+   "venue": "Hennepin Avenue United Methodist Church",
+   "venue_slug": "hennepin-avenue-united-methodist-church",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "price": "Free",
+   "is_free": true,
+   "source": "https://www.caritasvocalensemble.org/events"
+  }
+ ]
+}

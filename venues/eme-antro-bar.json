@@ -1,0 +1,28 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "EME Antro Bar",
+ "city": "Minneapolis",
+ "count": 1,
+ "shows": [
+  {
+   "id": "8fa01d3c5a2b",
+   "headliner": "Elefante",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": "21:00",
+   "venue": "EME Antro Bar",
+   "venue_slug": "eme-antro-bar",
+   "city": "Minneapolis",
+   "genre": "Latin",
+   "status": "postponed",
+   "age": "21+",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A7qV_3",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1A7qV_3"
+  }
+ ]
+}

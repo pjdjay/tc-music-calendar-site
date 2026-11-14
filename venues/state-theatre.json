@@ -1,0 +1,93 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "State Theatre",
+ "city": "Minneapolis",
+ "count": 5,
+ "shows": [
+  {
+   "id": "655fc3f7af54",
+   "headliner": "Brandi Carlile",
+   "openers": [],
+   "date": "2026-11-17",
+   "start_time": "20:00",
+   "venue": "State Theatre",
+   "venue_slug": "state-theatre",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "tickets": "https://www.ticketmaster.com/brandi-carlile-burn-the-setlist-the-minneapolis-minnesota-11-17-2026/event/06006537E376533E",
+   "source": "https://www.ticketmaster.com/brandi-carlile-burn-the-setlist-the-minneapolis-minnesota-11-17-2026/event/06006537E376533E",
+   "spotify": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+  },
+  {
+   "id": "6c46e5c9a55c",
+   "headliner": "Brandi Carlile",
+   "openers": [],
+   "date": "2026-11-18",
+   "start_time": "20:00",
+   "venue": "State Theatre",
+   "venue_slug": "state-theatre",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "tickets": "https://www.ticketmaster.com/brandi-carlile-burn-the-setlist-the-minneapolis-minnesota-11-18-2026/event/06006537E37B5348",
+   "source": "https://www.ticketmaster.com/brandi-carlile-burn-the-setlist-the-minneapolis-minnesota-11-18-2026/event/06006537E37B5348",
+   "spotify": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+  },
+  {
+   "id": "8523696ee876",
+   "headliner": "The Jayhawks",
+   "openers": [
+    "Kathleen Edwards"
+   ],
+   "date": "2026-11-21",
+   "start_time": "20:00",
+   "venue": "State Theatre",
+   "venue_slug": "state-theatre",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "price": "$49.75",
+   "is_free": false,
+   "age": "all_ages",
+   "tickets": "https://www.ticketmaster.com/sanctuary-park-tour-celebrating-40-years-minneapolis-minnesota-11-21-2026/event/060064D6A367778F",
+   "source": "https://first-avenue.com/event/2026-11-the-jayhawks/",
+   "spotify": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+  },
+  {
+   "id": "de1c38186888",
+   "headliner": "The New Standards",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": "20:00",
+   "venue": "State Theatre",
+   "venue_slug": "state-theatre",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "price": "$70.45",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/the-new-standards-holiday-show-minneapolis-minnesota-12-04-2026/event/0600653EEBF84DAE",
+   "source": "https://www.ticketmaster.com/the-new-standards-holiday-show-minneapolis-minnesota-12-04-2026/event/0600653EEBF84DAE",
+   "spotify": "https://open.spotify.com/artist/0gbCRVqosSmpx45VuO0gtI"
+  },
+  {
+   "id": "ae27c3289ac1",
+   "headliner": "The New Standards",
+   "openers": [],
+   "date": "2026-12-05",
+   "start_time": "16:00",
+   "venue": "State Theatre",
+   "venue_slug": "state-theatre",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "price": "$45.15",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/the-new-standards-holiday-show-minneapolis-minnesota-12-05-2026/event/0600653EEBFF4DB7",
+   "source": "https://www.ticketmaster.com/the-new-standards-holiday-show-minneapolis-minnesota-12-05-2026/event/0600653EEBFF4DB7",
+   "spotify": "https://open.spotify.com/artist/0gbCRVqosSmpx45VuO0gtI"
+  }
+ ]
+}

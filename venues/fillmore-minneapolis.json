@@ -1,0 +1,205 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Fillmore Minneapolis",
+ "city": "Minneapolis",
+ "count": 11,
+ "shows": [
+  {
+   "id": "2a31388aef77",
+   "headliner": "Saosin",
+   "openers": [
+    "Silent Planet",
+    "Like Moths To Flames",
+    "Save Us"
+   ],
+   "date": "2026-11-18",
+   "start_time": "18:00",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$48.25",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/saosin-20-years-of-selftitled-minneapolis-minnesota-11-18-2026/event/060064A49AA4AD20",
+   "source": "https://www.ticketmaster.com/saosin-20-years-of-selftitled-minneapolis-minnesota-11-18-2026/event/060064A49AA4AD20",
+   "spotify": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+  },
+  {
+   "id": "784d216b48a1",
+   "headliner": "Fetty Wap",
+   "openers": [],
+   "date": "2026-11-21",
+   "start_time": "19:00",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "price": "$288.50",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/fetty-wap-nostalgia-tour-minneapolis-minnesota-11-21-2026/event/060064ABC4911EC3",
+   "source": "https://www.ticketmaster.com/fetty-wap-nostalgia-tour-minneapolis-minnesota-11-21-2026/event/060064ABC4911EC3",
+   "spotify": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+  },
+  {
+   "id": "7f39b7699771",
+   "headliner": "Whitechapel",
+   "openers": [
+    "Chelsea Grin",
+    "The Acacia Strain",
+    "Netherwalker"
+   ],
+   "date": "2026-11-29",
+   "start_time": "17:00",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "price": "$45.75",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-minneapolis-minnesota-11-29-2026/event/060064C4A3F1924C",
+   "source": "https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-minneapolis-minnesota-11-29-2026/event/060064C4A3F1924C",
+   "spotify": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+  },
+  {
+   "id": "fe642e5f2eb5",
+   "headliner": "Blue October",
+   "openers": [
+    "Jess Woodland"
+   ],
+   "date": "2026-12-04",
+   "start_time": "19:00",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$64",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/blue-october-foiled-20th-anniversary-world-minneapolis-minnesota-12-04-2026/event/06006472DC001BE4",
+   "source": "https://www.ticketmaster.com/blue-october-foiled-20th-anniversary-world-minneapolis-minnesota-12-04-2026/event/06006472DC001BE4",
+   "spotify": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
+  },
+  {
+   "id": "5e184ffc312b",
+   "headliner": "DragonForce",
+   "openers": [
+    "Ensiferum",
+    "Rhapsody of Fire"
+   ],
+   "date": "2026-12-06",
+   "start_time": "17:30",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "price": "$52.85",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/dragonforce-inhuman-rampage-20th-anniversary-minneapolis-minnesota-12-06-2026/event/060064B3C859F67F",
+   "source": "https://www.ticketmaster.com/dragonforce-inhuman-rampage-20th-anniversary-minneapolis-minnesota-12-06-2026/event/060064B3C859F67F",
+   "spotify": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+  },
+  {
+   "id": "0908ef651e91",
+   "headliner": "Imminence",
+   "openers": [
+    "Dying Wish",
+    "Gaerea"
+   ],
+   "date": "2026-12-07",
+   "start_time": "17:30",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "price": "$51.85",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/imminence-axis-mundi-tour-north-america-minneapolis-minnesota-12-07-2026/event/060064CBD3AA28FD",
+   "source": "https://www.ticketmaster.com/imminence-axis-mundi-tour-north-america-minneapolis-minnesota-12-07-2026/event/060064CBD3AA28FD",
+   "spotify": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+  },
+  {
+   "id": "7acade8b7541",
+   "headliner": "6LACK",
+   "openers": [
+    "Eem Triplin"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "status": "canceled",
+   "tickets": "https://www.ticketmaster.com/10-years-of-6lack-tour-minneapolis-minnesota-12-11-2026/event/060064B5363DCB87",
+   "source": "https://www.ticketmaster.com/10-years-of-6lack-tour-minneapolis-minnesota-12-11-2026/event/060064B5363DCB87",
+   "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+  },
+  {
+   "id": "5783e4e086d4",
+   "headliner": "Ninajirachi",
+   "openers": [
+    "iKeda"
+   ],
+   "date": "2027-01-09",
+   "start_time": "19:00",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "source": "https://www.jambase.com/show/ninajirachi-the-fillmore-minneapolis-20270109",
+   "spotify": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+  },
+  {
+   "id": "bf4efa03a853",
+   "headliner": "Braxton Keith",
+   "openers": [
+    "Caden Gillard"
+   ],
+   "date": "2027-01-14",
+   "start_time": "19:00",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "price": "$48.25",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/braxton-keith-special-guests-minneapolis-minnesota-01-14-2027/event/0600652EE79E121D",
+   "source": "https://www.ticketmaster.com/braxton-keith-special-guests-minneapolis-minnesota-01-14-2027/event/0600652EE79E121D",
+   "spotify": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+  },
+  {
+   "id": "af4f97a974a1",
+   "headliner": "Denny Love",
+   "openers": [],
+   "date": "2027-01-15",
+   "start_time": "18:00",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "hidden_category": "residency",
+   "recurrence": "every Friday",
+   "tickets": "https://www.ticketmaster.com/denny-love-show-love-tour-minneapolis-minnesota-01-15-2027/event/060064BDA02687E6",
+   "source": "https://www.ticketmaster.com/denny-love-show-love-tour-minneapolis-minnesota-01-15-2027/event/060064BDA02687E6",
+   "spotify": "https://open.spotify.com/artist/5jFKNogr2MCla7uSN1GHBa"
+  },
+  {
+   "id": "2a74d42dd503",
+   "headliner": "Wonho",
+   "openers": [],
+   "date": "2027-01-16",
+   "start_time": "19:00",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "tickets": "https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76",
+   "source": "https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76",
+   "spotify": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
+  }
+ ]
+}

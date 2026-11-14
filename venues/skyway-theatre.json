@@ -1,0 +1,132 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Skyway Theatre",
+ "city": "Minneapolis",
+ "count": 8,
+ "shows": [
+  {
+   "id": "289aa5708837",
+   "headliner": "Live & Loud",
+   "openers": [],
+   "date": "2026-11-13",
+   "start_time": "19:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "tickets": "https://events.leapevents.com/event/live-loud-studio-b-week-5",
+   "source": "https://skywaytheatre.com/event/live-loud-2/"
+  },
+  {
+   "id": "b6af554029b1",
+   "headliner": "Grabbitz",
+   "openers": [],
+   "date": "2026-11-13",
+   "start_time": "21:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "doors_time": "21:00",
+   "tickets": "https://events.leapevents.com/event/grabbitz-11-13-26",
+   "source": "https://skywaytheatre.com/event/grabbitz/",
+   "spotify": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+  },
+  {
+   "id": "636ab4fb6bf9",
+   "headliner": "CHAN",
+   "openers": [
+    "Cristian Baca"
+   ],
+   "date": "2026-11-14",
+   "start_time": "21:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "tickets": "https://www.showclix.com/event/chan-11-14-26",
+   "source": "https://skywaytheatre.com/event/chan/"
+  },
+  {
+   "id": "b66c23cc5cdf",
+   "headliner": "Kloud 360 Set",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "21:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "tickets": "https://events.leapevents.com/event/kloud-360-set",
+   "source": "https://skywaytheatre.com/event/kloud-360-set/"
+  },
+  {
+   "id": "ac4e2083f95f",
+   "headliner": "Haliene",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "21:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "doors_time": "21:00",
+   "tickets": "https://events.leapevents.com/event/haliene-11-20-26",
+   "source": "https://skywaytheatre.com/event/haliene-2/",
+   "spotify": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+  },
+  {
+   "id": "4290582d96af",
+   "headliner": "Gasolina Party",
+   "openers": [],
+   "date": "2026-11-21",
+   "start_time": "21:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://events.leapevents.com/event/gasolina-11-21-26",
+   "source": "https://skywaytheatre.com/event/gasolina-party/"
+  },
+  {
+   "id": "0fb80b393928",
+   "headliner": "Tsu Nami",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "21:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "source": "https://www.songkick.com/concerts/43331037-tsu-nami-at-loft-at-skyway-theatre?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+  },
+  {
+   "id": "a887064e4ca2",
+   "headliner": "Ghengar",
+   "openers": [
+    "yvm3",
+    "uSAYbFLOW"
+   ],
+   "date": "2027-01-22",
+   "start_time": "21:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "source": "https://www.songkick.com/concerts/43440912-ghengar-at-skyway-theatre?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Troubadour",
+ "city": "Minneapolis",
+ "count": 5,
+ "shows": [
+  {
+   "id": "fb8c7b1197f3",
+   "headliner": "Victoria Temiz & Chad Hamblin",
+   "openers": [],
+   "date": "2026-11-13",
+   "start_time": "20:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://troubadourwinebar.com/events"
+  },
+  {
+   "id": "70e3cb7092de",
+   "headliner": "🎶 Live Music at Troubadour! 🎶 Phil Berbig",
+   "openers": [
+    "Saturday at 7 PM"
+   ],
+   "date": "2026-11-14",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://troubadourwinebar.com/events"
+  },
+  {
+   "id": "b0ad560075cd",
+   "headliner": "Music by Phil Berbig!",
+   "openers": [],
+   "date": "2026-11-16",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Monday",
+   "source": "https://troubadourwinebar.com/events"
+  },
+  {
+   "id": "0325392a7751",
+   "headliner": "🎶 Live Music Wednesday - Berrette McNaught 🎶",
+   "openers": [],
+   "date": "2026-11-18",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://troubadourwinebar.com/events"
+  },
+  {
+   "id": "638b40e64d9f",
+   "headliner": "Tuesday Nights",
+   "openers": [
+    "Steven Stoehr"
+   ],
+   "date": "2026-11-24",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Tuesday",
+   "source": "https://troubadourwinebar.com/events",
+   "spotify": "https://open.spotify.com/artist/0rjG5Um5dZLaDogS8VWp9G"
+  }
+ ]
+}

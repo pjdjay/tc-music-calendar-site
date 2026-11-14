@@ -1,0 +1,54 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Aster Cafe",
+ "city": "Minneapolis",
+ "count": 3,
+ "shows": [
+  {
+   "id": "9e736d90746d",
+   "headliner": "Amanda Grace",
+   "openers": [
+    "Samantha Grimes"
+   ],
+   "date": "2026-11-27",
+   "start_time": "20:30",
+   "venue": "Aster Cafe",
+   "venue_slug": "aster-cafe",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43376737-amanda-grace-at-aster-cafe?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/7vjzrkSpijTEXAmbImKs3X"
+  },
+  {
+   "id": "3c2408d42db6",
+   "headliner": "David Huckfelt",
+   "openers": [],
+   "date": "2026-11-28",
+   "start_time": null,
+   "venue": "Aster Cafe",
+   "venue_slug": "aster-cafe",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43507139-david-huckfelt-at-aster-cafe?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/3LT3ChbVJI2rE6jAFfkGWZ"
+  },
+  {
+   "id": "daa8dc053365",
+   "headliner": "David Huckfelt",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": null,
+   "venue": "Aster Cafe",
+   "venue_slug": "aster-cafe",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43507140-david-huckfelt-at-aster-cafe?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/3LT3ChbVJI2rE6jAFfkGWZ"
+  }
+ ]
+}

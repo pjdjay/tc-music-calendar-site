@@ -1,0 +1,168 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Armory",
+ "city": "Minneapolis",
+ "count": 9,
+ "shows": [
+  {
+   "id": "978e79c370ca",
+   "headliner": "Russell Dickerson",
+   "openers": [],
+   "date": "2026-11-13",
+   "start_time": "19:30",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "price": "$50",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vv17bZ_8GkRLhXsi/russell-dickerson",
+   "source": "https://www.livenation.com/event/vv17bZ_8GkRLhXsi/russell-dickerson",
+   "spotify": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+  },
+  {
+   "id": "46c54f3d9aa0",
+   "headliner": "Tape B",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "21:00",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "price": "$62.15",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vvG1bZ_GKlpRiQ/tape-b-friday-pass",
+   "source": "https://www.livenation.com/event/vvG1bZ_GKlpRiQ/tape-b-friday-pass",
+   "spotify": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+  },
+  {
+   "id": "c402bc62b51b",
+   "headliner": "Tape B",
+   "openers": [],
+   "date": "2026-11-21",
+   "start_time": "21:00",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "price": "$62.15",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vvG1bZ_GKi_TYR/tape-b-saturday-pass",
+   "source": "https://www.livenation.com/event/vvG1bZ_GKi_TYR/tape-b-saturday-pass",
+   "spotify": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+  },
+  {
+   "id": "c18d27e976bc",
+   "headliner": "Sabaton",
+   "openers": [
+    "Pop Evil",
+    "Wings of Steel"
+   ],
+   "date": "2026-11-22",
+   "start_time": "19:00",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "status": "postponed",
+   "tickets": "https://www.livenation.com/event/vv1AkZkGtGkd2VKHk/sabaton-legends-on-tour",
+   "source": "https://www.livenation.com/event/vv1AkZkGtGkd2VKHk/sabaton-legends-on-tour",
+   "spotify": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+  },
+  {
+   "id": "d4ee8932231f",
+   "headliner": "Underoath",
+   "openers": [
+    "August Burns Red",
+    "Atreyu",
+    "As Cities Burn"
+   ],
+   "date": "2026-11-23",
+   "start_time": "18:30",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "price": "$63.70",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vvG1bZ_G2-9LQA/underoath-define-the-great-line-20th-anniversary-tour",
+   "source": "https://www.livenation.com/event/vvG1bZ_G2-9LQA/underoath-define-the-great-line-20th-anniversary-tour",
+   "spotify": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+  },
+  {
+   "id": "3a1b05848d4a",
+   "headliner": "A Boogie Wit da Hoodie",
+   "openers": [
+    "Zeddy Will",
+    "Cash Cobain"
+   ],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "price": "$123.50",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vv1AkZkfYGkd_ao6R/a-boogie-wit-da-hoodie-10-years-of-artist",
+   "source": "https://www.livenation.com/event/vv1AkZkfYGkd_ao6R/a-boogie-wit-da-hoodie-10-years-of-artist",
+   "spotify": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+  },
+  {
+   "id": "5fb472b640de",
+   "headliner": "Marshmello",
+   "openers": [],
+   "date": "2026-12-30",
+   "start_time": "21:00",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "tickets": "https://www.ticketmaster.com/marshmello-minneapolis-minnesota-12-30-2026/event/0600655DF05EE809",
+   "source": "https://www.livenation.com/event/vv17bZ_4GkMY9mOa/marshmello",
+   "spotify": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+  },
+  {
+   "id": "955aac1f2709",
+   "headliner": "Gryffin",
+   "openers": [
+    "Viperactive",
+    "Costa"
+   ],
+   "date": "2026-12-31",
+   "start_time": "21:00",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "price": "$76.55",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vv17bZ_3GkD0tTSd/gryffin",
+   "source": "https://www.livenation.com/event/vv17bZ_3GkD0tTSd/gryffin",
+   "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+  },
+  {
+   "id": "18f0813e058c",
+   "headliner": "Ninajirachi",
+   "openers": [
+    "Ikeda",
+    "mgna crrrta"
+   ],
+   "date": "2027-01-09",
+   "start_time": "20:00",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "tickets": "https://www.livenation.com/event/vv17bZ_KGkSmDCzH/ninajirachi-s-i-love-my-computer-and-it-loves-me-tour",
+   "source": "https://www.livenation.com/event/vv17bZ_KGkSmDCzH/ninajirachi-s-i-love-my-computer-and-it-loves-me-tour",
+   "spotify": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+  }
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-12-02",
+ "count": 15,
+ "shows": [
+  {
+   "id": "3f3383d7cf5d",
+   "headliner": "An Elvis Gospel Christmas",
+   "openers": [
+    "Mick Sterling"
+   ],
+   "date": "2026-12-02",
+   "start_time": "17:30",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "gospel/Christian",
+   "price": "$35.00 - $45.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/an-elvis-gospel-christmas-with-mick-sterling-friends-tickets-1993940576941",
+   "source": "https://www.croonersmn.com/event/an-elvis-gospel-christmas-with-mick-sterling-friends-2/"
+  },
+  {
+   "id": "67215755f010",
+   "headliner": "Marengo (WI)",
+   "openers": [
+    "Lutefisk",
+    "Mariah Ann Maass (WI)"
+   ],
+   "date": "2026-12-02",
+   "start_time": "18:00",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$15.24",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6aea6b8385f24b000141ddaf",
+   "source": "https://dice.fm/event/6aea6b8385f24b000141ddaf"
+  },
+  {
+   "id": "a4c5382c6b60",
+   "headliner": "Cains Co",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "18:00",
+   "venue": "Pilllar Forum",
+   "venue_slug": "pilllar-forum",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "price": "Advance $10 Day of Show $12",
+   "is_free": false,
+   "source": "https://www.pilllar.com/collections/tickets/products/music-cains-co-12-2-2026"
+  },
+  {
+   "id": "fd6d46cb6adb",
+   "headliner": "The Second Stringers",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/the-second-stringers-w-special-guests/"
+  },
+  {
+   "id": "e05bfde7affe",
+   "headliner": "Rachael & Vilray",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "18:30",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$61.90",
+   "is_free": false,
+   "tickets": "https://www.etix.com/ticket/p/31784651/rachael-vilray-minneapolis-dakota",
+   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-02/1/"
+  },
+  {
+   "id": "cc0e98e19d51",
+   "headliner": "“Happy Holi-Dane”",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "18:30",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "jazz/blues",
+   "price": "$25.00 - $35.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/happy-holi-dane-tickets-2001254518136",
+   "source": "https://www.croonersmn.com/event/happy-holi-dane/"
+  },
+  {
+   "id": "2049f977b7a0",
+   "headliner": "Suicide Silence",
+   "openers": [
+    "Emmure",
+    "AngelMaker",
+    "Synestia"
+   ],
+   "date": "2026-12-02",
+   "start_time": "19:00",
+   "venue": "Myth Live",
+   "venue_slug": "myth-live",
+   "city": "Maplewood",
+   "genre": "metal/punk",
+   "doors_time": "18:00",
+   "price": "$49.56",
+   "is_free": false,
+   "tickets": "https://www.etix.com/ticket/p/99306703/suicide-silencereminders-of-hell-tour-maplewood-myth-live?partner_id=100",
+   "source": "https://mythlive.com/event/suicide-silence-reminders-of-hell-tour/myth-live/st-paul-minnesota/",
+   "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+  },
+  {
+   "id": "927bd19dabe7",
+   "headliner": "Tiny Habits",
+   "openers": [
+    "Marie Dresselhuis"
+   ],
+   "date": "2026-12-02",
+   "start_time": "19:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "18:00",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1488198/tiny-habits-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-12-tiny-habits/",
+   "spotify": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+  },
+  {
+   "id": "19f6b363ca54",
+   "headliner": "Riders in the Sky // Christmas the Cowboy Way",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "19:30",
+   "venue": "Parkway Theater",
+   "venue_slug": "parkway-theater",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "price": "$25 Advance / $30 At The Door",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/m6bd1bc3e8cd",
+   "source": "https://theparkwaytheater.com/all-events/cowboy-christmas",
+   "spotify": "https://open.spotify.com/artist/0TvDQyGFRlrLVUPaViJcEi"
+  },
+  {
+   "id": "3035163b32c0",
+   "headliner": "The Wildwoods",
+   "openers": [
+    "LaPlant Road"
+   ],
+   "date": "2026-12-02",
+   "start_time": "19:30",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "source": "https://www.thecedar.org/events/the-wildwoods-2026"
+  },
+  {
+   "id": "15e4969b35b0",
+   "headliner": "Angine de Poitrine",
+   "openers": [
+    "zouz"
+   ],
+   "date": "2026-12-02",
+   "start_time": "20:00",
+   "venue": "First Avenue",
+   "venue_slug": "first-avenue",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1442847/angine-de-poitrine-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-angine-de-poitrine/",
+   "spotify": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+  },
+  {
+   "id": "ca7c18af154c",
+   "headliner": "sahn",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1644013/sahn-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-sahn/"
+  },
+  {
+   "id": "a9a595e68895",
+   "headliner": "Starlight Vinyl Night",
+   "openers": [
+    "DJ Shane Kramer"
+   ],
+   "date": "2026-12-02",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "hidden_category": "dj_night",
+   "price": "No cover",
+   "is_free": true,
+   "age": "21+",
+   "source": "https://www.icehousempls.com/shows/starlight-vinyl-night-with-dj-shane-kramer/"
+  },
+  {
+   "id": "68f75df89345",
+   "headliner": "Rachael & Vilray",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "21:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-02/2/"
+  },
+  {
+   "id": "1b478239ad3e",
+   "headliner": "Raymnd",
+   "openers": [
+    "Dead North",
+    "Noah Schmitt"
+   ],
+   "date": "2026-12-02",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-03",
+   "source": "https://whitesquirrelbar.com/event/raymnd/",
+   "spotify": "https://open.spotify.com/artist/6M4kWzXgfMtSslMAGOZuio"
+  }
+ ]
+}

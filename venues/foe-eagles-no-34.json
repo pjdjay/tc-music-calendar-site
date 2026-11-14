@@ -1,0 +1,25 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "FOE Eagles No. 34",
+ "city": "Minneapolis",
+ "count": 1,
+ "shows": [
+  {
+   "id": "f47b063d4fc8",
+   "headliner": "Hobbyist",
+   "openers": [],
+   "date": "2026-11-18",
+   "start_time": "19:00",
+   "venue": "FOE Eagles No. 34",
+   "venue_slug": "foe-eagles-no-34",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43461461-hobbyist-at-foe-eagles-no-34?utm_medium=organic&utm_source=microformat"
+  }
+ ]
+}

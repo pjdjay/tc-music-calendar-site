@@ -1,0 +1,80 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Animales Barbeque",
+ "city": "Minneapolis",
+ "count": 5,
+ "shows": [
+  {
+   "id": "9684fce1c023",
+   "headliner": "Funk Friday",
+   "openers": [
+    "Big Fat Money"
+   ],
+   "date": "2026-11-13",
+   "start_time": "19:30",
+   "venue": "Animales Barbeque",
+   "venue_slug": "animales-barbeque",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Friday",
+   "source": "https://animalesbbq.com/calendar/funk-friday-big-fat-money-november-2026"
+  },
+  {
+   "id": "01fd3d5d43d2",
+   "headliner": "Drew Peterson",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "19:30",
+   "venue": "Animales Barbeque",
+   "venue_slug": "animales-barbeque",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://animalesbbq.com/calendar/drew-peterson-november-2026"
+  },
+  {
+   "id": "6878eaa858b7",
+   "headliner": "Ponyfolk",
+   "openers": [],
+   "date": "2026-11-28",
+   "start_time": "19:30",
+   "venue": "Animales Barbeque",
+   "venue_slug": "animales-barbeque",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://animalesbbq.com/calendar/ponyfolk-november-28-2026",
+   "spotify": "https://open.spotify.com/artist/69MkRP12BXUJrM3u93Yz3r"
+  },
+  {
+   "id": "b4968ba546fb",
+   "headliner": "The Gated Community",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": "19:30",
+   "venue": "Animales Barbeque",
+   "venue_slug": "animales-barbeque",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://animalesbbq.com/calendar/the-gated-community-december-2026",
+   "spotify": "https://open.spotify.com/artist/09RQSohdFUOs9xRp6JXJcv"
+  },
+  {
+   "id": "4ede4b74ab87",
+   "headliner": "Cornbread Harris & Friends",
+   "openers": [],
+   "date": "2026-12-05",
+   "start_time": "15:00",
+   "venue": "Animales Barbeque",
+   "venue_slug": "animales-barbeque",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "source": "https://animalesbbq.com/calendar/cornbread-harris-and-friends-december-5-2026",
+   "spotify": "https://open.spotify.com/artist/0u1z6fvcSqBwbjFlQrAAOZ"
+  }
+ ]
+}

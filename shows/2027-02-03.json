@@ -1,0 +1,32 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-02-03",
+ "count": 1,
+ "shows": [
+  {
+   "id": "f968c3ff0347",
+   "headliner": "The Hip Abduction",
+   "openers": [
+    "Moon Taxi (Acoustic)"
+   ],
+   "date": "2027-02-03",
+   "start_time": "19:30",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:30",
+   "price": "$30",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1640744/the-hip-abduction-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-02-the-hip-abduction/",
+   "spotify": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+  }
+ ]
+}

@@ -1,0 +1,327 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Turf Club",
+ "city": "St. Paul",
+ "count": 17,
+ "shows": [
+  {
+   "id": "2456252ae523",
+   "headliner": "The Suburbs",
+   "openers": [
+    "The Rodents"
+   ],
+   "date": "2026-11-13",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1615865/the-suburbs-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-11-the-suburbs-fri/",
+   "spotify": "https://open.spotify.com/artist/6r8rjs60Gvl07KyCUV2QhF"
+  },
+  {
+   "id": "748f49c82e44",
+   "headliner": "The Suburbs",
+   "openers": [
+    "The Rodents"
+   ],
+   "date": "2026-11-14",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1615867/the-suburbs-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-11-the-suburbs-sat/",
+   "spotify": "https://open.spotify.com/artist/6r8rjs60Gvl07KyCUV2QhF"
+  },
+  {
+   "id": "a41a1afc8177",
+   "headliner": "Nicole Atkins",
+   "openers": [
+    "John Gallagher Jr.",
+    "Emily Bjorke"
+   ],
+   "date": "2026-11-17",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1496406/nicole-atkins-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-11-nicole-atkins/",
+   "spotify": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
+  },
+  {
+   "id": "89719bc14a8a",
+   "headliner": "Ghostwoman",
+   "openers": [
+    "Croaker"
+   ],
+   "date": "2026-11-18",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1462571/ghostwoman-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-11-ghostwoman/",
+   "spotify": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
+  },
+  {
+   "id": "be903cf4dd67",
+   "headliner": "A Twin Cities All-Star ‘90s Tribute",
+   "openers": [
+    "Jennifer Eckes • Annie Enneking • Matthew French • Ted Hajnasiewicz • Zachary Scot Johnson • Leslie Rich • Colleen Somerville • Lydia Sophia • The Twins of Franklin • Katy Vernon • Nic"
+   ],
+   "date": "2026-11-19",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1670872/a-twin-cities-all-star-90s-tribute-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-11-twin-cities-all-star-90s-tribute/"
+  },
+  {
+   "id": "4621e79528c0",
+   "headliner": "Them Coulee Boys",
+   "openers": [
+    "Good Morning Bedlam"
+   ],
+   "date": "2026-11-20",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1457094/them-coulee-boys-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-11-them-coulee-boys/",
+   "spotify": "https://open.spotify.com/artist/0rHOjcy9iMdgpJMq0kPf08"
+  },
+  {
+   "id": "9a89ca7d6db0",
+   "headliner": "Erik Koskinen Band",
+   "openers": [
+    "Nieves del Norte"
+   ],
+   "date": "2026-11-21",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1634216/erik-koskinen-band-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-11-erik-koskinen-band/"
+  },
+  {
+   "id": "e271ce394abb",
+   "headliner": "The Mainliners",
+   "openers": [
+    "The Nu-Viles"
+   ],
+   "date": "2026-11-22",
+   "start_time": "19:30",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "metal/punk",
+   "doors_time": "18:30",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1620740/the-mainliners-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-11-the-mainliners/"
+  },
+  {
+   "id": "9103e5c0345a",
+   "headliner": "Devil Master",
+   "openers": [
+    "Baazlvaat",
+    "Jail",
+    "Glorious Descent"
+   ],
+   "date": "2026-11-23",
+   "start_time": "19:30",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "metal/punk",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1599390/devil-master-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-11-devil-master/",
+   "spotify": "https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i"
+  },
+  {
+   "id": "34315bddc5a0",
+   "headliner": "Cole Diamond’s Twangsgiving",
+   "openers": [
+    "Tropical Depression ( Alan Jackson Tribute ) with Thomas Sticha",
+    "Cowboy Thoughts",
+    "Molly Maher"
+   ],
+   "date": "2026-11-25",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1613782/cole-diamonds-twangsgiving-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-11-cole-diamonds-twangsgiving/"
+  },
+  {
+   "id": "1abe2ba38a2e",
+   "headliner": "World’s Forgotten Boys (Stooges Tribute",
+   "openers": [
+    "members of Impaler",
+    "Dumpster Juice",
+    "Extermination Day) with GOO GOO MUCKS",
+    "Cretin Avenue Hop (Ramones Tribute)"
+   ],
+   "date": "2026-11-27",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "metal/punk",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1619542/worlds-forgotten-boys-stooges-tribute-with-goo-goo-mucks-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-11-worlds-forgotten-boys/"
+  },
+  {
+   "id": "1bbf9b0fe013",
+   "headliner": "Al Church",
+   "openers": [
+    "Cindy Lawson",
+    "Curtiss A"
+   ],
+   "date": "2026-11-28",
+   "start_time": "19:30",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "tickets": "https://www.axs.com/events/1646475/a-tribute-to-the-replacements-tickets?cid=usaffjambase&utm_source=jambase",
+   "source": "https://www.jambase.com/show/al-church-turf-club-20261128",
+   "spotify": "https://open.spotify.com/artist/4mdO4WUFRc1RVp3nYYR80g"
+  },
+  {
+   "id": "0d36f3d7d356",
+   "headliner": "Joe Pug",
+   "openers": [
+    "Dillon Warnek"
+   ],
+   "date": "2026-12-03",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1587780/joe-pug-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-12-joe-pug/",
+   "spotify": "https://open.spotify.com/artist/17cssIaAwAcgC9nZZliixv"
+  },
+  {
+   "id": "70fcf44643c2",
+   "headliner": "Dillinger Four",
+   "openers": [
+    "Mary Jam",
+    "Nato Coles",
+    "the Blue Diamond Band",
+    "Visual Learner"
+   ],
+   "date": "2026-12-04",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "metal/punk",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1670867/dillinger-four-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-12-dillinger-four-fri/",
+   "spotify": "https://open.spotify.com/artist/4YAN46l70QV0PGXlMg0iHi"
+  },
+  {
+   "id": "134fe715bb55",
+   "headliner": "Dillinger Four",
+   "openers": [
+    "Constant Insult",
+    "Nature Boys",
+    "Toilet Rats",
+    "more!"
+   ],
+   "date": "2026-12-05",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "metal/punk",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1670869/dillinger-four-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-12-dillinger-four-sat/",
+   "spotify": "https://open.spotify.com/artist/4YAN46l70QV0PGXlMg0iHi"
+  },
+  {
+   "id": "9485341f236b",
+   "headliner": "The 4th Annual Magical Holiday Gala",
+   "openers": [
+    "Noah Sonie • David Jambor • Mike Davis • Annmarie Thomas • Morgan May •",
+    "more!"
+   ],
+   "date": "2026-12-06",
+   "start_time": "18:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1663214/the-4th-annual-magical-holiday-gala-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-12-magical-holiday-gala/"
+  },
+  {
+   "id": "89f7619dc375",
+   "headliner": "The Steel Wheels",
+   "openers": [
+    "Bobcat Opossum"
+   ],
+   "date": "2026-12-10",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1568174/the-steel-wheels-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-12-the-steel-wheels/",
+   "spotify": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
+  }
+ ]
+}

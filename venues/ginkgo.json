@@ -1,0 +1,89 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Ginkgo",
+ "city": "St. Paul",
+ "count": 6,
+ "shows": [
+  {
+   "id": "8c7edb2185b9",
+   "headliner": "JOAN",
+   "openers": [],
+   "date": "2026-11-13",
+   "start_time": "18:00",
+   "venue": "Ginkgo",
+   "venue_slug": "ginkgo",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://ginkgocoffee.com/event/joan/"
+  },
+  {
+   "id": "e8e282401b96",
+   "headliner": "Chuck Suchy",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "19:30",
+   "venue": "Ginkgo",
+   "venue_slug": "ginkgo",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "price": "Tickets: $20",
+   "is_free": false,
+   "source": "https://ginkgocoffee.com/event/chuck-suchy/",
+   "spotify": "https://open.spotify.com/artist/68VfWRpDhClLUQHbrxSrcj"
+  },
+  {
+   "id": "6d9806c4eb86",
+   "headliner": "Hats for the Homeless",
+   "openers": [],
+   "date": "2026-11-19",
+   "start_time": "09:00",
+   "venue": "Ginkgo",
+   "venue_slug": "ginkgo",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://ginkgocoffee.com/event/hats-for-the-homeless/",
+   "spotify": "https://open.spotify.com/artist/1JktRVuayhRgZcg8KU9mhv"
+  },
+  {
+   "id": "cb5a492fab26",
+   "headliner": "Mac Hoffman",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "18:00",
+   "venue": "Ginkgo",
+   "venue_slug": "ginkgo",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://ginkgocoffee.com/event/mac-hoffman/"
+  },
+  {
+   "id": "b9e46a9425e2",
+   "headliner": "Nicholas Soden",
+   "openers": [],
+   "date": "2026-11-27",
+   "start_time": "18:00",
+   "venue": "Ginkgo",
+   "venue_slug": "ginkgo",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://ginkgocoffee.com/event/nicholas-soden/"
+  },
+  {
+   "id": "b5f0c1c092fc",
+   "headliner": "Cathie English",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": "18:00",
+   "venue": "Ginkgo",
+   "venue_slug": "ginkgo",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://ginkgocoffee.com/event/cathie-english/"
+  }
+ ]
+}

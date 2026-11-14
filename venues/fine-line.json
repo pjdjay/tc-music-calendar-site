@@ -1,0 +1,492 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Fine Line",
+ "city": "Minneapolis",
+ "count": 27,
+ "shows": [
+  {
+   "id": "3544eb4d9c85",
+   "headliner": "Humbird",
+   "openers": [
+    "Bad Posture Club"
+   ],
+   "date": "2026-11-13",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1536060/humbird-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-11-humbird/",
+   "spotify": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+  },
+  {
+   "id": "121fbc8b3610",
+   "headliner": "Almost Monday",
+   "openers": [
+    "feel trip."
+   ],
+   "date": "2026-11-14",
+   "start_time": "19:30",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "18:30",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1497548/almost-monday-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-11-almost-monday/",
+   "spotify": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+  },
+  {
+   "id": "a6edc1b1eb9c",
+   "headliner": "Ethan Regan",
+   "openers": [
+    "Lily Kershaw"
+   ],
+   "date": "2026-11-16",
+   "start_time": "19:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "18:00",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1468099/ethan-regan-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-11-ethan-regan/",
+   "spotify": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+  },
+  {
+   "id": "ebbd3a3ee18e",
+   "headliner": "Squirrel Flower",
+   "openers": [
+    "Sour Widows"
+   ],
+   "date": "2026-11-18",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "source": "https://www.jambase.com/show/squirrel-flower-fine-line-music-cafe-20261118",
+   "spotify": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+  },
+  {
+   "id": "ea3a9ced9ddc",
+   "headliner": "Michael Jackson Night",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "21:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1582231/michael-jackson-night-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-11-michael-jackson-night/"
+  },
+  {
+   "id": "fa4eee38d501",
+   "headliner": "Michigander",
+   "openers": [
+    "Wildermiss"
+   ],
+   "date": "2026-11-21",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1432438/michigander-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-11-michigander/",
+   "spotify": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+  },
+  {
+   "id": "ffb8bd3fb4dc",
+   "headliner": "Mountain Grass Unit",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "18:30",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1477906/mountain-grass-unit-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-11-mountain-grass-unit/",
+   "spotify": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
+  },
+  {
+   "id": "304ca0ea4057",
+   "headliner": "Venna",
+   "openers": [
+    "Khal!l"
+   ],
+   "date": "2026-11-24",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1554719/venna-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-11-venna/",
+   "spotify": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+  },
+  {
+   "id": "f9430745794e",
+   "headliner": "The Underachievers",
+   "openers": [
+    "Lord Sko",
+    "2Dead Boyz"
+   ],
+   "date": "2026-11-27",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1609206/2dead-boyz-x-the-underachievers-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-11-2dead-boyz-x-the-underachievers/",
+   "spotify": "https://open.spotify.com/artist/51Pn4gGnZuyOMDfIT1Zy3N"
+  },
+  {
+   "id": "3dd9ca13775b",
+   "headliner": "Chrissy Chlapecka",
+   "openers": [
+    "D'Lourdes"
+   ],
+   "date": "2026-11-28",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1511208/chrissy-chlapecka-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-11-chrissy-chlapecka/",
+   "spotify": "https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S"
+  },
+  {
+   "id": "7cfe022ab300",
+   "headliner": "Father Of Peace",
+   "openers": [
+    "Roe Kapara"
+   ],
+   "date": "2026-11-29",
+   "start_time": "19:30",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "18:30",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1493855/father-of-peace-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-11-father-of-peace/",
+   "spotify": "https://open.spotify.com/artist/27nYMwQ6QyHV76mzwXarkO"
+  },
+  {
+   "id": "9071ea303b5f",
+   "headliner": "Yaelokre",
+   "openers": [
+    "Ben Caplan"
+   ],
+   "date": "2026-11-30",
+   "start_time": "19:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "18:00",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1489867/yaelokre-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-11-yaelokre/",
+   "spotify": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+  },
+  {
+   "id": "927bd19dabe7",
+   "headliner": "Tiny Habits",
+   "openers": [
+    "Marie Dresselhuis"
+   ],
+   "date": "2026-12-02",
+   "start_time": "19:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "18:00",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1488198/tiny-habits-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-12-tiny-habits/",
+   "spotify": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+  },
+  {
+   "id": "194666b81be8",
+   "headliner": "Pokey LaFarge",
+   "openers": [
+    "Cicada Rhythm"
+   ],
+   "date": "2026-12-03",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1436212/pokey-lafarge-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-12-pokey-lafarge/",
+   "spotify": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+  },
+  {
+   "id": "495f6d4cdd5d",
+   "headliner": "DANCE… 4 U: Slayyyter X Charli XCX Night",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": "21:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1644887/dance-4-u-slayyyter-x-charli-xcx-night-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-12-dance-4-u-slayyyter-x-charli-xcx-night/"
+  },
+  {
+   "id": "eca6e1639d54",
+   "headliner": "Amtrac",
+   "openers": [
+    "Leo Himself"
+   ],
+   "date": "2026-12-10",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1566076/amtrac-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-12-amtrac/",
+   "spotify": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+  },
+  {
+   "id": "b6131f7db1fe",
+   "headliner": "bugsy",
+   "openers": [
+    "Anita Velveeta",
+    "Hey",
+    "ily!",
+    "Spiderlily"
+   ],
+   "date": "2026-12-12",
+   "start_time": "19:30",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:30",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1620041/bugsy-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-12-bugsy/",
+   "spotify": "https://open.spotify.com/artist/550HK4Z4yrcThhCm0An7NZ"
+  },
+  {
+   "id": "cc66465704d0",
+   "headliner": "House Party",
+   "openers": [],
+   "date": "2026-12-18",
+   "start_time": "21:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1672931/house-party-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-12-house-party/",
+   "spotify": "https://open.spotify.com/artist/05zszvXo2QjcGv9bnNRKNm"
+  },
+  {
+   "id": "e8a2d0b1ff82",
+   "headliner": "The Ugly Sweater ( Song ) Party",
+   "openers": [
+    "Flannel (90s Alt Rock",
+    "Grunge Tribute) • Pleezer (Weezer Tribute",
+    "playing Blue Album in full) • DJ Shane Kramer"
+   ],
+   "date": "2026-12-19",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1678852/the-ugly-sweater-song-party-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-12-ugly-sweater-song-party/"
+  },
+  {
+   "id": "3f6e356530cb",
+   "headliner": "FINAL DROP ⏤ House & Techno NYE Party",
+   "openers": [],
+   "date": "2026-12-31",
+   "start_time": "21:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1690335/final-drop-house-techno-nye-party-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-12-final-drop-house-techno-nye-party/"
+  },
+  {
+   "id": "2cd8769cc155",
+   "headliner": "Missio",
+   "openers": [
+    "No Love For The Middle Child",
+    "Kent Osborne"
+   ],
+   "date": "2027-01-15",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1560652/missio-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-01-missio/",
+   "spotify": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+  },
+  {
+   "id": "7f2cba68adab",
+   "headliner": "Crimewave: A Goth, Post-Punk & Darkwave Party",
+   "openers": [],
+   "date": "2027-01-16",
+   "start_time": "21:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1672946/crimewave-a-goth-post-punk-darkwave-party-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-01-crimewave/"
+  },
+  {
+   "id": "b0ef73f29a56",
+   "headliner": "Wolves in the Throne Room",
+   "openers": [
+    "Stygian Bough",
+    "Spirit Possession"
+   ],
+   "date": "2027-01-18",
+   "start_time": "19:30",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "doors_time": "18:30",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1638931/wolves-in-the-throne-room-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-01-wolves-in-the-throne-room/",
+   "spotify": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
+  },
+  {
+   "id": "eadcbb438c7d",
+   "headliner": "Glee Night",
+   "openers": [],
+   "date": "2027-01-22",
+   "start_time": "21:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1671235/glee-night-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-01-glee-night/"
+  },
+  {
+   "id": "381af657337e",
+   "headliner": "Jesse Williams",
+   "openers": [
+    "Riley Downing"
+   ],
+   "date": "2027-01-23",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1640204/jess-williamson-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-01-jess-williamson/",
+   "spotify": "https://open.spotify.com/artist/4pTZeUJcsPHpo8wlPC0uLL"
+  },
+  {
+   "id": "da3d2dd5bd54",
+   "headliner": "Rayland Baxter",
+   "openers": [
+    "Dylan LeBlanc"
+   ],
+   "date": "2027-02-02",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1611243/rayland-baxter-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-02-rayland-baxter/",
+   "spotify": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+  },
+  {
+   "id": "f968c3ff0347",
+   "headliner": "The Hip Abduction",
+   "openers": [
+    "Moon Taxi (Acoustic)"
+   ],
+   "date": "2027-02-03",
+   "start_time": "19:30",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:30",
+   "price": "$30",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1640744/the-hip-abduction-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-02-the-hip-abduction/",
+   "spotify": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+  }
+ ]
+}

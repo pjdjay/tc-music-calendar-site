@@ -1,0 +1,32 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Grand Casino Arena",
+ "city": "St. Paul",
+ "count": 1,
+ "shows": [
+  {
+   "id": "a6c068986815",
+   "headliner": "Amy Grant",
+   "openers": [
+    "Michael W. Smith",
+    "CeCe Winans"
+   ],
+   "date": "2026-12-04",
+   "start_time": "19:00",
+   "venue": "Grand Casino Arena",
+   "venue_slug": "grand-casino-arena",
+   "city": "St. Paul",
+   "genre": "pop",
+   "price": "$56.54",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A7x47_",
+   "source": "https://www.grandcasinoarena.com/events/detail/christmas-together",
+   "spotify": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+  }
+ ]
+}

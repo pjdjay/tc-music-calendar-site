@@ -1,0 +1,149 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-12-08",
+ "count": 9,
+ "shows": [
+  {
+   "id": "bf3f3f7be6b7",
+   "headliner": "A Charlie Brown Christmas",
+   "openers": [
+    "the Tanner Taylor Trio"
+   ],
+   "date": "2026-12-08",
+   "start_time": "18:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "jazz/blues",
+   "price": "$30.00 - $40.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/a-charlie-brown-christmas-with-the-tanner-taylor-trio-tickets-1995861181521",
+   "source": "https://www.croonersmn.com/event/a-charlie-brown-christmas-with-the-tanner-taylor-trio-9/"
+  },
+  {
+   "id": "20df8908a2ed",
+   "headliner": "DL4",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/dl4-7/",
+   "spotify": "https://open.spotify.com/artist/22nrPLTLV123fkQ95GdJ1j"
+  },
+  {
+   "id": "30793a1fd548",
+   "headliner": "MN Guitar Society Monthly FREE Concert – American Tunes and International Traditions",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "18:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "price": "FREE Concert",
+   "is_free": true,
+   "source": "https://metronomebrewery.com/live-music/mn-guitar-society-monthly-free-concert-american-tunes-and-international-traditions/"
+  },
+  {
+   "id": "3ba0f2e985c1",
+   "headliner": "The Dans",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "source": "https://whitesquirrelbar.com/event/the-dans-w-special-guests-2/"
+  },
+  {
+   "id": "1c44bb4038c4",
+   "headliner": "Minnesota Orchestra: A Charlie Brown Christmas: Live at the Symphony",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "19:00",
+   "venue": "Orchestra Hall",
+   "venue_slug": "orchestra-hall",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pe_a",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pe_a"
+  },
+  {
+   "id": "631d3e0b0d18",
+   "headliner": "Asleep At the Wheel",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "19:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "price": "$74.91+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/asleep-at-the-wheel-dec-2026/2026-12-08/"
+  },
+  {
+   "id": "476462e9a2b4",
+   "headliner": "Jennifer Grimm: A Christmas",
+   "openers": [
+    "Family"
+   ],
+   "date": "2026-12-08",
+   "start_time": "19:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "unknown",
+   "price": "$35.00 - $45.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/jennifer-grimm-a-christmas-with-family-and-friends-tickets-1994761497336",
+   "source": "https://www.croonersmn.com/event/jennifer-grimm-a-christmas-with-family-and-friends-10/"
+  },
+  {
+   "id": "3571186b7d36",
+   "headliner": "New Band Night #43",
+   "openers": [
+    "Anxiety Society",
+    "Noah Schmitt",
+    "Checkered Future",
+    "Remy Chacón"
+   ],
+   "date": "2026-12-08",
+   "start_time": "19:00",
+   "venue": "Green Room",
+   "venue_slug": "green-room",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:30",
+   "age": "18+",
+   "tickets": "https://tickets.venuepilot.com/e/new-band-night-44-2026-12-08-green-room-minneapolis-479588",
+   "source": "https://www.greenroommn.com/events#/events/194938"
+  },
+  {
+   "id": "4d645405be7f",
+   "headliner": "The 47th Annual John Lennon Tribute",
+   "openers": [
+    "Curtiss A with a little help from his friends"
+   ],
+   "date": "2026-12-08",
+   "start_time": "20:00",
+   "venue": "Fitzgerald Theater",
+   "venue_slug": "fitzgerald-theater",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1617099/the-47th-annual-john-lennon-tribute-tickets?skin=fitzgeraldtheater",
+   "source": "https://first-avenue.com/event/2026-12-john-lennon-tribute/"
+  }
+ ]
+}

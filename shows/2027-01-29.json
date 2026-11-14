@@ -1,0 +1,41 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-01-29",
+ "count": 2,
+ "shows": [
+  {
+   "id": "0426a01d95af",
+   "headliner": "Ben Em Mua Xuan",
+   "openers": [],
+   "date": "2027-01-29",
+   "start_time": "19:30",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "unknown",
+   "tickets": "https://www.ticketmaster.com/event/06006567CE0A38F5?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_BENEMMUAXUAN",
+   "source": "https://mysticlake.com/shows-and-events/ben-em-mua-xuan"
+  },
+  {
+   "id": "ba940275eb73",
+   "headliner": "Can't Feel My Face: 2010s Dance Party",
+   "openers": [],
+   "date": "2027-01-29",
+   "start_time": "21:00",
+   "venue": "First Avenue",
+   "venue_slug": "first-avenue",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1683684/cant-feel-my-face-2010s-dance-party-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2027-01-cant-feel-my-face-2010s-dance-party/"
+  }
+ ]
+}

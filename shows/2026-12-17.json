@@ -1,0 +1,72 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-12-17",
+ "count": 4,
+ "shows": [
+  {
+   "id": "bd21c0fddc9a",
+   "headliner": "Holiday Concerts: Handel’s Messiah",
+   "openers": [],
+   "date": "2026-12-17",
+   "start_time": null,
+   "venue": "Ordway Center",
+   "venue_slug": "ordway-center",
+   "city": "St. Paul",
+   "genre": "classical",
+   "source": "https://ordway.org/events/handels-messiah/"
+  },
+  {
+   "id": "2fb1e4956064",
+   "headliner": "Miss May I",
+   "openers": [
+    "Born Of Osiris",
+    "Convictions",
+    "Downswing",
+    "Conviction"
+   ],
+   "date": "2026-12-17",
+   "start_time": "18:00",
+   "venue": "Cabooze",
+   "venue_slug": "cabooze",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "source": "https://www.jambase.com/show/miss-may-i-cabooze-20261217",
+   "spotify": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+  },
+  {
+   "id": "5175a23f074d",
+   "headliner": "The Perpetual Iron Tour",
+   "openers": [],
+   "date": "2026-12-17",
+   "start_time": "18:30",
+   "venue": "Cabooze",
+   "venue_slug": "cabooze",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "17:30",
+   "tickets": "https://www.etix.com/ticket/p/54305101/the-perpetual-iron-tour-minneapolis-the-cabooze?partner_id=100",
+   "source": "https://cabooze.com/event/the-perpetual-iron-tour/the-cabooze/"
+  },
+  {
+   "id": "8d7add10f033",
+   "headliner": "Sara Evans",
+   "openers": [
+    "Braden Hull"
+   ],
+   "date": "2026-12-17",
+   "start_time": "20:00",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "country/folk/Americana",
+   "tickets": "https://www.ticketmaster.com/event/0600651CC610C0EA?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_SARAEVANS26",
+   "source": "https://mysticlake.com/shows-and-events/sara-evans",
+   "spotify": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+  }
+ ]
+}

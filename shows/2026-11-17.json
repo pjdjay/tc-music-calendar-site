@@ -1,0 +1,231 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-11-17",
+ "count": 14,
+ "shows": [
+  {
+   "id": "6fb25b120374",
+   "headliner": "Young Man MSP",
+   "openers": [],
+   "date": "2026-11-17",
+   "start_time": "16:00",
+   "venue": "Utepils Brewing",
+   "venue_slug": "utepils-brewing",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "source": "https://utepilsbrewing.com/events/young-man-msp/2026-11-17/"
+  },
+  {
+   "id": "7e54f53d01b5",
+   "headliner": "The New Havoline Supremes",
+   "openers": [],
+   "date": "2026-11-17",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "source": "https://whitesquirrelbar.com/event/the-new-havoline-supremes-3/"
+  },
+  {
+   "id": "25af333eaa31",
+   "headliner": "Worker’s Playtime",
+   "openers": [
+    "David Huckfelt"
+   ],
+   "date": "2026-11-17",
+   "start_time": "18:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Tuesday",
+   "source": "https://www.instagram.com/david_huckfelt?srtk=ZHhjdWJrd2F1em5y"
+  },
+  {
+   "id": "71f8747acb46",
+   "headliner": "Spanish Love Songs",
+   "openers": [
+    "Kali Masi",
+    "Stacked Like Pancakes"
+   ],
+   "date": "2026-11-17",
+   "start_time": "18:30",
+   "venue": "Cloudland Theater",
+   "venue_slug": "cloudland-theater",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$22.31",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6aa03f9adcd56d0001ad9808",
+   "source": "https://dice.fm/event/6aa03f9adcd56d0001ad9808",
+   "spotify": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+  },
+  {
+   "id": "71643ede149d",
+   "headliner": "Elevation Rhythm",
+   "openers": [
+    "Lost & Found",
+    "Allison Eide",
+    "Markus McFolling"
+   ],
+   "date": "2026-11-17",
+   "start_time": "19:00",
+   "venue": "Northrop Auditorium",
+   "venue_slug": "northrop-auditorium",
+   "city": "Minneapolis",
+   "genre": "gospel/Christian",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZKaM",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAZKaM",
+   "spotify": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+  },
+  {
+   "id": "b23f5de17393",
+   "headliner": "Lucinda Williams",
+   "openers": [
+    "Her Band"
+   ],
+   "date": "2026-11-17",
+   "start_time": "19:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "price": "$108.90+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/a-quiet-night-with-lucinda-williams-her-band-nov-2026/2026-11-17/",
+   "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+  },
+  {
+   "id": "f558dde6aa33",
+   "headliner": "Audrey Q",
+   "openers": [],
+   "date": "2026-11-17",
+   "start_time": "19:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "pop",
+   "source": "https://metronomebrewery.com/live-music/audrey-q/",
+   "spotify": "https://open.spotify.com/artist/48PT8mpQTyGdb5NvVV7hA4"
+  },
+  {
+   "id": "0981b859e2e2",
+   "headliner": "Dogs On Shady Lane",
+   "openers": [],
+   "date": "2026-11-17",
+   "start_time": "19:00",
+   "venue": "Pilllar Forum",
+   "venue_slug": "pilllar-forum",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "18:00",
+   "price": "Advance $15 Day of Show $20",
+   "is_free": false,
+   "source": "https://www.pilllar.com/collections/tickets/products/music-dogs-on-shady-lane-11-17-2026",
+   "spotify": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+  },
+  {
+   "id": "74da90069e88",
+   "headliner": "St. Dominic's Trio",
+   "openers": [],
+   "date": "2026-11-17",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Tuesday",
+   "source": "https://driftwoodcharbar.com/",
+   "spotify": "https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv"
+  },
+  {
+   "id": "655fc3f7af54",
+   "headliner": "Brandi Carlile",
+   "openers": [],
+   "date": "2026-11-17",
+   "start_time": "20:00",
+   "venue": "State Theatre",
+   "venue_slug": "state-theatre",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "tickets": "https://www.ticketmaster.com/brandi-carlile-burn-the-setlist-the-minneapolis-minnesota-11-17-2026/event/06006537E376533E",
+   "source": "https://www.ticketmaster.com/brandi-carlile-burn-the-setlist-the-minneapolis-minnesota-11-17-2026/event/06006537E376533E",
+   "spotify": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+  },
+  {
+   "id": "a41a1afc8177",
+   "headliner": "Nicole Atkins",
+   "openers": [
+    "John Gallagher Jr.",
+    "Emily Bjorke"
+   ],
+   "date": "2026-11-17",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1496406/nicole-atkins-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-11-nicole-atkins/",
+   "spotify": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
+  },
+  {
+   "id": "a3f0515d0327",
+   "headliner": "Elour Tuesday Night Residency",
+   "openers": [
+    "Big Salt"
+   ],
+   "date": "2026-11-17",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-11-18",
+   "hidden_category": "residency",
+   "recurrence": "every Tuesday",
+   "source": "https://whitesquirrelbar.com/event/elour-tuesday-night-residency/"
+  },
+  {
+   "id": "ead563320456",
+   "headliner": "Cold Sweat",
+   "openers": [
+    "The Lavender Project+",
+    "Conor Lee"
+   ],
+   "date": "2026-11-17",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Tuesday",
+   "source": "https://www.instagram.com/coldsweatnd?stkn=aWpsbmc1M2F3c3Fq"
+  },
+  {
+   "id": "88f7e5bfe48a",
+   "headliner": "International Reggae Allstars",
+   "openers": [],
+   "date": "2026-11-17",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "reggae/ska",
+   "hidden_category": "residency",
+   "recurrence": "every Tuesday",
+   "source": "https://bunkersmusic.com/calendar"
+  }
+ ]
+}

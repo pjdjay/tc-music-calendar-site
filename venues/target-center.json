@@ -1,0 +1,143 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Target Center",
+ "city": "Minneapolis",
+ "count": 9,
+ "shows": [
+  {
+   "id": "c4e4824912c1",
+   "headliner": "MercyMe",
+   "openers": [
+    "Jeremy Camp",
+    "Tim Timmons",
+    "Sam Wesley"
+   ],
+   "date": "2026-11-15",
+   "start_time": "19:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A70NZ6",
+   "source": "https://www.targetcenter.com/events/detail/mercyme2026",
+   "spotify": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+  },
+  {
+   "id": "26180d1a54c4",
+   "headliner": "Smith & Myers",
+   "openers": [
+    "Return to Dust"
+   ],
+   "date": "2026-12-03",
+   "start_time": "19:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "source": "https://www.jambase.com/show/smith-myers-target-center-20261203",
+   "spotify": "https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe"
+  },
+  {
+   "id": "2f0419f548c7",
+   "headliner": "Unwrapped: An Acoustic Holiday",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "19:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "source": "https://www.targetcenter.com/events/detail/unwrappedanacousticholiday"
+  },
+  {
+   "id": "07a1b04bde71",
+   "headliner": "Garth Brooks",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.targetcenter.com/events/detail/garthbrooks",
+   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+  },
+  {
+   "id": "2174dc5f62b0",
+   "headliner": "Garth Brooks",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg",
+   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+  },
+  {
+   "id": "e45cdc6e5131",
+   "headliner": "for KING & COUNTRY",
+   "openers": [],
+   "date": "2026-12-20",
+   "start_time": "19:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "gospel/Christian",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZeqV",
+   "source": "https://www.targetcenter.com/events/detail/forkingandcountry2026",
+   "spotify": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+  },
+  {
+   "id": "223ffe7c701a",
+   "headliner": "Trans-Siberian Orchestra",
+   "openers": [],
+   "date": "2026-12-27",
+   "start_time": "15:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "tickets": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-minneapolis-minnesota-12-27-2026/event/06006518ABE7B1FE",
+   "source": "https://www.targetcenter.com/events/detail/transsiberianorchestra26",
+   "spotify": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
+  },
+  {
+   "id": "707daced3889",
+   "headliner": "Harlem Globetrotters",
+   "openers": [],
+   "date": "2027-01-01",
+   "start_time": "19:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.targetcenter.com/events/detail/harlemglobetrotters27",
+   "spotify": "https://open.spotify.com/artist/75Yso5HASCKo7rumWVJOXc"
+  },
+  {
+   "id": "d1604e949cf5",
+   "headliner": "Dancing",
+   "openers": [
+    "the Stars: Live!",
+    "The Stars"
+   ],
+   "date": "2027-01-30",
+   "start_time": "19:30",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "tickets": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-minneapolis-minnesota-01-30-2027/event/06006538E6A9FCF7",
+   "source": "https://www.targetcenter.com/events/detail/dwts",
+   "spotify": "https://open.spotify.com/artist/2HW7qGJY01B4gdXKpPk3IB"
+  }
+ ]
+}

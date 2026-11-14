@@ -1,0 +1,95 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-01-15",
+ "count": 5,
+ "shows": [
+  {
+   "id": "af4f97a974a1",
+   "headliner": "Denny Love",
+   "openers": [],
+   "date": "2027-01-15",
+   "start_time": "18:00",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "hidden_category": "residency",
+   "recurrence": "every Friday",
+   "tickets": "https://www.ticketmaster.com/denny-love-show-love-tour-minneapolis-minnesota-01-15-2027/event/060064BDA02687E6",
+   "source": "https://www.ticketmaster.com/denny-love-show-love-tour-minneapolis-minnesota-01-15-2027/event/060064BDA02687E6",
+   "spotify": "https://open.spotify.com/artist/5jFKNogr2MCla7uSN1GHBa"
+  },
+  {
+   "id": "8fa2e7ffb2f3",
+   "headliner": "Minnesota Orchestra: Amadeus Live with the Minnesota Orchestra",
+   "openers": [],
+   "date": "2027-01-15",
+   "start_time": "19:00",
+   "venue": "Orchestra Hall",
+   "venue_slug": "orchestra-hall",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A7xpFt",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1A7xpFt",
+   "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
+  },
+  {
+   "id": "a8de19cb86d5",
+   "headliner": "The Last Revel",
+   "openers": [
+    "Wild Horses"
+   ],
+   "date": "2027-01-15",
+   "start_time": "20:00",
+   "venue": "First Avenue",
+   "venue_slug": "first-avenue",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1596524/the-last-revel-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2027-01-the-last-revel/",
+   "spotify": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
+  },
+  {
+   "id": "493dbeaff318",
+   "headliner": "Dan Donohue",
+   "openers": [],
+   "date": "2027-01-15",
+   "start_time": "20:00",
+   "venue": "Parkway Theater",
+   "venue_slug": "parkway-theater",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$25 Advance / $30 At The Door",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/h161bd2aa47e",
+   "source": "https://theparkwaytheater.com/all-events/dan-donohue",
+   "spotify": "https://open.spotify.com/artist/4yKG62KxvIurbwrfZZndBL"
+  },
+  {
+   "id": "2cd8769cc155",
+   "headliner": "Missio",
+   "openers": [
+    "No Love For The Middle Child",
+    "Kent Osborne"
+   ],
+   "date": "2027-01-15",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1560652/missio-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-01-missio/",
+   "spotify": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+  }
+ ]
+}

@@ -1,0 +1,309 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-11-22",
+ "count": 19,
+ "shows": [
+  {
+   "id": "5ecfca8e39e0",
+   "headliner": "The Last Minute Jug Band plays Mother McCree’s Uptown Jug Champions",
+   "openers": [
+    "Kickafoot Stringband",
+    "Pete Meyer",
+    "Bill Finke Blues Duo"
+   ],
+   "date": "2026-11-22",
+   "start_time": "13:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/the-last-minute-jug-band/"
+  },
+  {
+   "id": "da837e538ab7",
+   "headliner": "Dehl Gallagher Band",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "15:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/dehl-gallagher-band/?lre_date=2026-11-22"
+  },
+  {
+   "id": "9cf6f1e91b2f",
+   "headliner": "Gabriella Sweet",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "15:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://331club.com/"
+  },
+  {
+   "id": "fb7e9b3ec10e",
+   "headliner": "Patti Cudd",
+   "openers": [
+    "Jeff Johnson",
+    "Maura Bosch — dreaming the world back into harmony"
+   ],
+   "date": "2026-11-22",
+   "start_time": "16:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "classical",
+   "source": "https://metronomebrewery.com/live-music/patti-cudd-jeff-johnson-and-maura-bosch-dreaming-the-world-back-into-harmony/",
+   "spotify": "https://open.spotify.com/artist/4LiwSL9NdNlmrAY9gjABBG"
+  },
+  {
+   "id": "812f572f2f43",
+   "headliner": "Bryan Nichols & Zacc Harris Play the Great American Songbook",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "17:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "jazz/blues",
+   "price": "Free",
+   "is_free": true,
+   "tickets": "https://www.eventbrite.com/e/bryan-nichols-zacc-harris-play-the-great-american-songbook-registration-2003996139399",
+   "source": "https://www.croonersmn.com/event/bryan-nichols-zacc-harris-play-the-great-american-songbook/"
+  },
+  {
+   "id": "8765b0935d75",
+   "headliner": "Matt Hansen",
+   "openers": [
+    "Avery Lynch",
+    "Conall Cafferty"
+   ],
+   "date": "2026-11-22",
+   "start_time": "18:00",
+   "venue": "Varsity Theater",
+   "venue_slug": "varsity-theater",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "price": "$33.15",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vvG1bZ_59CDmeI/matt-hansen-the-orchid-tour",
+   "source": "https://www.livenation.com/event/vvG1bZ_59CDmeI/matt-hansen-the-orchid-tour",
+   "spotify": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+  },
+  {
+   "id": "206f4d5dfd33",
+   "headliner": "Hurricane Harold Trio",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "18:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every fourth Sunday",
+   "source": "https://thedublinerpub.com/show/hurricane-harold-trio/?lre_date=2026-11-22"
+  },
+  {
+   "id": "57f0c10a7b83",
+   "headliner": "Tapestry Road",
+   "openers": [
+    "Zoë Says Go"
+   ],
+   "date": "2026-11-22",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/tapestry-road-w-zoe-says-go/"
+  },
+  {
+   "id": "0b4d7f518748",
+   "headliner": "A Cabaret of Gratitude Presented by Lori Dokken",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "19:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "unknown",
+   "price": "$30.00 - $40.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/a-cabaret-of-gratitude-presented-by-lori-dokken-tickets-2001258748790",
+   "source": "https://www.croonersmn.com/event/a-cabaret-of-gratitude-presented-by-lori-dokken-2/"
+  },
+  {
+   "id": "616785cc7dbe",
+   "headliner": "Lee Roy Parnell",
+   "openers": [
+    "Goldpine"
+   ],
+   "date": "2026-11-22",
+   "start_time": "19:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "price": "$47.10+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/lee-roy-parnell-nov22-2026/",
+   "spotify": "https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ"
+  },
+  {
+   "id": "7edfa50506bf",
+   "headliner": "CABARET! – JBB & Friends present BLOOD BROTHERS!",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "19:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://metronomebrewery.com/live-music/cabaret-jbb-friends-present-blood-brothers/"
+  },
+  {
+   "id": "5aa73606c9bf",
+   "headliner": "Sundays",
+   "openers": [
+    "Room3 Collective (feat. Kevin Gamble)"
+   ],
+   "date": "2026-11-22",
+   "start_time": "19:00",
+   "venue": "Berlin",
+   "venue_slug": "berlin",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Sunday",
+   "price": "$20",
+   "is_free": false,
+   "source": "https://www.berlinmpls.com/calendar/room3-residency-week-3"
+  },
+  {
+   "id": "68da1d712ae0",
+   "headliner": "The Real Chuck NORAD",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "19:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every fourth Sunday",
+   "source": "https://www.instagram.com/the_real_chuck_norad?igsh=MWM1amt4bnVyYmh4Zw==",
+   "spotify": "https://open.spotify.com/artist/4MFh9xgWFLrVEFSt18J7MV"
+  },
+  {
+   "id": "70918b9bf243",
+   "headliner": "Alla Boara",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "19:30",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "world/other",
+   "doors_time": "19:00",
+   "price": "$10",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZa-f",
+   "source": "https://www.thecedar.org/events/the-cedar-presents-an-evening-with-alla-boara",
+   "spotify": "https://open.spotify.com/artist/3Jt42I8z4pf1ZnaJBpwTGZ"
+  },
+  {
+   "id": "e271ce394abb",
+   "headliner": "The Mainliners",
+   "openers": [
+    "The Nu-Viles"
+   ],
+   "date": "2026-11-22",
+   "start_time": "19:30",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "metal/punk",
+   "doors_time": "18:30",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1620740/the-mainliners-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-11-the-mainliners/"
+  },
+  {
+   "id": "ffb8bd3fb4dc",
+   "headliner": "Mountain Grass Unit",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "18:30",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1477906/mountain-grass-unit-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-11-mountain-grass-unit/",
+   "spotify": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
+  },
+  {
+   "id": "5cd04fb938b9",
+   "headliner": "The Kilans",
+   "openers": [
+    "Carver Jones"
+   ],
+   "date": "2026-11-22",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1541854/the-kilans-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-the-kilans/",
+   "spotify": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
+  },
+  {
+   "id": "f456f296b313",
+   "headliner": "Dusk Rat",
+   "openers": [
+    "Bad Ives",
+    "Massive Green"
+   ],
+   "date": "2026-11-22",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "end_date": "2026-11-23",
+   "source": "https://whitesquirrelbar.com/event/dusk-rat-2/"
+  },
+  {
+   "id": "c18d27e976bc",
+   "headliner": "Sabaton",
+   "openers": [
+    "Pop Evil",
+    "Wings of Steel"
+   ],
+   "date": "2026-11-22",
+   "start_time": "19:00",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "status": "postponed",
+   "tickets": "https://www.livenation.com/event/vv1AkZkGtGkd2VKHk/sabaton-legends-on-tour",
+   "source": "https://www.livenation.com/event/vv1AkZkGtGkd2VKHk/sabaton-legends-on-tour",
+   "spotify": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+  }
+ ]
+}

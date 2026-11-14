@@ -1,0 +1,26 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-01-17",
+ "count": 1,
+ "shows": [
+  {
+   "id": "7ef8282cc669",
+   "headliner": "Minnesota Orchestra: Amadeus Live with the Minnesota Orchestra",
+   "openers": [],
+   "date": "2027-01-17",
+   "start_time": "14:00",
+   "venue": "Orchestra Hall",
+   "venue_slug": "orchestra-hall",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A7xpFY",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1A7xpFY",
+   "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
+  }
+ ]
+}

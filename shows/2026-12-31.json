@@ -1,0 +1,123 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-12-31",
+ "count": 7,
+ "shows": [
+  {
+   "id": "6efd21622c11",
+   "headliner": "New Year’s",
+   "openers": [],
+   "date": "2026-12-31",
+   "start_time": null,
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "unknown",
+   "source": "https://mysticlake.com/shows-and-events/new-years",
+   "spotify": "https://open.spotify.com/artist/2pHlr7VUi2CUHOkZh6ihTd"
+  },
+  {
+   "id": "17d7bb5504d9",
+   "headliner": "Blue Violin",
+   "openers": [],
+   "date": "2026-12-31",
+   "start_time": "19:00",
+   "venue": "Ames Center",
+   "venue_slug": "ames-center",
+   "city": "Burnsville",
+   "genre": "classical",
+   "price": "$29.90-$33",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/blue-violins-retro-rock-roll-new-burnsville-minnesota-12-31-2026/event/06006548C531D71B",
+   "source": "https://www.ticketmaster.com/blue-violins-retro-rock-roll-new-burnsville-minnesota-12-31-2026/event/06006548C531D71B",
+   "spotify": "https://open.spotify.com/artist/746tZ75FIMngviowpCuCEj"
+  },
+  {
+   "id": "a0712ae77bb6",
+   "headliner": "New Years Eve Celebration",
+   "openers": [],
+   "date": "2026-12-31",
+   "start_time": "20:30",
+   "venue": "Orchestra Hall",
+   "venue_slug": "orchestra-hall",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A7JZ1_",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1A7JZ1_"
+  },
+  {
+   "id": "955aac1f2709",
+   "headliner": "Gryffin",
+   "openers": [
+    "Viperactive",
+    "Costa"
+   ],
+   "date": "2026-12-31",
+   "start_time": "21:00",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "price": "$76.55",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vv17bZ_3GkD0tTSd/gryffin",
+   "source": "https://www.livenation.com/event/vv17bZ_3GkD0tTSd/gryffin",
+   "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+  },
+  {
+   "id": "a5ad57148ac7",
+   "headliner": "Back to the Future ⏤ New Year's Eve A time-traveling party through the decades",
+   "openers": [
+    "DJ Jake Rudh"
+   ],
+   "date": "2026-12-31",
+   "start_time": "21:00",
+   "venue": "First Avenue",
+   "venue_slug": "first-avenue",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1688954/back-to-the-future-new-years-eve-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-transmission-back-to-the-future-new-years-eve/"
+  },
+  {
+   "id": "3f6e356530cb",
+   "headliner": "FINAL DROP ⏤ House & Techno NYE Party",
+   "openers": [],
+   "date": "2026-12-31",
+   "start_time": "21:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1690335/final-drop-house-techno-nye-party-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-12-final-drop-house-techno-nye-party/"
+  },
+  {
+   "id": "e6fb66691dad",
+   "headliner": "Reventón NYE 2027",
+   "openers": [
+    "Cristian Baca"
+   ],
+   "date": "2026-12-31",
+   "start_time": "21:00",
+   "venue": "Varsity Theater",
+   "venue_slug": "varsity-theater",
+   "city": "Minneapolis",
+   "genre": "Latin",
+   "hidden_category": "dj_night",
+   "tickets": "https://www.ticketmaster.com/reventon-nye-2027-with-cristian-baca-minneapolis-minnesota-12-31-2026/event/0600656209693C60",
+   "source": "https://www.livenation.com/event/vv1FbZ_pFaQKZdu6v/reventon-nye-2027-with-cristian-baca"
+  }
+ ]
+}

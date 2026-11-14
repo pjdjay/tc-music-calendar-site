@@ -1,0 +1,299 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Zhora Darling",
+ "city": "Minneapolis",
+ "count": 15,
+ "shows": [
+  {
+   "id": "cbb882f28023",
+   "headliner": "Perro Mundo",
+   "openers": [
+    "Sociedad Salvaje",
+    "Laugh Track",
+    "P.O.A."
+   ],
+   "date": "2026-11-13",
+   "start_time": "19:30",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$19.06",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6ae3e9a7f7133b0001ecb2c5",
+   "source": "https://dice.fm/event/6ae3e9a7f7133b0001ecb2c5",
+   "spotify": "https://open.spotify.com/artist/3jdF7ApF4AUJiEcT4PDUra"
+  },
+  {
+   "id": "cc8f9a562a64",
+   "headliner": "Supportive Parents",
+   "openers": [
+    "Public Missile Crisis",
+    "Powerdam",
+    "TV for Dogs",
+    "Wilbur"
+   ],
+   "date": "2026-11-14",
+   "start_time": "18:30",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "price": "$19.06",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6ac19f127005ba000107926c",
+   "source": "https://dice.fm/event/6ac19f127005ba000107926c",
+   "spotify": "https://open.spotify.com/artist/1AWLgWZadZi7YFicPYt5mG"
+  },
+  {
+   "id": "bb535c4f07bf",
+   "headliner": "Porcelain (TX)",
+   "openers": [
+    "Zastava (MI)",
+    "In Lieu"
+   ],
+   "date": "2026-11-15",
+   "start_time": "19:00",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$19.06",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/K9a3c9a1d512?utm_source=jambase",
+   "source": "https://dice.fm/event/6ab96ae934e57f00019d8e10"
+  },
+  {
+   "id": "7e49b0176915",
+   "headliner": "Strawberry Girls",
+   "openers": [
+    "Moonsault",
+    "Andres"
+   ],
+   "date": "2026-11-18",
+   "start_time": "19:00",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$22.84",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/tb77110ac134?utm_source=jambase",
+   "source": "https://dice.fm/event/6abd98707b8ef300011bc156"
+  },
+  {
+   "id": "e05ec1c228ed",
+   "headliner": "Sap's Erasure Tour",
+   "openers": [],
+   "date": "2026-11-19",
+   "start_time": "18:30",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$19.06",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6a88e679c398370001485826",
+   "source": "https://dice.fm/event/6a88e679c398370001485826"
+  },
+  {
+   "id": "8cf8647ba37f",
+   "headliner": "Sludge Mother",
+   "openers": [
+    "aWannabe"
+   ],
+   "date": "2026-11-19",
+   "start_time": "18:30",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "price": "$15",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/wb237a57804b?utm_source=jambase",
+   "source": "https://www.jambase.com/show/sludge-mother-zhora-darling-20261119",
+   "spotify": "https://open.spotify.com/artist/4z2Ca5a6IR3ZLMEgMVRTjH"
+  },
+  {
+   "id": "612bb5a8532d",
+   "headliner": "Cursing (CO)",
+   "openers": [
+    "Crypt.ID",
+    "Gothess"
+   ],
+   "date": "2026-11-20",
+   "start_time": "21:00",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "end_date": "2026-11-21",
+   "price": "$19.06",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6af249c5cc479800017873b4",
+   "source": "https://dice.fm/event/6af249c5cc479800017873b4"
+  },
+  {
+   "id": "2337b4128f43",
+   "headliner": "Wanderer",
+   "openers": [
+    "Druids",
+    "Eudaemon",
+    "Cache"
+   ],
+   "date": "2026-11-21",
+   "start_time": "19:00",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "price": "$12.70",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/p9b4c261767a?utm_source=jambase",
+   "source": "https://dice.fm/event/6a988f67d3ebe200016dc599"
+  },
+  {
+   "id": "c1c62d05a00c",
+   "headliner": "Graveslave",
+   "openers": [
+    "Defiled Sacrament",
+    "Rahvn",
+    "Flayed",
+    "Forgotten"
+   ],
+   "date": "2026-11-27",
+   "start_time": "19:00",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "price": "$15.24",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/L34046c5f5b7?utm_source=jambase",
+   "source": "https://dice.fm/event/6ab043fc0a37b400019784a7",
+   "spotify": "https://open.spotify.com/artist/1fMaWj1gFlWA2PgKfMpLiK"
+  },
+  {
+   "id": "54465e17db54",
+   "headliner": "Yeah Yeah Fine",
+   "openers": [
+    "The Ancient Sleeper",
+    "Thomas Richey",
+    "Cute Intentions"
+   ],
+   "date": "2026-11-29",
+   "start_time": "19:00",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$12.70",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6ad95fa0c6d97200019cac04",
+   "source": "https://dice.fm/event/6ad95fa0c6d97200019cac04",
+   "spotify": "https://open.spotify.com/artist/6dWAgAMdSaKK8gPv4a9Sia"
+  },
+  {
+   "id": "67215755f010",
+   "headliner": "Marengo (WI)",
+   "openers": [
+    "Lutefisk",
+    "Mariah Ann Maass (WI)"
+   ],
+   "date": "2026-12-02",
+   "start_time": "18:00",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$15.24",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6aea6b8385f24b000141ddaf",
+   "source": "https://dice.fm/event/6aea6b8385f24b000141ddaf"
+  },
+  {
+   "id": "307915e8ccf1",
+   "headliner": "The Symptones",
+   "openers": [
+    "USPOP w/ danser",
+    "Uspop"
+   ],
+   "date": "2026-12-03",
+   "start_time": "18:30",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$12.70",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6ad951e3c6d9720001619f61",
+   "source": "https://dice.fm/event/6ad951e3c6d9720001619f61",
+   "spotify": "https://open.spotify.com/artist/0UAmjdgUfinPaTO09JKoDS"
+  },
+  {
+   "id": "d725871f427a",
+   "headliner": "Spud & His Buds",
+   "openers": [
+    "Fiona Hayes",
+    "Bad Weather",
+    "Freak When Sees"
+   ],
+   "date": "2026-12-04",
+   "start_time": "19:00",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$12.70",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/a3c0d4b6b05a?utm_source=jambase",
+   "source": "https://dice.fm/event/6aebe25f3ed1900001d3c947",
+   "spotify": "https://open.spotify.com/artist/0MNRtg3q47Ywjy5vByCymX"
+  },
+  {
+   "id": "2b7122ee9e04",
+   "headliner": "Freak of the Week",
+   "openers": [
+    "Angel Alanis",
+    "Nola Rave",
+    "*67",
+    "Videodrone"
+   ],
+   "date": "2026-12-05",
+   "start_time": "20:00",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "end_date": "2026-12-06",
+   "price": "$25.38",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/S74a8263bf83?utm_source=jambase",
+   "source": "https://dice.fm/event/6ad02e2df76aac00011e9e9a"
+  },
+  {
+   "id": "f61f368a4ff8",
+   "headliner": "Sunless",
+   "openers": [
+    "Bodycam",
+    "Unsouling"
+   ],
+   "date": "2026-12-06",
+   "start_time": "19:00",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$19.06",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6af3b4c20c25ed0001460f5d",
+   "source": "https://dice.fm/event/6af3b4c20c25ed0001460f5d",
+   "spotify": "https://open.spotify.com/artist/1pVBgmx5m44kXvyUizCDTt"
+  }
+ ]
+}

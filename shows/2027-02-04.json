@@ -1,0 +1,47 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-02-04",
+ "count": 2,
+ "shows": [
+  {
+   "id": "f4d7603dc509",
+   "headliner": "Strangelove",
+   "openers": [],
+   "date": "2027-02-04",
+   "start_time": "19:30",
+   "venue": "Parkway Theater",
+   "venue_slug": "parkway-theater",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$30 Advance / $35 At The Door",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/T089d80fd64b",
+   "source": "https://theparkwaytheater.com/all-events/depeche-mode-40",
+   "spotify": "https://open.spotify.com/artist/7BOuqF4YlViXdq5In1SVwJ"
+  },
+  {
+   "id": "6181f9b3ff9b",
+   "headliner": "Effin",
+   "openers": [
+    "Nikita, the Wicked",
+    "AYCH"
+   ],
+   "date": "2027-02-04",
+   "start_time": "20:00",
+   "venue": "Varsity Theater",
+   "venue_slug": "varsity-theater",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "price": "$35.15",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vv17bZ_fGkVb8lrD/effin-heartbeats-tour",
+   "source": "https://www.livenation.com/event/vv17bZ_fGkVb8lrD/effin-heartbeats-tour",
+   "spotify": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+  }
+ ]
+}

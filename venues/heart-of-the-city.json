@@ -1,0 +1,25 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Heart of the City",
+ "city": "Anoka",
+ "count": 1,
+ "shows": [
+  {
+   "id": "e0733112f36a",
+   "headliner": "Heart of the City Band at All Nations Christian Assembly",
+   "openers": [],
+   "date": "2026-11-15",
+   "start_time": "10:30",
+   "venue": "Heart of the City",
+   "venue_slug": "heart-of-the-city",
+   "city": "Anoka",
+   "genre": "unknown",
+   "source": "https://heartofthecity.org/go/events/6795320?feature_id=480644&occurrence_id=786449291&popup=1"
+  }
+ ]
+}

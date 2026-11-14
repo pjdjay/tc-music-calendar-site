@@ -1,0 +1,117 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Ordway Center",
+ "city": "St. Paul",
+ "count": 8,
+ "shows": [
+  {
+   "id": "d753b92e3659",
+   "headliner": "Zachary Cohen Premieres Deak’s Bass Concerto",
+   "openers": [],
+   "date": "2026-11-13",
+   "start_time": "11:00",
+   "venue": "Ordway Center",
+   "venue_slug": "ordway-center",
+   "city": "St. Paul",
+   "genre": "classical",
+   "source": "https://ordway.org/events/zachary-cohen-bass/"
+  },
+  {
+   "id": "4c59aa92ab08",
+   "headliner": "It Wasn't Meant to be Perfect: An Evening",
+   "openers": [
+    "Gaelynn Lea",
+    "Kevin Kling",
+    "freaque"
+   ],
+   "date": "2026-11-15",
+   "start_time": "19:00",
+   "venue": "Ordway Center",
+   "venue_slug": "ordway-center",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://ordway.org/events/gaelynn-lea/"
+  },
+  {
+   "id": "b0d56ac0487d",
+   "headliner": "Williams’ Zodiac Suite",
+   "openers": [
+    "the Aaron Diehl Trio"
+   ],
+   "date": "2026-11-27",
+   "start_time": null,
+   "venue": "Ordway Center",
+   "venue_slug": "ordway-center",
+   "city": "St. Paul",
+   "genre": "jazz/blues",
+   "source": "https://ordway.org/events/williams-zodiac-diehl-trio/"
+  },
+  {
+   "id": "966b7e67ca58",
+   "headliner": "The Hot Sardines",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": "19:30",
+   "venue": "Ordway Center",
+   "venue_slug": "ordway-center",
+   "city": "St. Paul",
+   "genre": "jazz/blues",
+   "source": "https://ordway.org/events/hot-sardines/",
+   "spotify": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
+  },
+  {
+   "id": "8344b153d14f",
+   "headliner": "Leo Kottke",
+   "openers": [],
+   "date": "2026-12-05",
+   "start_time": "19:00",
+   "venue": "Ordway Center",
+   "venue_slug": "ordway-center",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://ordway.org/events/leo-kottke/",
+   "spotify": "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx"
+  },
+  {
+   "id": "a4e26f11a405",
+   "headliner": "ACYC Annual Winter Concert",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "13:30",
+   "venue": "Ordway Center",
+   "venue_slug": "ordway-center",
+   "city": "St. Paul",
+   "genre": "classical",
+   "source": "https://ordway.org/events/angelica-cantanti-youth-choirs/"
+  },
+  {
+   "id": "6d7ea767e152",
+   "headliner": "Bach’s Brandenburg Concertos",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": null,
+   "venue": "Ordway Center",
+   "venue_slug": "ordway-center",
+   "city": "St. Paul",
+   "genre": "classical",
+   "source": "https://ordway.org/events/bachs-brandenburg/"
+  },
+  {
+   "id": "bd21c0fddc9a",
+   "headliner": "Holiday Concerts: Handel’s Messiah",
+   "openers": [],
+   "date": "2026-12-17",
+   "start_time": null,
+   "venue": "Ordway Center",
+   "venue_slug": "ordway-center",
+   "city": "St. Paul",
+   "genre": "classical",
+   "source": "https://ordway.org/events/handels-messiah/"
+  }
+ ]
+}

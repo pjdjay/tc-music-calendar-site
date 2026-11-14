@@ -1,0 +1,96 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Fitzgerald Theater",
+ "city": "St. Paul",
+ "count": 5,
+ "shows": [
+  {
+   "id": "6ca8d16243fa",
+   "headliner": "Tell Me Lies — A Tribute to Fleetwood Mac",
+   "openers": [],
+   "date": "2026-11-15",
+   "start_time": "20:00",
+   "venue": "Fitzgerald Theater",
+   "venue_slug": "fitzgerald-theater",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1556166/tell-me-lies-a-tribute-to-fleetwood-mac-tickets?skin=fitzgeraldtheater",
+   "source": "https://first-avenue.com/event/2026-11-tell-me-lies-a-tribute-to-fleetwood-mac/"
+  },
+  {
+   "id": "4d645405be7f",
+   "headliner": "The 47th Annual John Lennon Tribute",
+   "openers": [
+    "Curtiss A with a little help from his friends"
+   ],
+   "date": "2026-12-08",
+   "start_time": "20:00",
+   "venue": "Fitzgerald Theater",
+   "venue_slug": "fitzgerald-theater",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1617099/the-47th-annual-john-lennon-tribute-tickets?skin=fitzgeraldtheater",
+   "source": "https://first-avenue.com/event/2026-12-john-lennon-tribute/"
+  },
+  {
+   "id": "c422a4cba444",
+   "headliner": "Happy Birthday Janis ⏤ The Final Celebration ⏤ A Tribute to the Life and Music of Janis Joplin",
+   "openers": [],
+   "date": "2027-01-16",
+   "start_time": "19:30",
+   "venue": "Fitzgerald Theater",
+   "venue_slug": "fitzgerald-theater",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "18:30",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1621699/happy-birthday-janis-the-final-celebration-a-tribute-to-the-life-and-m-tickets?skin=fitzgeraldtheater",
+   "source": "https://first-avenue.com/event/2027-01-happy-birthday-janis/"
+  },
+  {
+   "id": "6e8fd477cf5a",
+   "headliner": "The 22nd Annual The Last Waltz Tribute",
+   "openers": [
+    "Big Pink with The Northside Horns with The Belfast Cowboys"
+   ],
+   "date": "2027-01-23",
+   "start_time": "19:30",
+   "venue": "Fitzgerald Theater",
+   "venue_slug": "fitzgerald-theater",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "18:30",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1664469/the-22nd-annual-the-last-waltz-tribute-tickets?skin=fitzgeraldtheater",
+   "source": "https://first-avenue.com/event/2027-01-last-waltz-tribute/"
+  },
+  {
+   "id": "dbe243f7bd79",
+   "headliner": "Richard Thompson",
+   "openers": [
+    "Clayton Linthicum",
+    "Quinn Bachand"
+   ],
+   "date": "2027-02-02",
+   "start_time": "20:00",
+   "venue": "Fitzgerald Theater",
+   "venue_slug": "fitzgerald-theater",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1645249/richard-thompson-band-tickets?skin=fitzgeraldtheater",
+   "source": "https://first-avenue.com/event/2027-02-richard-thompson-band/",
+   "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+  }
+ ]
+}

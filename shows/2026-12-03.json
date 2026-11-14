@@ -1,0 +1,342 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-12-03",
+ "count": 22,
+ "shows": [
+  {
+   "id": "f06646e7b605",
+   "headliner": "A Mid-Century Modern Holiday",
+   "openers": [
+    "RetroFizz!"
+   ],
+   "date": "2026-12-03",
+   "start_time": "18:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "jazz/blues",
+   "price": "$25.00 - $35.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/a-mid-century-modern-holiday-with-retrofizz-tickets-1993940457584",
+   "source": "https://www.croonersmn.com/event/a-mid-century-modern-holiday-with-retrofizz/"
+  },
+  {
+   "id": "ac7412f93561",
+   "headliner": "A Emmy Woods Cuntry Club",
+   "openers": [
+    "Boots",
+    "Needles"
+   ],
+   "date": "2026-12-03",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every first Thursday",
+   "source": "https://whitesquirrelbar.com/event/a-emmy-woods-cuntry-club-w-boots-needles/"
+  },
+  {
+   "id": "911ba2c094b3",
+   "headliner": "Hanukkah Rocks",
+   "openers": [
+    "Benjamin Cartel"
+   ],
+   "date": "2026-12-03",
+   "start_time": "18:30",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/hanukkah-rocks-feat-benjamin-cartel-friends-december-03-2026-756863"
+  },
+  {
+   "id": "307915e8ccf1",
+   "headliner": "The Symptones",
+   "openers": [
+    "USPOP w/ danser",
+    "Uspop"
+   ],
+   "date": "2026-12-03",
+   "start_time": "18:30",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$12.70",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6ad951e3c6d9720001619f61",
+   "source": "https://dice.fm/event/6ad951e3c6d9720001619f61",
+   "spotify": "https://open.spotify.com/artist/0UAmjdgUfinPaTO09JKoDS"
+  },
+  {
+   "id": "2fcc38e28711",
+   "headliner": "Overbyte",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "18:30",
+   "venue": "Pilllar Forum",
+   "venue_slug": "pilllar-forum",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "price": "Advance $10 Day of Show $12",
+   "is_free": false,
+   "source": "https://www.pilllar.com/collections/tickets/products/music-overbyte-12-3-2026"
+  },
+  {
+   "id": "26180d1a54c4",
+   "headliner": "Smith & Myers",
+   "openers": [
+    "Return to Dust"
+   ],
+   "date": "2026-12-03",
+   "start_time": "19:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "source": "https://www.jambase.com/show/smith-myers-target-center-20261203",
+   "spotify": "https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe"
+  },
+  {
+   "id": "2f0419f548c7",
+   "headliner": "Unwrapped: An Acoustic Holiday",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "19:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "source": "https://www.targetcenter.com/events/detail/unwrappedanacousticholiday"
+  },
+  {
+   "id": "98c50424ce6a",
+   "headliner": "Midwest Discourse",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "19:00",
+   "venue": "Amsterdam Bar & Hall",
+   "venue_slug": "amsterdam-bar-hall",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "18:00",
+   "age": "18+",
+   "tickets": "https://www.etix.com/ticket/p/64693440/midwest-discourse-saint-paul-amsterdam-bar-hall?partner_id=100",
+   "source": "https://events.amsterdambarandhall.com/event/midwest-discourse/amsterdam-bar-hall/saint-paul-minnesota/"
+  },
+  {
+   "id": "8c16adf6d88f",
+   "headliner": "Benjamin Cartel",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "tickets": "https://app.opendate.io/e/hanukkah-rocks-feat-benjamin-cartel-friends-december-03-2026-756863?utm_source=jambase",
+   "source": "https://www.jambase.com/show/benjamin-cartel-the-hook-and-ladder-theater-20261203"
+  },
+  {
+   "id": "34aa6affa003",
+   "headliner": "CELEBRATE ME HOME – A Holiday Tapestry",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "19:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "jazz/blues",
+   "price": "$40.00 - $50.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/wayne-anthony-presents-celebrate-me-home-a-holiday-tapestry-tickets-1993938179771",
+   "source": "https://www.croonersmn.com/event/wayne-anthony-presents-celebrate-me-home-a-holiday-tapestry/"
+  },
+  {
+   "id": "a3fc157024a6",
+   "headliner": "Kurt Elling",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "19:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$50.90",
+   "is_free": false,
+   "tickets": "https://www.etix.com/ticket/p/41197086/the-beautiful-day-kurt-elling-sings-christmas-minneapolis-dakota",
+   "source": "https://www.dakotacooks.com/event/the-beautiful-day-kurt-elling-sings-christmas-dec3-2026/2026-12-03/1/"
+  },
+  {
+   "id": "98204cf8ffea",
+   "headliner": "The Rowdy Gents",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/",
+   "spotify": "https://open.spotify.com/artist/0WMVfYZL6g1n3MomAT8wpj"
+  },
+  {
+   "id": "c3e79e396280",
+   "headliner": "Witching Hour",
+   "openers": [
+    "dimmer"
+   ],
+   "date": "2026-12-03",
+   "start_time": "19:00",
+   "venue": "Berlin",
+   "venue_slug": "berlin",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$15",
+   "is_free": false,
+   "source": "https://www.berlinmpls.com/calendar/witching-hour-december-2026"
+  },
+  {
+   "id": "a7b7fd2cbbcd",
+   "headliner": "Rocky Mountain High Experience: A John Denver Tribute",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "19:30",
+   "venue": "Ames Center",
+   "venue_slug": "ames-center",
+   "city": "Burnsville",
+   "genre": "country/folk/Americana",
+   "price": "$82.40",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/rocky-mountain-high-experience-a-john-burnsville-minnesota-12-03-2026/event/06006503AD41A1EC",
+   "source": "https://www.ticketmaster.com/rocky-mountain-high-experience-a-john-burnsville-minnesota-12-03-2026/event/06006503AD41A1EC"
+  },
+  {
+   "id": "1aa117cbbd47",
+   "headliner": "Peter Mulvey",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "19:30",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "source": "https://www.thecedar.org/events/an-evening-with-peter-mulvey-and-friends"
+  },
+  {
+   "id": "194666b81be8",
+   "headliner": "Pokey LaFarge",
+   "openers": [
+    "Cicada Rhythm"
+   ],
+   "date": "2026-12-03",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1436212/pokey-lafarge-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-12-pokey-lafarge/",
+   "spotify": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+  },
+  {
+   "id": "afca1414c5f1",
+   "headliner": "Hunny Bear",
+   "openers": [
+    "Heliocene",
+    "Astronomy Town"
+   ],
+   "date": "2026-12-03",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1637518/hunny-bear-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-hunny-bear/",
+   "spotify": "https://open.spotify.com/artist/17CF3dR6SvWQE1Mk2OJpGt"
+  },
+  {
+   "id": "0d36f3d7d356",
+   "headliner": "Joe Pug",
+   "openers": [
+    "Dillon Warnek"
+   ],
+   "date": "2026-12-03",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1587780/joe-pug-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-12-joe-pug/",
+   "spotify": "https://open.spotify.com/artist/17cssIaAwAcgC9nZZliixv"
+  },
+  {
+   "id": "9bf8e688b411",
+   "headliner": "Kurt Elling",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "21:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "source": "https://www.dakotacooks.com/event/the-beautiful-day-kurt-elling-sings-christmas-dec3-2026/2026-12-03/2/"
+  },
+  {
+   "id": "03fbcd2fd57e",
+   "headliner": "Ex Rodeo",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-04",
+   "source": "https://whitesquirrelbar.com/event/ex-rodeo-3/",
+   "spotify": "https://open.spotify.com/artist/3RfkDDhWZaHFplT5OQJ7Sl"
+  },
+  {
+   "id": "217276342cf4",
+   "headliner": "Poudres Canyon",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "21:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "04d09f9da662",
+   "headliner": "Northeast Invitational",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://331club.com/"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Uptown Theater",
+ "city": "Minneapolis",
+ "count": 4,
+ "shows": [
+  {
+   "id": "47c0a944bf19",
+   "headliner": "Wookiefoot",
+   "openers": [
+    "Balkan Bump",
+    "The Limns"
+   ],
+   "date": "2026-11-14",
+   "start_time": "19:00",
+   "venue": "Uptown Theater",
+   "venue_slug": "uptown-theater",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$34.25",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://www.livenation.com/event/vv17bZ_3GkTVS3x8/wookiefoot-18",
+   "source": "https://www.livenation.com/event/vv17bZ_3GkTVS3x8/wookiefoot-18",
+   "spotify": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
+  },
+  {
+   "id": "9f4577f47f3f",
+   "headliner": "Shaun Cassidy",
+   "openers": [],
+   "date": "2026-11-21",
+   "start_time": "19:00",
+   "venue": "Uptown Theater",
+   "venue_slug": "uptown-theater",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "price": "$71",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vvG1bZ_CXTIV4v/shaun-cassidy-unwrapped-songs-stories-for-the-holidays",
+   "source": "https://www.livenation.com/event/vvG1bZ_CXTIV4v/shaun-cassidy-unwrapped-songs-stories-for-the-holidays",
+   "spotify": "https://open.spotify.com/artist/6XJ5IHDtW2OkjtwVllkANt"
+  },
+  {
+   "id": "df3035d01146",
+   "headliner": "Turnover",
+   "openers": [
+    "Nothing",
+    "Trauma Ray"
+   ],
+   "date": "2026-11-24",
+   "start_time": "18:30",
+   "venue": "Uptown Theater",
+   "venue_slug": "uptown-theater",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$45.75",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vvG1bZ_ukU-reR/turnover-down-on-earth-tour-15",
+   "source": "https://www.livenation.com/event/vvG1bZ_ukU-reR/turnover-down-on-earth-tour-15",
+   "spotify": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
+  },
+  {
+   "id": "28fc1da20871",
+   "headliner": "Ms. Pat",
+   "openers": [],
+   "date": "2027-01-22",
+   "start_time": "18:30",
+   "venue": "Uptown Theater",
+   "venue_slug": "uptown-theater",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "18+",
+   "tickets": "https://www.livenation.com/event/vv17bZ_4GkDoZX5x/ms-pat-the-raising-chaos-tour-18",
+   "source": "https://www.livenation.com/event/vv17bZ_4GkDoZX5x/ms-pat-the-raising-chaos-tour-18",
+   "spotify": "https://open.spotify.com/artist/7buxjjNrYgAUNWIzlC1sC3"
+  }
+ ]
+}

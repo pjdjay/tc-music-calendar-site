@@ -1,0 +1,61 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Pantages Theatre",
+ "city": "Minneapolis",
+ "count": 3,
+ "shows": [
+  {
+   "id": "f5f6d5c0207d",
+   "headliner": "The Fab Four",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "19:30",
+   "venue": "Pantages Theatre",
+   "venue_slug": "pantages-theatre",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$37.45",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/the-fab-four-tribute-to-the-minneapolis-minnesota-11-14-2026/event/06006471A446BAA7",
+   "source": "https://www.ticketmaster.com/the-fab-four-tribute-to-the-minneapolis-minnesota-11-14-2026/event/06006471A446BAA7",
+   "spotify": "https://open.spotify.com/artist/0hKKZ3XZ2uQD5j1EIrFFf7"
+  },
+  {
+   "id": "9bde06161161",
+   "headliner": "Glenn Miller Orchestra",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "19:00",
+   "venue": "Pantages Theatre",
+   "venue_slug": "pantages-theatre",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$105.10",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/the-glenn-miller-orchestra-minneapolis-minnesota-12-01-2026/event/06006463E810AFB5",
+   "source": "https://www.ticketmaster.com/the-glenn-miller-orchestra-minneapolis-minnesota-12-01-2026/event/06006463E810AFB5",
+   "spotify": "https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z"
+  },
+  {
+   "id": "555fd581d24d",
+   "headliner": "Sounds of Blackness",
+   "openers": [],
+   "date": "2026-12-20",
+   "start_time": "19:00",
+   "venue": "Pantages Theatre",
+   "venue_slug": "pantages-theatre",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "price": "$63.10",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/sounds-of-blackness-the-night-before-minneapolis-minnesota-12-20-2026/event/06006547BF65BEC6",
+   "source": "https://www.ticketmaster.com/sounds-of-blackness-the-night-before-minneapolis-minnesota-12-20-2026/event/06006547BF65BEC6",
+   "spotify": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+  }
+ ]
+}

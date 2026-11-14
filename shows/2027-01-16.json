@@ -1,0 +1,121 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-01-16",
+ "count": 7,
+ "shows": [
+  {
+   "id": "2dabbc624e74",
+   "headliner": "Minnesota Orchestra: Amadeus Live with the Minnesota Orchestra",
+   "openers": [],
+   "date": "2027-01-16",
+   "start_time": "19:00",
+   "venue": "Orchestra Hall",
+   "venue_slug": "orchestra-hall",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A7xpFI",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1A7xpFI",
+   "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
+  },
+  {
+   "id": "2a74d42dd503",
+   "headliner": "Wonho",
+   "openers": [],
+   "date": "2027-01-16",
+   "start_time": "19:00",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "tickets": "https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76",
+   "source": "https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76",
+   "spotify": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
+  },
+  {
+   "id": "802a9f68fac6",
+   "headliner": "Thouxanbanfauni",
+   "openers": [
+    "Diego Money"
+   ],
+   "date": "2027-01-16",
+   "start_time": "19:00",
+   "venue": "Underground Music Venue",
+   "venue_slug": "underground-music-venue",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "source": "https://www.songkick.com/concerts/43495052-thouxanbanfauni-at-underground-music-venue?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+  },
+  {
+   "id": "c422a4cba444",
+   "headliner": "Happy Birthday Janis ⏤ The Final Celebration ⏤ A Tribute to the Life and Music of Janis Joplin",
+   "openers": [],
+   "date": "2027-01-16",
+   "start_time": "19:30",
+   "venue": "Fitzgerald Theater",
+   "venue_slug": "fitzgerald-theater",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "18:30",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1621699/happy-birthday-janis-the-final-celebration-a-tribute-to-the-life-and-m-tickets?skin=fitzgeraldtheater",
+   "source": "https://first-avenue.com/event/2027-01-happy-birthday-janis/"
+  },
+  {
+   "id": "17a74f4086e8",
+   "headliner": "Know Good",
+   "openers": [
+    "Blookah",
+    "Jeanlouis"
+   ],
+   "date": "2027-01-16",
+   "start_time": "20:30",
+   "venue": "Varsity Theater",
+   "venue_slug": "varsity-theater",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "price": "$35.15",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vvG1bZ_u1znuXP/know-good-against-all-odds-tour",
+   "source": "https://www.livenation.com/event/vvG1bZ_u1znuXP/know-good-against-all-odds-tour",
+   "spotify": "https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx"
+  },
+  {
+   "id": "6ff990588b39",
+   "headliner": "Dumb Nathan Fielder Rave",
+   "openers": [],
+   "date": "2027-01-16",
+   "start_time": "21:00",
+   "venue": "First Avenue",
+   "venue_slug": "first-avenue",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1695094/dumb-nathan-fielder-rave-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2027-01-dumb-nathan-fielder-rave/"
+  },
+  {
+   "id": "7f2cba68adab",
+   "headliner": "Crimewave: A Goth, Post-Punk & Darkwave Party",
+   "openers": [],
+   "date": "2027-01-16",
+   "start_time": "21:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1672946/crimewave-a-goth-post-punk-darkwave-party-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-01-crimewave/"
+  }
+ ]
+}

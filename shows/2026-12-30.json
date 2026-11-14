@@ -1,0 +1,26 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-12-30",
+ "count": 1,
+ "shows": [
+  {
+   "id": "5fb472b640de",
+   "headliner": "Marshmello",
+   "openers": [],
+   "date": "2026-12-30",
+   "start_time": "21:00",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "tickets": "https://www.ticketmaster.com/marshmello-minneapolis-minnesota-12-30-2026/event/0600655DF05EE809",
+   "source": "https://www.livenation.com/event/vv17bZ_4GkMY9mOa/marshmello",
+   "spotify": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+  }
+ ]
+}

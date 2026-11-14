@@ -1,0 +1,96 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-01-23",
+ "count": 5,
+ "shows": [
+  {
+   "id": "021054ae9ae9",
+   "headliner": "Minnesota Orchestra: Tchaikovsky Violin Concerto",
+   "openers": [
+    "Sergey Khachatryan"
+   ],
+   "date": "2027-01-23",
+   "start_time": "19:00",
+   "venue": "Orchestra Hall",
+   "venue_slug": "orchestra-hall",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpjg",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpjg",
+   "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
+  },
+  {
+   "id": "46a68a517320",
+   "headliner": "Red NOT Chili Peppers",
+   "openers": [
+    "Lips Speak Louder"
+   ],
+   "date": "2027-01-23",
+   "start_time": "19:30",
+   "venue": "Varsity Theater",
+   "venue_slug": "varsity-theater",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$26.35",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vv16kZk4FApZAu162G/red-not-chili-peppers",
+   "source": "https://www.livenation.com/event/vv16kZk4FApZAu162G/red-not-chili-peppers"
+  },
+  {
+   "id": "6e8fd477cf5a",
+   "headliner": "The 22nd Annual The Last Waltz Tribute",
+   "openers": [
+    "Big Pink with The Northside Horns with The Belfast Cowboys"
+   ],
+   "date": "2027-01-23",
+   "start_time": "19:30",
+   "venue": "Fitzgerald Theater",
+   "venue_slug": "fitzgerald-theater",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "18:30",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1664469/the-22nd-annual-the-last-waltz-tribute-tickets?skin=fitzgeraldtheater",
+   "source": "https://first-avenue.com/event/2027-01-last-waltz-tribute/"
+  },
+  {
+   "id": "86c1d85ac4f8",
+   "headliner": "Flyleaf",
+   "openers": [
+    "Lacey Sturm"
+   ],
+   "date": "2027-01-23",
+   "start_time": "20:00",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "rock/indie",
+   "tickets": "https://www.ticketmaster.com/flyleaf-with-lacey-sturm-prior-lake-minnesota-01-23-2027/event/06006565C20DF0C0?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_FLYLEAF",
+   "source": "https://mysticlake.com/shows-and-events/flyleaf",
+   "spotify": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60"
+  },
+  {
+   "id": "381af657337e",
+   "headliner": "Jesse Williams",
+   "openers": [
+    "Riley Downing"
+   ],
+   "date": "2027-01-23",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1640204/jess-williamson-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-01-jess-williamson/",
+   "spotify": "https://open.spotify.com/artist/4pTZeUJcsPHpo8wlPC0uLL"
+  }
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Mystic Lake Showroom",
+ "city": "Prior Lake",
+ "count": 11,
+ "shows": [
+  {
+   "id": "f658cb644f0d",
+   "headliner": "Josh Turner",
+   "openers": [
+    "Will Jones"
+   ],
+   "date": "2026-11-13",
+   "start_time": "20:00",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "country/folk/Americana",
+   "tickets": "https://www.ticketmaster.com/event/060064FEDD109E60?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_JOSHTURNERFY26",
+   "source": "https://mysticlake.com/shows-and-events/josh-turner",
+   "spotify": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+  },
+  {
+   "id": "b7ce3d13bbbd",
+   "headliner": "Alter Bridge",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "19:00",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "rock/indie",
+   "tickets": "https://www.ticketmaster.com/event/060064B4989986D7?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_ALTERBRIDGEFY26",
+   "source": "https://mysticlake.com/shows-and-events/alter-bridge",
+   "spotify": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+  },
+  {
+   "id": "536cfd5c9e91",
+   "headliner": "Everclear",
+   "openers": [
+    "American Hi-Fi"
+   ],
+   "date": "2026-11-15",
+   "start_time": "19:00",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "rock/indie",
+   "tickets": "https://www.ticketmaster.com/event/060064AFBDD54C97?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_EVERCLEAR",
+   "source": "https://mysticlake.com/shows-and-events/everclear",
+   "spotify": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+  },
+  {
+   "id": "ea5eded380bd",
+   "headliner": "Hanson",
+   "openers": [],
+   "date": "2026-11-28",
+   "start_time": "20:00",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "pop",
+   "tickets": "https://www.ticketmaster.com/event/060064F5EB43E1C0?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_HANSON2026",
+   "source": "https://mysticlake.com/shows-and-events/hanson",
+   "spotify": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+  },
+  {
+   "id": "8a1579bc605c",
+   "headliner": "Celtic Woman: Silver Bells Christmas Tour 2026",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "20:00",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "Celtic/Irish",
+   "tickets": "https://www.ticketmaster.com/event/06006506B62AC202?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_CELTICWOMAN2026",
+   "source": "https://mysticlake.com/shows-and-events/celtic-woman"
+  },
+  {
+   "id": "aafadde2a4ae",
+   "headliner": "Mannheim Steamroller Christmas By Chip Davis",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "15:00",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "classical",
+   "source": "https://mysticlake.com/shows-and-events/mannheim-steamroller"
+  },
+  {
+   "id": "8d7add10f033",
+   "headliner": "Sara Evans",
+   "openers": [
+    "Braden Hull"
+   ],
+   "date": "2026-12-17",
+   "start_time": "20:00",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "country/folk/Americana",
+   "tickets": "https://www.ticketmaster.com/event/0600651CC610C0EA?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_SARAEVANS26",
+   "source": "https://mysticlake.com/shows-and-events/sara-evans",
+   "spotify": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+  },
+  {
+   "id": "26a61a71f496",
+   "headliner": "Hairball: Jingle “Ball” Rock",
+   "openers": [],
+   "date": "2026-12-19",
+   "start_time": "20:00",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "rock/indie",
+   "tickets": "https://www.ticketmaster.com/event/0600652FC017BA9A?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_HAIRBALLFY27",
+   "source": "https://mysticlake.com/shows-and-events/hairball"
+  },
+  {
+   "id": "6efd21622c11",
+   "headliner": "New Year’s",
+   "openers": [],
+   "date": "2026-12-31",
+   "start_time": null,
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "unknown",
+   "source": "https://mysticlake.com/shows-and-events/new-years",
+   "spotify": "https://open.spotify.com/artist/2pHlr7VUi2CUHOkZh6ihTd"
+  },
+  {
+   "id": "86c1d85ac4f8",
+   "headliner": "Flyleaf",
+   "openers": [
+    "Lacey Sturm"
+   ],
+   "date": "2027-01-23",
+   "start_time": "20:00",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "rock/indie",
+   "tickets": "https://www.ticketmaster.com/flyleaf-with-lacey-sturm-prior-lake-minnesota-01-23-2027/event/06006565C20DF0C0?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_FLYLEAF",
+   "source": "https://mysticlake.com/shows-and-events/flyleaf",
+   "spotify": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60"
+  },
+  {
+   "id": "0426a01d95af",
+   "headliner": "Ben Em Mua Xuan",
+   "openers": [],
+   "date": "2027-01-29",
+   "start_time": "19:30",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "unknown",
+   "tickets": "https://www.ticketmaster.com/event/06006567CE0A38F5?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_BENEMMUAXUAN",
+   "source": "https://mysticlake.com/shows-and-events/ben-em-mua-xuan"
+  }
+ ]
+}

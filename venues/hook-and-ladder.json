@@ -1,0 +1,386 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Hook and Ladder",
+ "city": "Minneapolis",
+ "count": 24,
+ "shows": [
+  {
+   "id": "ef781837e47f",
+   "headliner": "Andra Suchy",
+   "openers": [
+    "The Long Honeymoon",
+    "Mary K",
+    "the Realistix",
+    "Mary K. Stone"
+   ],
+   "date": "2026-11-13",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/andra-suchy-with-the-long-honeymoon-and-mary-k-and-the-realistix-november-13-2026-734653",
+   "spotify": "https://open.spotify.com/artist/0FfjG8aDWPy9FtMx5tym1E"
+  },
+  {
+   "id": "536c6d7a710c",
+   "headliner": "Rue Nouveau",
+   "openers": [],
+   "date": "2026-11-13",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/rue-nouveau-november-13-2026-742741"
+  },
+  {
+   "id": "3db94a99a1a0",
+   "headliner": "Amerigrass '26",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "18:30",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/amerigrass-26-november-14-2026-711921"
+  },
+  {
+   "id": "c266ab3d4854",
+   "headliner": "Maygen & The Birdwatcher",
+   "openers": [
+    "Rich Mattson and the Northstars",
+    "Emmy Woods",
+    "Ross Thorn"
+   ],
+   "date": "2026-11-14",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "tickets": "https://app.opendate.io/e/amerigrass-26-november-14-2026-711921?utm_source=jambase",
+   "source": "https://www.jambase.com/show/maygen-the-birdwatcher-the-hook-and-ladder-theater-20261114",
+   "spotify": "https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8"
+  },
+  {
+   "id": "a65a04039b0a",
+   "headliner": "Golden Satellite / Killed By Kiwis / JuiceNeck",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "19:30",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/golden-satellite-killed-by-kiwis-juiceneck-november-14-2026-741774"
+  },
+  {
+   "id": "bcb9a105b2b6",
+   "headliner": "Dirty P’s Thirsty 3rd Thursdays Club",
+   "openers": [],
+   "date": "2026-11-19",
+   "start_time": "17:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every third Thursday",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/dirty-p-s-thirsty-3rd-thursdays-club-november-19-2026-652586"
+  },
+  {
+   "id": "4945b965cdc5",
+   "headliner": "Front Porch Swingin' Liquor Pigs",
+   "openers": [],
+   "date": "2026-11-19",
+   "start_time": "17:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "hidden_category": "residency",
+   "recurrence": "every third Thursday",
+   "tickets": "https://app.opendate.io/e/dirty-p-s-thirsty-3rd-thursdays-club-november-19-2026-652586?utm_source=jambase",
+   "source": "https://www.jambase.com/show/front-porch-swingin-liquor-pigs-the-hook-and-ladder-theater-20261119"
+  },
+  {
+   "id": "0bfa5db3880b",
+   "headliner": "Music For Everyone - Give To The Max Celebration",
+   "openers": [],
+   "date": "2026-11-19",
+   "start_time": "17:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/music-for-everyone-give-to-the-max-celebration-november-19-2026-795688"
+  },
+  {
+   "id": "29e2cf2adeba",
+   "headliner": "Clean Plate Club",
+   "openers": [
+    "Becca Murray",
+    "The Wildflowers",
+    "Auronova"
+   ],
+   "date": "2026-11-20",
+   "start_time": "19:30",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "18+",
+   "tickets": "https://app.opendate.io/e/clean-plate-club-album-release-w-becca-murray-and-the-wildflowers-and-auronova-november-20-2026-745179?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/clean-plate-club-with-becca-murray-the-wildflowers-and-auronova-november-20-2026-745179"
+  },
+  {
+   "id": "96cc8d29bd8d",
+   "headliner": "Deadsgiving",
+   "openers": [
+    "Atypical Daydream"
+   ],
+   "date": "2026-11-20",
+   "start_time": "19:30",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/deadsgiving-feat-atypical-daydream-november-20-2026-793953"
+  },
+  {
+   "id": "bd939285f58e",
+   "headliner": "SONGS OF LEAD BELLY - Remembering the 1948 MPLS House Concert",
+   "openers": [
+    "Corpse Reviver",
+    "Adam Kiesling",
+    "Jillian Rae",
+    "Pop Wagner",
+    "Mikkel"
+   ],
+   "date": "2026-11-21",
+   "start_time": "18:30",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/songs-of-lead-belly-remembering-the-1948-mpls-house-concert-feat-corpse-reviver-adam-kiesling-jillian-rae-pop-wagner-mikkel-november-21-2026-730700"
+  },
+  {
+   "id": "1a48063343bd",
+   "headliner": "Follow the Firefly",
+   "openers": [
+    "Guest Matt Wilson",
+    "Matt Wilson"
+   ],
+   "date": "2026-11-21",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "tickets": "https://app.opendate.io/e/follow-the-firefly-album-release-w-guest-matt-wilson-november-21-2026-720308?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/follow-the-firefly-album-release-w-guest-matt-wilson-november-21-2026-720308",
+   "spotify": "https://open.spotify.com/artist/0ZDwyE4G3rIlfi0GqL2Qlu"
+  },
+  {
+   "id": "da4ed27bf607",
+   "headliner": "Drinksgiving",
+   "openers": [
+    "ELnO",
+    "DJ TimeMachine"
+   ],
+   "date": "2026-11-25",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "tickets": "https://app.opendate.io/e/drinksgiving-with-elno-dj-timemachine-november-25-2026-742743?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/drinksgiving-with-elno-dj-timemachine-november-25-2026-742743"
+  },
+  {
+   "id": "0ce97d9c1e7c",
+   "headliner": "Bluedog",
+   "openers": [
+    "Jada Brown",
+    "Laura Hugo",
+    "Corey Medina & Brothers",
+    "Imnížaska Drum Group"
+   ],
+   "date": "2026-11-27",
+   "start_time": "17:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "tickets": "https://app.opendate.io/e/truthsgiving-a-decolonized-thanksgiving-show-november-27-2026-761555?utm_source=jambase",
+   "source": "https://www.jambase.com/show/bluedog-the-hook-and-ladder-theater-20261127"
+  },
+  {
+   "id": "f24bb6bb1243",
+   "headliner": "Truthsgiving: A Decolonized Thanksgiving Show",
+   "openers": [],
+   "date": "2026-11-27",
+   "start_time": "17:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/truthsgiving-a-decolonized-thanksgiving-show-november-27-2026-761555"
+  },
+  {
+   "id": "a57d48de8250",
+   "headliner": "Shoeless Revolution",
+   "openers": [
+    "The Brothers Allmanac: A Midwest Tribute to The Allman Brothers",
+    "Shane Cox & the Funky Spuds"
+   ],
+   "date": "2026-11-28",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "tickets": "https://app.opendate.io/e/getdown-give-the-brothers-allmanac-shoeless-revolution-shane-cox-the-funky-spuds-november-28-2026-736714?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/getdown-give-the-brothers-allmanac-shoeless-revolution-shane-cox-the-funky-spuds-november-28-2026-736714",
+   "spotify": "https://open.spotify.com/artist/0M7Y52xLPvGYYvMjCE8qhF"
+  },
+  {
+   "id": "911ba2c094b3",
+   "headliner": "Hanukkah Rocks",
+   "openers": [
+    "Benjamin Cartel"
+   ],
+   "date": "2026-12-03",
+   "start_time": "18:30",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/hanukkah-rocks-feat-benjamin-cartel-friends-december-03-2026-756863"
+  },
+  {
+   "id": "8c16adf6d88f",
+   "headliner": "Benjamin Cartel",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "tickets": "https://app.opendate.io/e/hanukkah-rocks-feat-benjamin-cartel-friends-december-03-2026-756863?utm_source=jambase",
+   "source": "https://www.jambase.com/show/benjamin-cartel-the-hook-and-ladder-theater-20261203"
+  },
+  {
+   "id": "3cae3de340f7",
+   "headliner": "Debbie Briggs - Very Vintage Holiday Swing Dance",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/debbie-briggs-very-vintage-holiday-swing-dance-december-04-2026-683837"
+  },
+  {
+   "id": "db4243df8edd",
+   "headliner": "RAWK The Halls!",
+   "openers": [
+    "The Silverteens",
+    "Mary Strand",
+    "The Garage",
+    "The Hell And The Quiet"
+   ],
+   "date": "2026-12-04",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "age": "21+",
+   "tickets": "https://app.opendate.io/e/rawk-the-halls-with-the-silverteens-mary-strand-the-garage-and-the-hell-and-the-quiet-december-04-2026-745388?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/rawk-the-halls-with-the-silverteens-mary-strand-the-garage-and-the-hell-and-the-quiet-december-04-2026-745388"
+  },
+  {
+   "id": "384b5ccad94d",
+   "headliner": "Demitrious Rallis Band",
+   "openers": [],
+   "date": "2026-12-05",
+   "start_time": "20:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/demitrious-rallis-band-december-05-2026-758805"
+  },
+  {
+   "id": "85437a101c5b",
+   "headliner": "David Cook",
+   "openers": [],
+   "date": "2026-12-09",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/david-cook-december-09-2026-753052",
+   "spotify": "https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa"
+  },
+  {
+   "id": "26af8568e912",
+   "headliner": "Rising Voices: Lumberstock Music Fest",
+   "openers": [],
+   "date": "2026-12-10",
+   "start_time": "17:30",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/rising-voices-lumberstock-music-fest-december-10-2026-800339"
+  },
+  {
+   "id": "32d8c53243df",
+   "headliner": "The Steepwater Band",
+   "openers": [
+    "Mark Joseph",
+    "Nicholas David"
+   ],
+   "date": "2026-12-10",
+   "start_time": "19:30",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "tickets": "https://app.opendate.io/e/the-steepwater-band-december-10-2026-751118?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/the-steepwater-band-december-10-2026-751118",
+   "spotify": "https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J"
+  }
+ ]
+}

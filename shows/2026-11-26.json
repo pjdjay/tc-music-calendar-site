@@ -1,0 +1,52 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-11-26",
+ "count": 3,
+ "shows": [
+  {
+   "id": "c56b2ff559e1",
+   "headliner": "Davina and The Vagabonds",
+   "openers": [],
+   "date": "2026-11-26",
+   "start_time": "19:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$47.10+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/thanksgiving-with-davina-and-the-vagabonds-nov26-2026/",
+   "spotify": "https://open.spotify.com/artist/3oLbVep4MpWVFfeLgdRVjd"
+  },
+  {
+   "id": "dc8f293dc529",
+   "headliner": "Joe Carey",
+   "openers": [],
+   "date": "2026-11-26",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/joe-carey/?lre_date=2026-11-26"
+  },
+  {
+   "id": "81c0dd96a57e",
+   "headliner": "Throwback Thursday: Thanksgiving Edition",
+   "openers": [],
+   "date": "2026-11-26",
+   "start_time": "21:00",
+   "venue": "Cabooze",
+   "venue_slug": "cabooze",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "tickets": "https://www.etix.com/ticket/p/42539096/throwback-thursdaythanksgiving-edition-minneapolis-the-cabooze?partner_id=100",
+   "source": "https://cabooze.com/event/throwback-thursday-thanksgiving-edition/the-cabooze/"
+  }
+ ]
+}

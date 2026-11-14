@@ -1,0 +1,26 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-12-14",
+ "count": 1,
+ "shows": [
+  {
+   "id": "14b9137b8e21",
+   "headliner": "Shaun Johnson",
+   "openers": [],
+   "date": "2026-12-14",
+   "start_time": "19:00",
+   "venue": "Ames Center",
+   "venue_slug": "ames-center",
+   "city": "Burnsville",
+   "genre": "jazz/blues",
+   "tickets": "https://www.ticketmaster.com/run-run-rudolph-the-tour-burnsville-minnesota-12-14-2026/event/060064FBE1986586",
+   "source": "https://www.ticketmaster.com/run-run-rudolph-the-tour-burnsville-minnesota-12-14-2026/event/060064FBE1986586",
+   "spotify": "https://open.spotify.com/artist/00MutxlVgUUfrj2qajQSog"
+  }
+ ]
+}

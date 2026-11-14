@@ -1,0 +1,109 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-01-09",
+ "count": 6,
+ "shows": [
+  {
+   "id": "7ac8b7e71b72",
+   "headliner": "Minnesota Orchestra: Mozart, Haydn and Shostakovich",
+   "openers": [],
+   "date": "2027-01-09",
+   "start_time": "19:00",
+   "venue": "Orchestra Hall",
+   "venue_slug": "orchestra-hall",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZdOz",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAZdOz",
+   "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
+  },
+  {
+   "id": "5783e4e086d4",
+   "headliner": "Ninajirachi",
+   "openers": [
+    "iKeda"
+   ],
+   "date": "2027-01-09",
+   "start_time": "19:00",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "source": "https://www.jambase.com/show/ninajirachi-the-fillmore-minneapolis-20270109",
+   "spotify": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+  },
+  {
+   "id": "7f805aa26059",
+   "headliner": "Lissie",
+   "openers": [],
+   "date": "2027-01-09",
+   "start_time": "19:30",
+   "venue": "Parkway Theater",
+   "venue_slug": "parkway-theater",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "most Saturdays",
+   "price": "$39 Advance / $44 At The Door",
+   "is_free": false,
+   "source": "https://theparkwaytheater.com/all-events/lissie-2027",
+   "spotify": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+  },
+  {
+   "id": "18f0813e058c",
+   "headliner": "Ninajirachi",
+   "openers": [
+    "Ikeda",
+    "mgna crrrta"
+   ],
+   "date": "2027-01-09",
+   "start_time": "20:00",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "tickets": "https://www.livenation.com/event/vv17bZ_KGkSmDCzH/ninajirachi-s-i-love-my-computer-and-it-loves-me-tour",
+   "source": "https://www.livenation.com/event/vv17bZ_KGkSmDCzH/ninajirachi-s-i-love-my-computer-and-it-loves-me-tour",
+   "spotify": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+  },
+  {
+   "id": "d6274d9b62c1",
+   "headliner": "G. Love & Special Sauce",
+   "openers": [
+    "Todd Carey",
+    "G. Love"
+   ],
+   "date": "2027-01-09",
+   "start_time": "20:00",
+   "venue": "First Avenue",
+   "venue_slug": "first-avenue",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1579100/g-love-special-sauce-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2027-01-g-love-special-sauce/",
+   "spotify": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+  },
+  {
+   "id": "10e177fb54bb",
+   "headliner": "Emo Night! Hosted by Back to the Scene",
+   "openers": [],
+   "date": "2027-01-09",
+   "start_time": "20:00",
+   "venue": "Amsterdam Bar & Hall",
+   "venue_slug": "amsterdam-bar-hall",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.etix.com/ticket/p/63038696/emo-nighthosted-by-back-to-the-scene-saint-paul-amsterdam-bar-hall?partner_id=100",
+   "source": "https://events.amsterdambarandhall.com/event/emo-night-hosted-by-back-to-the-scene/amsterdam-bar-hall/saint-paul-minnesota/"
+  }
+ ]
+}

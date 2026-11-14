@@ -1,0 +1,806 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "White Squirrel",
+ "city": "St. Paul",
+ "count": 54,
+ "shows": [
+  {
+   "id": "9bff4c5ad877",
+   "headliner": "Chris Davies & the Afterparty",
+   "openers": [],
+   "date": "2026-11-13",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/chris-davies-the-afterparty/"
+  },
+  {
+   "id": "6151fb7d7b42",
+   "headliner": "Dead on Board",
+   "openers": [],
+   "date": "2026-11-13",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-11-14",
+   "hidden_category": "residency",
+   "recurrence": "every other Friday",
+   "source": "https://whitesquirrelbar.com/event/dead-on-board-2/"
+  },
+  {
+   "id": "97a8cf142334",
+   "headliner": "Scott Hefte",
+   "openers": [
+    "Boots",
+    "Needles",
+    "Aaron James"
+   ],
+   "date": "2026-11-14",
+   "start_time": "13:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/bury-em-deep/",
+   "spotify": "https://open.spotify.com/artist/2f9L6AOv6zwwyA5hqETJ4b"
+  },
+  {
+   "id": "02e6659df562",
+   "headliner": "Ciao Bello",
+   "openers": [
+    "Fumbler"
+   ],
+   "date": "2026-11-14",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/ciao-bello-w-fumbler/",
+   "spotify": "https://open.spotify.com/artist/30fgmNH7IVSNN0QyTHfS9m"
+  },
+  {
+   "id": "059fbcab4a28",
+   "headliner": "Clog",
+   "openers": [
+    "JWAC",
+    "Ben Vogel And The Migration"
+   ],
+   "date": "2026-11-14",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-11-15",
+   "source": "https://whitesquirrelbar.com/event/clog/"
+  },
+  {
+   "id": "0cf45990f944",
+   "headliner": "International Treasures",
+   "openers": [
+    "Wren",
+    "Wilde"
+   ],
+   "date": "2026-11-15",
+   "start_time": "13:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/international-treasures-w-wren-wilde/",
+   "spotify": "https://open.spotify.com/artist/1HNHyEYMYJqvYxlzA0RnSc"
+  },
+  {
+   "id": "f12a1a17de89",
+   "headliner": "Devil Dodger",
+   "openers": [],
+   "date": "2026-11-16",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "metal/punk",
+   "source": "https://whitesquirrelbar.com/event/devil-dodger-3/",
+   "spotify": "https://open.spotify.com/artist/2D5VEHBsI887Cws9NjwXgG"
+  },
+  {
+   "id": "2765e8f216cc",
+   "headliner": "Shelly Lynne & The Boys",
+   "openers": [
+    "Michael Sherwood",
+    "Sodalites"
+   ],
+   "date": "2026-11-16",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "end_date": "2026-11-17",
+   "source": "https://whitesquirrelbar.com/event/shelly-lynne/"
+  },
+  {
+   "id": "7e54f53d01b5",
+   "headliner": "The New Havoline Supremes",
+   "openers": [],
+   "date": "2026-11-17",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "source": "https://whitesquirrelbar.com/event/the-new-havoline-supremes-3/"
+  },
+  {
+   "id": "a3f0515d0327",
+   "headliner": "Elour Tuesday Night Residency",
+   "openers": [
+    "Big Salt"
+   ],
+   "date": "2026-11-17",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-11-18",
+   "hidden_category": "residency",
+   "recurrence": "every Tuesday",
+   "source": "https://whitesquirrelbar.com/event/elour-tuesday-night-residency/"
+  },
+  {
+   "id": "fd7b9626adad",
+   "headliner": "St Paul Mudsteppers",
+   "openers": [],
+   "date": "2026-11-18",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/st-paul-mudsteppers-3/"
+  },
+  {
+   "id": "cdf48a9e18ea",
+   "headliner": "Clash Minne Rockers",
+   "openers": [
+    "After The Party",
+    "Cretin Avenue Hop"
+   ],
+   "date": "2026-11-18",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "metal/punk",
+   "end_date": "2026-11-19",
+   "source": "https://whitesquirrelbar.com/event/clash-minne-rockers-w-after-the-party-cretin-avenue-hop/"
+  },
+  {
+   "id": "1c480bd4d4b6",
+   "headliner": "Martin Devaney & Friends",
+   "openers": [],
+   "date": "2026-11-19",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/martin-devaney-friends-w-tiki-barnsworth-and-the-barnburners/"
+  },
+  {
+   "id": "db0161c8622b",
+   "headliner": "Chris Holm",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/chris-holm/"
+  },
+  {
+   "id": "d1d5dbdc02cb",
+   "headliner": "Jen’s Birthday Show! Ft: Plumstar",
+   "openers": [
+    "Sunsets Over Flowers",
+    "Ditch Pigeon"
+   ],
+   "date": "2026-11-20",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-11-21",
+   "source": "https://whitesquirrelbar.com/event/jens-birthday-show-ft-plumstar-sunsets-over-flowers-ditch-pigeon/"
+  },
+  {
+   "id": "6eda0a978c1b",
+   "headliner": "Freezerburn",
+   "openers": [
+    "Low Town Cowpunks",
+    "Ron Tracy",
+    "Niko",
+    "Al Bea"
+   ],
+   "date": "2026-11-21",
+   "start_time": "13:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/freezerburn-w-low-town-cowpunks-ron-tracy-niko-and-al-bea/"
+  },
+  {
+   "id": "e5113adc0227",
+   "headliner": "Coax From Chuckanut",
+   "openers": [
+    "Slaphazard"
+   ],
+   "date": "2026-11-21",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "source": "https://whitesquirrelbar.com/event/coax-from-chuckanut/",
+   "spotify": "https://open.spotify.com/artist/1A3PkOtDHmVCg4tfclG9im"
+  },
+  {
+   "id": "81477f4150bf",
+   "headliner": "The Dirty Pretty",
+   "openers": [
+    "The Hazy Daze",
+    "Lettters"
+   ],
+   "date": "2026-11-21",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-11-22",
+   "source": "https://whitesquirrelbar.com/event/the-dirty-pretty/",
+   "spotify": "https://open.spotify.com/artist/1uQXU3sLMPGUt8rnqQaQG4"
+  },
+  {
+   "id": "5ecfca8e39e0",
+   "headliner": "The Last Minute Jug Band plays Mother McCree’s Uptown Jug Champions",
+   "openers": [
+    "Kickafoot Stringband",
+    "Pete Meyer",
+    "Bill Finke Blues Duo"
+   ],
+   "date": "2026-11-22",
+   "start_time": "13:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/the-last-minute-jug-band/"
+  },
+  {
+   "id": "57f0c10a7b83",
+   "headliner": "Tapestry Road",
+   "openers": [
+    "Zoë Says Go"
+   ],
+   "date": "2026-11-22",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/tapestry-road-w-zoe-says-go/"
+  },
+  {
+   "id": "f456f296b313",
+   "headliner": "Dusk Rat",
+   "openers": [
+    "Bad Ives",
+    "Massive Green"
+   ],
+   "date": "2026-11-22",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "end_date": "2026-11-23",
+   "source": "https://whitesquirrelbar.com/event/dusk-rat-2/"
+  },
+  {
+   "id": "9d21c1370000",
+   "headliner": "The Dans",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "source": "https://whitesquirrelbar.com/event/the-dans-3/"
+  },
+  {
+   "id": "c5079cb2afb8",
+   "headliner": "Sylvia May & The Maydays",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "end_date": "2026-11-24",
+   "source": "https://whitesquirrelbar.com/event/sylvia-may-the-maydays/",
+   "spotify": "https://open.spotify.com/artist/6wj4vXVRMMt024FeVx0U08"
+  },
+  {
+   "id": "75470ce400ab",
+   "headliner": "Tribute To The Derailers",
+   "openers": [
+    "Trevor Mcspadden And The DL4"
+   ],
+   "date": "2026-11-24",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/a-dan-l-rotation/"
+  },
+  {
+   "id": "efba4630727f",
+   "headliner": "Family Dinner",
+   "openers": [
+    "Doug",
+    "Sarah"
+   ],
+   "date": "2026-11-25",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/family-dinner-w-doug-sarah-3/",
+   "spotify": "https://open.spotify.com/artist/7ztPkxDDDYp27ssoOB9sEj"
+  },
+  {
+   "id": "46e7db1a7d69",
+   "headliner": "Kat & The Kodachromes",
+   "openers": [
+    "Do Not Crush",
+    "Mullet",
+    "Pure Shifter"
+   ],
+   "date": "2026-11-25",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-11-26",
+   "source": "https://whitesquirrelbar.com/event/kat-the-kodachromes-w-nato-coles-do-not-crush/"
+  },
+  {
+   "id": "147dde7708ec",
+   "headliner": "The Mary Cutrufello Band",
+   "openers": [],
+   "date": "2026-11-27",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/the-mary-cutrufello-band-3/"
+  },
+  {
+   "id": "071c92048098",
+   "headliner": "AlienGodTheory",
+   "openers": [
+    "Paul Thomas Flynn",
+    "Disparity Bit",
+    "Cog Wheel"
+   ],
+   "date": "2026-11-28",
+   "start_time": "13:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/aliengodtheory-w/"
+  },
+  {
+   "id": "29d19c3feabe",
+   "headliner": "Big Trouble",
+   "openers": [],
+   "date": "2026-11-28",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/big-trouble-3/"
+  },
+  {
+   "id": "47827fe5431f",
+   "headliner": "Prophets of Mothra",
+   "openers": [
+    "The Confused",
+    "Whispered the Rabbit"
+   ],
+   "date": "2026-11-28",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-11-29",
+   "source": "https://whitesquirrelbar.com/event/prophets-of-mothra/"
+  },
+  {
+   "id": "a49ba49d9b36",
+   "headliner": "Of The Orchard",
+   "openers": [
+    "Bonder"
+   ],
+   "date": "2026-11-29",
+   "start_time": "13:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/of-the-orchard-w-bonder/",
+   "spotify": "https://open.spotify.com/artist/332eQYYG08Ioxq840aGs7R"
+  },
+  {
+   "id": "4be6944c4984",
+   "headliner": "Jeff Ray",
+   "openers": [
+    "Donald “Hye Pockets” Robertson"
+   ],
+   "date": "2026-11-29",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/rr-sundays/",
+   "spotify": "https://open.spotify.com/artist/2m5aqsiS2njLOJo9WDqixO"
+  },
+  {
+   "id": "013ca9273349",
+   "headliner": "Spectres of Desire",
+   "openers": [
+    "Ben Houge",
+    "Ait Ait"
+   ],
+   "date": "2026-11-29",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-11-30",
+   "source": "https://whitesquirrelbar.com/event/spectres-of-desire/",
+   "spotify": "https://open.spotify.com/artist/7duJkNq2THy0gHs0RV3e0G"
+  },
+  {
+   "id": "eafba5bf4e78",
+   "headliner": "Pop Wagner",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/pop-wagner/",
+   "spotify": "https://open.spotify.com/artist/1sFxQhVtg7yStQLFhS9OlY"
+  },
+  {
+   "id": "decda4ece61a",
+   "headliner": "Polem",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-01",
+   "source": "https://whitesquirrelbar.com/event/polem/",
+   "spotify": "https://open.spotify.com/artist/1omEowkpCo5RWWaWj6l6aw"
+  },
+  {
+   "id": "103200574eb3",
+   "headliner": "Thomas Sticha",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/thomas-sticha-3/",
+   "spotify": "https://open.spotify.com/artist/0l16reYqmLwCXePRrQKpf4"
+  },
+  {
+   "id": "670584fe219b",
+   "headliner": "Dan Tanz & the Wildfire",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-02",
+   "source": "https://whitesquirrelbar.com/event/dan-tanz-the-wildfire/"
+  },
+  {
+   "id": "fd6d46cb6adb",
+   "headliner": "The Second Stringers",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/the-second-stringers-w-special-guests/"
+  },
+  {
+   "id": "1b478239ad3e",
+   "headliner": "Raymnd",
+   "openers": [
+    "Dead North",
+    "Noah Schmitt"
+   ],
+   "date": "2026-12-02",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-03",
+   "source": "https://whitesquirrelbar.com/event/raymnd/",
+   "spotify": "https://open.spotify.com/artist/6M4kWzXgfMtSslMAGOZuio"
+  },
+  {
+   "id": "ac7412f93561",
+   "headliner": "A Emmy Woods Cuntry Club",
+   "openers": [
+    "Boots",
+    "Needles"
+   ],
+   "date": "2026-12-03",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every first Thursday",
+   "source": "https://whitesquirrelbar.com/event/a-emmy-woods-cuntry-club-w-boots-needles/"
+  },
+  {
+   "id": "03fbcd2fd57e",
+   "headliner": "Ex Rodeo",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-04",
+   "source": "https://whitesquirrelbar.com/event/ex-rodeo-3/",
+   "spotify": "https://open.spotify.com/artist/3RfkDDhWZaHFplT5OQJ7Sl"
+  },
+  {
+   "id": "38591b9fa798",
+   "headliner": "Andra Suchy",
+   "openers": [
+    "Bethany Larson"
+   ],
+   "date": "2026-12-04",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/andra-suchy-w-bethany-larson/",
+   "spotify": "https://open.spotify.com/artist/0FfjG8aDWPy9FtMx5tym1E"
+  },
+  {
+   "id": "713f10015c3c",
+   "headliner": "Society Green",
+   "openers": [
+    "Smokdoubt",
+    "Jon Elconin Quartet"
+   ],
+   "date": "2026-12-04",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-05",
+   "source": "https://whitesquirrelbar.com/event/society-green-w-smokdoubt-jon-elconin-quartet/",
+   "spotify": "https://open.spotify.com/artist/3iepjYkGYI1UluAfMy3Nyw"
+  },
+  {
+   "id": "fb483e301ae0",
+   "headliner": "Jay Boys Family Band",
+   "openers": [
+    "Kaitlin Cassady",
+    "Jordy Vaughn"
+   ],
+   "date": "2026-12-05",
+   "start_time": "13:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/jay-boys-family-band-w-kaitlin-cassady-jordy-vaughn/",
+   "spotify": "https://open.spotify.com/artist/3OVZFFP15gHvtshgCMKEc0"
+  },
+  {
+   "id": "9136cf61b890",
+   "headliner": "Frank Randall",
+   "openers": [
+    "Pete Hofmann",
+    "Chris Lynch"
+   ],
+   "date": "2026-12-06",
+   "start_time": "13:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/frank-randall-w-pete-hofmann-chris-lynch/",
+   "spotify": "https://open.spotify.com/artist/5OUCWbHRd9HwFBUF7dfl2g"
+  },
+  {
+   "id": "2d7d01c8c68a",
+   "headliner": "Dowser",
+   "openers": [
+    "Vicki Dischler",
+    "the Eitel Brothers"
+   ],
+   "date": "2026-12-06",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/dowser-w-vicki-dischler-the-eitel-brothers/"
+  },
+  {
+   "id": "794dc197bd19",
+   "headliner": "Scarlett Tangerines",
+   "openers": [
+    "Faux Pseudo",
+    "The Moby Dick Band"
+   ],
+   "date": "2026-12-06",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-07",
+   "source": "https://whitesquirrelbar.com/event/scarlett-tangerines-w-faux-pseudo-the-moby-dick-band/",
+   "spotify": "https://open.spotify.com/artist/4Ki1N5KcavZqRQavKyYNGz"
+  },
+  {
+   "id": "bd2105562259",
+   "headliner": "Higher Ground",
+   "openers": [
+    "NOIR"
+   ],
+   "date": "2026-12-07",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/higher-ground-w-noir/"
+  },
+  {
+   "id": "16a8513a7933",
+   "headliner": "Metal Mondays",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-08",
+   "hidden_category": "residency",
+   "recurrence": "every Monday",
+   "source": "https://whitesquirrelbar.com/event/metal-mondays-6/"
+  },
+  {
+   "id": "20df8908a2ed",
+   "headliner": "DL4",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/dl4-7/",
+   "spotify": "https://open.spotify.com/artist/22nrPLTLV123fkQ95GdJ1j"
+  },
+  {
+   "id": "3ba0f2e985c1",
+   "headliner": "The Dans",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "source": "https://whitesquirrelbar.com/event/the-dans-w-special-guests-2/"
+  },
+  {
+   "id": "dcb97bdb470c",
+   "headliner": "Cole Diamond’s Whiskey Wednesdays",
+   "openers": [],
+   "date": "2026-12-09",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "hidden_category": "residency",
+   "recurrence": "every Wednesday",
+   "source": "https://whitesquirrelbar.com/event/cole-diamonds-whiskey-wednesdays-9/"
+  },
+  {
+   "id": "05e62d490d82",
+   "headliner": "Fuzzy Math",
+   "openers": [],
+   "date": "2026-12-10",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/fuzzy-math-2/"
+  },
+  {
+   "id": "b138bb06f832",
+   "headliner": "Seculants",
+   "openers": [
+    "Makeready",
+    "Matt Johnson"
+   ],
+   "date": "2026-12-10",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-11",
+   "source": "https://whitesquirrelbar.com/event/seculants-makeready-and-matt-johnson/"
+  }
+ ]
+}

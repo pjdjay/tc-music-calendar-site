@@ -1,0 +1,127 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Cloudland Theater",
+ "city": "Minneapolis",
+ "count": 6,
+ "shows": [
+  {
+   "id": "916335c8b078",
+   "headliner": "Tightwire",
+   "openers": [
+    "Canadian Rifle",
+    "Visual Learner"
+   ],
+   "date": "2026-11-13",
+   "start_time": "19:30",
+   "venue": "Cloudland Theater",
+   "venue_slug": "cloudland-theater",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "price": "$9.44",
+   "is_free": false,
+   "source": "https://www.jambase.com/show/tightwire-cloudland-theater-20261113",
+   "spotify": "https://open.spotify.com/artist/1wcg79njXMG7Yn8nXYqP8K"
+  },
+  {
+   "id": "52ebdb6e3bdf",
+   "headliner": "The 241's",
+   "openers": [
+    "The Chair",
+    "Jeffrey Robert Larson",
+    "The Kings of Neon",
+    "Eli Bentley"
+   ],
+   "date": "2026-11-14",
+   "start_time": "19:30",
+   "venue": "Cloudland Theater",
+   "venue_slug": "cloudland-theater",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "price": "$12",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6ac7c4b3399cf100018b6a45",
+   "source": "https://dice.fm/event/6ac7c4b3399cf100018b6a45",
+   "spotify": "https://open.spotify.com/artist/65Q2D9P4IDTl8QL1tKYjKt"
+  },
+  {
+   "id": "71f8747acb46",
+   "headliner": "Spanish Love Songs",
+   "openers": [
+    "Kali Masi",
+    "Stacked Like Pancakes"
+   ],
+   "date": "2026-11-17",
+   "start_time": "18:30",
+   "venue": "Cloudland Theater",
+   "venue_slug": "cloudland-theater",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$22.31",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6aa03f9adcd56d0001ad9808",
+   "source": "https://dice.fm/event/6aa03f9adcd56d0001ad9808",
+   "spotify": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+  },
+  {
+   "id": "d7ab8faa1642",
+   "headliner": "Mr.Phylzzz",
+   "openers": [
+    "Shrive",
+    "Glurge"
+   ],
+   "date": "2026-11-20",
+   "start_time": "19:30",
+   "venue": "Cloudland Theater",
+   "venue_slug": "cloudland-theater",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$17",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/g367463d0ac4?utm_source=jambase",
+   "source": "https://dice.fm/event/6a74b687d1348f0001287bb5",
+   "spotify": "https://open.spotify.com/artist/1re8x8ym8nfokPKYEW5XTn"
+  },
+  {
+   "id": "f21fbacba978",
+   "headliner": "Sidewalk Diamonds",
+   "openers": [
+    "Whispered The Rabbit",
+    "Chokecherry"
+   ],
+   "date": "2026-12-04",
+   "start_time": "19:30",
+   "venue": "Cloudland Theater",
+   "venue_slug": "cloudland-theater",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$12",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/zfc40878503e?utm_source=jambase",
+   "source": "https://dice.fm/event/6ac7d9563b3cd40001ea6f95"
+  },
+  {
+   "id": "810e27de42ca",
+   "headliner": "Lapeche",
+   "openers": [
+    "Endearments",
+    "Spaceport"
+   ],
+   "date": "2026-12-05",
+   "start_time": "19:30",
+   "venue": "Cloudland Theater",
+   "venue_slug": "cloudland-theater",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$13",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6abd21ad6904e2000120781a",
+   "source": "https://dice.fm/event/6abd21ad6904e2000120781a",
+   "spotify": "https://open.spotify.com/artist/05C4NTbWKEoEQs3VchkSlL"
+  }
+ ]
+}

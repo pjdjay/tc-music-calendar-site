@@ -1,0 +1,75 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-01-22",
+ "count": 4,
+ "shows": [
+  {
+   "id": "28fc1da20871",
+   "headliner": "Ms. Pat",
+   "openers": [],
+   "date": "2027-01-22",
+   "start_time": "18:30",
+   "venue": "Uptown Theater",
+   "venue_slug": "uptown-theater",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "18+",
+   "tickets": "https://www.livenation.com/event/vv17bZ_4GkDoZX5x/ms-pat-the-raising-chaos-tour-18",
+   "source": "https://www.livenation.com/event/vv17bZ_4GkDoZX5x/ms-pat-the-raising-chaos-tour-18",
+   "spotify": "https://open.spotify.com/artist/7buxjjNrYgAUNWIzlC1sC3"
+  },
+  {
+   "id": "10b75769176f",
+   "headliner": "Minnesota Orchestra: Tchaikovsky Violin Concerto",
+   "openers": [
+    "Sergey Khachatryan"
+   ],
+   "date": "2027-01-22",
+   "start_time": "20:00",
+   "venue": "Orchestra Hall",
+   "venue_slug": "orchestra-hall",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpjE",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpjE",
+   "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
+  },
+  {
+   "id": "a887064e4ca2",
+   "headliner": "Ghengar",
+   "openers": [
+    "yvm3",
+    "uSAYbFLOW"
+   ],
+   "date": "2027-01-22",
+   "start_time": "21:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "source": "https://www.songkick.com/concerts/43440912-ghengar-at-skyway-theatre?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+  },
+  {
+   "id": "eadcbb438c7d",
+   "headliner": "Glee Night",
+   "openers": [],
+   "date": "2027-01-22",
+   "start_time": "21:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1671235/glee-night-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-01-glee-night/"
+  }
+ ]
+}

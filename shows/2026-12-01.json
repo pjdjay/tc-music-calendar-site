@@ -1,0 +1,208 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-12-01",
+ "count": 13,
+ "shows": [
+  {
+   "id": "1d72108b68e2",
+   "headliner": "Kat Edmonson: Have Your Merry Christmas",
+   "openers": [
+    "Me"
+   ],
+   "date": "2026-12-01",
+   "start_time": "17:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "jazz/blues",
+   "price": "$45.00 - $55.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/kat-edmonson-have-your-merry-christmas-with-me-tickets-1999222554478",
+   "source": "https://www.croonersmn.com/event/kat-edmonson-have-your-merry-christmas-with-me/"
+  },
+  {
+   "id": "6bdffb949083",
+   "headliner": "MN 1st Re-enactors Holiday Gathering: 30 guests, 5:00pm-9:00pm",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "17:00",
+   "venue": "Waldmann Brewery",
+   "venue_slug": "waldmann-brewery",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://waldmannbrewery.com/news-events/"
+  },
+  {
+   "id": "103200574eb3",
+   "headliner": "Thomas Sticha",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/thomas-sticha-3/",
+   "spotify": "https://open.spotify.com/artist/0l16reYqmLwCXePRrQKpf4"
+  },
+  {
+   "id": "80df53e92a4e",
+   "headliner": "Rachael & Vilray",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "18:30",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$61.90",
+   "is_free": false,
+   "tickets": "https://www.etix.com/ticket/p/98677694/rachael-vilray-minneapolis-dakota",
+   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-01/1/"
+  },
+  {
+   "id": "d697fefc9fbd",
+   "headliner": "Preservation Hall Jazz Band",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "19:00",
+   "venue": "Orchestra Hall",
+   "venue_slug": "orchestra-hall",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A70buY",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1A70buY",
+   "spotify": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+  },
+  {
+   "id": "9bde06161161",
+   "headliner": "Glenn Miller Orchestra",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "19:00",
+   "venue": "Pantages Theatre",
+   "venue_slug": "pantages-theatre",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$105.10",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/the-glenn-miller-orchestra-minneapolis-minnesota-12-01-2026/event/06006463E810AFB5",
+   "source": "https://www.ticketmaster.com/the-glenn-miller-orchestra-minneapolis-minnesota-12-01-2026/event/06006463E810AFB5",
+   "spotify": "https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z"
+  },
+  {
+   "id": "b19c2250c29b",
+   "headliner": "Home for The Holidays",
+   "openers": [
+    "The Four Freshmen"
+   ],
+   "date": "2026-12-01",
+   "start_time": "19:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "jazz/blues",
+   "price": "$40.00 - $50.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/home-for-the-holidays-with-the-four-freshmen-tickets-1993937358314",
+   "source": "https://www.croonersmn.com/event/home-for-the-holidays-with-the-four-freshmen/",
+   "spotify": "https://open.spotify.com/artist/2A4YAeUVDUcyOZ0GPTL3WF"
+  },
+  {
+   "id": "0733ef42ac24",
+   "headliner": "Red Planet",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "19:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "jazz/blues",
+   "hidden_category": "residency",
+   "recurrence": "every first Tuesday",
+   "source": "https://metronomebrewery.com/live-music/red-planet-25/2026-12-01/"
+  },
+  {
+   "id": "332d856e9d30",
+   "headliner": "Angine de Poitrine",
+   "openers": [
+    "zouz"
+   ],
+   "date": "2026-12-01",
+   "start_time": "20:00",
+   "venue": "First Avenue",
+   "venue_slug": "first-avenue",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1496246/angine-de-poitrine-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-angine-de-poitrine-tue/",
+   "spotify": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+  },
+  {
+   "id": "eb66d4e961be",
+   "headliner": "Kat Edmonson: Have Your Merry Christmas",
+   "openers": [
+    "Me"
+   ],
+   "date": "2026-12-01",
+   "start_time": "20:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "jazz/blues",
+   "price": "$45.00 - $55.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/kat-edmonson-have-your-merry-christmas-with-me-tickets-1999224266599",
+   "source": "https://www.croonersmn.com/event/kat-edmonson-have-your-merry-christmas-with-me-2/"
+  },
+  {
+   "id": "9ccbb582720c",
+   "headliner": "Rachael & Vilray",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "21:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "source": "https://www.dakotacooks.com/event/rachael-vilray-2026/2026-12-01/2/"
+  },
+  {
+   "id": "670584fe219b",
+   "headliner": "Dan Tanz & the Wildfire",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-02",
+   "source": "https://whitesquirrelbar.com/event/dan-tanz-the-wildfire/"
+  },
+  {
+   "id": "9d4792c78d7e",
+   "headliner": "JoJo Green",
+   "openers": [
+    "Sweet Tease"
+   ],
+   "date": "2026-12-01",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Tuesday",
+   "source": "https://www.instagram.com/jojogreenmusic?stkn=M2hqeHMzbWo4azc5",
+   "spotify": "https://open.spotify.com/artist/2HeddibS8LprRJRLeZpzTG"
+  }
+ ]
+}

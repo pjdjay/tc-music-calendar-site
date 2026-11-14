@@ -1,0 +1,171 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-12-12",
+ "count": 10,
+ "shows": [
+  {
+   "id": "0c0caa309b21",
+   "headliner": "Minnesota Orchestra: Home Alone in Concert with the Minnesota Orchestra",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "14:00",
+   "venue": "Orchestra Hall",
+   "venue_slug": "orchestra-hall",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A70bOx",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1A70bOx"
+  },
+  {
+   "id": "aafadde2a4ae",
+   "headliner": "Mannheim Steamroller Christmas By Chip Davis",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "15:00",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "classical",
+   "source": "https://mysticlake.com/shows-and-events/mannheim-steamroller"
+  },
+  {
+   "id": "7f6fe18ac21f",
+   "headliner": "Boy Hero",
+   "openers": [
+    "more!",
+    "Virginia's Basement",
+    "Gauze"
+   ],
+   "date": "2026-12-12",
+   "start_time": "17:00",
+   "venue": "Underground Music Venue",
+   "venue_slug": "underground-music-venue",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "price": "$25.97",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/c034be066d89?utm_source=jambase",
+   "source": "https://dice.fm/event/6ad96282aa2460000131bfab",
+   "spotify": "https://open.spotify.com/artist/6I924s6x4qnOU181EbSGls"
+  },
+  {
+   "id": "1efdab20724e",
+   "headliner": "Earlybirds Club",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "18:00",
+   "venue": "First Avenue",
+   "venue_slug": "first-avenue",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "doors_time": "18:00",
+   "hidden_category": "dj_night",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1642801/earlybirds-club-90s-vs-2000s-party-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-earlybirds-club-90s-vs-00s/"
+  },
+  {
+   "id": "b38d62be8eb9",
+   "headliner": "Home Alone in Concert",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "19:00",
+   "venue": "Orchestra Hall",
+   "venue_slug": "orchestra-hall",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "source": "https://www.minnesotaorchestra.org/tickets/calendar"
+  },
+  {
+   "id": "79bfca1bbcfa",
+   "headliner": "North By North",
+   "openers": [
+    "1947"
+   ],
+   "date": "2026-12-12",
+   "start_time": "19:00",
+   "venue": "Underground Music Venue",
+   "venue_slug": "underground-music-venue",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$12",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/xd81001a0cb4?utm_source=jambase",
+   "source": "https://www.jambase.com/show/north-by-north-underground-music-venue-cafe-20261212",
+   "spotify": "https://open.spotify.com/artist/5IoXcA5DIDSG0QlNNoqQdZ"
+  },
+  {
+   "id": "b6131f7db1fe",
+   "headliner": "bugsy",
+   "openers": [
+    "Anita Velveeta",
+    "Hey",
+    "ily!",
+    "Spiderlily"
+   ],
+   "date": "2026-12-12",
+   "start_time": "19:30",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:30",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1620041/bugsy-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-12-bugsy/",
+   "spotify": "https://open.spotify.com/artist/550HK4Z4yrcThhCm0An7NZ"
+  },
+  {
+   "id": "3a1b05848d4a",
+   "headliner": "A Boogie Wit da Hoodie",
+   "openers": [
+    "Zeddy Will",
+    "Cash Cobain"
+   ],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "Armory",
+   "venue_slug": "armory",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "price": "$123.50",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vv1AkZkfYGkd_ao6R/a-boogie-wit-da-hoodie-10-years-of-artist",
+   "source": "https://www.livenation.com/event/vv1AkZkfYGkd_ao6R/a-boogie-wit-da-hoodie-10-years-of-artist",
+   "spotify": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+  },
+  {
+   "id": "2174dc5f62b0",
+   "headliner": "Garth Brooks",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg",
+   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+  },
+  {
+   "id": "cca2cabcd1a0",
+   "headliner": "Perreoland",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "22:00",
+   "venue": "Myth Live",
+   "venue_slug": "myth-live",
+   "city": "Maplewood",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "tickets": "https://www.eventbrite.com/e/perreoland-minneapolis-tickets-2003951563070?irclickid=zxSypRwqyxyZRFM1twwmOWpmUkr3LvVJRXm%3AUY0&sharedid=linktr.ee&irpid=10078&utm_source=impact&utm_medium=ebaf&utm_term=10078&utm_content=1818731__linktr.ee&irgwc=1&afsrc=1&utm_campaign=afsp_ceal_pmk_fpp_0_us_0_0_bau_0",
+   "source": "https://mythlive.com/event/perreoland/"
+  }
+ ]
+}

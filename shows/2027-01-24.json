@@ -1,0 +1,24 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-01-24",
+ "count": 1,
+ "shows": [
+  {
+   "id": "ed0fbac3fbf9",
+   "headliner": "Chamber Music in the Hall",
+   "openers": [],
+   "date": "2027-01-24",
+   "start_time": null,
+   "venue": "Orchestra Hall",
+   "venue_slug": "orchestra-hall",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "source": "https://www.minnesotaorchestra.org/tickets/calendar"
+  }
+ ]
+}

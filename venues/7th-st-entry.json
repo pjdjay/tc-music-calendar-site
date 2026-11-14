@@ -1,0 +1,403 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "7th St Entry",
+ "city": "Minneapolis",
+ "count": 22,
+ "shows": [
+  {
+   "id": "434001485f02",
+   "headliner": "Francis of Delirium",
+   "openers": [
+    "clovers daughter"
+   ],
+   "date": "2026-11-13",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1415424/francis-of-delirium-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-francis-of-delirium/",
+   "spotify": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+  },
+  {
+   "id": "0546c9dd633d",
+   "headliner": "LUCY (Cooper B. Handy)",
+   "openers": [
+    "Gods Wisdom",
+    "Nation"
+   ],
+   "date": "2026-11-14",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1569820/lucy-cooper-b-handy-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-lucy-cooper-b-handy/",
+   "spotify": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+  },
+  {
+   "id": "9c19b3372620",
+   "headliner": "Ha Ha Tonka",
+   "openers": [
+    "Triple Fiddle"
+   ],
+   "date": "2026-11-15",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1590996/ha-ha-tonka-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-ha-ha-tonka/",
+   "spotify": "https://open.spotify.com/artist/0V8xaun2So5GLeMAC0fpbW"
+  },
+  {
+   "id": "3e50592bdc43",
+   "headliner": "Squirrel Flower",
+   "openers": [
+    "Sour Widows"
+   ],
+   "date": "2026-11-18",
+   "start_time": "19:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "source": "https://www.songkick.com/concerts/43209744-squirrel-flower-at-7th-st-entry?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+  },
+  {
+   "id": "75e5ea0a29f7",
+   "headliner": "Packaging",
+   "openers": [
+    "Discus",
+    "Products Band"
+   ],
+   "date": "2026-11-18",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "status": "canceled",
+   "age": "18+",
+   "source": "https://first-avenue.com/event/2026-11-packaging/",
+   "spotify": "https://open.spotify.com/artist/0Ptdlmg0GmSHwgazEsZFZ0"
+  },
+  {
+   "id": "f94c9b8ee97c",
+   "headliner": "Geordie Kieffer",
+   "openers": [
+    "Colin Bracewell"
+   ],
+   "date": "2026-11-19",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1591422/geordie-kieffer-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-geordie-kieffer/",
+   "spotify": "https://open.spotify.com/artist/4jZfJWTKg0oea9gn2EER4C"
+  },
+  {
+   "id": "abadb8e4342a",
+   "headliner": "Kelsey Hart",
+   "openers": [
+    "Carson Bock"
+   ],
+   "date": "2026-11-20",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1602485/kelsey-hart-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-kelsey-hart/",
+   "spotify": "https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb"
+  },
+  {
+   "id": "e74dde4314bf",
+   "headliner": "Jady",
+   "openers": [
+    "Stephen Stanley"
+   ],
+   "date": "2026-11-21",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1493873/jady-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-jady/"
+  },
+  {
+   "id": "5cd04fb938b9",
+   "headliner": "The Kilans",
+   "openers": [
+    "Carver Jones"
+   ],
+   "date": "2026-11-22",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1541854/the-kilans-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-the-kilans/",
+   "spotify": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
+  },
+  {
+   "id": "0a0f4b44e744",
+   "headliner": "Masto",
+   "openers": [
+    "14HunnitVon",
+    "Jimmy"
+   ],
+   "date": "2026-11-24",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1642674/masto-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-masto/",
+   "spotify": "https://open.spotify.com/artist/5aFbadR0TINJ22xzCR995P"
+  },
+  {
+   "id": "a745c5d0a153",
+   "headliner": "Whiskey Rock 'n' Roll Club MPLS",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "18:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "source": "https://www.songkick.com/concerts/43431240-whiskey-rock-n-roll-club-mpls-at-7th-st-entry?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/42IiosuzL8ne0tzW7CXtlg"
+  },
+  {
+   "id": "d750255b48c8",
+   "headliner": "Andy Holmaas’ 40th Birthday Party",
+   "openers": [
+    "Count Spookula • Pullstring • The Evening Rig • Whiskey Rock ‘n’ Roll Club MPLS • Sparrowhawk • Razordaisies"
+   ],
+   "date": "2026-11-25",
+   "start_time": "19:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1616972/andy-holmaas-40th-birthday-party-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-andy-holmaas-birthday/"
+  },
+  {
+   "id": "4d8c60e6af68",
+   "headliner": "C*nt O'Clock Black Friday Edition",
+   "openers": [
+    "DJ Ibibaby"
+   ],
+   "date": "2026-11-27",
+   "start_time": "21:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "hidden_category": "dj_night",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1619547/cnt-oclock-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-cnt-oclock/"
+  },
+  {
+   "id": "16bd61c81d14",
+   "headliner": "MAKR AN ERIS 'Lilith' Album Release",
+   "openers": [
+    "Effygasm",
+    "Truly Humbled Under God"
+   ],
+   "date": "2026-11-28",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1634218/makr-an-eris-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-makr-an-eris/",
+   "spotify": "https://open.spotify.com/artist/1P94o2cGLGu56xDmuiiOA3"
+  },
+  {
+   "id": "b35ca158d4d0",
+   "headliner": "Daisy Grenade",
+   "openers": [
+    "Fiona Hayes"
+   ],
+   "date": "2026-11-30",
+   "start_time": "19:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "18:00",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1518387/daisy-grenade-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-daisy-grenade/",
+   "spotify": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+  },
+  {
+   "id": "ca7c18af154c",
+   "headliner": "sahn",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1644013/sahn-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-sahn/"
+  },
+  {
+   "id": "afca1414c5f1",
+   "headliner": "Hunny Bear",
+   "openers": [
+    "Heliocene",
+    "Astronomy Town"
+   ],
+   "date": "2026-12-03",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1637518/hunny-bear-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-hunny-bear/",
+   "spotify": "https://open.spotify.com/artist/17CF3dR6SvWQE1Mk2OJpGt"
+  },
+  {
+   "id": "866ee1d5f187",
+   "headliner": "Chutes",
+   "openers": [
+    "Why Not",
+    "bird dog",
+    "abalone"
+   ],
+   "date": "2026-12-04",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1664602/chutes-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-chutes/"
+  },
+  {
+   "id": "aea34acd9763",
+   "headliner": "Tuffie",
+   "openers": [
+    "Virga",
+    "berzica",
+    "12th House Sun"
+   ],
+   "date": "2026-12-05",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1620050/tuffie-virga-berzica-and-12th-house-sun-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-tuffie-virga-berzica/",
+   "spotify": "https://open.spotify.com/artist/4Z5CL1ehkYAGbKD36TxreD"
+  },
+  {
+   "id": "b9e40a65ad01",
+   "headliner": "Josie Edwards",
+   "openers": [
+    "Hudson Ingram"
+   ],
+   "date": "2026-12-06",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1597316/josie-edwards-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-josie-edwards/",
+   "spotify": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
+  },
+  {
+   "id": "71a6b0423fa7",
+   "headliner": "Chris Simpson",
+   "openers": [],
+   "date": "2026-12-09",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1627710/chris-simpson-of-mineral-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-chris-simpson-of-mineral/"
+  },
+  {
+   "id": "460afbdd2805",
+   "headliner": "North Innsbruck",
+   "openers": [
+    "wolfbabycup",
+    "Cheap Glue",
+    "dj shane kramer"
+   ],
+   "date": "2026-12-10",
+   "start_time": "19:30",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1649776/north-innsbruck-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-north-innsbruck/",
+   "spotify": "https://open.spotify.com/artist/59e5fSGQev3PyHlEkRuHly"
+  }
+ ]
+}

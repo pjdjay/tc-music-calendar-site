@@ -1,0 +1,25 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Roy Wilkins Auditorium",
+ "city": "St. Paul",
+ "count": 1,
+ "shows": [
+  {
+   "id": "1903be07b68b",
+   "headliner": "Minnesota Hmong New Year",
+   "openers": [],
+   "date": "2026-11-28",
+   "start_time": "08:00",
+   "venue": "Roy Wilkins Auditorium",
+   "venue_slug": "roy-wilkins-auditorium",
+   "city": "St. Paul",
+   "genre": "world/other",
+   "source": "https://www.rivercentre.org/events/detail/minnesota-hmong-new-year-3"
+  }
+ ]
+}

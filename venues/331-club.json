@@ -1,0 +1,447 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "331 Club",
+ "city": "Minneapolis",
+ "count": 30,
+ "shows": [
+  {
+   "id": "e12d14d0644f",
+   "headliner": "Stringdingers",
+   "openers": [],
+   "date": "2026-11-13",
+   "start_time": "22:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.instagram.com/stringdingers?igsi=MXU4NnZpeWdjOTUxdw==",
+   "spotify": "https://open.spotify.com/artist/4mR2QFA4sG7SPsHXIQUVoz"
+  },
+  {
+   "id": "24e49154e7b0",
+   "headliner": "Echo Signal",
+   "openers": [
+    "The Dead Electrics",
+    "wolfbabycup"
+   ],
+   "date": "2026-11-14",
+   "start_time": "22:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/echo_signal_?stkn=MW5ydzRrZWlxdHV6eg==",
+   "spotify": "https://open.spotify.com/artist/7FwNIGFCbsqacUqaBPZIhH"
+  },
+  {
+   "id": "fb801a2a134b",
+   "headliner": "Robert Wilkinson",
+   "openers": [],
+   "date": "2026-11-15",
+   "start_time": "15:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every third Sunday",
+   "source": "https://www.facebook.com/RobertWilkinsonMusic?mibextid=wwXIfr&mibextid=wwXIfr",
+   "spotify": "https://open.spotify.com/artist/3EsE6uFEqJlhl8X3Zh7T1o"
+  },
+  {
+   "id": "f085188a349c",
+   "headliner": "Switchyard",
+   "openers": [],
+   "date": "2026-11-15",
+   "start_time": "19:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every third Sunday",
+   "source": "https://www.instagram.com/switchyard.band.mpls?igsh=eTJ6OTk2eXVubHZt",
+   "spotify": "https://open.spotify.com/artist/14JC7ZFTnM4tbOOBiXhIjZ"
+  },
+  {
+   "id": "78c16186cf53",
+   "headliner": "eleven degenerates",
+   "openers": [],
+   "date": "2026-11-15",
+   "start_time": "22:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every third Sunday",
+   "source": "https://331club.com/"
+  },
+  {
+   "id": "500268a0f6b5",
+   "headliner": "“Womenfolk Presents”",
+   "openers": [
+    "Wren + Wilde"
+   ],
+   "date": "2026-11-16",
+   "start_time": "18:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "hidden_category": "residency",
+   "recurrence": "every third Monday",
+   "source": "https://331club.com/"
+  },
+  {
+   "id": "4e41ef55206e",
+   "headliner": "Roe Family Singers",
+   "openers": [],
+   "date": "2026-11-16",
+   "start_time": "20:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "hidden_category": "residency",
+   "recurrence": "every Monday",
+   "source": "https://www.facebook.com/roefamilysingers/?fref=ts",
+   "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
+  },
+  {
+   "id": "25af333eaa31",
+   "headliner": "Worker’s Playtime",
+   "openers": [
+    "David Huckfelt"
+   ],
+   "date": "2026-11-17",
+   "start_time": "18:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Tuesday",
+   "source": "https://www.instagram.com/david_huckfelt?srtk=ZHhjdWJrd2F1em5y"
+  },
+  {
+   "id": "ead563320456",
+   "headliner": "Cold Sweat",
+   "openers": [
+    "The Lavender Project+",
+    "Conor Lee"
+   ],
+   "date": "2026-11-17",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Tuesday",
+   "source": "https://www.instagram.com/coldsweatnd?stkn=aWpsbmc1M2F3c3Fq"
+  },
+  {
+   "id": "0dc117dc0121",
+   "headliner": "Harold’s House Party on KFAI",
+   "openers": [
+    "Connor McRae Trio"
+   ],
+   "date": "2026-11-18",
+   "start_time": "19:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Wednesday",
+   "source": "https://www.facebook.com/profile.php?id=100063582730118"
+  },
+  {
+   "id": "4111b4338a25",
+   "headliner": "The Blues Shifters",
+   "openers": [],
+   "date": "2026-11-18",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "source": "https://331club.com/"
+  },
+  {
+   "id": "a20d844bd78f",
+   "headliner": "Cross Pollination",
+   "openers": [
+    "Boudin Blanc",
+    "Hunny Bear"
+   ],
+   "date": "2026-11-19",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every third Thursday",
+   "source": "https://www.instagram.com/boudinblancband?obrf=MTl5NnZrNnpndDU4bQ=="
+  },
+  {
+   "id": "48f15e2922cc",
+   "headliner": "Grim Lot",
+   "openers": [
+    "Battery Eyes",
+    "The Anesthetics"
+   ],
+   "date": "2026-11-20",
+   "start_time": "22:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/grim_lot?vrfl=MWJ1cDE3Z2p1ODJveg==",
+   "spotify": "https://open.spotify.com/artist/4PxeGPLqJf7QF6HBrQnvBV"
+  },
+  {
+   "id": "44cb5b1d4355",
+   "headliner": "Noslo",
+   "openers": [
+    "Fever Field"
+   ],
+   "date": "2026-11-21",
+   "start_time": "22:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/whatsnoslo?igsi=ZHkycWxhNmVwdzZu",
+   "spotify": "https://open.spotify.com/artist/35SsCmBu7KeK9n04BjdgPm"
+  },
+  {
+   "id": "9cf6f1e91b2f",
+   "headliner": "Gabriella Sweet",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "15:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://331club.com/"
+  },
+  {
+   "id": "68da1d712ae0",
+   "headliner": "The Real Chuck NORAD",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "19:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every fourth Sunday",
+   "source": "https://www.instagram.com/the_real_chuck_norad?igsh=MWM1amt4bnVyYmh4Zw==",
+   "spotify": "https://open.spotify.com/artist/4MFh9xgWFLrVEFSt18J7MV"
+  },
+  {
+   "id": "f4d96f83de3f",
+   "headliner": "HonkyTonk Ranch",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "18:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "hidden_category": "residency",
+   "recurrence": "every fourth Monday",
+   "source": "https://www.facebook.com/profile.php?id=100094683949311&mibextid=LQQJ4d"
+  },
+  {
+   "id": "66403db67c9c",
+   "headliner": "Tramps Like Us",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "source": "https://www.facebook.com/share/1DGK46pfdM/?mibextid=wwXIfr",
+   "spotify": "https://open.spotify.com/artist/5xSNix7cBLfw6Zv4rRFt7W"
+  },
+  {
+   "id": "ecc9373eef51",
+   "headliner": "331 Club Rave Night!",
+   "openers": [
+    "Moonlight Affair",
+    "Hennepin County Disco Authority"
+   ],
+   "date": "2026-11-28",
+   "start_time": "22:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "hidden_category": "dj_night",
+   "source": "https://331club.com/"
+  },
+  {
+   "id": "7fcaecee8ae0",
+   "headliner": "Tom Feldmann",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "15:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/playcountryblues?mdxt=MThvYTF0aXBvaTV2OQ==",
+   "spotify": "https://open.spotify.com/artist/75gvrQbCyMQ5J6CmPnQIQE"
+  },
+  {
+   "id": "4767af2a2a9b",
+   "headliner": "Becky Kapell and The Fat",
+   "openers": [
+    "6"
+   ],
+   "date": "2026-11-29",
+   "start_time": "19:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.facebook.com/share/1D8SsoKp6Z/?mibextid=wwXIfr"
+  },
+  {
+   "id": "9d4792c78d7e",
+   "headliner": "JoJo Green",
+   "openers": [
+    "Sweet Tease"
+   ],
+   "date": "2026-12-01",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Tuesday",
+   "source": "https://www.instagram.com/jojogreenmusic?stkn=M2hqeHMzbWo4azc5",
+   "spotify": "https://open.spotify.com/artist/2HeddibS8LprRJRLeZpzTG"
+  },
+  {
+   "id": "04d09f9da662",
+   "headliner": "Northeast Invitational",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://331club.com/"
+  },
+  {
+   "id": "628c3ebbd355",
+   "headliner": "Mississippi Mosaic",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": "22:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/mississippi_mosaic?stkn=MW1jMWRoc21nemp3eQ=="
+  },
+  {
+   "id": "0e2fa757a465",
+   "headliner": "Lords of the Universe",
+   "openers": [],
+   "date": "2026-12-05",
+   "start_time": "22:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/lordsoftheuniverse_mn?stkn=a2JhOWtiaWN2ZXFw",
+   "spotify": "https://open.spotify.com/artist/6rrP4pJPit5nxaTYOD1S0z"
+  },
+  {
+   "id": "6a2eb1e10717",
+   "headliner": "Corpse Reviver",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "15:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every first Sunday",
+   "source": "https://www.facebook.com/share/18HHs2ZLYc/?mibextid=wwXIfr",
+   "spotify": "https://open.spotify.com/artist/6bACpsWWEk8ugKQ162Vqyu"
+  },
+  {
+   "id": "2686be5bcc32",
+   "headliner": "Brass Messengers",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "19:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every first Sunday",
+   "source": "https://www.facebook.com/profile.php?id=100063684781557&mibextid=LQQJ4d"
+  },
+  {
+   "id": "e54d54a90644",
+   "headliner": "Soul Trouvère",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "18:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every first Monday",
+   "source": "https://www.facebook.com/share/1AFhiYvk34/?mibextid=wwXIfr"
+  },
+  {
+   "id": "715769111cd8",
+   "headliner": "John Magnuson Trio+",
+   "openers": [],
+   "date": "2026-12-09",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://331club.com/"
+  },
+  {
+   "id": "2f57f3c42819",
+   "headliner": "Dumpster Juice",
+   "openers": [
+    "Raspberry Tart",
+    "Gills"
+   ],
+   "date": "2026-12-10",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.facebook.com/share/1Kkw9x5Rwt/?mibextid=wwXIfr"
+  }
+ ]
+}

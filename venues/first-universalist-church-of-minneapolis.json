@@ -1,0 +1,28 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "First Universalist Church of Minneapolis",
+ "city": "Minneapolis",
+ "count": 1,
+ "shows": [
+  {
+   "id": "056132c60490",
+   "headliner": "Caritas Vocal Ensemble",
+   "openers": [],
+   "date": "2026-12-13",
+   "start_time": "15:00",
+   "venue": "First Universalist Church of Minneapolis",
+   "venue_slug": "first-universalist-church-of-minneapolis",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "price": "Suggested $25 online or at the door",
+   "is_free": false,
+   "tickets": "https://www.zeffy.com/en-US/ticketing/christmas-with-caritas",
+   "source": "https://www.zeffy.com/en-US/ticketing/christmas-with-caritas"
+  }
+ ]
+}

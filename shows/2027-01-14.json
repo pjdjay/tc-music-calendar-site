@@ -1,0 +1,48 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-01-14",
+ "count": 2,
+ "shows": [
+  {
+   "id": "bf4efa03a853",
+   "headliner": "Braxton Keith",
+   "openers": [
+    "Caden Gillard"
+   ],
+   "date": "2027-01-14",
+   "start_time": "19:00",
+   "venue": "Fillmore Minneapolis",
+   "venue_slug": "fillmore-minneapolis",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "price": "$48.25",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/braxton-keith-special-guests-minneapolis-minnesota-01-14-2027/event/0600652EE79E121D",
+   "source": "https://www.ticketmaster.com/braxton-keith-special-guests-minneapolis-minnesota-01-14-2027/event/0600652EE79E121D",
+   "spotify": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+  },
+  {
+   "id": "074af3b93706",
+   "headliner": "Portugal. The Man",
+   "openers": [
+    "Anthony Green"
+   ],
+   "date": "2027-01-14",
+   "start_time": "20:00",
+   "venue": "First Avenue",
+   "venue_slug": "first-avenue",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1676775/portugal-the-man-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2027-01-portugal-the-man/",
+   "spotify": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+  }
+ ]
+}

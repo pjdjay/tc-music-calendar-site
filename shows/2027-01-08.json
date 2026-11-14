@@ -1,0 +1,58 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-01-08",
+ "count": 3,
+ "shows": [
+  {
+   "id": "7746a5bdc166",
+   "headliner": "An Extra Special Tribute to Dolly Parton",
+   "openers": [],
+   "date": "2027-01-08",
+   "start_time": "20:00",
+   "venue": "First Avenue",
+   "venue_slug": "first-avenue",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1592080/an-extra-special-tribute-to-dolly-parton-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2027-01-dolly-parton-tribute/"
+  },
+  {
+   "id": "1a10bd3760e9",
+   "headliner": "Minnesota Orchestra: Mozart, Haydn and Shostakovich",
+   "openers": [],
+   "date": "2027-01-08",
+   "start_time": "20:00",
+   "venue": "Orchestra Hall",
+   "venue_slug": "orchestra-hall",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpbJ",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpbJ",
+   "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
+  },
+  {
+   "id": "550e55536d56",
+   "headliner": "Celebrating David Bowie’s 80th Birthday",
+   "openers": [
+    "Cracked Actor"
+   ],
+   "date": "2027-01-08",
+   "start_time": "20:00",
+   "venue": "Parkway Theater",
+   "venue_slug": "parkway-theater",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$20 Advance / $25 At The Door",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/Fba235752f4a",
+   "source": "https://theparkwaytheater.com/all-events/cracked-actor"
+  }
+ ]
+}

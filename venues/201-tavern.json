@@ -1,0 +1,38 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "201 Tavern",
+ "city": "Anoka",
+ "count": 2,
+ "shows": [
+  {
+   "id": "bd3aad908ad3",
+   "headliner": "Jeff Loven (live music)",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "20:00",
+   "venue": "201 Tavern",
+   "venue_slug": "201-tavern",
+   "city": "Anoka",
+   "genre": "unknown",
+   "source": "https://www.201tavern.com/anoka-201-tavern-beer-garden-and-grill-events",
+   "spotify": "https://open.spotify.com/artist/2mxDDIyOtwGNgNY4WFUmG3"
+  },
+  {
+   "id": "a799cd5da315",
+   "headliner": "System 13 (live music)",
+   "openers": [],
+   "date": "2026-11-21",
+   "start_time": "20:00",
+   "venue": "201 Tavern",
+   "venue_slug": "201-tavern",
+   "city": "Anoka",
+   "genre": "unknown",
+   "source": "https://www.201tavern.com/anoka-201-tavern-beer-garden-and-grill-events"
+  }
+ ]
+}

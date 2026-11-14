@@ -1,0 +1,31 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Music Box Theatre",
+ "city": "Minneapolis",
+ "count": 1,
+ "shows": [
+  {
+   "id": "52e95b963e44",
+   "headliner": "The Spill Canvas",
+   "openers": [
+    "Emo Nite"
+   ],
+   "date": "2026-11-28",
+   "start_time": "19:00",
+   "venue": "Music Box Theatre",
+   "venue_slug": "music-box-theatre",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$48.64-$71.3",
+   "is_free": false,
+   "tickets": "https://www.ticketweb.com/event/emo-orchestra-with-the-spill-music-box-theatre-tickets/14328054",
+   "source": "https://www.ticketweb.com/event/emo-orchestra-with-the-spill-music-box-theatre-tickets/14328054",
+   "spotify": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Granada Theater",
+ "city": "Minneapolis",
+ "count": 4,
+ "shows": [
+  {
+   "id": "53481a94754d",
+   "headliner": "Candlelight: 90's Hip-Hop on Strings. Uptown Lobby Dining available.",
+   "openers": [],
+   "date": "2026-11-21",
+   "start_time": "18:30",
+   "venue": "Granada Theater",
+   "venue_slug": "granada-theater",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "tickets": "https://www.eventbrite.com/e/candlelight-90s-hip-hop-on-strings-uptown-lobby-dining-available-tickets-2002892832378",
+   "source": "https://www.eventbrite.com/e/candlelight-90s-hip-hop-on-strings-uptown-lobby-dining-available-tickets-2002892832378"
+  },
+  {
+   "id": "842a3a64b78c",
+   "headliner": "Candlelight: Tribute to Fleetwood Mac - Lobby Dining Available",
+   "openers": [],
+   "date": "2026-11-21",
+   "start_time": "20:45",
+   "venue": "Granada Theater",
+   "venue_slug": "granada-theater",
+   "city": "Minneapolis",
+   "genre": "classical",
+   "tickets": "https://www.eventbrite.com/e/candlelight-tribute-to-fleetwood-mac-lobby-dining-available-tickets-1990836309995",
+   "source": "https://www.eventbrite.com/e/candlelight-tribute-to-fleetwood-mac-lobby-dining-available-tickets-1990836309995"
+  },
+  {
+   "id": "9e95fffd0300",
+   "headliner": "Salsa del Soul",
+   "openers": [
+    "DJ William El Buenon",
+    "free lessons"
+   ],
+   "date": "2026-11-25",
+   "start_time": "20:30",
+   "venue": "Granada Theater",
+   "venue_slug": "granada-theater",
+   "city": "Minneapolis",
+   "genre": "Latin",
+   "tickets": "https://www.eventbrite.com/e/salsa-del-soul-thanksgiving-eve-with-dj-william-el-buenon-and-free-lessons-tickets-2003357228399",
+   "source": "https://www.eventbrite.com/e/salsa-del-soul-thanksgiving-eve-with-dj-william-el-buenon-and-free-lessons-tickets-2003357228399"
+  },
+  {
+   "id": "4f4570b11af6",
+   "headliner": "The Jazz Room: A Tribute to Frank Sinatra & Louis Armstrong 2 show times",
+   "openers": [],
+   "date": "2026-11-28",
+   "start_time": "18:00",
+   "venue": "Granada Theater",
+   "venue_slug": "granada-theater",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "tickets": "https://www.eventbrite.com/e/the-jazz-room-a-tribute-to-frank-sinatra-louis-armstrong-2-show-times-tickets-1997120892350",
+   "source": "https://www.eventbrite.com/e/the-jazz-room-a-tribute-to-frank-sinatra-louis-armstrong-2-show-times-tickets-1997120892350"
+  }
+ ]
+}

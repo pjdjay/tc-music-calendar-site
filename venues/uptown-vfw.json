@@ -1,0 +1,171 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Uptown VFW",
+ "city": "Minneapolis",
+ "count": 9,
+ "shows": [
+  {
+   "id": "1da639e3e016",
+   "headliner": "Mustard Plug",
+   "openers": [
+    "Space Monkey Mafia",
+    "Devon Kay & the Solutions"
+   ],
+   "date": "2026-11-13",
+   "start_time": "20:00",
+   "venue": "Uptown VFW",
+   "venue_slug": "uptown-vfw",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "doors_time": "20:00",
+   "age": "21+",
+   "tickets": "https://app.opendate.io/e/mustard-plug-w-special-guests-devon-kay-the-solutions-space-monkey-mafia-november-13-2026-711681?default_theme=true",
+   "source": "https://app.opendate.io/e/mustard-plug-w-special-guests-devon-kay-the-solutions-space-monkey-mafia-november-13-2026-711681?default_theme=true",
+   "spotify": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+  },
+  {
+   "id": "d3d3e2735d9c",
+   "headliner": "T La Shawn: Another One Around The Sun",
+   "openers": [
+    "Big Wiz",
+    "Orikal Uno",
+    "Megan Oh",
+    "wHIT",
+    "Gonkama"
+   ],
+   "date": "2026-11-19",
+   "start_time": "21:00",
+   "venue": "Uptown VFW",
+   "venue_slug": "uptown-vfw",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "tickets": "https://app.opendate.io/e/t-la-shawn-another-one-around-the-sun-november-19-2026-751210?default_theme=true",
+   "source": "https://app.opendate.io/e/t-la-shawn-another-one-around-the-sun-november-19-2026-751210?default_theme=true"
+  },
+  {
+   "id": "3606b6ab44e8",
+   "headliner": "Christopher Michael Jensen's 40th Birthday Party",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "20:00",
+   "venue": "Uptown VFW",
+   "venue_slug": "uptown-vfw",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "20:00",
+   "tickets": "https://app.opendate.io/e/christopher-michael-jensen-s-40th-birthday-party-november-20-2026-731451?default_theme=true",
+   "source": "https://app.opendate.io/e/christopher-michael-jensen-s-40th-birthday-party-november-20-2026-731451?default_theme=true"
+  },
+  {
+   "id": "4a8311db8a0a",
+   "headliner": "the night before",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "20:00",
+   "venue": "Uptown VFW",
+   "venue_slug": "uptown-vfw",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "doors_time": "20:00",
+   "tickets": "https://app.opendate.io/e/transmission-presents-the-night-before-november-25-2026-795864?default_theme=true",
+   "source": "https://app.opendate.io/e/transmission-presents-the-night-before-november-25-2026-795864?default_theme=true",
+   "spotify": "https://open.spotify.com/artist/4pNl2Kumr9B2G2v7BI8AN2"
+  },
+  {
+   "id": "977ff51ce365",
+   "headliner": "The Aftermath Ii",
+   "openers": [
+    "Freaky",
+    "Blinkyfvce",
+    "Dub Trio",
+    "Rituals of Terror",
+    "Nxtlvl"
+   ],
+   "date": "2026-11-27",
+   "start_time": "20:00",
+   "venue": "Uptown VFW",
+   "venue_slug": "uptown-vfw",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "20:00",
+   "tickets": "https://app.opendate.io/e/the-aftermath-ii-november-27-2026-759362?default_theme=true",
+   "source": "https://app.opendate.io/e/the-aftermath-ii-november-27-2026-759362?default_theme=true"
+  },
+  {
+   "id": "626964529092",
+   "headliner": "Off With Their Heads Hospitals 20th Anniversary Family Reunion",
+   "openers": [],
+   "date": "2026-11-28",
+   "start_time": "15:30",
+   "venue": "Uptown VFW",
+   "venue_slug": "uptown-vfw",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "doors_time": "15:00",
+   "tickets": "https://app.opendate.io/e/off-with-their-heads-hospitals-20th-anniversary-family-reunion-november-28-2026-759210?default_theme=true",
+   "source": "https://app.opendate.io/e/off-with-their-heads-hospitals-20th-anniversary-family-reunion-november-28-2026-759210?default_theme=true"
+  },
+  {
+   "id": "dd9d9a91bfa0",
+   "headliner": "Heat on Beat",
+   "openers": [
+    "Kliptic",
+    "Cyclone Dubs",
+    "Lost Ambitions",
+    "Flowerrr",
+    "Draze",
+    "Aboy M8o"
+   ],
+   "date": "2026-11-28",
+   "start_time": "21:00",
+   "venue": "Uptown VFW",
+   "venue_slug": "uptown-vfw",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "tickets": "https://app.opendate.io/e/heat-on-beat-november-28-2026-784836?default_theme=true",
+   "source": "https://app.opendate.io/e/heat-on-beat-november-28-2026-784836?default_theme=true"
+  },
+  {
+   "id": "f940693137db",
+   "headliner": "Riddim Before Christmas",
+   "openers": [
+    "HEXX",
+    "Midroll",
+    "Devoyd",
+    "Phompy"
+   ],
+   "date": "2026-12-05",
+   "start_time": "20:00",
+   "venue": "Uptown VFW",
+   "venue_slug": "uptown-vfw",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "doors_time": "20:00",
+   "hidden_category": "dj_night",
+   "tickets": "https://app.opendate.io/e/riddim-before-christmas-december-05-2026-756873?default_theme=true",
+   "source": "https://app.opendate.io/e/riddim-before-christmas-december-05-2026-756873?default_theme=true"
+  },
+  {
+   "id": "a3c2fdf46d13",
+   "headliner": "Scott H. Biram",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "19:00",
+   "venue": "Uptown VFW",
+   "venue_slug": "uptown-vfw",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "tickets": "https://app.opendate.io/e/scott-h-biram-december-07-2026-754264?default_theme=true",
+   "source": "https://app.opendate.io/e/scott-h-biram-december-07-2026-754264?default_theme=true",
+   "spotify": "https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf"
+  }
+ ]
+}

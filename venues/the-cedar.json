@@ -1,0 +1,185 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "The Cedar",
+ "city": "Minneapolis",
+ "count": 11,
+ "shows": [
+  {
+   "id": "efa94515568d",
+   "headliner": "Chicago Farmer",
+   "openers": [
+    "Thomas Sticha",
+    "The Fieldnotes"
+   ],
+   "date": "2026-11-14",
+   "start_time": "20:00",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "price": "$10",
+   "is_free": false,
+   "source": "https://www.thecedar.org/events/chicago-farmer",
+   "spotify": "https://open.spotify.com/artist/69MACpHHQg9ovd1retYWPq"
+  },
+  {
+   "id": "2af0174a3e8c",
+   "headliner": "Duo Andalus",
+   "openers": [],
+   "date": "2026-11-15",
+   "start_time": "19:30",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "Latin",
+   "doors_time": "19:00",
+   "source": "https://www.thecedar.org/events/an-evening-with-duo-andalus"
+  },
+  {
+   "id": "aeaa4a4469ca",
+   "headliner": "Jake Blount",
+   "openers": [
+    "Sprig of That"
+   ],
+   "date": "2026-11-19",
+   "start_time": "19:30",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "price": "$10",
+   "is_free": false,
+   "source": "https://www.thecedar.org/events/the-cedar-presents-jake-blount-with-sprig-of-that",
+   "spotify": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
+  },
+  {
+   "id": "cea332acca26",
+   "headliner": "Origins to Ovation",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "18:00",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "17:30",
+   "source": "https://www.thecedar.org/events/orgins-to-ovation"
+  },
+  {
+   "id": "03906d9c13eb",
+   "headliner": "John Gorka",
+   "openers": [],
+   "date": "2026-11-21",
+   "start_time": "20:00",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "price": "$10",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZdjs",
+   "source": "https://www.thecedar.org/events/an-evening-with-john-gorka-2026",
+   "spotify": "https://open.spotify.com/artist/2MWKhzU2iggdtLs4xLTqrP"
+  },
+  {
+   "id": "70918b9bf243",
+   "headliner": "Alla Boara",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "19:30",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "world/other",
+   "doors_time": "19:00",
+   "price": "$10",
+   "is_free": false,
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZa-f",
+   "source": "https://www.thecedar.org/events/the-cedar-presents-an-evening-with-alla-boara",
+   "spotify": "https://open.spotify.com/artist/3Jt42I8z4pf1ZnaJBpwTGZ"
+  },
+  {
+   "id": "ee0e1a969868",
+   "headliner": "Pieta Brown",
+   "openers": [
+    "Courtney Hartman"
+   ],
+   "date": "2026-11-28",
+   "start_time": "20:00",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "source": "https://www.thecedar.org/events/pieta-brown"
+  },
+  {
+   "id": "3035163b32c0",
+   "headliner": "The Wildwoods",
+   "openers": [
+    "LaPlant Road"
+   ],
+   "date": "2026-12-02",
+   "start_time": "19:30",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "source": "https://www.thecedar.org/events/the-wildwoods-2026"
+  },
+  {
+   "id": "1aa117cbbd47",
+   "headliner": "Peter Mulvey",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "19:30",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "source": "https://www.thecedar.org/events/an-evening-with-peter-mulvey-and-friends"
+  },
+  {
+   "id": "88122b6c0cdd",
+   "headliner": "Dos Santos",
+   "openers": [
+    "KG4",
+    "DJ Miguel Vargas"
+   ],
+   "date": "2026-12-04",
+   "start_time": "20:00",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "Latin",
+   "doors_time": "19:00",
+   "source": "https://www.thecedar.org/events/dos-santos"
+  },
+  {
+   "id": "4589a4f10711",
+   "headliner": "Arlen",
+   "openers": [
+    "Abby Webster"
+   ],
+   "date": "2026-12-05",
+   "start_time": "20:00",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "source": "https://www.thecedar.org/events/arlen-with-abby-webster",
+   "spotify": "https://open.spotify.com/artist/5O6aSojwSiK1j8hOm6Akph"
+  }
+ ]
+}

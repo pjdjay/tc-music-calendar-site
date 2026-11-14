@@ -1,0 +1,255 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-12-10",
+ "count": 16,
+ "shows": [
+  {
+   "id": "26af8568e912",
+   "headliner": "Rising Voices: Lumberstock Music Fest",
+   "openers": [],
+   "date": "2026-12-10",
+   "start_time": "17:30",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/rising-voices-lumberstock-music-fest-december-10-2026-800339"
+  },
+  {
+   "id": "654be71179c9",
+   "headliner": "A Charlie Brown Christmas",
+   "openers": [
+    "the Tanner Taylor Trio"
+   ],
+   "date": "2026-12-10",
+   "start_time": "18:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "jazz/blues",
+   "price": "$30.00 - $40.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/a-charlie-brown-christmas-with-the-tanner-taylor-trio-tickets-1995861724144",
+   "source": "https://www.croonersmn.com/event/a-charlie-brown-christmas-with-the-tanner-taylor-trio-11/"
+  },
+  {
+   "id": "05e62d490d82",
+   "headliner": "Fuzzy Math",
+   "openers": [],
+   "date": "2026-12-10",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/fuzzy-math-2/"
+  },
+  {
+   "id": "89066c53ac5c",
+   "headliner": "Time Room",
+   "openers": [
+    "Rat Tally",
+    "Bathtub Cig"
+   ],
+   "date": "2026-12-10",
+   "start_time": "18:00",
+   "venue": "Pilllar Forum",
+   "venue_slug": "pilllar-forum",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43494930-time-room-at-pilllar-forum-cafe-and-commodities?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/59l4L9BwsiVjYRmxCHw7Wn"
+  },
+  {
+   "id": "72286ec074a2",
+   "headliner": "Rat Tally",
+   "openers": [],
+   "date": "2026-12-10",
+   "start_time": "18:30",
+   "venue": "Pilllar Forum",
+   "venue_slug": "pilllar-forum",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "price": "Advance $10 Day of Show $12",
+   "is_free": false,
+   "source": "https://www.pilllar.com/collections/tickets/products/music-rat-tally-12-10-2026",
+   "spotify": "https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb"
+  },
+  {
+   "id": "1764bcd918b3",
+   "headliner": "Decent Criminal",
+   "openers": [],
+   "date": "2026-12-10",
+   "start_time": "19:00",
+   "venue": "Varsity Theater",
+   "venue_slug": "varsity-theater",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "source": "https://www.songkick.com/concerts/43431665-decent-criminal-at-varsity-theater?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/6lJSu1HwPKz6sUgUkPfii2"
+  },
+  {
+   "id": "e3a5396aba54",
+   "headliner": "The Holiday Songbook",
+   "openers": [],
+   "date": "2026-12-10",
+   "start_time": "19:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "jazz/blues",
+   "price": "$40.00 - $50.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/the-holiday-songbook-tickets-1993943775508",
+   "source": "https://www.croonersmn.com/event/the-holiday-songbook-5/"
+  },
+  {
+   "id": "b5f041252a18",
+   "headliner": "Holiday Surprises",
+   "openers": [],
+   "date": "2026-12-10",
+   "start_time": "19:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "jazz/blues",
+   "source": "https://metronomebrewery.com/live-music/32nd-street-jazz-presents-holiday-surprises/"
+  },
+  {
+   "id": "a03cd092ba05",
+   "headliner": "Shelly Lynne",
+   "openers": [],
+   "date": "2026-12-10",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "460afbdd2805",
+   "headliner": "North Innsbruck",
+   "openers": [
+    "wolfbabycup",
+    "Cheap Glue",
+    "dj shane kramer"
+   ],
+   "date": "2026-12-10",
+   "start_time": "19:30",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1649776/north-innsbruck-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-north-innsbruck/",
+   "spotify": "https://open.spotify.com/artist/59e5fSGQev3PyHlEkRuHly"
+  },
+  {
+   "id": "32d8c53243df",
+   "headliner": "The Steepwater Band",
+   "openers": [
+    "Mark Joseph",
+    "Nicholas David"
+   ],
+   "date": "2026-12-10",
+   "start_time": "19:30",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "tickets": "https://app.opendate.io/e/the-steepwater-band-december-10-2026-751118?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/the-steepwater-band-december-10-2026-751118",
+   "spotify": "https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J"
+  },
+  {
+   "id": "eca6e1639d54",
+   "headliner": "Amtrac",
+   "openers": [
+    "Leo Himself"
+   ],
+   "date": "2026-12-10",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1566076/amtrac-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-12-amtrac/",
+   "spotify": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+  },
+  {
+   "id": "89f7619dc375",
+   "headliner": "The Steel Wheels",
+   "openers": [
+    "Bobcat Opossum"
+   ],
+   "date": "2026-12-10",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1568174/the-steel-wheels-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-12-the-steel-wheels/",
+   "spotify": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
+  },
+  {
+   "id": "38a30a746618",
+   "headliner": "Dream of the Wild",
+   "openers": [],
+   "date": "2026-12-10",
+   "start_time": "21:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "b138bb06f832",
+   "headliner": "Seculants",
+   "openers": [
+    "Makeready",
+    "Matt Johnson"
+   ],
+   "date": "2026-12-10",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-11",
+   "source": "https://whitesquirrelbar.com/event/seculants-makeready-and-matt-johnson/"
+  },
+  {
+   "id": "2f57f3c42819",
+   "headliner": "Dumpster Juice",
+   "openers": [
+    "Raspberry Tart",
+    "Gills"
+   ],
+   "date": "2026-12-10",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.facebook.com/share/1Kkw9x5Rwt/?mibextid=wwXIfr"
+  }
+ ]
+}

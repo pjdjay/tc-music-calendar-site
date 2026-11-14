@@ -1,0 +1,49 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-02-02",
+ "count": 2,
+ "shows": [
+  {
+   "id": "da3d2dd5bd54",
+   "headliner": "Rayland Baxter",
+   "openers": [
+    "Dylan LeBlanc"
+   ],
+   "date": "2027-02-02",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1611243/rayland-baxter-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-02-rayland-baxter/",
+   "spotify": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+  },
+  {
+   "id": "dbe243f7bd79",
+   "headliner": "Richard Thompson",
+   "openers": [
+    "Clayton Linthicum",
+    "Quinn Bachand"
+   ],
+   "date": "2027-02-02",
+   "start_time": "20:00",
+   "venue": "Fitzgerald Theater",
+   "venue_slug": "fitzgerald-theater",
+   "city": "St. Paul",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "all_ages",
+   "tickets": "https://www.axs.com/events/1645249/richard-thompson-band-tickets?skin=fitzgeraldtheater",
+   "source": "https://first-avenue.com/event/2027-02-richard-thompson-band/",
+   "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-01-18",
+ "count": 1,
+ "shows": [
+  {
+   "id": "b0ef73f29a56",
+   "headliner": "Wolves in the Throne Room",
+   "openers": [
+    "Stygian Bough",
+    "Spirit Possession"
+   ],
+   "date": "2027-01-18",
+   "start_time": "19:30",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "doors_time": "18:30",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1638931/wolves-in-the-throne-room-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2027-01-wolves-in-the-throne-room/",
+   "spotify": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
+  }
+ ]
+}

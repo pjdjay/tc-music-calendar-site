@@ -1,0 +1,31 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Northrop Auditorium",
+ "city": "Minneapolis",
+ "count": 1,
+ "shows": [
+  {
+   "id": "71643ede149d",
+   "headliner": "Elevation Rhythm",
+   "openers": [
+    "Lost & Found",
+    "Allison Eide",
+    "Markus McFolling"
+   ],
+   "date": "2026-11-17",
+   "start_time": "19:00",
+   "venue": "Northrop Auditorium",
+   "venue_slug": "northrop-auditorium",
+   "city": "Minneapolis",
+   "genre": "gospel/Christian",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZKaM",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAZKaM",
+   "spotify": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+  }
+ ]
+}

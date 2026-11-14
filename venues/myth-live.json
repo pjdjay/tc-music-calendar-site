@@ -1,0 +1,158 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "venue": "Myth Live",
+ "city": "Maplewood",
+ "count": 9,
+ "shows": [
+  {
+   "id": "c4bd27fdba5f",
+   "headliner": "Los Huracanes del Norte",
+   "openers": [
+    "La Zenda Norteña",
+    "El Fantasma",
+    "Cornelio Vega y Su Dinastia"
+   ],
+   "date": "2026-11-13",
+   "start_time": "20:00",
+   "venue": "Myth Live",
+   "venue_slug": "myth-live",
+   "city": "Maplewood",
+   "genre": "Latin",
+   "source": "https://www.songkick.com/concerts/43344317-los-huracanes-del-norte-at-myth?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+  },
+  {
+   "id": "f94f64c02af4",
+   "headliner": "El Fantasma",
+   "openers": [],
+   "date": "2026-11-13",
+   "start_time": "21:00",
+   "venue": "Myth Live",
+   "venue_slug": "myth-live",
+   "city": "Maplewood",
+   "genre": "Latin",
+   "doors_time": "20:00",
+   "tickets": "https://ticketon.com/events/Fantasma_11-13",
+   "source": "https://mythlive.com/event/el-fantasma/",
+   "spotify": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+  },
+  {
+   "id": "472834c4ee0f",
+   "headliner": "Beartooth",
+   "openers": [
+    "Don Broco",
+    "Magnolia Park",
+    "Windwaker"
+   ],
+   "date": "2026-11-21",
+   "start_time": "19:00",
+   "venue": "Myth Live",
+   "venue_slug": "myth-live",
+   "city": "Maplewood",
+   "genre": "rock/indie",
+   "doors_time": "18:00",
+   "price": "$69.65",
+   "is_free": false,
+   "tickets": "https://www.etix.com/ticket/p/38993015/beartoothpure-ecstasy-world-tour-maplewood-myth-live?partner_id=100",
+   "source": "https://mythlive.com/event/beartooth-pure-ecstasy-world-tour/myth-live/st-paul-minnesota/",
+   "spotify": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+  },
+  {
+   "id": "aa435fdab69b",
+   "headliner": "ROA",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "20:00",
+   "venue": "Myth Live",
+   "venue_slug": "myth-live",
+   "city": "Maplewood",
+   "genre": "hip-hop/R&B",
+   "source": "https://www.jambase.com/show/roa-myth-live-20261125",
+   "spotify": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+  },
+  {
+   "id": "e0ac5041f73b",
+   "headliner": "El Gran Silencio",
+   "openers": [
+    "Foco de Atelier"
+   ],
+   "date": "2026-11-27",
+   "start_time": "21:00",
+   "venue": "Myth Live",
+   "venue_slug": "myth-live",
+   "city": "Maplewood",
+   "genre": "Latin",
+   "source": "https://www.songkick.com/concerts/43397076-el-gran-silencio-at-myth?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+  },
+  {
+   "id": "31404c1b11dd",
+   "headliner": "El Tri",
+   "openers": [],
+   "date": "2026-11-27",
+   "start_time": "22:00",
+   "venue": "Myth Live",
+   "venue_slug": "myth-live",
+   "city": "Maplewood",
+   "genre": "Latin",
+   "doors_time": "21:00",
+   "tickets": "https://ticketon.com/events/TriGS_11-27",
+   "source": "https://mythlive.com/event/el-tri/",
+   "spotify": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+  },
+  {
+   "id": "f9056ea107b6",
+   "headliner": "NT One & Deathryme",
+   "openers": [],
+   "date": "2026-11-28",
+   "start_time": "21:00",
+   "venue": "Myth Live",
+   "venue_slug": "myth-live",
+   "city": "Maplewood",
+   "genre": "hip-hop/R&B",
+   "doors_time": "20:00",
+   "tickets": "https://www.zeffy.com/en-US/ticketing/nt-one-with-deathrhyme-hip-hop-heaven-and-edm-after-hours",
+   "source": "https://mythlive.com/event/nt-one-deathryme/"
+  },
+  {
+   "id": "2049f977b7a0",
+   "headliner": "Suicide Silence",
+   "openers": [
+    "Emmure",
+    "AngelMaker",
+    "Synestia"
+   ],
+   "date": "2026-12-02",
+   "start_time": "19:00",
+   "venue": "Myth Live",
+   "venue_slug": "myth-live",
+   "city": "Maplewood",
+   "genre": "metal/punk",
+   "doors_time": "18:00",
+   "price": "$49.56",
+   "is_free": false,
+   "tickets": "https://www.etix.com/ticket/p/99306703/suicide-silencereminders-of-hell-tour-maplewood-myth-live?partner_id=100",
+   "source": "https://mythlive.com/event/suicide-silence-reminders-of-hell-tour/myth-live/st-paul-minnesota/",
+   "spotify": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+  },
+  {
+   "id": "cca2cabcd1a0",
+   "headliner": "Perreoland",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "22:00",
+   "venue": "Myth Live",
+   "venue_slug": "myth-live",
+   "city": "Maplewood",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "tickets": "https://www.eventbrite.com/e/perreoland-minneapolis-tickets-2003951563070?irclickid=zxSypRwqyxyZRFM1twwmOWpmUkr3LvVJRXm%3AUY0&sharedid=linktr.ee&irpid=10078&utm_source=impact&utm_medium=ebaf&utm_term=10078&utm_content=1818731__linktr.ee&irgwc=1&afsrc=1&utm_campaign=afsp_ceal_pmk_fpp_0_us_0_0_bau_0",
+   "source": "https://mythlive.com/event/perreoland/"
+  }
+ ]
+}

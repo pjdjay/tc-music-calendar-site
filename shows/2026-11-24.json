@@ -1,0 +1,229 @@
+{
+ "generated_at": "2026-11-13T07:53:02+00:00",
+ "window_start": "2026-11-13",
+ "window_end": "2027-02-04",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2026-11-24",
+ "count": 13,
+ "shows": [
+  {
+   "id": "75470ce400ab",
+   "headliner": "Tribute To The Derailers",
+   "openers": [
+    "Trevor Mcspadden And The DL4"
+   ],
+   "date": "2026-11-24",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://whitesquirrelbar.com/event/a-dan-l-rotation/"
+  },
+  {
+   "id": "df3035d01146",
+   "headliner": "Turnover",
+   "openers": [
+    "Nothing",
+    "Trauma Ray"
+   ],
+   "date": "2026-11-24",
+   "start_time": "18:30",
+   "venue": "Uptown Theater",
+   "venue_slug": "uptown-theater",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$45.75",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vvG1bZ_ukU-reR/turnover-down-on-earth-tour-15",
+   "source": "https://www.livenation.com/event/vvG1bZ_ukU-reR/turnover-down-on-earth-tour-15",
+   "spotify": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
+  },
+  {
+   "id": "dda5f33c2eb4",
+   "headliner": "Insomnium",
+   "openers": [
+    "Amorphis",
+    "Hinayana"
+   ],
+   "date": "2026-11-24",
+   "start_time": "18:30",
+   "venue": "Varsity Theater",
+   "venue_slug": "varsity-theater",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "price": "$39.85",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vv1AkZkfbGkeX1W0U/insomnium-amorphis",
+   "source": "https://www.livenation.com/event/vv1AkZkfbGkeX1W0U/insomnium-amorphis",
+   "spotify": "https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS"
+  },
+  {
+   "id": "a1bf88a43dc8",
+   "headliner": "Boney James",
+   "openers": [],
+   "date": "2026-11-24",
+   "start_time": "18:30",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$81.09+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/boney-james-nov24-2026/2026-11-24/1/"
+  },
+  {
+   "id": "63f5441e1ff2",
+   "headliner": "Breaking Thread: Fly Tie Meet-up",
+   "openers": [],
+   "date": "2026-11-24",
+   "start_time": "18:30",
+   "venue": "56 Brewing",
+   "venue_slug": "56-brewing",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "some Tuesdays",
+   "price": "free admission",
+   "is_free": true,
+   "source": "https://56brewing.com/event/breaking-thread-fly-tie-meet-up-3/2026-11-24/"
+  },
+  {
+   "id": "7cee2dd4b14d",
+   "headliner": "Knife Emoji",
+   "openers": [],
+   "date": "2026-11-24",
+   "start_time": "18:30",
+   "venue": "Pilllar Forum",
+   "venue_slug": "pilllar-forum",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "price": "Advance $10 Day of Show $12",
+   "is_free": false,
+   "source": "https://www.pilllar.com/collections/tickets/products/music-knife-emoji-11-24-2026",
+   "spotify": "https://open.spotify.com/artist/57ygb9sWpLedVl2jpdKKcb"
+  },
+  {
+   "id": "6646795ea5dd",
+   "headliner": "June Panic",
+   "openers": [],
+   "date": "2026-11-24",
+   "start_time": "19:00",
+   "venue": "Underground Music Venue",
+   "venue_slug": "underground-music-venue",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "price": "$15",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/had412c47292?utm_source=jambase",
+   "source": "https://www.jambase.com/show/june-panic-underground-music-venue-cafe-20261124",
+   "spotify": "https://open.spotify.com/artist/2hJDOkpDX5T93m9D1XP0IU"
+  },
+  {
+   "id": "3e302b9594a6",
+   "headliner": "Nate Walker & Friends - FRIENDSGIVING vol 4",
+   "openers": [],
+   "date": "2026-11-24",
+   "start_time": "19:00",
+   "venue": "Green Room",
+   "venue_slug": "green-room",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "price": "$5 advance / $8 day of show",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://tickets.venuepilot.com/e/nate-walker-friends-friendsgiving-vol-4-2026-11-24-green-room-minneapolis-501d10",
+   "source": "https://www.greenroommn.com/events#/events/203060"
+  },
+  {
+   "id": "638b40e64d9f",
+   "headliner": "Tuesday Nights",
+   "openers": [
+    "Steven Stoehr"
+   ],
+   "date": "2026-11-24",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Tuesday",
+   "source": "https://troubadourwinebar.com/events",
+   "spotify": "https://open.spotify.com/artist/0rjG5Um5dZLaDogS8VWp9G"
+  },
+  {
+   "id": "11a58ac23c76",
+   "headliner": "Bonobo",
+   "openers": [
+    "Anish Kumar"
+   ],
+   "date": "2026-11-24",
+   "start_time": "20:00",
+   "venue": "First Avenue",
+   "venue_slug": "first-avenue",
+   "city": "Minneapolis",
+   "genre": "electronic",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1476249/bonobo-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-bonobo/",
+   "spotify": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+  },
+  {
+   "id": "304ca0ea4057",
+   "headliner": "Venna",
+   "openers": [
+    "Khal!l"
+   ],
+   "date": "2026-11-24",
+   "start_time": "20:00",
+   "venue": "Fine Line",
+   "venue_slug": "fine-line",
+   "city": "Minneapolis",
+   "genre": "rock/indie",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1554719/venna-tickets?skin=fineline",
+   "source": "https://first-avenue.com/event/2026-11-venna/",
+   "spotify": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+  },
+  {
+   "id": "0a0f4b44e744",
+   "headliner": "Masto",
+   "openers": [
+    "14HunnitVon",
+    "Jimmy"
+   ],
+   "date": "2026-11-24",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "metal/punk",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1642674/masto-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-11-masto/",
+   "spotify": "https://open.spotify.com/artist/5aFbadR0TINJ22xzCR995P"
+  },
+  {
+   "id": "faf0114f2b41",
+   "headliner": "Boney James",
+   "openers": [],
+   "date": "2026-11-24",
+   "start_time": "21:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$81.09+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/boney-james-nov24-2026/2026-11-24/2/"
+  }
+ ]
+}
