@@ -1,6 +1,6 @@
 # Skyway Theatre (Minneapolis): upcoming shows
 
-6 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+8 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
@@ -15,6 +15,11 @@
 ## Saturday, November 21, 2026
 
 - **Gasolina Party** · 21:00 · unknown · 18+ · dj night · [tickets](https://events.leapevents.com/event/gasolina-11-21-26) [info](https://skywaytheatre.com/event/gasolina-party/)
+- **MashBit** · 21:00 · unknown · [tickets](https://events.leapevents.com/event/mashbit-11-21-26) [info](https://skywaytheatre.com/event/mashbit-2/) [spotify](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ)
+
+## Wednesday, November 25, 2026
+
+- **Habstrakt and Nostalgix’s Split Signal Tour** · 21:00 · unknown · [tickets](https://events.leapevents.com/event/habstrakt-x-nostalgix) [info](https://skywaytheatre.com/event/habstrakt-and-nostalgixs-split-signal-tour/)
 
 ## Friday, December 11, 2026
 

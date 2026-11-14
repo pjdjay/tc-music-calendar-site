@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-25",
- "count": 25,
+ "count": 26,
  "shows": [
   {
    "id": "ba8ef2fea3ff",
@@ -336,6 +336,20 @@
    "genre": "Latin",
    "tickets": "https://www.eventbrite.com/e/salsa-del-soul-thanksgiving-eve-with-dj-william-el-buenon-and-free-lessons-tickets-2003357228399",
    "source": "https://www.eventbrite.com/e/salsa-del-soul-thanksgiving-eve-with-dj-william-el-buenon-and-free-lessons-tickets-2003357228399"
+  },
+  {
+   "id": "e2cd6d847062",
+   "headliner": "Habstrakt and Nostalgix’s Split Signal Tour",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "21:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "tickets": "https://events.leapevents.com/event/habstrakt-x-nostalgix",
+   "source": "https://skywaytheatre.com/event/habstrakt-and-nostalgixs-split-signal-tour/"
   },
   {
    "id": "d5cd09408ce1",

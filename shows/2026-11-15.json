@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -64,7 +64,7 @@
    "spotify": "https://open.spotify.com/artist/3EsE6uFEqJlhl8X3Zh7T1o"
   },
   {
-   "id": "e2be3a9454a9",
+   "id": "21b0de57ed9b",
    "headliner": "Twin Prop Jane Matinee",
    "openers": [],
    "date": "2026-11-15",
@@ -73,6 +73,8 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "some Sundays",
    "source": "https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-11-15"
   },
   {

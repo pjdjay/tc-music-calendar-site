@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-02",
- "count": 15,
+ "count": 16,
  "shows": [
   {
    "id": "3f3383d7cf5d",
@@ -138,6 +138,18 @@
    "tickets": "https://www.axs.com/events/1488198/tiny-habits-tickets?skin=fineline",
    "source": "https://first-avenue.com/event/2026-12-tiny-habits/",
    "spotify": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+  },
+  {
+   "id": "ca4253540a0a",
+   "headliner": "Irish Diplomacy Wednesday",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "19:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/irish-diplomacy-wednesday/?lre_date=2026-12-02"
   },
   {
    "id": "19f6b363ca54",

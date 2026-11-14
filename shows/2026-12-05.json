@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-05",
- "count": 36,
+ "count": 37,
  "shows": [
   {
    "id": "be8acc17c671",
@@ -497,6 +497,18 @@
    "tickets": "https://www.axs.com/events/1620050/tuffie-virga-berzica-and-12th-house-sun-tickets?skin=firstavenue",
    "source": "https://first-avenue.com/event/2026-12-tuffie-virga-berzica/",
    "spotify": "https://open.spotify.com/artist/4Z5CL1ehkYAGbKD36TxreD"
+  },
+  {
+   "id": "ff7d6207773b",
+   "headliner": "Mac and Cheese",
+   "openers": [],
+   "date": "2026-12-05",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/mac-and-cheese/?lre_date=2026-12-05"
   },
   {
    "id": "3d95e21ee861",

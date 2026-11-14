@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -711,7 +711,7 @@
    "spotify": "https://open.spotify.com/artist/2mxDDIyOtwGNgNY4WFUmG3"
   },
   {
-   "id": "8d15a5641854",
+   "id": "bd20463f7d35",
    "headliner": "The Langer’s Ball",
    "openers": [],
    "date": "2026-11-14",
@@ -720,6 +720,8 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
+   "hidden_category": "residency",
+   "recurrence": "every second Saturday",
    "source": "https://thedublinerpub.com/show/the-langers-ball/?lre_date=2026-11-14",
    "spotify": "https://open.spotify.com/artist/1OwkUsd7vzrmPKCddzxXm8"
   },

@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-11",
- "count": 33,
+ "count": 34,
  "shows": [
   {
    "id": "6d7ea767e152",
@@ -377,6 +377,18 @@
    "genre": "electronic",
    "source": "https://www.songkick.com/concerts/43331037-tsu-nami-at-loft-at-skyway-theatre?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+  },
+  {
+   "id": "5f9b2134b38c",
+   "headliner": "DD & Company",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "21:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/dd-company/?lre_date=2026-12-11"
   },
   {
    "id": "7e0a76642023",

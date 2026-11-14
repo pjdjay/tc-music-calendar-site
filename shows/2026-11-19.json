@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -390,7 +390,7 @@
    "spotify": "https://open.spotify.com/artist/4jZfJWTKg0oea9gn2EER4C"
   },
   {
-   "id": "49f3576eb17e",
+   "id": "77018f18b20a",
    "headliner": "Devil Dodger",
    "openers": [],
    "date": "2026-11-19",
@@ -399,6 +399,8 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "metal/punk",
+   "hidden_category": "residency",
+   "recurrence": "every third Thursday",
    "source": "https://thedublinerpub.com/show/devil-dodger/?lre_date=2026-11-19",
    "spotify": "https://open.spotify.com/artist/2D5VEHBsI887Cws9NjwXgG"
   },

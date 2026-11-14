@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -188,7 +188,7 @@
    "genre": "pop",
    "price": "$41.85",
    "is_free": false,
-   "tickets": "https://www.ticketmaster.com/giant-rooks-minneapolis-minnesota-11-20-2026/event/060064A6C5D63E6F",
+   "tickets": "https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks",
    "source": "https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks",
    "spotify": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
   },
@@ -597,7 +597,7 @@
    "source": "https://whitesquirrelbar.com/event/jens-birthday-show-ft-plumstar-sunsets-over-flowers-ditch-pigeon/"
   },
   {
-   "id": "90dc1c5d83f3",
+   "id": "8d5fad419c8d",
    "headliner": "Wild Colonial Bhoys",
    "openers": [],
    "date": "2026-11-20",
@@ -606,6 +606,8 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
+   "hidden_category": "residency",
+   "recurrence": "every third Friday",
    "source": "https://thedublinerpub.com/show/wild-colonial-bhoys/?lre_date=2026-11-20",
    "spotify": "https://open.spotify.com/artist/0aLUSuJgvQUUPKOJb9F4n4"
   },

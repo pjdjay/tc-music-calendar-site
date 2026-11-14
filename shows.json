@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
- "count": 798,
+ "count": 807,
  "shows": [
   {
    "id": "62a04a20a3dd",
@@ -710,7 +710,7 @@
    "spotify": "https://open.spotify.com/artist/2mxDDIyOtwGNgNY4WFUmG3"
   },
   {
-   "id": "8d15a5641854",
+   "id": "bd20463f7d35",
    "headliner": "The Langer’s Ball",
    "openers": [],
    "date": "2026-11-14",
@@ -719,6 +719,8 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
+   "hidden_category": "residency",
+   "recurrence": "every second Saturday",
    "source": "https://thedublinerpub.com/show/the-langers-ball/?lre_date=2026-11-14",
    "spotify": "https://open.spotify.com/artist/1OwkUsd7vzrmPKCddzxXm8"
   },
@@ -949,7 +951,7 @@
    "spotify": "https://open.spotify.com/artist/3EsE6uFEqJlhl8X3Zh7T1o"
   },
   {
-   "id": "e2be3a9454a9",
+   "id": "21b0de57ed9b",
    "headliner": "Twin Prop Jane Matinee",
    "openers": [],
    "date": "2026-11-15",
@@ -958,6 +960,8 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "some Sundays",
    "source": "https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-11-15"
   },
   {
@@ -2219,7 +2223,7 @@
    "source": "https://waldmannbrewery.com/news-events/"
   },
   {
-   "id": "08c85d324a4c",
+   "id": "5edfbcfeb79a",
    "headliner": "The Twin Cities Céilí Band",
    "openers": [],
    "date": "2026-11-18",
@@ -2228,6 +2232,8 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
+   "hidden_category": "residency",
+   "recurrence": "every third Wednesday",
    "source": "https://thedublinerpub.com/show/the-twin-cities-ceili-band/?lre_date=2026-11-18"
   },
   {
@@ -2770,7 +2776,7 @@
    "spotify": "https://open.spotify.com/artist/4jZfJWTKg0oea9gn2EER4C"
   },
   {
-   "id": "49f3576eb17e",
+   "id": "77018f18b20a",
    "headliner": "Devil Dodger",
    "openers": [],
    "date": "2026-11-19",
@@ -2779,6 +2785,8 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "metal/punk",
+   "hidden_category": "residency",
+   "recurrence": "every third Thursday",
    "source": "https://thedublinerpub.com/show/devil-dodger/?lre_date=2026-11-19",
    "spotify": "https://open.spotify.com/artist/2D5VEHBsI887Cws9NjwXgG"
   },
@@ -3057,7 +3065,7 @@
    "genre": "pop",
    "price": "$41.85",
    "is_free": false,
-   "tickets": "https://www.ticketmaster.com/giant-rooks-minneapolis-minnesota-11-20-2026/event/060064A6C5D63E6F",
+   "tickets": "https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks",
    "source": "https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks",
    "spotify": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
   },
@@ -3466,7 +3474,7 @@
    "source": "https://whitesquirrelbar.com/event/jens-birthday-show-ft-plumstar-sunsets-over-flowers-ditch-pigeon/"
   },
   {
-   "id": "90dc1c5d83f3",
+   "id": "8d5fad419c8d",
    "headliner": "Wild Colonial Bhoys",
    "openers": [],
    "date": "2026-11-20",
@@ -3475,6 +3483,8 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
+   "hidden_category": "residency",
+   "recurrence": "every third Friday",
    "source": "https://thedublinerpub.com/show/wild-colonial-bhoys/?lre_date=2026-11-20",
    "spotify": "https://open.spotify.com/artist/0aLUSuJgvQUUPKOJb9F4n4"
   },
@@ -4059,7 +4069,7 @@
    "source": "https://www.facebook.com/groups/177674839311967/events/"
   },
   {
-   "id": "c498959ed22a",
+   "id": "4b9294a0b232",
    "headliner": "Lochtune",
    "openers": [],
    "date": "2026-11-21",
@@ -4068,6 +4078,8 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
+   "hidden_category": "residency",
+   "recurrence": "every third Saturday",
    "source": "https://thedublinerpub.com/show/lochtune/?lre_date=2026-11-21",
    "spotify": "https://open.spotify.com/artist/170xq3rY1QBM827AfGcf7i"
   },
@@ -4139,6 +4151,21 @@
    "age": "18+",
    "tickets": "https://events.leapevents.com/event/gasolina-11-21-26",
    "source": "https://skywaytheatre.com/event/gasolina-party/"
+  },
+  {
+   "id": "2d13d273d2f0",
+   "headliner": "MashBit",
+   "openers": [],
+   "date": "2026-11-21",
+   "start_time": "21:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "tickets": "https://events.leapevents.com/event/mashbit-11-21-26",
+   "source": "https://skywaytheatre.com/event/mashbit-2/",
+   "spotify": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
   },
   {
    "id": "0aa6d1ceae56",
@@ -5242,6 +5269,20 @@
    "genre": "Latin",
    "tickets": "https://www.eventbrite.com/e/salsa-del-soul-thanksgiving-eve-with-dj-william-el-buenon-and-free-lessons-tickets-2003357228399",
    "source": "https://www.eventbrite.com/e/salsa-del-soul-thanksgiving-eve-with-dj-william-el-buenon-and-free-lessons-tickets-2003357228399"
+  },
+  {
+   "id": "e2cd6d847062",
+   "headliner": "Habstrakt and Nostalgix’s Split Signal Tour",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "21:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "tickets": "https://events.leapevents.com/event/habstrakt-x-nostalgix",
+   "source": "https://skywaytheatre.com/event/habstrakt-and-nostalgixs-split-signal-tour/"
   },
   {
    "id": "d5cd09408ce1",
@@ -7398,6 +7439,18 @@
    "spotify": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
   },
   {
+   "id": "ca4253540a0a",
+   "headliner": "Irish Diplomacy Wednesday",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "19:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/irish-diplomacy-wednesday/?lre_date=2026-12-02"
+  },
+  {
    "id": "19f6b363ca54",
    "headliner": "Riders in the Sky // Christmas the Cowboy Way",
    "openers": [],
@@ -7790,6 +7843,18 @@
    "spotify": "https://open.spotify.com/artist/17cssIaAwAcgC9nZZliixv"
   },
   {
+   "id": "7d50785a1a11",
+   "headliner": "Test Site 67",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/test-site-67/?lre_date=2026-12-03"
+  },
+  {
    "id": "9bf8e688b411",
    "headliner": "Kurt Elling",
    "openers": [],
@@ -7931,7 +7996,7 @@
    "price": "$56.54",
    "is_free": false,
    "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A7x47_",
-   "source": "https://www.grandcasinoarena.com/events/detail/christmas-together",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1A7x47_",
    "spotify": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
   },
   {
@@ -8330,6 +8395,19 @@
    "genre": "unknown",
    "source": "https://driftwoodcharbar.com/",
    "spotify": "https://open.spotify.com/artist/42PwO0rL0v65R3jC6lghZf"
+  },
+  {
+   "id": "1c5fb751b3a3",
+   "headliner": "Release The Craicen",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": "21:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/release-the-craicen/?lre_date=2026-12-04",
+   "spotify": "https://open.spotify.com/artist/6w62pRu8qyqLoWVF46VLuE"
   },
   {
    "id": "713f10015c3c",
@@ -8892,6 +8970,18 @@
    "tickets": "https://www.axs.com/events/1620050/tuffie-virga-berzica-and-12th-house-sun-tickets?skin=firstavenue",
    "source": "https://first-avenue.com/event/2026-12-tuffie-virga-berzica/",
    "spotify": "https://open.spotify.com/artist/4Z5CL1ehkYAGbKD36TxreD"
+  },
+  {
+   "id": "ff7d6207773b",
+   "headliner": "Mac and Cheese",
+   "openers": [],
+   "date": "2026-12-05",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/mac-and-cheese/?lre_date=2026-12-05"
   },
   {
    "id": "3d95e21ee861",
@@ -9769,6 +9859,18 @@
    "source": "https://www.dakotacooks.com/event/esera-tuaolo-act-of-kindness-holiday-show-dec9-2026/"
   },
   {
+   "id": "38ec0d8b0516",
+   "headliner": "Tom Dahill and Ginny Johnson",
+   "openers": [],
+   "date": "2026-12-09",
+   "start_time": "19:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/tom-dahill-and-ginny-johnson/?lre_date=2026-12-09"
+  },
+  {
    "id": "04695e108e3b",
    "headliner": "The Blue Ox Jazz Trio",
    "openers": [],
@@ -10041,6 +10143,18 @@
    "tickets": "https://www.axs.com/events/1568174/the-steel-wheels-tickets?skin=turfclub",
    "source": "https://first-avenue.com/event/2026-12-the-steel-wheels/",
    "spotify": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
+  },
+  {
+   "id": "25a410e9278d",
+   "headliner": "Swamp Twisters 2.0",
+   "openers": [],
+   "date": "2026-12-10",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/swamp-twisters-2/?lre_date=2026-12-10"
   },
   {
    "id": "38a30a746618",
@@ -10454,6 +10568,18 @@
    "genre": "electronic",
    "source": "https://www.songkick.com/concerts/43331037-tsu-nami-at-loft-at-skyway-theatre?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+  },
+  {
+   "id": "5f9b2134b38c",
+   "headliner": "DD & Company",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "21:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/dd-company/?lre_date=2026-12-11"
   },
   {
    "id": "7e0a76642023",

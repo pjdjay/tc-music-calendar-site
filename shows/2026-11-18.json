@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -257,7 +257,7 @@
    "source": "https://waldmannbrewery.com/news-events/"
   },
   {
-   "id": "08c85d324a4c",
+   "id": "5edfbcfeb79a",
    "headliner": "The Twin Cities Céilí Band",
    "openers": [],
    "date": "2026-11-18",
@@ -266,6 +266,8 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
+   "hidden_category": "residency",
+   "recurrence": "every third Wednesday",
    "source": "https://thedublinerpub.com/show/the-twin-cities-ceili-band/?lre_date=2026-11-18"
   },
   {

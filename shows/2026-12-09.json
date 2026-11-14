@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-09",
- "count": 10,
+ "count": 11,
  "shows": [
   {
    "id": "b4d04d7a860e",
@@ -82,6 +82,18 @@
    "price": "$52.25+",
    "is_free": false,
    "source": "https://www.dakotacooks.com/event/esera-tuaolo-act-of-kindness-holiday-show-dec9-2026/"
+  },
+  {
+   "id": "38ec0d8b0516",
+   "headliner": "Tom Dahill and Ginny Johnson",
+   "openers": [],
+   "date": "2026-12-09",
+   "start_time": "19:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/tom-dahill-and-ginny-johnson/?lre_date=2026-12-09"
   },
   {
    "id": "04695e108e3b",

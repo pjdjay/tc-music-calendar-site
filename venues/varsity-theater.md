@@ -18,7 +18,7 @@
 
 ## Friday, November 20, 2026
 
-- **Giant Rooks w/ Gatlin** · 19:00 · pop · $41.85 · [tickets](https://www.ticketmaster.com/giant-rooks-minneapolis-minnesota-11-20-2026/event/060064A6C5D63E6F) [info](https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks) [spotify](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb)
+- **Giant Rooks w/ Gatlin** · 19:00 · pop · $41.85 · [tickets](https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks) [info](https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks) [spotify](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb)
 
 ## Saturday, November 21, 2026
 

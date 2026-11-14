@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-03",
- "count": 22,
+ "count": 23,
  "shows": [
   {
    "id": "f06646e7b605",
@@ -287,6 +287,18 @@
    "tickets": "https://www.axs.com/events/1587780/joe-pug-tickets?skin=turfclub",
    "source": "https://first-avenue.com/event/2026-12-joe-pug/",
    "spotify": "https://open.spotify.com/artist/17cssIaAwAcgC9nZZliixv"
+  },
+  {
+   "id": "7d50785a1a11",
+   "headliner": "Test Site 67",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/test-site-67/?lre_date=2026-12-03"
   },
   {
    "id": "9bf8e688b411",

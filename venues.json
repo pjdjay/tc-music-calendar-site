@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -191,9 +191,9 @@
    "slug": "dubliner-pub",
    "venue": "Dubliner Pub",
    "city": "St. Paul",
-   "show_count": 22,
+   "show_count": 29,
    "first_date": "2026-11-14",
-   "last_date": "2026-12-07",
+   "last_date": "2026-12-11",
    "json": "https://music.tcshows.org/venues/dubliner-pub.json",
    "markdown": "https://music.tcshows.org/venues/dubliner-pub.md"
   },
@@ -521,7 +521,7 @@
    "slug": "skyway-theatre",
    "venue": "Skyway Theatre",
    "city": "Minneapolis",
-   "show_count": 6,
+   "show_count": 8,
    "first_date": "2026-11-14",
    "last_date": "2027-01-22",
    "json": "https://music.tcshows.org/venues/skyway-theatre.json",

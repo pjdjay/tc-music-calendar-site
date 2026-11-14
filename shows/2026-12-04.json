@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-04",
- "count": 36,
+ "count": 37,
  "shows": [
   {
    "id": "f7fa4b65ef6b",
@@ -100,7 +100,7 @@
    "price": "$56.54",
    "is_free": false,
    "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A7x47_",
-   "source": "https://www.grandcasinoarena.com/events/detail/christmas-together",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1A7x47_",
    "spotify": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
   },
   {
@@ -499,6 +499,19 @@
    "genre": "unknown",
    "source": "https://driftwoodcharbar.com/",
    "spotify": "https://open.spotify.com/artist/42PwO0rL0v65R3jC6lghZf"
+  },
+  {
+   "id": "1c5fb751b3a3",
+   "headliner": "Release The Craicen",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": "21:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://thedublinerpub.com/show/release-the-craicen/?lre_date=2026-12-04",
+   "spotify": "https://open.spotify.com/artist/6w62pRu8qyqLoWVF46VLuE"
   },
   {
    "id": "713f10015c3c",

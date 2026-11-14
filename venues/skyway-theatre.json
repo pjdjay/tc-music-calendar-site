@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T08:56:43+00:00",
+ "generated_at": "2026-11-14T17:41:38+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,7 +7,7 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Skyway Theatre",
  "city": "Minneapolis",
- "count": 6,
+ "count": 8,
  "shows": [
   {
    "id": "636ab4fb6bf9",
@@ -69,6 +69,35 @@
    "age": "18+",
    "tickets": "https://events.leapevents.com/event/gasolina-11-21-26",
    "source": "https://skywaytheatre.com/event/gasolina-party/"
+  },
+  {
+   "id": "2d13d273d2f0",
+   "headliner": "MashBit",
+   "openers": [],
+   "date": "2026-11-21",
+   "start_time": "21:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "tickets": "https://events.leapevents.com/event/mashbit-11-21-26",
+   "source": "https://skywaytheatre.com/event/mashbit-2/",
+   "spotify": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+  },
+  {
+   "id": "e2cd6d847062",
+   "headliner": "Habstrakt and Nostalgix’s Split Signal Tour",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "21:00",
+   "venue": "Skyway Theatre",
+   "venue_slug": "skyway-theatre",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "21:00",
+   "tickets": "https://events.leapevents.com/event/habstrakt-x-nostalgix",
+   "source": "https://skywaytheatre.com/event/habstrakt-and-nostalgixs-split-signal-tour/"
   },
   {
    "id": "0fb80b393928",
