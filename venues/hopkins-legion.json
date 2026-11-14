@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-14T19:22:53+00:00",
+ "generated_at": "2026-11-14T19:38:17+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Hopkins Legion",
- "city": "Twin Cities",
- "count": 1,
+ "city": "Hopkins",
+ "count": 8,
  "shows": [
   {
    "id": "9c824446a2b8",
@@ -17,9 +17,93 @@
    "start_time": "19:00",
    "venue": "Hopkins Legion",
    "venue_slug": "hopkins-legion",
-   "city": "Twin Cities",
+   "city": "Hopkins",
    "genre": "unknown",
-   "source": "https://music.tcshows.org/"
+   "source": "https://www.legion320.org/music-and-events"
+  },
+  {
+   "id": "7b54f732cff2",
+   "headliner": "Bird Dogs",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": null,
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Hopkins",
+   "genre": "unknown",
+   "source": "https://www.legion320.org/music-and-events"
+  },
+  {
+   "id": "9020885a017f",
+   "headliner": "The Paul Stewart Show",
+   "openers": [],
+   "date": "2026-11-21",
+   "start_time": null,
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Hopkins",
+   "genre": "unknown",
+   "source": "https://www.legion320.org/music-and-events"
+  },
+  {
+   "id": "be4fd7facb8d",
+   "headliner": "True Heat",
+   "openers": [],
+   "date": "2026-11-27",
+   "start_time": null,
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Hopkins",
+   "genre": "unknown",
+   "source": "https://www.legion320.org/music-and-events"
+  },
+  {
+   "id": "462afad72265",
+   "headliner": "Deep Fried Tweeters",
+   "openers": [],
+   "date": "2026-11-28",
+   "start_time": null,
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Hopkins",
+   "genre": "unknown",
+   "source": "https://www.legion320.org/music-and-events"
+  },
+  {
+   "id": "b24a5a571615",
+   "headliner": "Fender Bender",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": null,
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Hopkins",
+   "genre": "unknown",
+   "source": "https://www.legion320.org/music-and-events"
+  },
+  {
+   "id": "cc4e095e4f42",
+   "headliner": "Twilight Zone",
+   "openers": [],
+   "date": "2026-12-05",
+   "start_time": null,
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Hopkins",
+   "genre": "unknown",
+   "source": "https://www.legion320.org/music-and-events"
+  },
+  {
+   "id": "48887cc1f8a3",
+   "headliner": "Waiting for Walter",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Hopkins",
+   "genre": "unknown",
+   "source": "https://www.legion320.org/event-details/waiting-for-walter-16"
   }
  ]
 }

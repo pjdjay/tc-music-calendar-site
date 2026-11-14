@@ -1,13 +1,25 @@
 {
- "generated_at": "2026-11-14T19:22:53+00:00",
+ "generated_at": "2026-11-14T19:38:17+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-04",
- "count": 37,
+ "count": 38,
  "shows": [
+  {
+   "id": "b24a5a571615",
+   "headliner": "Fender Bender",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": null,
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Hopkins",
+   "genre": "unknown",
+   "source": "https://www.legion320.org/music-and-events"
+  },
   {
    "id": "f7fa4b65ef6b",
    "headliner": "Mia Dorr",

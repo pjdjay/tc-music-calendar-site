@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T19:22:53+00:00",
+ "generated_at": "2026-11-14T19:38:17+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -381,18 +381,6 @@
    "spotify": "https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8"
   },
   {
-   "id": "9c824446a2b8",
-   "headliner": "Waiting for Walter",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "Hopkins Legion",
-   "venue_slug": "hopkins-legion",
-   "city": "Twin Cities",
-   "genre": "unknown",
-   "source": "https://music.tcshows.org/"
-  },
-  {
    "id": "3e1949588b6f",
    "headliner": "Dan Ferstenou",
    "openers": [],
@@ -442,6 +430,18 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "9c824446a2b8",
+   "headliner": "Waiting for Walter",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "19:00",
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Hopkins",
+   "genre": "unknown",
+   "source": "https://www.legion320.org/music-and-events"
   },
   {
    "id": "70e3cb7092de",

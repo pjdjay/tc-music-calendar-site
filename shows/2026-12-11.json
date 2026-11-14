@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T19:22:53+00:00",
+ "generated_at": "2026-11-14T19:38:17+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-11",
- "count": 34,
+ "count": 35,
  "shows": [
   {
    "id": "6d7ea767e152",
@@ -202,6 +202,18 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "48887cc1f8a3",
+   "headliner": "Waiting for Walter",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Hopkins",
+   "genre": "unknown",
+   "source": "https://www.legion320.org/event-details/waiting-for-walter-16"
   },
   {
    "id": "0639d576d16e",

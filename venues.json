@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T19:22:53+00:00",
+ "generated_at": "2026-11-14T19:38:17+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -360,10 +360,10 @@
   {
    "slug": "hopkins-legion",
    "venue": "Hopkins Legion",
-   "city": "Twin Cities",
-   "show_count": 1,
+   "city": "Hopkins",
+   "show_count": 8,
    "first_date": "2026-11-14",
-   "last_date": "2026-11-14",
+   "last_date": "2026-12-11",
    "json": "https://music.tcshows.org/venues/hopkins-legion.json",
    "markdown": "https://music.tcshows.org/venues/hopkins-legion.md"
   },

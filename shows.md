@@ -1,6 +1,6 @@
 # Twin Cities live music: all shows
 
-809 shows, 2026-11-14 to 2027-02-05 (America/Chicago). Data refreshed weekly. Per-day files: https://music.tcshows.org/shows/YYYY-MM-DD.md; per-venue files: https://music.tcshows.org/venues/<slug>.md (see https://music.tcshows.org/venues.json).
+816 shows, 2026-11-14 to 2027-02-05 (America/Chicago). Data refreshed weekly. Per-day files: https://music.tcshows.org/shows/YYYY-MM-DD.md; per-venue files: https://music.tcshows.org/venues/<slug>.md (see https://music.tcshows.org/venues.json).
 
 
 ## Saturday, November 14, 2026
@@ -29,11 +29,11 @@
 - **Diego Figueiredo** · 19:00 · Crooners, Fridley · jazz/blues · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/diego-figueiredo-tickets-2002923327590) [info](https://www.croonersmn.com/event/diego-figueiredo/) [spotify](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra)
 - **Lucinda Williams** · 19:00 · Dakota Jazz Club, Minneapolis · country/folk/Americana · $108.90+ · [info](https://www.dakotacooks.com/event/an-evening-with-lucinda-williams-her-band-nov-2026/2026-11-14/) [spotify](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP)
 - **Maygen & The Birdwatcher w/ Rich Mattson and the Northstars, Emmy Woods, Ross Thorn** · 19:00 · Hook and Ladder, Minneapolis · country/folk/Americana · [tickets](https://app.opendate.io/e/amerigrass-26-november-14-2026-711921?utm_source=jambase) [info](https://www.jambase.com/show/maygen-the-birdwatcher-the-hook-and-ladder-theater-20261114) [spotify](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8)
-- **Waiting for Walter** · 19:00 · Hopkins Legion, Twin Cities · unknown · [info](https://music.tcshows.org/)
 - **Dan Ferstenou** · 19:00 · 10K Brewing, Anoka · unknown · [info](https://10kbrew.com/event/live-music-dan-ferstenou-6/)
 - **Disaster Kid** · 19:00 · Pilllar Forum, Minneapolis · unknown · [info](https://www.pilllar.com/collections/tickets/products/music-disaster-kid-11-14-2026) [spotify](https://open.spotify.com/artist/11iu46IxtMdKtSL7qBpXgB)
 - **Sammie Jean Cohen** · 19:00 · 56 Brewing, Minneapolis · unknown · [info](https://56brewing.com/event/live-music-sammie-jean-cohen/) [spotify](https://open.spotify.com/artist/2UEwAXDWJPq5HkliXuUD1e)
 - **The Great Northern** · 19:00 · Driftwood Char Bar, Minneapolis · unknown · [info](https://driftwoodcharbar.com/)
+- **Waiting for Walter** · 19:00 · Hopkins Legion, Hopkins · unknown · [info](https://www.legion320.org/music-and-events)
 - **🎶 Live Music at Troubadour! 🎶 Phil Berbig w/ Saturday at 7 PM** · 19:00 · Troubadour, Minneapolis · unknown · [info](https://troubadourwinebar.com/events)
 - **Almost Monday w/ feel trip.** · 19:30 · Fine Line, Minneapolis · rock/indie · all ages · [tickets](https://www.axs.com/events/1497548/almost-monday-tickets?skin=fineline) [info](https://first-avenue.com/event/2026-11-almost-monday/) [spotify](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E)
 - **Motown Christmas** · 19:30 · Ames Center, Burnsville · hip-hop/R&B · [tickets](https://www.ticketmaster.com/motown-christmas-burnsville-minnesota-11-14-2026/event/060064CBCE5B1D6F) [info](https://www.ticketmaster.com/motown-christmas-burnsville-minnesota-11-14-2026/event/060064CBCE5B1D6F)
@@ -211,6 +211,7 @@
 
 ## Friday, November 20, 2026
 
+- **Bird Dogs** · time TBA · Hopkins Legion, Hopkins · unknown · [info](https://www.legion320.org/music-and-events)
 - **The R Factor** · time TBA · Mystic Lake free stages, Prior Lake · unknown · [info](https://mysticlake.com/shows-and-events/the-r-factor-nov20)
 - **Early Evening Jazz: Robert Lehmann w/ Jordan Sarkis, Suwal Singh** · 16:30 · Berlin, Minneapolis · jazz/blues · NO COVER · [info](https://www.berlinmpls.com/calendar/early-evening-jazz-robert-lehmann-suwal-singh-jordan-sarkis)
 - **Tommy Boynton and Friends** · 17:00 · Crooners, Fridley · jazz/blues · Free · every third Friday · residency · [tickets](https://www.eventbrite.com/e/tommy-boynton-and-friends-registration-1992957724202) [info](https://www.croonersmn.com/event/tommy-boynton-and-friends-5/)
@@ -258,6 +259,7 @@
 ## Saturday, November 21, 2026
 
 - **DJ Diesel** · time TBA · Mystic Lake free stages, Prior Lake · unknown · dj night · [info](https://mysticlake.com/shows-and-events/dj-diesel-nov21)
+- **The Paul Stewart Show** · time TBA · Hopkins Legion, Hopkins · unknown · [info](https://www.legion320.org/music-and-events)
 - **Freezerburn w/ Low Town Cowpunks, Ron Tracy, Niko, Al Bea** · 13:00 · White Squirrel, St. Paul · unknown · [info](https://whitesquirrelbar.com/event/freezerburn-w-low-town-cowpunks-ron-tracy-niko-and-al-bea/)
 - **R&B Fest - Minneapolis** · 15:00 · Green Room, Minneapolis · hip-hop/R&B · 21+ · [tickets](https://likeit-loveit.com/us/events/r-and-b-fest-green-room-160/) [info](https://www.greenroommn.com/events#/events/200994)
 - **Crown of Clover & Sycamore Gap** · 15:00 · Dubliner Pub, St. Paul · unknown · [info](https://thedublinerpub.com/show/crown-of-clover-sycamore-gap/?lre_date=2026-11-21)
@@ -395,6 +397,7 @@
 
 - **Williams’ Zodiac Suite w/ the Aaron Diehl Trio** · time TBA · Ordway Center, St. Paul · jazz/blues · [info](https://ordway.org/events/williams-zodiac-diehl-trio/)
 - **Culture Collective** · time TBA · Mystic Lake free stages, Prior Lake · unknown · [info](https://mysticlake.com/shows-and-events/culture-collective-nov27)
+- **True Heat** · time TBA · Hopkins Legion, Hopkins · unknown · [info](https://www.legion320.org/music-and-events)
 - **Early Evening Jazz: Harry Scott Trio** · 16:30 · Berlin, Minneapolis · jazz/blues · NO COVER · [info](https://www.berlinmpls.com/calendar/early-evening-jazz-harry-scott-trio-nov-2026)
 - **Bluedog w/ Jada Brown, Laura Hugo, Corey Medina & Brothers, Imnížaska Drum Group** · 17:00 · Hook and Ladder, Minneapolis · unknown · [tickets](https://app.opendate.io/e/truthsgiving-a-decolonized-thanksgiving-show-november-27-2026-761555?utm_source=jambase) [info](https://www.jambase.com/show/bluedog-the-hook-and-ladder-theater-20261127)
 - **Colleen Raye and Ted Godbout** · 17:00 · Crooners, Fridley · jazz/blues · Free · [tickets](https://www.eventbrite.com/e/colleen-raye-and-ted-godbout-registration-2003460232487) [info](https://www.croonersmn.com/event/colleen-raye-and-ted-godbout-2/)
@@ -437,6 +440,7 @@
 
 - **David Huckfelt** · time TBA · Aster Cafe, Minneapolis · unknown · [info](https://www.songkick.com/concerts/43507139-david-huckfelt-at-aster-cafe?utm_medium=organic&utm_source=microformat) [spotify](https://open.spotify.com/artist/3LT3ChbVJI2rE6jAFfkGWZ)
 - **Deejay St. Joel** · time TBA · Mystic Lake free stages, Prior Lake · unknown · dj night · [info](https://mysticlake.com/shows-and-events/dj-stjoel-nov28)
+- **Deep Fried Tweeters** · time TBA · Hopkins Legion, Hopkins · unknown · [info](https://www.legion320.org/music-and-events)
 - **Minnesota Hmong New Year** · 08:00 · Roy Wilkins Auditorium, St. Paul · world/other · [info](https://www.rivercentre.org/events/detail/minnesota-hmong-new-year-3)
 - **Danksgiving** · 12:00 · Hook and Ladder, Minneapolis · unknown · 21+ · [info](https://thehookmpls.com/shows/danksgiving-november-28-2026-794279)
 - **Olga Flores 80th Birthday Party 10-12ppl Fireplace rm @12pm** · 12:00 · Waldmann Brewery, St. Paul · unknown · [info](https://waldmannbrewery.com/news-events/)
@@ -582,6 +586,7 @@
 
 ## Friday, December 4, 2026
 
+- **Fender Bender** · time TBA · Hopkins Legion, Hopkins · unknown · [info](https://www.legion320.org/music-and-events)
 - **Mia Dorr** · 17:00 · Crooners, Fridley · jazz/blues · Free · [tickets](https://www.eventbrite.com/e/mia-dorr-registration-2002922322584) [info](https://www.croonersmn.com/event/mia-dorr-10/) [spotify](https://open.spotify.com/artist/1OnbAkn3cMNpLeWyMN95x1)
 - **Andra Suchy w/ Bethany Larson** · 18:00 · White Squirrel, St. Paul · country/folk/Americana · [info](https://whitesquirrelbar.com/event/andra-suchy-w-bethany-larson/) [spotify](https://open.spotify.com/artist/0FfjG8aDWPy9FtMx5tym1E)
 - **Cathie English** · 18:00 · Ginkgo, St. Paul · unknown · [info](https://ginkgocoffee.com/event/cathie-english/)
@@ -622,6 +627,7 @@
 
 ## Saturday, December 5, 2026
 
+- **Twilight Zone** · time TBA · Hopkins Legion, Hopkins · unknown · [info](https://www.legion320.org/music-and-events)
 - **Santa Rampage** · 12:00 · Utepils Brewing, Minneapolis · unknown · [info](https://utepilsbrewing.com/events/santa-rampage/)
 - **Jay Boys Family Band w/ Kaitlin Cassady, Jordy Vaughn** · 13:00 · White Squirrel, St. Paul · unknown · [info](https://whitesquirrelbar.com/event/jay-boys-family-band-w-kaitlin-cassady-jordy-vaughn/) [spotify](https://open.spotify.com/artist/3OVZFFP15gHvtshgCMKEc0)
 - **Chill: The Entire Charlie Brown Christmas Soundtrack, Played Live & Danced – Saturday Matinee** · 14:00 · Amsterdam Bar & Hall, St. Paul · jazz/blues · all ages · [tickets](https://www.etix.com/ticket/p/51377125/chillthe-entire-charlie-brown-christmas-soundtrackplayed-live-danced-saturday-matinee-saint-paul-amsterdam-bar-hall?partner_id=100) [info](https://events.amsterdambarandhall.com/event/chill-the-entire-charlie-brown-christmas-soundtrack-played-live-danced-saturday-matinee/amsterdam-bar-hall/saint-paul-minnesota/)
@@ -767,6 +773,7 @@
 - **Trailer Trash** · 19:00 · Hook and Ladder, Minneapolis · unknown · 21+ · [tickets](https://app.opendate.io/e/trailer-trash-s-trashy-little-x-mas-friday-december-11-2026-742744?utm_source=jambase) [info](https://thehookmpls.com/shows/trailer-trash-s-trashy-little-x-mas-friday-december-11-2026-742744) [spotify](https://open.spotify.com/artist/5a1jQOVT5kO1tkCAOY9cmo)
 - **Jakob Dreyer Quartet w/ Sasha Berliner** · 19:00 · Berlin, Minneapolis · unknown · $30 · [info](https://www.berlinmpls.com/calendar/jakob-dreyer-quartet-december-2026)
 - **Neighbors Again** · 19:00 · Driftwood Char Bar, Minneapolis · unknown · [info](https://driftwoodcharbar.com/)
+- **Waiting for Walter** · 19:00 · Hopkins Legion, Hopkins · unknown · [info](https://www.legion320.org/event-details/waiting-for-walter-16)
 - **🎶 Live Music Friday: Aaron Blazich at Troubadour 🎶** · 19:00 · Troubadour, Minneapolis · unknown · [info](https://troubadourwinebar.com/events)
 - **Maddie Thies w/ Squinny, The Nunnery, Sachi Keiko** · 19:30 · The Cedar, Minneapolis · unknown · [info](https://www.thecedar.org/events/maddie-thies) [spotify](https://open.spotify.com/artist/6uFMSAtb6jrFk9n4SkDIPC)
 - **Sophie Hiroko w/ GR3G, Willem Dafoe Fan Club** · 19:30 · Cloudland Theater, Minneapolis · unknown · $12 · [tickets](https://dice.fm/event/6a9f4df19c734500015b50d8) [info](https://dice.fm/event/6a9f4df19c734500015b50d8) [spotify](https://open.spotify.com/artist/1oaS0HlgrPV67WVH7FN8BR)

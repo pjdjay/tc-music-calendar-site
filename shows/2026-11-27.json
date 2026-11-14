@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T19:22:53+00:00",
+ "generated_at": "2026-11-14T19:38:17+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-27",
- "count": 39,
+ "count": 40,
  "shows": [
   {
    "id": "b0d56ac0487d",
@@ -33,6 +33,18 @@
    "city": "Prior Lake",
    "genre": "unknown",
    "source": "https://mysticlake.com/shows-and-events/culture-collective-nov27"
+  },
+  {
+   "id": "be4fd7facb8d",
+   "headliner": "True Heat",
+   "openers": [],
+   "date": "2026-11-27",
+   "start_time": null,
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Hopkins",
+   "genre": "unknown",
+   "source": "https://www.legion320.org/music-and-events"
   },
   {
    "id": "76764a95f0c0",
