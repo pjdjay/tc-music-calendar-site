@@ -330,7 +330,8 @@ function makeMarks(getStorage,now){
 // ==== marks:end ====
 function el(tag,cls,text){var n=document.createElement(tag);if(cls)n.className=cls;if(text!=null)n.textContent=text;return n}
 function safeUrl(u){try{var x=new URL(u);return(x.protocol==="http:"||x.protocol==="https:")?x.href:null}catch(e){return null}}
-function genreLabel(g){return g?g.charAt(0).toUpperCase()+g.slice(1):"Unknown"}
+var GENRE_LABEL={"country/folk/Americana":"Country/folk"};   // display names only; the stored genre key is unchanged
+function genreLabel(g){return g?(GENRE_LABEL[g]||g.charAt(0).toUpperCase()+g.slice(1)):"Unknown"}
 function fmtTime(t){if(!t)return"Time TBA";var p=t.split(":"),h=+p[0],m=p[1],ap=h>=12?"PM":"AM";h=h%12||12;return h+":"+m+" "+ap}
 var DOW=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],MON=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
 function fmtDay(iso){var p=iso.split("-"),d=new Date(+p[0],+p[1]-1,+p[2]);return DOW[d.getDay()]+", "+MON[d.getMonth()]+" "+d.getDate()}
