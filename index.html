@@ -44,7 +44,7 @@ try{var t=localStorage.getItem("tcmusic.theme.v1");if(t==="light"||t==="dark")do
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.4 var(--font)}
 .vh,:root[data-acts=icons] .acts .lbl{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
-header.top,.sbar,.tools,.sel,.filters,.status,footer{max-width:var(--maxw);margin-left:auto;margin-right:auto;padding-left:var(--gut);padding-right:var(--gut)}
+header.top,.sbar,.tools,.sel,.filters,.status,.hexp,footer{max-width:var(--maxw);margin-left:auto;margin-right:auto;padding-left:var(--gut);padding-right:var(--gut)}
 main{max-width:var(--maxw);margin:0 auto;padding:0 0 40px}
 /* header */
 header.top{padding-top:12px}
@@ -181,7 +181,7 @@ li.ev.gone{background:transparent;border-style:dashed;border-color:var(--line-2)
 .hclear .linkbtn{background:none;border:0;padding:8px 10px 8px 0;font:inherit;color:var(--accent);font-weight:600;text-decoration:underline;cursor:pointer}
 .hmsg{color:var(--warn);font-weight:600}
 /* export buttons: shown in the hearted view only */
-.hexp{padding:10px var(--gut) 0}
+.hexp{padding-top:10px}   /* width, centering and side gutters come from the shared rule above, so it lines up with the search box */
 .hexp[hidden]{display:none}
 .hexp .chips{align-items:center}
 .hexp button:disabled{background:var(--surface-2);color:var(--muted);cursor:default}
