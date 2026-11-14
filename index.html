@@ -114,8 +114,9 @@ section.day>ul{list-style:none;margin:0;padding:4px 10px 0;display:flex;flex-dir
 li.ev{padding:12px 14px 6px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r-card)}   /* flat: no shadow, no hover, no pointer (the card itself is not a link) */
 .body{display:flex;flex-direction:column;min-width:0}
 .kick{order:-1;display:flex;flex-wrap:wrap;gap:0 8px;margin-bottom:2px;font-size:.72rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase}
-.vlink{background:none;border:0;padding:7px 0;margin:-7px 0;font:inherit;letter-spacing:inherit;text-transform:inherit;color:var(--accent);text-align:left;cursor:pointer;overflow-wrap:anywhere}
-.vlink:hover{text-decoration:underline}
+.vlink{padding:7px 0;margin:-7px 0;color:var(--accent);text-decoration:none;overflow-wrap:anywhere}   /* a link out (Google Maps listing: address, hours, phone, the venue's own site); it never filters */
+.vlink::after{content:"\00a0\2197";font-size:.9em;font-weight:400}
+.vlink:hover,.vlink:focus-visible{text-decoration:underline}
 .city{color:var(--muted)}
 .h{font-weight:700;font-size:1.24rem;line-height:1.22;letter-spacing:-.005em;color:var(--ink);text-decoration:none;overflow-wrap:anywhere}
 a.h{padding:4px 0}
@@ -133,10 +134,10 @@ a.h:hover,a.h:focus-visible{text-decoration:underline;color:var(--accent)}
 .meta>*::before{content:"\00b7";display:inline-block;margin:0 6px;font-weight:400;color:var(--muted)}
 .meta>.tm{order:0;font-weight:600;color:var(--ink-2);font-variant-numeric:tabular-nums}
 .meta>.tm::before,.meta>.gen::before{content:none}
-.meta>.rec{order:1;color:var(--accent);font-weight:600}
+.meta>.rec{order:1;color:var(--ink-2);font-weight:600}
 .meta>.price{order:2;font-weight:700;color:var(--ink)}
 .meta>.gen{order:3;margin-left:10px;padding:1px 9px;border-radius:var(--r-pill);background:var(--gbg,var(--surface-2));color:var(--gfg,var(--ink-2));font-size:.74rem;font-weight:700}
-.meta>.dj{color:var(--accent);font-weight:600}
+.meta>.dj{color:var(--ink-2);font-weight:600}
 .vsite{padding:7px 0;color:var(--muted);text-decoration:underline dotted}
 .also a{color:var(--muted)}
 .vnote{margin-top:2px;color:var(--muted);font-size:.78rem;font-style:italic}
@@ -455,6 +456,8 @@ function goneCard(e){
  m.appendChild(el("span","gonenote","This show may have changed. It is no longer in the listings: it may have been moved, renamed or canceled. Check with the venue."));
  b.appendChild(m);li.appendChild(b);
  li.appendChild(heartBtn(e));return li}
+// Venue link: a Google Maps search on the full venue name (parenthetical room list dropped) plus city, which every venue has; the listing carries address, hours, phone and the venue's own site.
+function venueMapUrl(e){var n=(e.vf?e.vf:e.v).replace(/\s*\([^)]*\)/g,"").trim();return "https:"+"//www.google.com/maps/search/?api=1&query="+encodeURIComponent(n+" "+e.c+" MN")}
 function card(e){
  if(e.gone)return goneCard(e);
  function actLink(cls,label,url,title,svg){var a=el("a",cls);a.appendChild(typeof svg==="string"?brandMark(svg,svg==="yt"?PLAY_SVG:NOTE_SVG):icon(svg));a.appendChild(el("span","lbl",label));a.href=url;a.target="_blank";a.rel="noopener noreferrer";a.title=title;a.setAttribute("aria-label",label+" (opens in a new tab)");return a}
@@ -468,8 +471,7 @@ function card(e){
  b.appendChild(l1);
  if(e.sr)b.appendChild(el("div","sr",e.sr));
  if(e.o&&e.o.length)b.appendChild(el("div","op","with "+e.o.join(", ")));
- var k=el("div","kick"),vb=el("button","vlink",e.v);vb.type="button";vb.title="Show only "+(e.vf?e.vf:e.v);
- vb.onclick=function(){addVenue(e.v);window.scrollTo({top:0,behavior:smooth()?"smooth":"auto"})};
+ var k=el("div","kick"),vb=el("a","vlink",e.v);vb.href=venueMapUrl(e);vb.target="_blank";vb.rel="noopener noreferrer";vb.title="Address and info for "+(e.vf?e.vf:e.v)+" (opens Google Maps)";vb.setAttribute("aria-label",(e.vf?e.vf:e.v)+": address and info (opens Google Maps in a new tab)");
  k.appendChild(vb);k.appendChild(el("span","city",e.c));b.appendChild(k);   // shown above the headliner (CSS order)
  var m=el("div","meta");
  m.appendChild(el("span","tm",fmtTime(e.t)));
