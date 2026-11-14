@@ -340,9 +340,9 @@ function makeMarks(getStorage,now){
  load();return api}
 // ==== marks:end ====
 // ==== export:start ==== (tests/test_hearts_export.py runs this block under node; keep it free of DOM, storage and network)
-/* Export of hearted shows: an .ics calendar, a plain-text list and a mailto: body. Items are {ek,h,o,v,vf,c,d,t,k,s,va,gone}:
+/* Export of hearted shows: an .ics calendar and a plain-text list. Items are {ek,h,o,v,vf,c,d,t,k,s,va,gone}:
    headliner, openers, display venue, full venue, city, ISO date, "HH:MM" or null (Time TBA), ticket url, event page url, venue address, gone = heart with no live show. */
-var EXP_FILE="tc-shows-hearted.ics",EXP_TITLE="My Twin Cities shows",EXP_HOURS=3,EXP_MAIL_MAX=1500;
+var EXP_FILE="tc-shows-hearted.ics",EXP_TITLE="My Twin Cities shows",EXP_HOURS=3;
 var EXP_DOW=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],EXP_MON=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
 function expPad(n,w){var s=String(n);while(s.length<(w||2))s="0"+s;return s}
 function expIsoOk(d){return typeof d==="string"&&/^\d{4}-\d{2}-\d{2}$/.test(d)&&!isNaN(Date.parse(d+"T00:00:00Z"))}
@@ -388,24 +388,16 @@ function buildIcs(items,now,domain){
  var out=[];L.forEach(function(l){out=out.concat(icsFold(l))});return out.join("\r\n")+"\r\n"}
 function expTime(t){if(!expTimeOk(t))return"time TBA";var h=+t.slice(0,2),m=t.slice(3,5),ap=h>=12?"PM":"AM";h=h%12||12;return h+(m==="00"?"":":"+m)+" "+ap}
 function expDay(iso){var p=iso.split("-"),dt=new Date(Date.UTC(+p[0],+p[1]-1,+p[2]));return EXP_DOW[dt.getUTCDay()]+" "+EXP_MON[dt.getUTCMonth()]+" "+dt.getUTCDate()}
-/* Text list entries in date order: "Fri Nov 21 – Headliner @ Venue, 8 PM", the link on the next line, "(may have changed)" on a heart with no live show. */
+/* Text list, in date order: a heading per date ("FRI NOV 21"), then one block per show: "• Headliner @ Venue, 8 PM" with the link indented on the next line,
+   "(may have changed)" on a heart with no live show. A blank line separates shows and dates. */
 function textEntries(items){
  var a=items.filter(function(x){return x&&x.h&&expIsoOk(x.d)}).map(function(x,i){return{x:x,i:i}});
  a.sort(function(p,q){return p.x.d<q.x.d?-1:p.x.d>q.x.d?1:p.i-q.i});
- return a.map(function(r){var x=r.x,s=expDay(x.d)+" \u2013 "+x.h+(x.v?" @ "+x.v:"");
+ return a.map(function(r){var x=r.x,s="\u2022 "+x.h+(x.v?" @ "+x.v:"");
   if(!x.gone)s+=", "+expTime(x.t);else s+=" (may have changed)";
-  var l=x.gone?"":expLink(x);if(l)s+="\n"+l;return{d:x.d,s:s}})}
-function joinEntries(es){var out="";es.forEach(function(e,i){out+=(i?(es[i-1].d===e.d?"\n":"\n\n"):"")+e.s});return out}
+  var l=x.gone?"":expLink(x);if(l)s+="\n  "+l;return{d:x.d,s:s}})}
+function joinEntries(es){var out="";es.forEach(function(e,i){var head=!i||es[i-1].d!==e.d;out+=(i?"\n\n":"")+(head?expDay(e.d).toUpperCase()+"\n":"")+e.s});return out}
 function shareText(items){return joinEntries(textEntries(items))}
-/* mailto: body of at most `max` characters, cut between shows, ending "...and N more (use Add to calendar for the full list)". */
-function mailBody(items,max){
- var es=textEntries(items),all=joinEntries(es),m=max||EXP_MAIL_MAX;
- if(all.length<=m)return all;
- var n=es.length,k=0,tail=function(r){return"\n\n...and "+r+" more (use Add to calendar for the full list)"};
- for(k=n;k>0;k--){if(joinEntries(es.slice(0,k)).length+tail(n-k).length<=m)break}
- return k?joinEntries(es.slice(0,k))+tail(n-k):tail(n).slice(2)}
-function mailtoUrl(items,max){   // no recipient; RFC 6068: percent-encoded, line breaks as CRLF
- return"mailto:?subject="+encodeURIComponent(EXP_TITLE)+"&body="+encodeURIComponent(mailBody(items,max).replace(/\n/g,"\r\n"))}
 // ==== export:end ====
 function el(tag,cls,text){var n=document.createElement(tag);if(cls)n.className=cls;if(text!=null)n.textContent=text;return n}
 function safeUrl(u){try{var x=new URL(u);return(x.protocol==="http:"||x.protocol==="https:")?x.href:null}catch(e){return null}}
@@ -515,18 +507,11 @@ function exportCalendar(){
  if(file&&navigator.share&&navigator.canShare&&navigator.canShare({files:[file]})){   // iPhone and Android: the share sheet offers Mail, Calendar, Files
   expSay("");navigator.share({files:[file],title:EXP_TITLE}).catch(function(err){if(expShareFailed(err))expDownload(new Blob([ics],{type:"text/calendar;charset=utf-8"}))});return}
  expDownload(new Blob([ics],{type:"text/calendar;charset=utf-8"}))}
-function copyList(){
+function copyList(){   // the whole list, never cut: the clipboard, else a box with the text selected
  var text=shareText(exportItems());if(!text)return;
- function viaClipboard(){
-  if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(text).then(function(){expSay("List copied.")},function(){expManual(text)});
-  else expManual(text)}
- if(navigator.share){expSay("");navigator.share({title:EXP_TITLE,text:text}).catch(function(err){if(expShareFailed(err))viaClipboard()});return}
- viaClipboard()}
-function emailList(){
- var items=exportItems();if(!items.length)return;
- expSay("Opening your email app… If nothing opens, use Copy list instead.");
- var a=document.createElement("a");a.href=mailtoUrl(items);document.body.appendChild(a);a.click();document.body.removeChild(a)}
-[["cal","Add to calendar",exportCalendar],["copy","Copy list",copyList],["mail","Email list",emailList]].forEach(function(o){
+ if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(text).then(function(){expSay("List copied to the clipboard.")},function(){expManual(text)});
+ else expManual(text)}
+[["cal","Add to calendar",exportCalendar],["copy","Copy to clipboard",copyList]].forEach(function(o){
  var b=el("button","chip",o[1]);b.type="button";b.onclick=o[2];expBtn[o[0]]=b;expChips.appendChild(b)});
 expRow.appendChild(expChips);expRow.appendChild(expMsg);expRow.appendChild(expBox);
 function syncExport(){   // visible in the hearted view when there is at least one heart; the calendar needs a show that is still listed
