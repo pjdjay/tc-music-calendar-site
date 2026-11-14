@@ -153,16 +153,20 @@ li.ev.off .h,li.ev.off .vlink,li.ev.off .op,li.ev.off .meta>.tm,li.ev.off .meta>
 li.ev.off .h{text-decoration:line-through}
 li.ev.off{background:transparent;border-style:dashed;border-color:var(--line-2)}
 li.ev.off .acts{opacity:.75}
-/* heart (DESIGN.md "Reserved: personal action"): 30px, outline when off, filled accent when on. Shape and aria-pressed carry the state, not colour alone. */
-.acts button.heart{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;padding:0;margin-left:2px;border:0;border-radius:var(--r-sm);background:none;color:var(--muted);cursor:pointer}
-.acts button.heart .ic{width:19px;height:19px}
-.acts button.heart:hover{background:var(--surface-2)}
-.acts button.heart[aria-pressed=true]{color:var(--accent);background:var(--accent-soft)}
-.acts button.heart[aria-pressed=true] .ic{fill:currentColor}
+/* heart (DESIGN.md "Personal action"): 30px in the card's top-right corner; outline when off, filled accent when on. Shape and aria-pressed carry the state, not colour alone. */
+li.ev{position:relative}
+li.ev>.body>.kick,li.ev>.body>.l1{padding-right:40px}   /* text never runs under the heart */
+li.ev>button.heart{position:absolute;top:6px;right:8px;display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;padding:0;border:0;border-radius:var(--r-sm);background:none;color:var(--muted);cursor:pointer}
+li.ev>button.heart .ic{width:19px;height:19px}
+li.ev>button.heart:hover{background:var(--surface-2)}
+li.ev>button.heart[aria-pressed=true]{color:var(--accent);background:var(--accent-soft)}
+li.ev>button.heart[aria-pressed=true] .ic{fill:currentColor}
 .hchip[aria-pressed=true]{background:var(--accent);color:var(--accent-ink)}
 li.ev.gone{background:transparent;border-style:dashed;border-color:var(--line-2)}
 .vtxt{color:var(--muted)}
 .gonenote{color:var(--ink-2);font-size:.84rem;font-style:italic}
+.hclear{padding:14px var(--gut) 0;color:var(--muted);font-size:.85rem}
+.hclear .linkbtn{background:none;border:0;padding:8px 10px 8px 0;font:inherit;color:var(--accent);font-weight:600;text-decoration:underline;cursor:pointer}
 .hmsg{color:var(--warn);font-weight:600}
 .hnote{margin-top:6px}
 /* list controls */
@@ -303,6 +307,8 @@ function makeMarks(getStorage,now){
   subscribe:function(f){subs.push(f);return function(){var i=subs.indexOf(f);if(i>=0)subs.splice(i,1)}},
   status:function(){return state},
   reload:function(){load();emit()},
+  /* Remove every heart (the visitor's reset). Returns true when the empty list reached storage. */
+  clear:function(){events={};var ok=persist();emit();return ok},
   /* Drop hearts whose show date is before cutoff (an ISO date: today minus 7 days). Returns how many went. */
   prune:function(cutoff){var n=0;Object.keys(events).forEach(function(k){if(events[k].snap.d<cutoff){delete events[k];n++}});if(n){persist();emit()}return n},
   /* live: {key:{h,v,d}} for shows still listed. Brings snaps up to date (a residency's date moves; a show can be renamed). */
@@ -383,10 +389,18 @@ function heartBtn(e){
   if(Marks.get(e.ek))Marks.set(e.ek,null);
   else Marks.set(e.ek,{snap:{h:e.h,v:e.v,d:e.d}})};
  b._paint=paint;paint();return b}
+function clearBox(){   // the reset: a text button, then an inline "are you sure" (no browser dialog)
+ var box=el("div","hclear"),b=el("button","linkbtn","Clear all hearts");b.type="button";box.appendChild(b);
+ b.onclick=function(){box.textContent="";
+  box.appendChild(el("span",null,"Remove all "+heartKeys().length+" hearts? This can\u2019t be undone. "));
+  var y=el("button","linkbtn","Remove all"),n=el("button","linkbtn","Cancel");y.type=n.type="button";
+  y.onclick=function(){Marks.clear();render();hBtn.focus()};n.onclick=function(){render();hBtn.focus()};
+  box.appendChild(y);box.appendChild(n);n.focus()};
+ return box}
 function syncHearts(){
  Array.prototype.forEach.call(document.querySelectorAll("button.heart"),function(b){if(b._paint)b._paint()});
  var n=heartKeys().length;
- hBtn.textContent="♥ Hearted ("+n+")";hBtn.setAttribute("aria-label","Hearted shows, "+n);
+ hBtn.textContent="Hearted ("+n+")";hBtn.setAttribute("aria-label","Hearted shows, "+n);
  var s=Marks.status(),m="";
  if(s==="full")m="This browser’s storage is full, so your hearts are not being saved. They last until you close this page.";
  else if(s==="unavailable"&&Marks.keys().length)m="This browser is blocking storage, so your hearts are not being saved. They last until you close this page.";
@@ -424,7 +438,7 @@ function goneCard(e){
  k.appendChild(el("span","vtxt",e.v));b.appendChild(k);
  m.appendChild(el("span","gonenote","This show may have changed. It is no longer in the listings: it may have been moved, renamed or canceled. Check with the venue."));
  b.appendChild(m);li.appendChild(b);
- var acts=el("div","acts");acts.appendChild(heartBtn(e));li.appendChild(acts);return li}
+ li.appendChild(heartBtn(e));return li}
 function card(e){
  if(e.gone)return goneCard(e);
  function actLink(cls,label,url,title,svg){var a=el("a",cls);a.appendChild(icon(svg));a.appendChild(el("span","lbl",label));a.href=url;a.target="_blank";a.rel="noopener noreferrer";a.title=title;a.setAttribute("aria-label",label+" (opens in a new tab)");return a}
@@ -455,13 +469,13 @@ function card(e){
  b.appendChild(m);
  if(e.vs)b.appendChild(el("div","vnote","Submitted by a visitor"));   // the only source is a visitor's suggestion, approved by the site owner
  li.appendChild(b);
+ if(e.ek)li.appendChild(heartBtn(e));   // top-right corner (CSS); the icon row keeps only links
  var acts=el("div","acts");
  if(e.k){var ku=safeUrl(e.k);if(ku){acts.appendChild(actLink("tix","Tickets",ku,"Buy tickets (opens the seller’s page)",TIX_SVG))}}
  if(e.sp){var su=safeUrl(e.sp);if(su&&/^https:\/\/open\.spotify\.com\/artist\//.test(su)){acts.appendChild(actLink("spl","Spotify",su,"Listen on Spotify. Matched by name, so it can be a different artist with the same name.",NOTE_SVG))}}
  if(e.bc){var bu=safeUrl(e.bc);if(bu&&/^https:\/\/(?!www\.)[a-z0-9-]+\.bandcamp\.com(\/|$)/i.test(bu)){acts.appendChild(actLink("spl bcl","Bandcamp",bu,"Listen on Bandcamp. The link comes from the artist’s MusicBrainz page, so it can be a different artist with the same name.",NOTE_SVG))}}
  if(e.sc){var cu=safeUrl(e.sc);if(cu&&/^https:\/\/(www\.)?soundcloud\.com\/[A-Za-z0-9_-]+/i.test(cu)){acts.appendChild(actLink("spl scl","SoundCloud",cu,"Listen on SoundCloud. The link comes from the artist’s MusicBrainz page, so it can be a different artist with the same name.",NOTE_SVG))}}
  if(e.yq&&typeof e.yq==="string"){acts.appendChild(actLink("spl ytl","Search YouTube","https:"+"//www.youtube.com/results?search_query="+encodeURIComponent(e.yq),"Opens a YouTube search for this name, not a confirmed artist page. Results can include other acts with the same name.",PLAY_SVG))}
- if(e.ek)acts.appendChild(heartBtn(e));   // last in the row, so the link icons keep their places
  if(acts.firstChild)li.appendChild(acts);
  return li;
 }
@@ -508,6 +522,7 @@ function render(){
  if(!noted)note();
  daysEl.textContent="";
  if(!groups.length&&(S||HV||shown<=STEP))daysEl.appendChild(el("div","empty",HV&&!nHid?"No hearted shows yet. Tap the heart on a show to keep it here.":"No shows match these filters."));else daysEl.appendChild(frag);
+ if(HV&&Marks.keys().length)daysEl.appendChild(clearBox());
  statusEl.textContent="";
  if(HV&&nHid){statusEl.appendChild(document.createTextNode(nHid+" hidden by filters"));
   var cf=el("button","linkbtn","Clear filters");cf.type="button";cf.onclick=function(){document.getElementById("f-clear").onclick();clearSearch()};statusEl.appendChild(cf)}
