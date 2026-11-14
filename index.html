@@ -248,7 +248,7 @@ section.day>ul{padding:4px var(--gut) 0}   /* cards share the search box's edges
 <div class="frow"><div class="flabel">Venue size</div><div class="chips" id="f-size"></div></div>
 <div class="frow"><div class="flabel">Price</div><div class="chips" id="f-price" role="radiogroup" aria-label="Price"></div><div class="pnote" id="pnote"></div></div>
 <div class="frow"><div class="flabel">Age</div><div class="chips" id="f-age"></div><div class="pnote" id="anote"></div></div>
-<div class="frow"><div class="flabel">City</div><select id="f-city" aria-label="City"></select></div>
+<div class="frow"><div class="flabel">City</div><div class="chips" id="f-city"></div></div>
 <div class="frow"><label class="tog"><input type="checkbox" id="f-dj"> Show DJ nights</label><div class="pnote" id="djnote"></div></div>
 <div class="frow"><label class="tog"><input type="checkbox" id="f-res"> Show residencies</label></div>
 <div class="frow"><label class="tog"><input type="checkbox" id="f-new"> New this week only</label></div>
@@ -270,14 +270,15 @@ var SIZE={T1:"Arena",T2:"Large theater",T3:"Mid-size",T4:"Club",T5:"Small room"}
 var KEY="tcmusic.filters.v1";
 var PRICES=[["any","Any"],["free","Free"],["u20","Under $20"],["20-50","$20\u201350"],["50+","$50+"]];
 var AGES=[["all_ages","All ages"],["18+","18+"],["21+","21+"]];   // chips pick shows by their stated age policy (not "can I get in": 18 = All ages + 18+)
-var st={genres:[],tiers:[],city:"",dj:false,res:true,onlyNew:false,venues:[],price:"any",ages:[]};   // dj = show DJ nights (no live performers, any genre; hidden by default), a medium apart from genre; res = residencies (on by default)
+var st={genres:[],tiers:[],cities:[],dj:false,res:true,onlyNew:false,venues:[],price:"any",ages:[]};   // dj = show DJ nights (no live performers, any genre; hidden by default), a medium apart from genre; res = residencies (on by default)
 var q={k:"",label:""}; // artist text filter: never saved
 var WEEKS=D.weeks||12,STEP=D.step||4,shown=STEP; // weeks opened so far: never saved, every visit starts at STEP
 var expanded={};
 try{var raw=localStorage.getItem(KEY);if(raw){var s=JSON.parse(raw);
  if(Array.isArray(s.genres))st.genres=s.genres.filter(function(x){return typeof x==="string"}).map(function(x){return x==="electronic/DJ"?"electronic":x});
  if(Array.isArray(s.tiers))st.tiers=s.tiers.filter(function(x){return SIZE[x]});
- if(typeof s.city==="string")st.city=s.city; st.dj=s.dj===true||s.dj==="show"||s.dj==="only"||s.hidden===true;st.res=s.res!==false;st.onlyNew=s.onlyNew===true;
+ if(Array.isArray(s.cities))st.cities=s.cities.filter(function(x){return typeof x==="string"}).slice(0,50);else if(typeof s.city==="string"&&s.city)st.cities=[s.city];   // older saves held one city
+ st.dj=s.dj===true||s.dj==="show"||s.dj==="only"||s.hidden===true;st.res=s.res!==false;st.onlyNew=s.onlyNew===true;
  if(typeof s.price==="string"&&PRICES.some(function(p){return p[0]===s.price}))st.price=s.price;
  if(Array.isArray(s.ages))st.ages=s.ages.filter(function(x){return AGES.some(function(a){return a[0]===x})});
  if(Array.isArray(s.venues))st.venues=s.venues.filter(function(x){return typeof x==="string"}).slice(0,50);}}catch(e){}
@@ -353,8 +354,8 @@ EV.forEach(function(e){if(e.g!=="unknown"&&!gSeen[e.g]){gSeen[e.g]=1;genres.push
 genres.sort(function(a,b){return a.toLowerCase()<b.toLowerCase()?-1:1});cities.sort();
 function chip(parent,label,on,fn){var b=el("button","chip",label);b.type="button";b.setAttribute("aria-pressed",on?"true":"false");b.onclick=function(){fn();save();syncUI();render()};parent.appendChild(b);return b}
 function toggle(arr,v){var i=arr.indexOf(v);if(i<0)arr.push(v);else arr.splice(i,1)}
-var gBox=document.getElementById("f-genre"),sBox=document.getElementById("f-size"),citySel=document.getElementById("f-city"),djBox=document.getElementById("f-dj"),resBox=document.getElementById("f-res"),newBox=document.getElementById("f-new");
-var gBtn={},sBtn={},pBtn={},fbtn=document.getElementById("fbtn"),fdet=document.getElementById("filters");
+var gBox=document.getElementById("f-genre"),sBox=document.getElementById("f-size"),cBox=document.getElementById("f-city"),djBox=document.getElementById("f-dj"),resBox=document.getElementById("f-res"),newBox=document.getElementById("f-new");
+var gBtn={},sBtn={},cBtn={},pBtn={},fbtn=document.getElementById("fbtn"),fdet=document.getElementById("filters");
 fbtn.onclick=function(){fdet.open=!fdet.open};fdet.addEventListener("toggle",function(){fbtn.setAttribute("aria-expanded",fdet.open?"true":"false")});
 st.genres=st.genres.filter(function(g){return gSeen[g]===1});   // a saved genre that no longer exists would filter everything out with no chip to clear it
 var pBox=document.getElementById("f-price"),noPrice=EV.filter(function(e){return e.pl==null}).length;
@@ -368,18 +369,19 @@ var djN=EV.filter(function(e){return e.dj}).length;
 document.getElementById("djnote").textContent=djN+" DJ nights (no live performers) in any genre, hidden by default. The genre chips are the style of music.";
 djBox.onchange=function(){st.dj=djBox.checked;save();syncUI();render()};
 ["T1","T2","T3","T4","T5"].forEach(function(t){sBtn[t]=chip(sBox,SIZE[t],false,function(){toggle(st.tiers,t)})});
-citySel.appendChild(new Option("All cities",""));cities.forEach(function(c){citySel.appendChild(new Option(c,c))});
-citySel.onchange=function(){st.city=citySel.value;save();syncUI();render()};
+cities.forEach(function(c){cBtn[c]=chip(cBox,c,false,function(){toggle(st.cities,c)})});
+st.cities=st.cities.filter(function(c){return cSeen[c]===1});   // a saved city with no shows left would filter everything out with no chip to clear it
 resBox.onchange=function(){st.res=resBox.checked;save();syncUI();render()};
 newBox.onchange=function(){st.onlyNew=newBox.checked;save();syncUI();render()};
-document.getElementById("f-clear").onclick=function(){st={genres:[],tiers:[],city:"",dj:false,res:true,onlyNew:false,venues:st.venues,price:"any",ages:[]};save();syncUI();render()};
-function active(){return st.genres.length+st.tiers.length+(st.city?1:0)+(st.dj?1:0)+(st.res?0:1)+(st.onlyNew?1:0)+(st.price!=="any"?1:0)+st.ages.length}
+document.getElementById("f-clear").onclick=function(){st={genres:[],tiers:[],cities:[],dj:false,res:true,onlyNew:false,venues:st.venues,price:"any",ages:[]};save();syncUI();render()};
+function active(){return st.genres.length+st.tiers.length+st.cities.length+(st.dj?1:0)+(st.res?0:1)+(st.onlyNew?1:0)+(st.price!=="any"?1:0)+st.ages.length}
 function syncUI(){
  genres.forEach(function(g){gBtn[g].setAttribute("aria-pressed",st.genres.indexOf(g)>=0)});
  Object.keys(sBtn).forEach(function(t){sBtn[t].setAttribute("aria-pressed",st.tiers.indexOf(t)>=0)});
  Object.keys(aBtn).forEach(function(k){aBtn[k].setAttribute("aria-pressed",st.ages.indexOf(k)>=0)});
  Object.keys(pBtn).forEach(function(k){pBtn[k].setAttribute("aria-pressed",st.price===k);pBtn[k].setAttribute("aria-checked",st.price===k)});
- if(cSeen[st.city]!==1)st.city="";citySel.value=st.city;djBox.checked=st.dj;resBox.checked=st.res;newBox.checked=st.onlyNew;
+ Object.keys(cBtn).forEach(function(c){cBtn[c].setAttribute("aria-pressed",st.cities.indexOf(c)>=0)});
+ djBox.checked=st.dj;resBox.checked=st.res;newBox.checked=st.onlyNew;
  var n=active();document.getElementById("fsum").textContent="Options"+(n?" ("+n+(n===1?" filter":" filters")+" on)":"");
  fbtn.textContent="Filters";if(n){var nb=el("span","n",String(n));nb.setAttribute("aria-label",n+(n===1?" filter on":" filters on"));fbtn.appendChild(nb)}
 }
@@ -427,7 +429,7 @@ function matches(e){
  if(st.genres.length&&st.genres.indexOf(e.g)<0)return false;
  if(st.tiers.length&&st.tiers.indexOf(e.z)<0)return false;
  if(st.ages.length&&st.ages.indexOf(e.ag)<0)return false;   // no stated age never passes an age chip
- if(st.city&&e.c!==st.city)return false;
+ if(st.cities.length&&st.cities.indexOf(e.c)<0)return false;
  if(st.onlyNew&&!e.n)return false;
  if(st.price!=="any"){if(e.pl==null)return false;
   if(st.price==="free"?!e.f:st.price==="u20"?!(e.pl<20):st.price==="20-50"?!(e.pl>=20&&e.pl<50):!(e.pl>=50))return false}
