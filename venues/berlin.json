@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,50 +9,6 @@
  "city": "Minneapolis",
  "count": 27,
  "shows": [
-  {
-   "id": "ff6f963cab41",
-   "headliner": "Early Evening Jazz: Jason Fabus Plays & Sings",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "16:30",
-   "venue": "Berlin",
-   "venue_slug": "berlin",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "NO COVER",
-   "is_free": true,
-   "source": "https://www.berlinmpls.com/calendar/jason-fabus-plays-and-sings-november-2026"
-  },
-  {
-   "id": "ceefe9ded294",
-   "headliner": "Alyssa Allgood Quartet",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:30",
-   "venue": "Berlin",
-   "venue_slug": "berlin",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$25",
-   "is_free": false,
-   "source": "https://www.berlinmpls.com/calendar/alyssa-allgood-quartet-november-2026"
-  },
-  {
-   "id": "d39aca50d0df",
-   "headliner": "Late Night Lounge: JEN-E",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "22:30",
-   "venue": "Berlin",
-   "venue_slug": "berlin",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "22:30",
-   "hidden_category": "dj_night",
-   "price": "$5 at the Door",
-   "is_free": false,
-   "source": "https://www.berlinmpls.com/calendar/late-night-lounge-jen-e-november-2026"
-  },
   {
    "id": "95866c665355",
    "headliner": "Early Evening Jazz: Jackson Peters Trio",
@@ -415,6 +371,52 @@
    "price": "$5 at the Door",
    "is_free": false,
    "source": "https://www.berlinmpls.com/calendar/late-night-lounge-dj-maracuya-december-2026"
+  },
+  {
+   "id": "72d675586327",
+   "headliner": "Early Evening Jazz: Adam Harder Nussbaum Trio",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "16:15",
+   "venue": "Berlin",
+   "venue_slug": "berlin",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "NO COVER",
+   "is_free": true,
+   "source": "https://www.berlinmpls.com/calendar/early-evening-jazz-adam-harder-nussbaum-trio-dec-2026"
+  },
+  {
+   "id": "c222dc3dfd0d",
+   "headliner": "Jakob Dreyer Quartet",
+   "openers": [
+    "Sasha Berliner"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Berlin",
+   "venue_slug": "berlin",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$30",
+   "is_free": false,
+   "source": "https://www.berlinmpls.com/calendar/jakob-dreyer-quartet-december-2026"
+  },
+  {
+   "id": "e79a780735bd",
+   "headliner": "Late Night Lounge: Shehrzad",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "22:30",
+   "venue": "Berlin",
+   "venue_slug": "berlin",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "22:30",
+   "hidden_category": "dj_night",
+   "price": "$5 at the Door",
+   "is_free": false,
+   "source": "https://www.berlinmpls.com/calendar/late-night-lounge-shehrzad-dec-2026"
   }
  ]
 }

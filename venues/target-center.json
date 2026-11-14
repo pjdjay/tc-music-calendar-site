@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Target Center",
  "city": "Minneapolis",
- "count": 9,
+ "count": 10,
  "shows": [
   {
    "id": "c4e4824912c1",
@@ -59,7 +59,7 @@
    "headliner": "Garth Brooks",
    "openers": [],
    "date": "2026-12-11",
-   "start_time": "20:00",
+   "start_time": "19:00",
    "venue": "Target Center",
    "venue_slug": "target-center",
    "city": "Minneapolis",
@@ -72,7 +72,7 @@
    "headliner": "Garth Brooks",
    "openers": [],
    "date": "2026-12-12",
-   "start_time": "20:00",
+   "start_time": "19:00",
    "venue": "Target Center",
    "venue_slug": "target-center",
    "city": "Minneapolis",
@@ -121,6 +121,18 @@
    "genre": "unknown",
    "source": "https://www.targetcenter.com/events/detail/harlemglobetrotters27",
    "spotify": "https://open.spotify.com/artist/75Yso5HASCKo7rumWVJOXc"
+  },
+  {
+   "id": "21935f311ab7",
+   "headliner": "Hot Wheels Stunt Show",
+   "openers": [],
+   "date": "2027-01-16",
+   "start_time": null,
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.targetcenter.com/events/detail/hotwheelsstuntshow"
   },
   {
    "id": "d1604e949cf5",

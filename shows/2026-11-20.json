@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-20",
- "count": 39,
+ "count": 43,
  "shows": [
   {
    "id": "ef63568d5d32",
@@ -55,6 +55,41 @@
    "source": "https://www.croonersmn.com/event/tommy-boynton-and-friends-5/"
   },
   {
+   "id": "29e2cf2adeba",
+   "headliner": "Clean Plate Club",
+   "openers": [
+    "Becca Murray",
+    "The Wildflowers",
+    "Auronova"
+   ],
+   "date": "2026-11-20",
+   "start_time": "18:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "18+",
+   "tickets": "https://app.opendate.io/e/clean-plate-club-album-release-w-becca-murray-and-the-wildflowers-and-auronova-november-20-2026-745179?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/clean-plate-club-with-becca-murray-the-wildflowers-and-auronova-november-20-2026-745179"
+  },
+  {
+   "id": "a2bfbcb91ac9",
+   "headliner": "Friday Night Live - FNL",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "18:00",
+   "venue": "Utepils Brewing",
+   "venue_slug": "utepils-brewing",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "some Fridays",
+   "price": "FREE Live Music",
+   "is_free": true,
+   "age": "all_ages",
+   "source": "https://utepilsbrewing.com/events/friday-night-live-fnl/2026-11-20/"
+  },
+  {
    "id": "cea332acca26",
    "headliner": "Origins to Ovation",
    "openers": [],
@@ -78,6 +113,20 @@
    "city": "St. Paul",
    "genre": "country/folk/Americana",
    "source": "https://whitesquirrelbar.com/event/chris-holm/"
+  },
+  {
+   "id": "0ea668345a46",
+   "headliner": "Irish Music Session",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "18:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "hidden_category": "residency",
+   "recurrence": "every Friday",
+   "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-20"
   },
   {
    "id": "cb5a492fab26",
@@ -139,7 +188,7 @@
    "genre": "pop",
    "price": "$41.85",
    "is_free": false,
-   "tickets": "https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks",
+   "tickets": "https://www.ticketmaster.com/giant-rooks-minneapolis-minnesota-11-20-2026/event/060064A6C5D63E6F",
    "source": "https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks",
    "spotify": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
   },
@@ -244,24 +293,6 @@
    "spotify": "https://open.spotify.com/artist/701Fj1kq5QXYOLYaVjKkw4"
   },
   {
-   "id": "29e2cf2adeba",
-   "headliner": "Clean Plate Club",
-   "openers": [
-    "Becca Murray",
-    "The Wildflowers",
-    "Auronova"
-   ],
-   "date": "2026-11-20",
-   "start_time": "19:30",
-   "venue": "Hook and Ladder",
-   "venue_slug": "hook-and-ladder",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "age": "18+",
-   "tickets": "https://app.opendate.io/e/clean-plate-club-album-release-w-becca-murray-and-the-wildflowers-and-auronova-november-20-2026-745179?utm_source=jambase",
-   "source": "https://thehookmpls.com/shows/clean-plate-club-with-becca-murray-the-wildflowers-and-auronova-november-20-2026-745179"
-  },
-  {
    "id": "96cc8d29bd8d",
    "headliner": "Deadsgiving",
    "openers": [
@@ -294,6 +325,22 @@
    "tickets": "https://link.dice.fm/g367463d0ac4?utm_source=jambase",
    "source": "https://dice.fm/event/6a74b687d1348f0001287bb5",
    "spotify": "https://open.spotify.com/artist/1re8x8ym8nfokPKYEW5XTn"
+  },
+  {
+   "id": "9684fce1c023",
+   "headliner": "Funk Friday",
+   "openers": [
+    "ART Dept."
+   ],
+   "date": "2026-11-20",
+   "start_time": "19:30",
+   "venue": "Animales Barbeque",
+   "venue_slug": "animales-barbeque",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Friday",
+   "source": "https://animalesbbq.com/calendar/arts-dept-nov-2026"
   },
   {
    "id": "5ee2186a8a06",
@@ -519,6 +566,19 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "7c44d9d54fe8",
+   "headliner": "DJ Bob",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "21:00",
+   "venue": "Mystic Lake free stages",
+   "venue_slug": "mystic-lake-free-stages",
+   "city": "Prior Lake",
+   "genre": "unknown",
+   "hidden_category": "dj_night",
+   "source": "https://mysticlake.com/shows-and-events/dj-bob-nov20"
   },
   {
    "id": "d1d5dbdc02cb",

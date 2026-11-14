@@ -1,11 +1,7 @@
 # MetroNOME Brewery (St. Paul): upcoming shows
 
-16 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+15 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **BOUNDLESS – Music Across Borders** · 19:00 · classical · [info](https://metronomebrewery.com/live-music/mill-city-string-quartet-presents-boundless-music-across-borders/)
 
 ## Saturday, November 14, 2026
 

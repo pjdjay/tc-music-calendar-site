@@ -1,13 +1,30 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-19",
- "count": 8,
+ "count": 9,
  "shows": [
+  {
+   "id": "05b00bb3f9b2",
+   "headliner": "Emo Night!",
+   "openers": [
+    "Loudernow"
+   ],
+   "date": "2026-12-19",
+   "start_time": "18:30",
+   "venue": "Underground Music Venue",
+   "venue_slug": "underground-music-venue",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$19.62",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6af69aabc4992d00014aa81a",
+   "source": "https://dice.fm/event/6af69aabc4992d00014aa81a"
+  },
   {
    "id": "98112f72b74d",
    "headliner": "Minnesota Orchestra: Handel's Messiah",

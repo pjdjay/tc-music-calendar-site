@@ -1,11 +1,7 @@
 # 331 Club (Minneapolis): upcoming shows
 
-30 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+30 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Stringdingers** · 22:00 · country/folk/Americana · [info](https://www.instagram.com/stringdingers?igsi=MXU4NnZpeWdjOTUxdw==) [spotify](https://open.spotify.com/artist/4mR2QFA4sG7SPsHXIQUVoz)
 
 ## Saturday, November 14, 2026
 
@@ -98,5 +94,9 @@
 ## Thursday, December 10, 2026
 
 - **Dumpster Juice w/ Raspberry Tart, Gills** · 21:30 · unknown · [info](https://www.facebook.com/share/1Kkw9x5Rwt/?mibextid=wwXIfr)
+
+## Friday, December 11, 2026
+
+- **Social Cues** · 22:00 · unknown · [info](https://www.instagram.com/socialcues.music?stkn=MWkwYzU0cHprY2Y5bg==)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

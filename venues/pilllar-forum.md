@@ -1,11 +1,7 @@
 # Pilllar Forum (Minneapolis): upcoming shows
 
-22 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+22 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Punk X 3 X 3** · 19:00 · unknown · Advance $15 Day of Show $17 · [info](https://www.pilllar.com/collections/tickets/products/music-punk-x-3-x-3-11-13-2026)
 
 ## Saturday, November 14, 2026
 
@@ -87,5 +83,9 @@
 
 - **Time Room w/ Rat Tally, Bathtub Cig** · 18:00 · unknown · [info](https://www.songkick.com/concerts/43494930-time-room-at-pilllar-forum-cafe-and-commodities?utm_medium=organic&utm_source=microformat) [spotify](https://open.spotify.com/artist/59l4L9BwsiVjYRmxCHw7Wn)
 - **Rat Tally** · 18:30 · unknown · Advance $10 Day of Show $12 · [info](https://www.pilllar.com/collections/tickets/products/music-rat-tally-12-10-2026) [spotify](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb)
+
+## Friday, December 11, 2026
+
+- **Music Gully Boys12 11 2026** · 20:00 · unknown · Advance $20 Day of Show $25 · [info](https://www.pilllar.com/collections/tickets/products/music-gully-boys12-11-2026)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

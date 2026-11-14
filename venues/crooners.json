@@ -1,60 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Crooners",
  "city": "Fridley",
- "count": 62,
+ "count": 60,
  "shows": [
-  {
-   "id": "ac44d4af8850",
-   "headliner": "Dale Alexander",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "17:00",
-   "venue": "Crooners",
-   "venue_slug": "crooners",
-   "city": "Fridley",
-   "genre": "jazz/blues",
-   "price": "Free",
-   "is_free": true,
-   "tickets": "https://www.eventbrite.com/e/dale-alexander-registration-2004315316065",
-   "source": "https://www.croonersmn.com/event/dale-alexander-13/",
-   "spotify": "https://open.spotify.com/artist/67QKhqtGELAg5IZ6oDopYh"
-  },
-  {
-   "id": "ae955e7ab0e0",
-   "headliner": "RIVER: The Music of Carole King, Joni Mitchell and Carly Simon",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Crooners",
-   "venue_slug": "crooners",
-   "city": "Fridley",
-   "genre": "pop",
-   "price": "$35.00 - $45.00",
-   "is_free": false,
-   "tickets": "https://www.eventbrite.com/e/river-the-music-of-carole-king-joni-mitchell-and-carly-simon-tickets-2001267048615",
-   "source": "https://www.croonersmn.com/event/river-the-music-of-carole-king-joni-mitchell-and-carly-simon-64/"
-  },
-  {
-   "id": "7c9e0c24c801",
-   "headliner": "AKPL- Aby Wolf /Kavyesh Kaviraj /Pete James Johnson /Laurels String Quartet",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Crooners",
-   "venue_slug": "crooners",
-   "city": "Fridley",
-   "genre": "pop",
-   "price": "$30.00 - $40.00",
-   "is_free": false,
-   "tickets": "https://www.eventbrite.com/e/akpl-aby-wolf-kavyesh-kaviraj-pete-james-johnson-laurels-string-quartet-tickets-2002090423351",
-   "source": "https://www.croonersmn.com/event/akpl-aby-wolf-kavyesh-kaviraj-pete-james-johnson-laurels-string-quartet/"
-  },
   {
    "id": "98cc1c20b168",
    "headliner": "Jiselle McCollam & Joe Twohy",
@@ -1014,6 +968,23 @@
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/the-holiday-songbook-tickets-1993943775508",
    "source": "https://www.croonersmn.com/event/the-holiday-songbook-5/"
+  },
+  {
+   "id": "99bd52e53711",
+   "headliner": "Holidays",
+   "openers": [
+    "the Jack Schabert Jazz Orchestra"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "unknown",
+   "price": "$25.00 - $35.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/holidays-with-the-jack-schabert-jazz-orchestra-tickets-1993890385818",
+   "source": "https://www.croonersmn.com/event/holidays-with-the-jack-schabert-jazz-orchestra-2/"
   }
  ]
 }

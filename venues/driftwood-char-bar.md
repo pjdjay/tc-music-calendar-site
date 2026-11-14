@@ -1,11 +1,7 @@
 # Driftwood Char Bar (Minneapolis): upcoming shows
 
-25 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+26 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Mill City Machine** · 19:00 · unknown · [info](https://driftwoodcharbar.com/)
 
 ## Saturday, November 14, 2026
 
@@ -66,5 +62,10 @@
 
 - **Shelly Lynne** · 19:00 · unknown · [info](https://driftwoodcharbar.com/)
 - **Dream of the Wild** · 21:00 · unknown · [info](https://driftwoodcharbar.com/)
+
+## Friday, December 11, 2026
+
+- **Neighbors Again** · 19:00 · unknown · [info](https://driftwoodcharbar.com/)
+- **Noah Schmidt Band** · 21:00 · unknown · [info](https://driftwoodcharbar.com/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

@@ -1,12 +1,12 @@
 # Twin Cities live music calendar
 
-> Weekly-updated list of live music in the seven-county Twin Cities metro: 814 shows at 66 venues, 2026-11-13 to 2027-02-04. Machine-readable copies of https://music.tcshows.org/ . Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.
+> Weekly-updated list of live music in the seven-county Twin Cities metro: 798 shows at 66 venues, 2026-11-14 to 2027-02-05. Machine-readable copies of https://music.tcshows.org/ . Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.
 
 ## Show lists
 
 - [All shows (Markdown)](https://music.tcshows.org/shows.md): every show, grouped by day
 - [All shows (JSON)](https://music.tcshows.org/shows.json): same data as one JSON document
-- [One day, Markdown](https://music.tcshows.org/shows/2026-11-13.md): replace the date with any day in the window; `.json` works too
+- [One day, Markdown](https://music.tcshows.org/shows/2026-11-14.md): replace the date with any day in the window; `.json` works too
 - [Venue list (JSON)](https://music.tcshows.org/venues.json): venue slugs and show counts
 - [One venue, Markdown](https://music.tcshows.org/venues/10k-brewing.md): replace the slug with one from venues.json; `.json` works too
 

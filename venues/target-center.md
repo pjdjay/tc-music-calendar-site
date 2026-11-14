@@ -1,6 +1,6 @@
 # Target Center (Minneapolis): upcoming shows
 
-9 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+10 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Sunday, November 15, 2026
@@ -14,11 +14,11 @@
 
 ## Friday, December 11, 2026
 
-- **Garth Brooks** · 20:00 · country/folk/Americana · [info](https://www.targetcenter.com/events/detail/garthbrooks) [spotify](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7)
+- **Garth Brooks** · 19:00 · country/folk/Americana · [info](https://www.targetcenter.com/events/detail/garthbrooks) [spotify](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7)
 
 ## Saturday, December 12, 2026
 
-- **Garth Brooks** · 20:00 · country/folk/Americana · [tickets](https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg) [info](https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg) [spotify](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7)
+- **Garth Brooks** · 19:00 · country/folk/Americana · [tickets](https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg) [info](https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg) [spotify](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7)
 
 ## Sunday, December 20, 2026
 
@@ -31,6 +31,10 @@
 ## Friday, January 1, 2027
 
 - **Harlem Globetrotters** · 19:00 · unknown · [info](https://www.targetcenter.com/events/detail/harlemglobetrotters27) [spotify](https://open.spotify.com/artist/75Yso5HASCKo7rumWVJOXc)
+
+## Saturday, January 16, 2027
+
+- **Hot Wheels Stunt Show** · time TBA · unknown · [info](https://www.targetcenter.com/events/detail/hotwheelsstuntshow)
 
 ## Saturday, January 30, 2027
 

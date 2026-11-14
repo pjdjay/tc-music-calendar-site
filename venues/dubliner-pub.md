@@ -1,12 +1,7 @@
 # Dubliner Pub (St. Paul): upcoming shows
 
-23 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+22 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Irish Music Session** · 18:00 · Celtic/Irish · every Friday · residency · [info](https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-13)
-- **Northerly Gales** · 21:00 · unknown · [info](https://thedublinerpub.com/show/northerly-gales/?lre_date=2026-11-13) [spotify](https://open.spotify.com/artist/1clNkdGKPKDJXqHMcnKLxO)
 
 ## Saturday, November 14, 2026
 
@@ -33,6 +28,7 @@
 
 ## Friday, November 20, 2026
 
+- **Irish Music Session** · 18:00 · Celtic/Irish · every Friday · residency · [info](https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-20)
 - **Wild Colonial Bhoys** · 21:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/wild-colonial-bhoys/?lre_date=2026-11-20) [spotify](https://open.spotify.com/artist/0aLUSuJgvQUUPKOJb9F4n4)
 
 ## Saturday, November 21, 2026

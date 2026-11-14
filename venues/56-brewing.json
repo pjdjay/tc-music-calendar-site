@@ -1,27 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "56 Brewing",
  "city": "Minneapolis",
- "count": 8,
+ "count": 7,
  "shows": [
-  {
-   "id": "421db7cc8c28",
-   "headliner": "Loondale",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "56 Brewing",
-   "venue_slug": "56-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://56brewing.com/event/live-music-loondale-2/",
-   "spotify": "https://open.spotify.com/artist/7j7yVpBmfAQQd5dQOKR7Ek"
-  },
   {
    "id": "d729bf859bfc",
    "headliner": "Family Rock! Brewery Edition",

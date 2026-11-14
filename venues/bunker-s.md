@@ -1,11 +1,7 @@
 # Bunker's (Minneapolis): upcoming shows
 
-11 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+11 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Belfast Cowboys** · 21:30 · unknown · [info](https://bunkersmusic.com/calendar) [spotify](https://open.spotify.com/artist/08TtJoCSiwqqoX89vz5Wyi)
 
 ## Saturday, November 14, 2026
 
@@ -46,5 +42,9 @@
 ## Saturday, December 5, 2026
 
 - **GB Leighton** · 21:30 · unknown · [info](https://bunkersmusic.com/calendar)
+
+## Friday, December 11, 2026
+
+- **Swag** · 21:30 · unknown · [info](https://bunkersmusic.com/calendar)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

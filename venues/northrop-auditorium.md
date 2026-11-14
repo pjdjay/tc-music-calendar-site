@@ -1,6 +1,6 @@
 # Northrop Auditorium (Minneapolis): upcoming shows
 
-1 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+1 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Tuesday, November 17, 2026

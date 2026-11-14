@@ -1,11 +1,7 @@
 # Cabooze (Minneapolis): upcoming shows
 
-9 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+8 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Peyton Parrish** · 20:00 · country/folk/Americana · [info](https://www.jambase.com/show/peyton-parrish-cabooze-20261113) [spotify](https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc)
 
 ## Saturday, November 14, 2026
 

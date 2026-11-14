@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "The Cedar",
  "city": "Minneapolis",
- "count": 11,
+ "count": 12,
  "shows": [
   {
    "id": "efa94515568d",
@@ -180,6 +180,24 @@
    "doors_time": "19:00",
    "source": "https://www.thecedar.org/events/arlen-with-abby-webster",
    "spotify": "https://open.spotify.com/artist/5O6aSojwSiK1j8hOm6Akph"
+  },
+  {
+   "id": "f4b608572468",
+   "headliner": "Maddie Thies",
+   "openers": [
+    "Squinny",
+    "The Nunnery",
+    "Sachi Keiko"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:30",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "source": "https://www.thecedar.org/events/maddie-thies",
+   "spotify": "https://open.spotify.com/artist/6uFMSAtb6jrFk9n4SkDIPC"
   }
  ]
 }

@@ -1,6 +1,6 @@
 # Fillmore Minneapolis (Minneapolis): upcoming shows
 
-11 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+11 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Wednesday, November 18, 2026
@@ -41,7 +41,7 @@
 
 ## Friday, January 15, 2027
 
-- **Denny Love** · 18:00 · hip-hop/R&B · every Friday · residency · [tickets](https://www.ticketmaster.com/denny-love-show-love-tour-minneapolis-minnesota-01-15-2027/event/060064BDA02687E6) [info](https://www.ticketmaster.com/denny-love-show-love-tour-minneapolis-minnesota-01-15-2027/event/060064BDA02687E6) [spotify](https://open.spotify.com/artist/5jFKNogr2MCla7uSN1GHBa)
+- **Denny Love** · 18:00 · hip-hop/R&B · [tickets](https://www.ticketmaster.com/denny-love-show-love-tour-minneapolis-minnesota-01-15-2027/event/060064BDA02687E6) [info](https://www.ticketmaster.com/denny-love-show-love-tour-minneapolis-minnesota-01-15-2027/event/060064BDA02687E6) [spotify](https://open.spotify.com/artist/5jFKNogr2MCla7uSN1GHBa)
 
 ## Saturday, January 16, 2027
 

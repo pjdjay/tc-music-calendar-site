@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,38 +9,6 @@
  "city": "Minneapolis",
  "count": 24,
  "shows": [
-  {
-   "id": "ef781837e47f",
-   "headliner": "Andra Suchy",
-   "openers": [
-    "The Long Honeymoon",
-    "Mary K",
-    "the Realistix",
-    "Mary K. Stone"
-   ],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Hook and Ladder",
-   "venue_slug": "hook-and-ladder",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "age": "21+",
-   "source": "https://thehookmpls.com/shows/andra-suchy-with-the-long-honeymoon-and-mary-k-and-the-realistix-november-13-2026-734653",
-   "spotify": "https://open.spotify.com/artist/0FfjG8aDWPy9FtMx5tym1E"
-  },
-  {
-   "id": "536c6d7a710c",
-   "headliner": "Rue Nouveau",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Hook and Ladder",
-   "venue_slug": "hook-and-ladder",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "age": "21+",
-   "source": "https://thehookmpls.com/shows/rue-nouveau-november-13-2026-742741"
-  },
   {
    "id": "3db94a99a1a0",
    "headliner": "Amerigrass '26",
@@ -137,7 +105,7 @@
     "Auronova"
    ],
    "date": "2026-11-20",
-   "start_time": "19:30",
+   "start_time": "18:00",
    "venue": "Hook and Ladder",
    "venue_slug": "hook-and-ladder",
    "city": "Minneapolis",
@@ -245,6 +213,19 @@
    "genre": "unknown",
    "age": "21+",
    "source": "https://thehookmpls.com/shows/truthsgiving-a-decolonized-thanksgiving-show-november-27-2026-761555"
+  },
+  {
+   "id": "098c182171e1",
+   "headliner": "Danksgiving",
+   "openers": [],
+   "date": "2026-11-28",
+   "start_time": "12:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/danksgiving-november-28-2026-794279"
   },
   {
    "id": "a57d48de8250",
@@ -381,6 +362,21 @@
    "tickets": "https://app.opendate.io/e/the-steepwater-band-december-10-2026-751118?utm_source=jambase",
    "source": "https://thehookmpls.com/shows/the-steepwater-band-december-10-2026-751118",
    "spotify": "https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J"
+  },
+  {
+   "id": "db1bb945e158",
+   "headliner": "Trailer Trash",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "tickets": "https://app.opendate.io/e/trailer-trash-s-trashy-little-x-mas-friday-december-11-2026-742744?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/trailer-trash-s-trashy-little-x-mas-friday-december-11-2026-742744",
+   "spotify": "https://open.spotify.com/artist/5a1jQOVT5kO1tkCAOY9cmo"
   }
  ]
 }

@@ -1,6 +1,6 @@
 # Music Box Theatre (Minneapolis): upcoming shows
 
-1 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+1 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 28, 2026

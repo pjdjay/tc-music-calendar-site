@@ -1,11 +1,7 @@
 # 56 Brewing (Minneapolis): upcoming shows
 
-8 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+7 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Loondale** · 19:00 · unknown · [info](https://56brewing.com/event/live-music-loondale-2/) [spotify](https://open.spotify.com/artist/7j7yVpBmfAQQd5dQOKR7Ek)
 
 ## Saturday, November 14, 2026
 

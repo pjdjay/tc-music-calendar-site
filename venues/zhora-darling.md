@@ -1,11 +1,7 @@
 # Zhora Darling (Minneapolis): upcoming shows
 
-15 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+15 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Perro Mundo w/ Sociedad Salvaje, Laugh Track, P.O.A.** · 19:30 · unknown · $19.06 · [tickets](https://dice.fm/event/6ae3e9a7f7133b0001ecb2c5) [info](https://dice.fm/event/6ae3e9a7f7133b0001ecb2c5) [spotify](https://open.spotify.com/artist/3jdF7ApF4AUJiEcT4PDUra)
 
 ## Saturday, November 14, 2026
 
@@ -58,6 +54,7 @@
 
 ## Sunday, December 6, 2026
 
+- **BODYCAM (mpls)** · time TBA · unknown · [info](https://www.songkick.com/concerts/43515735-bodycam-mpls-at-zhora-darling?utm_medium=organic&utm_source=microformat)
 - **Sunless w/ Bodycam, Unsouling** · 19:00 · unknown · $19.06 · [tickets](https://dice.fm/event/6af3b4c20c25ed0001460f5d) [info](https://dice.fm/event/6af3b4c20c25ed0001460f5d) [spotify](https://open.spotify.com/artist/1pVBgmx5m44kXvyUizCDTt)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

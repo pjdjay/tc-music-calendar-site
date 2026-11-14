@@ -1,11 +1,7 @@
 # Inbound BrewCo (Minneapolis): upcoming shows
 
-3 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+2 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **The Confused** · 19:00 · unknown · [info](https://inboundbrew.co/taproom-events)
 
 ## Friday, November 27, 2026
 

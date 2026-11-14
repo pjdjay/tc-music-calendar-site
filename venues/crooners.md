@@ -1,13 +1,7 @@
 # Crooners (Fridley): upcoming shows
 
-62 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+60 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Dale Alexander** · 17:00 · jazz/blues · Free · [tickets](https://www.eventbrite.com/e/dale-alexander-registration-2004315316065) [info](https://www.croonersmn.com/event/dale-alexander-13/) [spotify](https://open.spotify.com/artist/67QKhqtGELAg5IZ6oDopYh)
-- **RIVER: The Music of Carole King, Joni Mitchell and Carly Simon** · 19:00 · pop · $35.00 - $45.00 · [tickets](https://www.eventbrite.com/e/river-the-music-of-carole-king-joni-mitchell-and-carly-simon-tickets-2001267048615) [info](https://www.croonersmn.com/event/river-the-music-of-carole-king-joni-mitchell-and-carly-simon-64/)
-- **AKPL- Aby Wolf /Kavyesh Kaviraj /Pete James Johnson /Laurels String Quartet** · 20:00 · pop · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/akpl-aby-wolf-kavyesh-kaviraj-pete-james-johnson-laurels-string-quartet-tickets-2002090423351) [info](https://www.croonersmn.com/event/akpl-aby-wolf-kavyesh-kaviraj-pete-james-johnson-laurels-string-quartet/)
 
 ## Saturday, November 14, 2026
 
@@ -139,5 +133,9 @@
 
 - **A Charlie Brown Christmas w/ the Tanner Taylor Trio** · 18:00 · jazz/blues · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/a-charlie-brown-christmas-with-the-tanner-taylor-trio-tickets-1995861724144) [info](https://www.croonersmn.com/event/a-charlie-brown-christmas-with-the-tanner-taylor-trio-11/)
 - **The Holiday Songbook** · 19:00 · jazz/blues · $40.00 - $50.00 · [tickets](https://www.eventbrite.com/e/the-holiday-songbook-tickets-1993943775508) [info](https://www.croonersmn.com/event/the-holiday-songbook-5/)
+
+## Friday, December 11, 2026
+
+- **Holidays w/ the Jack Schabert Jazz Orchestra** · 19:00 · unknown · $25.00 - $35.00 · [tickets](https://www.eventbrite.com/e/holidays-with-the-jack-schabert-jazz-orchestra-tickets-1993890385818) [info](https://www.croonersmn.com/event/holidays-with-the-jack-schabert-jazz-orchestra-2/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

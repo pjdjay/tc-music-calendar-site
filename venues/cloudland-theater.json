@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,24 +9,6 @@
  "city": "Minneapolis",
  "count": 6,
  "shows": [
-  {
-   "id": "916335c8b078",
-   "headliner": "Tightwire",
-   "openers": [
-    "Canadian Rifle",
-    "Visual Learner"
-   ],
-   "date": "2026-11-13",
-   "start_time": "19:30",
-   "venue": "Cloudland Theater",
-   "venue_slug": "cloudland-theater",
-   "city": "Minneapolis",
-   "genre": "metal/punk",
-   "price": "$9.44",
-   "is_free": false,
-   "source": "https://www.jambase.com/show/tightwire-cloudland-theater-20261113",
-   "spotify": "https://open.spotify.com/artist/1wcg79njXMG7Yn8nXYqP8K"
-  },
   {
    "id": "52ebdb6e3bdf",
    "headliner": "The 241's",
@@ -42,7 +24,7 @@
    "venue_slug": "cloudland-theater",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "price": "$12",
+   "price": "$15",
    "is_free": false,
    "tickets": "https://dice.fm/event/6ac7c4b3399cf100018b6a45",
    "source": "https://dice.fm/event/6ac7c4b3399cf100018b6a45",
@@ -122,6 +104,25 @@
    "tickets": "https://dice.fm/event/6abd21ad6904e2000120781a",
    "source": "https://dice.fm/event/6abd21ad6904e2000120781a",
    "spotify": "https://open.spotify.com/artist/05C4NTbWKEoEQs3VchkSlL"
+  },
+  {
+   "id": "d22a3a546e66",
+   "headliner": "Sophie Hiroko",
+   "openers": [
+    "GR3G",
+    "Willem Dafoe Fan Club"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:30",
+   "venue": "Cloudland Theater",
+   "venue_slug": "cloudland-theater",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$12",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6a9f4df19c734500015b50d8",
+   "source": "https://dice.fm/event/6a9f4df19c734500015b50d8",
+   "spotify": "https://open.spotify.com/artist/1oaS0HlgrPV67WVH7FN8BR"
   }
  ]
 }

@@ -1,28 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Orchestra Hall",
  "city": "Minneapolis",
- "count": 27,
+ "count": 26,
  "shows": [
-  {
-   "id": "0d76a40bd195",
-   "headliner": "Minnesota Orchestra: Nordic Soundscapes Festival: Vänskä, Chen and Nielsen",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Orchestra Hall",
-   "venue_slug": "orchestra-hall",
-   "city": "Minneapolis",
-   "genre": "classical",
-   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpbO",
-   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpbO",
-   "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
-  },
   {
    "id": "9d780f681ca6",
    "headliner": "Minnesota Orchestra: Nordic Soundscapes Festival: Vänskä, Chen and Nielsen",

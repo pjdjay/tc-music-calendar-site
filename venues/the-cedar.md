@@ -1,6 +1,6 @@
 # The Cedar (Minneapolis): upcoming shows
 
-11 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+12 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
@@ -46,5 +46,9 @@
 ## Saturday, December 5, 2026
 
 - **Arlen w/ Abby Webster** · 20:00 · unknown · [info](https://www.thecedar.org/events/arlen-with-abby-webster) [spotify](https://open.spotify.com/artist/5O6aSojwSiK1j8hOm6Akph)
+
+## Friday, December 11, 2026
+
+- **Maddie Thies w/ Squinny, The Nunnery, Sachi Keiko** · 19:30 · unknown · [info](https://www.thecedar.org/events/maddie-thies) [spotify](https://open.spotify.com/artist/6uFMSAtb6jrFk9n4SkDIPC)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

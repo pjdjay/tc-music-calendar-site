@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -149,7 +149,10 @@
   {
    "id": "c5079cb2afb8",
    "headliner": "Sylvia May & The Maydays",
-   "openers": [],
+   "openers": [
+    "SYFN",
+    "NONA"
+   ],
    "date": "2026-11-23",
    "start_time": "21:00",
    "venue": "White Squirrel",

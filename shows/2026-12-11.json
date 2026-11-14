@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-11",
- "count": 9,
+ "count": 33,
  "shows": [
   {
    "id": "6d7ea767e152",
@@ -19,6 +19,20 @@
    "city": "St. Paul",
    "genre": "classical",
    "source": "https://ordway.org/events/bachs-brandenburg/"
+  },
+  {
+   "id": "72d675586327",
+   "headliner": "Early Evening Jazz: Adam Harder Nussbaum Trio",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "16:15",
+   "venue": "Berlin",
+   "venue_slug": "berlin",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "NO COVER",
+   "is_free": true,
+   "source": "https://www.berlinmpls.com/calendar/early-evening-jazz-adam-harder-nussbaum-trio-dec-2026"
   },
   {
    "id": "a1105fabe13e",
@@ -36,6 +50,31 @@
    "source": "https://events.amsterdambarandhall.com/event/impaler-presents-merry-krampus-2026/amsterdam-bar-hall/saint-paul-minnesota/"
   },
   {
+   "id": "a5b9927ff899",
+   "headliner": "Harmony Arcade",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/harmony-arcade/"
+  },
+  {
+   "id": "471d8e305c24",
+   "headliner": "Miners and Gardeners",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "18:00",
+   "venue": "Ginkgo",
+   "venue_slug": "ginkgo",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://ginkgocoffee.com/event/miners-and-gardeners/",
+   "spotify": "https://open.spotify.com/artist/62HcBOzvFNSNgRj8lSJaih"
+  },
+  {
    "id": "0c0980478b10",
    "headliner": "Ditch Pigeon",
    "openers": [],
@@ -51,6 +90,19 @@
    "source": "https://www.jambase.com/show/ditch-pigeon-underground-music-venue-cafe-20261211"
   },
   {
+   "id": "07a1b04bde71",
+   "headliner": "Garth Brooks",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.targetcenter.com/events/detail/garthbrooks",
+   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+  },
+  {
    "id": "4ee847c1608d",
    "headliner": "Minnesota Orchestra: Home Alone in Concert with the Minnesota Orchestra",
    "openers": [],
@@ -64,17 +116,155 @@
    "source": "https://www.ticketmaster.com/event/Z7r9jZ1A70bO-"
   },
   {
-   "id": "07a1b04bde71",
-   "headliner": "Garth Brooks",
+   "id": "30e40982513c",
+   "headliner": "Celtic Holiday Hooley",
    "openers": [],
    "date": "2026-12-11",
-   "start_time": "20:00",
-   "venue": "Target Center",
-   "venue_slug": "target-center",
+   "start_time": "19:00",
+   "venue": "Celtic Junction",
+   "venue_slug": "celtic-junction",
+   "city": "St. Paul",
+   "genre": "electronic",
+   "price": "Free – $30.00",
+   "is_free": false,
+   "source": "https://celticjunction.org/events/chh-2026-1/2026-12-11-1900/"
+  },
+  {
+   "id": "99bd52e53711",
+   "headliner": "Holidays",
+   "openers": [
+    "the Jack Schabert Jazz Orchestra"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "unknown",
+   "price": "$25.00 - $35.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/holidays-with-the-jack-schabert-jazz-orchestra-tickets-1993890385818",
+   "source": "https://www.croonersmn.com/event/holidays-with-the-jack-schabert-jazz-orchestra-2/"
+  },
+  {
+   "id": "b609ef36f4b5",
+   "headliner": "Karrin Allyson",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "source": "https://www.targetcenter.com/events/detail/garthbrooks",
-   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+   "genre": "jazz/blues",
+   "price": "$41.95+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/karrin-allyson-yuletide-hideaway-dec11-2026/"
+  },
+  {
+   "id": "db1bb945e158",
+   "headliner": "Trailer Trash",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "tickets": "https://app.opendate.io/e/trailer-trash-s-trashy-little-x-mas-friday-december-11-2026-742744?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/trailer-trash-s-trashy-little-x-mas-friday-december-11-2026-742744",
+   "spotify": "https://open.spotify.com/artist/5a1jQOVT5kO1tkCAOY9cmo"
+  },
+  {
+   "id": "c222dc3dfd0d",
+   "headliner": "Jakob Dreyer Quartet",
+   "openers": [
+    "Sasha Berliner"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Berlin",
+   "venue_slug": "berlin",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$30",
+   "is_free": false,
+   "source": "https://www.berlinmpls.com/calendar/jakob-dreyer-quartet-december-2026"
+  },
+  {
+   "id": "cabfd804a36e",
+   "headliner": "Neighbors Again",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "0639d576d16e",
+   "headliner": "🎶 Live Music Friday: Aaron Blazich at Troubadour 🎶",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://troubadourwinebar.com/events"
+  },
+  {
+   "id": "f4b608572468",
+   "headliner": "Maddie Thies",
+   "openers": [
+    "Squinny",
+    "The Nunnery",
+    "Sachi Keiko"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:30",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "source": "https://www.thecedar.org/events/maddie-thies",
+   "spotify": "https://open.spotify.com/artist/6uFMSAtb6jrFk9n4SkDIPC"
+  },
+  {
+   "id": "d22a3a546e66",
+   "headliner": "Sophie Hiroko",
+   "openers": [
+    "GR3G",
+    "Willem Dafoe Fan Club"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:30",
+   "venue": "Cloudland Theater",
+   "venue_slug": "cloudland-theater",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$12",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6a9f4df19c734500015b50d8",
+   "source": "https://dice.fm/event/6a9f4df19c734500015b50d8",
+   "spotify": "https://open.spotify.com/artist/1oaS0HlgrPV67WVH7FN8BR"
+  },
+  {
+   "id": "e8a3afc69885",
+   "headliner": "Crash Crouse Christmas Party!",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:30",
+   "venue": "Excelsior Brewing",
+   "venue_slug": "excelsior-brewing",
+   "city": "Excelsior",
+   "genre": "unknown",
+   "price": "$5",
+   "is_free": false,
+   "source": "https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events"
   },
   {
    "id": "90ea71b9dff8",
@@ -90,6 +280,74 @@
    "tickets": "https://www.ticketmaster.com/house-of-heavy-minneapolis-minnesota-12-11-2026/event/06006545EEB717BA",
    "source": "https://www.livenation.com/event/vv1AkZk4AGkdmcsrB/house-of-heavy",
    "spotify": "https://open.spotify.com/artist/2rhAt6ujpEoKucvM3CWxOZ"
+  },
+  {
+   "id": "8560fe43e9a8",
+   "headliner": "Late Night Thoughts",
+   "openers": [
+    "Elias Hix"
+   ],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1580323/late-night-thoughts-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-late-night-thoughts/"
+  },
+  {
+   "id": "1dd6392b01a7",
+   "headliner": "Temples",
+   "openers": [
+    "GIFT",
+    "DJ Jake Rudh"
+   ],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1405649/temples-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-12-temples/",
+   "spotify": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+  },
+  {
+   "id": "3105d85a5390",
+   "headliner": "The Seasons Show",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "price": "$15 adv / $22 door",
+   "is_free": false,
+   "age": "21+",
+   "tickets": "https://tix.gobo.show/events/event/42gKPBbQOFaWYBlqUBCh/dates/YseogTXYWNVbrkqsBwyJ?utm_source=icehousempls.com&utm_medium=website&utm_campaign=kion-rose-20261211",
+   "source": "https://www.icehousempls.com/shows/kion-rose-presents-the-seasons-show/"
+  },
+  {
+   "id": "481b1cca3879",
+   "headliner": "Music Gully Boys12 11 2026",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "Pilllar Forum",
+   "venue_slug": "pilllar-forum",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "price": "Advance $20 Day of Show $25",
+   "is_free": false,
+   "source": "https://www.pilllar.com/collections/tickets/products/music-gully-boys12-11-2026"
   },
   {
    "id": "0fa714ca38fd",
@@ -119,6 +377,106 @@
    "genre": "electronic",
    "source": "https://www.songkick.com/concerts/43331037-tsu-nami-at-loft-at-skyway-theatre?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+  },
+  {
+   "id": "7e0a76642023",
+   "headliner": "Noah Schmidt Band",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "21:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "b4ffdb142861",
+   "headliner": "The Ike Reilly Impersonation",
+   "openers": [
+    "Ben Vogel",
+    "the Migration",
+    "Califeia Cowboyz"
+   ],
+   "date": "2026-12-11",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-12",
+   "source": "https://whitesquirrelbar.com/event/the-ike-reilly-impersonation-w-ben-vogel-the-migration-califeia-cowboyz/"
+  },
+  {
+   "id": "481a3c5fef9f",
+   "headliner": "Swag",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "a17bf642fdf1",
+   "headliner": "HEYZ",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "22:00",
+   "venue": "Green Room",
+   "venue_slug": "green-room",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "22:00",
+   "age": "18+",
+   "tickets": "https://simshows.com/events/heyzsomethingdifferent/",
+   "source": "https://www.greenroommn.com/events#/events/194563",
+   "spotify": "https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh"
+  },
+  {
+   "id": "ccf32cdfca32",
+   "headliner": "Vampiros",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "22:00",
+   "venue": "Uptown VFW",
+   "venue_slug": "uptown-vfw",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "22:00",
+   "tickets": "https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true",
+   "source": "https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true",
+   "spotify": "https://open.spotify.com/artist/3ollyUMlBmeookjESaJu5Z"
+  },
+  {
+   "id": "1ad1fa3367a2",
+   "headliner": "Social Cues",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "22:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/socialcues.music?stkn=MWkwYzU0cHprY2Y5bg=="
+  },
+  {
+   "id": "e79a780735bd",
+   "headliner": "Late Night Lounge: Shehrzad",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "22:30",
+   "venue": "Berlin",
+   "venue_slug": "berlin",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "22:30",
+   "hidden_category": "dj_night",
+   "price": "$5 at the Door",
+   "is_free": false,
+   "source": "https://www.berlinmpls.com/calendar/late-night-lounge-shehrzad-dec-2026"
   },
   {
    "id": "7acade8b7541",

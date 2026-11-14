@@ -1,11 +1,7 @@
 # Amsterdam Bar & Hall (St. Paul): upcoming shows
 
-22 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+21 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Improvement Movement w/ Jalen Reyes** · 20:00 · rock/indie · 18+ · [tickets](https://www.axs.com/events/1518068/improvement-movement-tickets?skin=firstavenue) [info](https://events.amsterdambarandhall.com/event/improvement-movement-w-jalen-reyes/amsterdam-bar-hall/saint-paul-minnesota/) [spotify](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ)
 
 ## Saturday, November 14, 2026
 

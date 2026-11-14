@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,22 +9,6 @@
  "city": "Minneapolis",
  "count": 5,
  "shows": [
-  {
-   "id": "9684fce1c023",
-   "headliner": "Funk Friday",
-   "openers": [
-    "Big Fat Money"
-   ],
-   "date": "2026-11-13",
-   "start_time": "19:30",
-   "venue": "Animales Barbeque",
-   "venue_slug": "animales-barbeque",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Friday",
-   "source": "https://animalesbbq.com/calendar/funk-friday-big-fat-money-november-2026"
-  },
   {
    "id": "01fd3d5d43d2",
    "headliner": "Drew Peterson",
@@ -36,6 +20,22 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "source": "https://animalesbbq.com/calendar/drew-peterson-november-2026"
+  },
+  {
+   "id": "9684fce1c023",
+   "headliner": "Funk Friday",
+   "openers": [
+    "ART Dept."
+   ],
+   "date": "2026-11-20",
+   "start_time": "19:30",
+   "venue": "Animales Barbeque",
+   "venue_slug": "animales-barbeque",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Friday",
+   "source": "https://animalesbbq.com/calendar/arts-dept-nov-2026"
   },
   {
    "id": "6878eaa858b7",

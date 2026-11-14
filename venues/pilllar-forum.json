@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,21 +9,6 @@
  "city": "Minneapolis",
  "count": 22,
  "shows": [
-  {
-   "id": "7c82cdcdc821",
-   "headliner": "Punk X 3 X 3",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Pilllar Forum",
-   "venue_slug": "pilllar-forum",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "18:30",
-   "price": "Advance $15 Day of Show $17",
-   "is_free": false,
-   "source": "https://www.pilllar.com/collections/tickets/products/music-punk-x-3-x-3-11-13-2026"
-  },
   {
    "id": "57ff9a86bad5",
    "headliner": "Disaster Kid",
@@ -354,6 +339,21 @@
    "is_free": false,
    "source": "https://www.pilllar.com/collections/tickets/products/music-rat-tally-12-10-2026",
    "spotify": "https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb"
+  },
+  {
+   "id": "481b1cca3879",
+   "headliner": "Music Gully Boys12 11 2026",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "Pilllar Forum",
+   "venue_slug": "pilllar-forum",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "price": "Advance $20 Day of Show $25",
+   "is_free": false,
+   "source": "https://www.pilllar.com/collections/tickets/products/music-gully-boys12-11-2026"
   }
  ]
 }

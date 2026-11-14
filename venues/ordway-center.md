@@ -1,11 +1,7 @@
 # Ordway Center (St. Paul): upcoming shows
 
-8 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+7 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Zachary Cohen Premieres Deak’s Bass Concerto** · 11:00 · classical · [info](https://ordway.org/events/zachary-cohen-bass/)
 
 ## Sunday, November 15, 2026
 

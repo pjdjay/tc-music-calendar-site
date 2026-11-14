@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Underground Music Venue",
  "city": "Minneapolis",
- "count": 13,
+ "count": 15,
  "shows": [
   {
    "id": "5bda49d355b4",
@@ -24,7 +24,7 @@
    "venue_slug": "underground-music-venue",
    "city": "Minneapolis",
    "genre": "rock/indie",
-   "price": "$19.62",
+   "price": "$31.73",
    "is_free": false,
    "tickets": "https://link.dice.fm/Kf41d5286cff?utm_source=jambase",
    "source": "https://dice.fm/event/6aadbc97cef0bb00016257e2",
@@ -205,6 +205,38 @@
    "tickets": "https://link.dice.fm/xd81001a0cb4?utm_source=jambase",
    "source": "https://www.jambase.com/show/north-by-north-underground-music-venue-cafe-20261212",
    "spotify": "https://open.spotify.com/artist/5IoXcA5DIDSG0QlNNoqQdZ"
+  },
+  {
+   "id": "05b00bb3f9b2",
+   "headliner": "Emo Night!",
+   "openers": [
+    "Loudernow"
+   ],
+   "date": "2026-12-19",
+   "start_time": "18:30",
+   "venue": "Underground Music Venue",
+   "venue_slug": "underground-music-venue",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$19.62",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6af69aabc4992d00014aa81a",
+   "source": "https://dice.fm/event/6af69aabc4992d00014aa81a"
+  },
+  {
+   "id": "ceaece66f316",
+   "headliner": "millennial falcon",
+   "openers": [
+    "The Over Unders"
+   ],
+   "date": "2027-01-08",
+   "start_time": "18:30",
+   "venue": "Underground Music Venue",
+   "venue_slug": "underground-music-venue",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43516581-millennial-falcon-at-underground-music-venue-cafe?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/2mOrgCck9vhUuwvgGWT3VN"
   },
   {
    "id": "802a9f68fac6",

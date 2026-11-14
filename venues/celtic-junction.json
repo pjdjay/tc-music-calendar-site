@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Celtic Junction",
  "city": "St. Paul",
- "count": 6,
+ "count": 7,
  "shows": [
   {
    "id": "054b90cc2ced",
@@ -92,6 +92,20 @@
    "price": "$25.00 – $30.00",
    "is_free": false,
    "source": "https://celticjunction.org/events/spiked-2026-1/2026-11-30-1900/"
+  },
+  {
+   "id": "30e40982513c",
+   "headliner": "Celtic Holiday Hooley",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Celtic Junction",
+   "venue_slug": "celtic-junction",
+   "city": "St. Paul",
+   "genre": "electronic",
+   "price": "Free – $30.00",
+   "is_free": false,
+   "source": "https://celticjunction.org/events/chh-2026-1/2026-12-11-1900/"
   }
  ]
 }

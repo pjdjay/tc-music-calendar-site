@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,26 +9,6 @@
  "city": "Minneapolis",
  "count": 15,
  "shows": [
-  {
-   "id": "cbb882f28023",
-   "headliner": "Perro Mundo",
-   "openers": [
-    "Sociedad Salvaje",
-    "Laugh Track",
-    "P.O.A."
-   ],
-   "date": "2026-11-13",
-   "start_time": "19:30",
-   "venue": "Zhora Darling",
-   "venue_slug": "zhora-darling",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "price": "$19.06",
-   "is_free": false,
-   "tickets": "https://dice.fm/event/6ae3e9a7f7133b0001ecb2c5",
-   "source": "https://dice.fm/event/6ae3e9a7f7133b0001ecb2c5",
-   "spotify": "https://open.spotify.com/artist/3jdF7ApF4AUJiEcT4PDUra"
-  },
   {
    "id": "cc8f9a562a64",
    "headliner": "Supportive Parents",
@@ -275,6 +255,18 @@
    "is_free": false,
    "tickets": "https://link.dice.fm/S74a8263bf83?utm_source=jambase",
    "source": "https://dice.fm/event/6ad02e2df76aac00011e9e9a"
+  },
+  {
+   "id": "29f9b33178c3",
+   "headliner": "BODYCAM (mpls)",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": null,
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43515735-bodycam-mpls-at-zhora-darling?utm_medium=organic&utm_source=microformat"
   },
   {
    "id": "f61f368a4ff8",

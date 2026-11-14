@@ -1,30 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Mystic Lake Showroom",
  "city": "Prior Lake",
- "count": 11,
+ "count": 10,
  "shows": [
-  {
-   "id": "f658cb644f0d",
-   "headliner": "Josh Turner",
-   "openers": [
-    "Will Jones"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Mystic Lake Showroom",
-   "venue_slug": "mystic-lake-showroom",
-   "city": "Prior Lake",
-   "genre": "country/folk/Americana",
-   "tickets": "https://www.ticketmaster.com/event/060064FEDD109E60?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_JOSHTURNERFY26",
-   "source": "https://mysticlake.com/shows-and-events/josh-turner",
-   "spotify": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-  },
   {
    "id": "b7ce3d13bbbd",
    "headliner": "Alter Bridge",

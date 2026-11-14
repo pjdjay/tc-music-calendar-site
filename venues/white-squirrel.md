@@ -1,12 +1,7 @@
 # White Squirrel (St. Paul): upcoming shows
 
-54 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+55 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Chris Davies & the Afterparty** · 18:00 · country/folk/Americana · [info](https://whitesquirrelbar.com/event/chris-davies-the-afterparty/)
-- **Dead on Board** · 21:00 · unknown · every other Friday · residency · [info](https://whitesquirrelbar.com/event/dead-on-board-2/)
 
 ## Saturday, November 14, 2026
 
@@ -57,7 +52,7 @@
 ## Monday, November 23, 2026
 
 - **The Dans** · 18:00 · rock/indie · [info](https://whitesquirrelbar.com/event/the-dans-3/)
-- **Sylvia May & The Maydays** · 21:00 · rock/indie · [info](https://whitesquirrelbar.com/event/sylvia-may-the-maydays/) [spotify](https://open.spotify.com/artist/6wj4vXVRMMt024FeVx0U08)
+- **Sylvia May & The Maydays w/ SYFN, NONA** · 21:00 · rock/indie · [info](https://whitesquirrelbar.com/event/sylvia-may-the-maydays/) [spotify](https://open.spotify.com/artist/6wj4vXVRMMt024FeVx0U08)
 
 ## Tuesday, November 24, 2026
 
@@ -71,6 +66,7 @@
 ## Friday, November 27, 2026
 
 - **The Mary Cutrufello Band** · 18:00 · country/folk/Americana · [info](https://whitesquirrelbar.com/event/the-mary-cutrufello-band-3/)
+- **Dead On Board w/ Maggy, The Skanks, Muffstache** · 21:00 · unknown · [info](https://whitesquirrelbar.com/event/dead-on-board/)
 
 ## Saturday, November 28, 2026
 
@@ -137,5 +133,10 @@
 
 - **Fuzzy Math** · 18:00 · unknown · [info](https://whitesquirrelbar.com/event/fuzzy-math-2/)
 - **Seculants w/ Makeready, Matt Johnson** · 21:00 · unknown · [info](https://whitesquirrelbar.com/event/seculants-makeready-and-matt-johnson/)
+
+## Friday, December 11, 2026
+
+- **Harmony Arcade** · 18:00 · unknown · [info](https://whitesquirrelbar.com/event/harmony-arcade/)
+- **The Ike Reilly Impersonation w/ Ben Vogel, the Migration, Califeia Cowboyz** · 21:00 · unknown · [info](https://whitesquirrelbar.com/event/the-ike-reilly-impersonation-w-ben-vogel-the-migration-califeia-cowboyz/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

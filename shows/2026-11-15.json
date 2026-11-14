@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -425,7 +425,11 @@
   {
    "id": "1f66e5a25930",
    "headliner": "Hurricane Wisdom",
-   "openers": [],
+   "openers": [
+    "DJ Hitman",
+    "Quantrell",
+    "Sqweez"
+   ],
    "date": "2026-11-15",
    "start_time": "19:30",
    "venue": "First Avenue",

@@ -1,27 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Cabooze",
  "city": "Minneapolis",
- "count": 9,
+ "count": 8,
  "shows": [
-  {
-   "id": "b9980518fdfd",
-   "headliner": "Peyton Parrish",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Cabooze",
-   "venue_slug": "cabooze",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "source": "https://www.jambase.com/show/peyton-parrish-cabooze-20261113",
-   "spotify": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
-  },
   {
    "id": "78f8e120646b",
    "headliner": "42DUGG",

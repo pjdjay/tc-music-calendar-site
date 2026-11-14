@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,19 +9,6 @@
  "city": "Minneapolis",
  "count": 30,
  "shows": [
-  {
-   "id": "e12d14d0644f",
-   "headliner": "Stringdingers",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "22:00",
-   "venue": "331 Club",
-   "venue_slug": "331-club",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "source": "https://www.instagram.com/stringdingers?igsi=MXU4NnZpeWdjOTUxdw==",
-   "spotify": "https://open.spotify.com/artist/4mR2QFA4sG7SPsHXIQUVoz"
-  },
   {
    "id": "24e49154e7b0",
    "headliner": "Echo Signal",
@@ -442,6 +429,18 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "source": "https://www.facebook.com/share/1Kkw9x5Rwt/?mibextid=wwXIfr"
+  },
+  {
+   "id": "1ad1fa3367a2",
+   "headliner": "Social Cues",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "22:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/socialcues.music?stkn=MWkwYzU0cHprY2Y5bg=="
   }
  ]
 }

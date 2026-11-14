@@ -1,12 +1,7 @@
 # Skyway Theatre (Minneapolis): upcoming shows
 
-8 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+6 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Live & Loud** · 19:00 · unknown · [tickets](https://events.leapevents.com/event/live-loud-studio-b-week-5) [info](https://skywaytheatre.com/event/live-loud-2/)
-- **Grabbitz** · 21:00 · electronic · [tickets](https://events.leapevents.com/event/grabbitz-11-13-26) [info](https://skywaytheatre.com/event/grabbitz/) [spotify](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45)
 
 ## Saturday, November 14, 2026
 

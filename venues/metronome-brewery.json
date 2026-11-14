@@ -1,26 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "MetroNOME Brewery",
  "city": "St. Paul",
- "count": 16,
+ "count": 15,
  "shows": [
-  {
-   "id": "e765871aa848",
-   "headliner": "BOUNDLESS – Music Across Borders",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "MetroNOME Brewery",
-   "venue_slug": "metronome-brewery",
-   "city": "St. Paul",
-   "genre": "classical",
-   "source": "https://metronomebrewery.com/live-music/mill-city-string-quartet-presents-boundless-music-across-borders/"
-  },
   {
    "id": "047a41833fc3",
    "headliner": "Jackson Churchill",

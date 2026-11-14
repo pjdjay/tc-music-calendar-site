@@ -1,11 +1,7 @@
 # Troubadour (Minneapolis): upcoming shows
 
-5 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+5 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Victoria Temiz & Chad Hamblin** · 20:00 · unknown · [info](https://troubadourwinebar.com/events)
 
 ## Saturday, November 14, 2026
 
@@ -22,5 +18,9 @@
 ## Tuesday, November 24, 2026
 
 - **Tuesday Nights w/ Steven Stoehr** · 19:00 · unknown · every Tuesday · residency · [info](https://troubadourwinebar.com/events) [spotify](https://open.spotify.com/artist/0rjG5Um5dZLaDogS8VWp9G)
+
+## Friday, December 11, 2026
+
+- **🎶 Live Music Friday: Aaron Blazich at Troubadour 🎶** · 19:00 · unknown · [info](https://troubadourwinebar.com/events)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

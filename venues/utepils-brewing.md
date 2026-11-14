@@ -1,12 +1,7 @@
 # Utepils Brewing (Minneapolis): upcoming shows
 
-9 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+8 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Bad Rooster** · 16:00 · unknown · [info](https://utepilsbrewing.com/events/bad-rooster-2/2026-11-13/) [spotify](https://open.spotify.com/artist/1qP4mDzdZZVhp3Zqq7BclU)
-- **Friday Night Live - FNL** · 18:00 · unknown · FREE Live Music · all ages · every Friday · residency · [info](https://utepilsbrewing.com/events/friday-night-live-fnl/2026-11-13/)
 
 ## Saturday, November 14, 2026
 
@@ -16,6 +11,10 @@
 ## Tuesday, November 17, 2026
 
 - **Young Man MSP** · 16:00 · rock/indie · [info](https://utepilsbrewing.com/events/young-man-msp/2026-11-17/)
+
+## Friday, November 20, 2026
+
+- **Friday Night Live - FNL** · 18:00 · unknown · FREE Live Music · all ages · some Fridays · residency · [info](https://utepilsbrewing.com/events/friday-night-live-fnl/2026-11-20/)
 
 ## Sunday, November 29, 2026
 

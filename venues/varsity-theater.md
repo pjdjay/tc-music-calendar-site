@@ -1,11 +1,7 @@
 # Varsity Theater (Minneapolis): upcoming shows
 
-22 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+22 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Boots 'N Beats** · 20:00 · country/folk/Americana · [tickets](https://www.ticketmaster.com/boots-n-beats-a-night-of-minneapolis-minnesota-11-13-2026/event/0600653983A06D09) [info](https://www.livenation.com/event/vv1kbZ_KJdG7IkVa/boots-n-beats-a-night-of-country-edm)
 
 ## Saturday, November 14, 2026
 
@@ -22,7 +18,7 @@
 
 ## Friday, November 20, 2026
 
-- **Giant Rooks w/ Gatlin** · 19:00 · pop · $41.85 · [tickets](https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks) [info](https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks) [spotify](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb)
+- **Giant Rooks w/ Gatlin** · 19:00 · pop · $41.85 · [tickets](https://www.ticketmaster.com/giant-rooks-minneapolis-minnesota-11-20-2026/event/060064A6C5D63E6F) [info](https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks) [spotify](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb)
 
 ## Saturday, November 21, 2026
 
@@ -84,5 +80,9 @@
 ## Thursday, February 4, 2027
 
 - **Effin w/ Nikita, the Wicked, AYCH** · 20:00 · electronic · $35.15 · [tickets](https://www.livenation.com/event/vv17bZ_fGkVb8lrD/effin-heartbeats-tour) [info](https://www.livenation.com/event/vv17bZ_fGkVb8lrD/effin-heartbeats-tour) [spotify](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH)
+
+## Friday, February 5, 2027
+
+- **Corey Kent w/ Tyler Nance** · 19:00 · country/folk/Americana · $33.15 · [tickets](https://www.livenation.com/event/vv1AkZkfNGkdwKd1p/corey-kent-s-heartland-rock-and-roll-tour-2027) [info](https://www.livenation.com/event/vv1AkZkfNGkdwKd1p/corey-kent-s-heartland-rock-and-roll-tour-2027) [spotify](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

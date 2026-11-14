@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,24 +9,6 @@
  "city": "St. Paul",
  "count": 17,
  "shows": [
-  {
-   "id": "2456252ae523",
-   "headliner": "The Suburbs",
-   "openers": [
-    "The Rodents"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Turf Club",
-   "venue_slug": "turf-club",
-   "city": "St. Paul",
-   "genre": "rock/indie",
-   "doors_time": "19:00",
-   "age": "21+",
-   "tickets": "https://www.axs.com/events/1615865/the-suburbs-tickets?skin=turfclub",
-   "source": "https://first-avenue.com/event/2026-11-the-suburbs-fri/",
-   "spotify": "https://open.spotify.com/artist/6r8rjs60Gvl07KyCUV2QhF"
-  },
   {
    "id": "748f49c82e44",
    "headliner": "The Suburbs",
@@ -322,6 +304,25 @@
    "tickets": "https://www.axs.com/events/1568174/the-steel-wheels-tickets?skin=turfclub",
    "source": "https://first-avenue.com/event/2026-12-the-steel-wheels/",
    "spotify": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
+  },
+  {
+   "id": "1dd6392b01a7",
+   "headliner": "Temples",
+   "openers": [
+    "GIFT",
+    "DJ Jake Rudh"
+   ],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1405649/temples-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-12-temples/",
+   "spotify": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
   }
  ]
 }

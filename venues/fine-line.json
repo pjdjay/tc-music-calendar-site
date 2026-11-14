@@ -1,32 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Fine Line",
  "city": "Minneapolis",
- "count": 27,
+ "count": 26,
  "shows": [
-  {
-   "id": "3544eb4d9c85",
-   "headliner": "Humbird",
-   "openers": [
-    "Bad Posture Club"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Fine Line",
-   "venue_slug": "fine-line",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "doors_time": "19:00",
-   "age": "18+",
-   "tickets": "https://www.axs.com/events/1536060/humbird-tickets?skin=fineline",
-   "source": "https://first-avenue.com/event/2026-11-humbird/",
-   "spotify": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-  },
   {
    "id": "121fbc8b3610",
    "headliner": "Almost Monday",

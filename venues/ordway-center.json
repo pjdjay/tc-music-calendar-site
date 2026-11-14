@@ -1,26 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Ordway Center",
  "city": "St. Paul",
- "count": 8,
+ "count": 7,
  "shows": [
-  {
-   "id": "d753b92e3659",
-   "headliner": "Zachary Cohen Premieres Deak’s Bass Concerto",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "11:00",
-   "venue": "Ordway Center",
-   "venue_slug": "ordway-center",
-   "city": "St. Paul",
-   "genre": "classical",
-   "source": "https://ordway.org/events/zachary-cohen-bass/"
-  },
   {
    "id": "4c59aa92ab08",
    "headliner": "It Wasn't Meant to be Perfect: An Evening",

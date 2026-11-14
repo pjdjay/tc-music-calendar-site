@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,24 +9,6 @@
  "city": "Minneapolis",
  "count": 13,
  "shows": [
-  {
-   "id": "597656751bb4",
-   "headliner": "Cristian Baca",
-   "openers": [
-    "Chalant"
-   ],
-   "date": "2026-11-13",
-   "start_time": "21:00",
-   "venue": "Green Room",
-   "venue_slug": "green-room",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "21:00",
-   "age": "18+",
-   "tickets": "https://tickets.venuepilot.com/e/mi-casa-party-presents-chalant-2026-11-13-green-room-minneapolis-6302f7?utm_source=jambase",
-   "source": "https://www.greenroommn.com/events#/events/188640",
-   "spotify": "https://open.spotify.com/artist/4miDfAjmZF6tgpRZRVgL3Y"
-  },
   {
    "id": "e2add970ccfe",
    "headliner": "Bed By 10",
@@ -232,6 +214,22 @@
    "age": "18+",
    "tickets": "https://tickets.venuepilot.com/e/new-band-night-44-2026-12-08-green-room-minneapolis-479588",
    "source": "https://www.greenroommn.com/events#/events/194938"
+  },
+  {
+   "id": "a17bf642fdf1",
+   "headliner": "HEYZ",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "22:00",
+   "venue": "Green Room",
+   "venue_slug": "green-room",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "22:00",
+   "age": "18+",
+   "tickets": "https://simshows.com/events/heyzsomethingdifferent/",
+   "source": "https://www.greenroommn.com/events#/events/194563",
+   "spotify": "https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh"
   }
  ]
 }

@@ -1,6 +1,6 @@
 # Waldmann Brewery (St. Paul): upcoming shows
 
-12 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+12 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026

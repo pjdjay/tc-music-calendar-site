@@ -1,32 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Amsterdam Bar & Hall",
  "city": "St. Paul",
- "count": 22,
+ "count": 21,
  "shows": [
-  {
-   "id": "88b846b52740",
-   "headliner": "Improvement Movement",
-   "openers": [
-    "Jalen Reyes"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Amsterdam Bar & Hall",
-   "venue_slug": "amsterdam-bar-hall",
-   "city": "St. Paul",
-   "genre": "rock/indie",
-   "doors_time": "19:00",
-   "age": "18+",
-   "tickets": "https://www.axs.com/events/1518068/improvement-movement-tickets?skin=firstavenue",
-   "source": "https://events.amsterdambarandhall.com/event/improvement-movement-w-jalen-reyes/amsterdam-bar-hall/saint-paul-minnesota/",
-   "spotify": "https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ"
-  },
   {
    "id": "33211ed3c8d9",
    "headliner": "Mni Sota Mystery Box: An Afterdark Night of First Nations Talent",

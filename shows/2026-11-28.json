@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-28",
- "count": 42,
+ "count": 43,
  "shows": [
   {
    "id": "3c2408d42db6",
@@ -45,6 +45,19 @@
    "city": "St. Paul",
    "genre": "world/other",
    "source": "https://www.rivercentre.org/events/detail/minnesota-hmong-new-year-3"
+  },
+  {
+   "id": "098c182171e1",
+   "headliner": "Danksgiving",
+   "openers": [],
+   "date": "2026-11-28",
+   "start_time": "12:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/danksgiving-november-28-2026-794279"
   },
   {
    "id": "8b6bae5a1581",
@@ -538,10 +551,10 @@
    "source": "https://www.greenroommn.com/events#/events/177444"
   },
   {
-   "id": "dd9d9a91bfa0",
-   "headliner": "Heat on Beat",
+   "id": "b106b18fdcf1",
+   "headliner": "Heat on Beat and Elite EDM present KLIPTIC",
    "openers": [
-    "Kliptic",
+    "local support with Kliptic",
     "Cyclone Dubs",
     "Lost Ambitions",
     "Flowerrr",
@@ -555,8 +568,8 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "doors_time": "21:00",
-   "tickets": "https://app.opendate.io/e/heat-on-beat-november-28-2026-784836?default_theme=true",
-   "source": "https://app.opendate.io/e/heat-on-beat-november-28-2026-784836?default_theme=true"
+   "tickets": "https://app.opendate.io/e/heat-on-beat-and-elite-edm-present-kliptic-with-local-support-november-28-2026-784836?default_theme=true",
+   "source": "https://app.opendate.io/e/heat-on-beat-and-elite-edm-present-kliptic-with-local-support-november-28-2026-784836?default_theme=true"
   },
   {
    "id": "b42717faf014",

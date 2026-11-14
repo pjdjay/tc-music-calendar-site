@@ -1,11 +1,7 @@
 # Memory Lanes (Minneapolis): upcoming shows
 
-7 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+6 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Snatch w/ Refute, Red Lovely, Getting Worse** · 20:00 · unknown · $10 · [info](https://www.memorylanes.com/live-music-events-minneapolis/) [spotify](https://open.spotify.com/artist/6L2p76oJHEBOAq6ejA2huz)
 
 ## Monday, November 16, 2026
 

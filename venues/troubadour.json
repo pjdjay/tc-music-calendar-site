@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,18 +9,6 @@
  "city": "Minneapolis",
  "count": 5,
  "shows": [
-  {
-   "id": "fb8c7b1197f3",
-   "headliner": "Victoria Temiz & Chad Hamblin",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Troubadour",
-   "venue_slug": "troubadour",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://troubadourwinebar.com/events"
-  },
   {
    "id": "70e3cb7092de",
    "headliner": "🎶 Live Music at Troubadour! 🎶 Phil Berbig",
@@ -77,6 +65,18 @@
    "recurrence": "every Tuesday",
    "source": "https://troubadourwinebar.com/events",
    "spotify": "https://open.spotify.com/artist/0rjG5Um5dZLaDogS8VWp9G"
+  },
+  {
+   "id": "0639d576d16e",
+   "headliner": "🎶 Live Music Friday: Aaron Blazich at Troubadour 🎶",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://troubadourwinebar.com/events"
   }
  ]
 }

@@ -1,11 +1,7 @@
 # Uptown VFW (Minneapolis): upcoming shows
 
-9 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+9 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Mustard Plug w/ Space Monkey Mafia, Devon Kay & the Solutions** · 20:00 · metal/punk · 21+ · [tickets](https://app.opendate.io/e/mustard-plug-w-special-guests-devon-kay-the-solutions-space-monkey-mafia-november-13-2026-711681?default_theme=true) [info](https://app.opendate.io/e/mustard-plug-w-special-guests-devon-kay-the-solutions-space-monkey-mafia-november-13-2026-711681?default_theme=true) [spotify](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu)
 
 ## Thursday, November 19, 2026
 
@@ -26,7 +22,7 @@
 ## Saturday, November 28, 2026
 
 - **Off With Their Heads Hospitals 20th Anniversary Family Reunion** · 15:30 · metal/punk · [tickets](https://app.opendate.io/e/off-with-their-heads-hospitals-20th-anniversary-family-reunion-november-28-2026-759210?default_theme=true) [info](https://app.opendate.io/e/off-with-their-heads-hospitals-20th-anniversary-family-reunion-november-28-2026-759210?default_theme=true)
-- **Heat on Beat w/ Kliptic, Cyclone Dubs, Lost Ambitions, Flowerrr, Draze, Aboy M8o** · 21:00 · unknown · [tickets](https://app.opendate.io/e/heat-on-beat-november-28-2026-784836?default_theme=true) [info](https://app.opendate.io/e/heat-on-beat-november-28-2026-784836?default_theme=true)
+- **Heat on Beat and Elite EDM present KLIPTIC w/ local support with Kliptic, Cyclone Dubs, Lost Ambitions, Flowerrr, Draze, Aboy M8o** · 21:00 · unknown · [tickets](https://app.opendate.io/e/heat-on-beat-and-elite-edm-present-kliptic-with-local-support-november-28-2026-784836?default_theme=true) [info](https://app.opendate.io/e/heat-on-beat-and-elite-edm-present-kliptic-with-local-support-november-28-2026-784836?default_theme=true)
 
 ## Saturday, December 5, 2026
 
@@ -35,5 +31,9 @@
 ## Monday, December 7, 2026
 
 - **Scott H. Biram** · 19:00 · unknown · [tickets](https://app.opendate.io/e/scott-h-biram-december-07-2026-754264?default_theme=true) [info](https://app.opendate.io/e/scott-h-biram-december-07-2026-754264?default_theme=true) [spotify](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf)
+
+## Friday, December 11, 2026
+
+- **Vampiros** · 22:00 · unknown · [tickets](https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true) [info](https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true) [spotify](https://open.spotify.com/artist/3ollyUMlBmeookjESaJu5Z)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

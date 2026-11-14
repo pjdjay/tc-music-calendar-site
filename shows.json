@@ -1,806 +1,12 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
- "count": 814,
+ "count": 798,
  "shows": [
-  {
-   "id": "7409013022fc",
-   "headliner": "Tim Sigler",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": null,
-   "venue": "Mystic Lake free stages",
-   "venue_slug": "mystic-lake-free-stages",
-   "city": "Prior Lake",
-   "genre": "unknown",
-   "source": "https://mysticlake.com/shows-and-events/tim-sigler-nov13",
-   "spotify": "https://open.spotify.com/artist/6QEDr6ezgBUnkhNKnCJOfE"
-  },
-  {
-   "id": "d753b92e3659",
-   "headliner": "Zachary Cohen Premieres Deak’s Bass Concerto",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "11:00",
-   "venue": "Ordway Center",
-   "venue_slug": "ordway-center",
-   "city": "St. Paul",
-   "genre": "classical",
-   "source": "https://ordway.org/events/zachary-cohen-bass/"
-  },
-  {
-   "id": "8d7ce925e436",
-   "headliner": "Bad Rooster",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "16:00",
-   "venue": "Utepils Brewing",
-   "venue_slug": "utepils-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://utepilsbrewing.com/events/bad-rooster-2/2026-11-13/",
-   "spotify": "https://open.spotify.com/artist/1qP4mDzdZZVhp3Zqq7BclU"
-  },
-  {
-   "id": "ff6f963cab41",
-   "headliner": "Early Evening Jazz: Jason Fabus Plays & Sings",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "16:30",
-   "venue": "Berlin",
-   "venue_slug": "berlin",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "NO COVER",
-   "is_free": true,
-   "source": "https://www.berlinmpls.com/calendar/jason-fabus-plays-and-sings-november-2026"
-  },
-  {
-   "id": "ac44d4af8850",
-   "headliner": "Dale Alexander",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "17:00",
-   "venue": "Crooners",
-   "venue_slug": "crooners",
-   "city": "Fridley",
-   "genre": "jazz/blues",
-   "price": "Free",
-   "is_free": true,
-   "tickets": "https://www.eventbrite.com/e/dale-alexander-registration-2004315316065",
-   "source": "https://www.croonersmn.com/event/dale-alexander-13/",
-   "spotify": "https://open.spotify.com/artist/67QKhqtGELAg5IZ6oDopYh"
-  },
-  {
-   "id": "189f44407534",
-   "headliner": "Friday Night Live - FNL",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "18:00",
-   "venue": "Utepils Brewing",
-   "venue_slug": "utepils-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Friday",
-   "price": "FREE Live Music",
-   "is_free": true,
-   "age": "all_ages",
-   "source": "https://utepilsbrewing.com/events/friday-night-live-fnl/2026-11-13/"
-  },
-  {
-   "id": "9bff4c5ad877",
-   "headliner": "Chris Davies & the Afterparty",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "18:00",
-   "venue": "White Squirrel",
-   "venue_slug": "white-squirrel",
-   "city": "St. Paul",
-   "genre": "country/folk/Americana",
-   "source": "https://whitesquirrelbar.com/event/chris-davies-the-afterparty/"
-  },
-  {
-   "id": "0ea668345a46",
-   "headliner": "Irish Music Session",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "18:00",
-   "venue": "Dubliner Pub",
-   "venue_slug": "dubliner-pub",
-   "city": "St. Paul",
-   "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every Friday",
-   "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-13"
-  },
-  {
-   "id": "8c7edb2185b9",
-   "headliner": "JOAN",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "18:00",
-   "venue": "Ginkgo",
-   "venue_slug": "ginkgo",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://ginkgocoffee.com/event/joan/"
-  },
-  {
-   "id": "289aa5708837",
-   "headliner": "Live & Loud",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Skyway Theatre",
-   "venue_slug": "skyway-theatre",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "18:00",
-   "tickets": "https://events.leapevents.com/event/live-loud-studio-b-week-5",
-   "source": "https://skywaytheatre.com/event/live-loud-2/"
-  },
-  {
-   "id": "ef781837e47f",
-   "headliner": "Andra Suchy",
-   "openers": [
-    "The Long Honeymoon",
-    "Mary K",
-    "the Realistix",
-    "Mary K. Stone"
-   ],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Hook and Ladder",
-   "venue_slug": "hook-and-ladder",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "age": "21+",
-   "source": "https://thehookmpls.com/shows/andra-suchy-with-the-long-honeymoon-and-mary-k-and-the-realistix-november-13-2026-734653",
-   "spotify": "https://open.spotify.com/artist/0FfjG8aDWPy9FtMx5tym1E"
-  },
-  {
-   "id": "cfdf37358774",
-   "headliner": "Lucinda Williams",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "price": "$108.90+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/an-evening-with-lucinda-williams-her-band-nov-2026/2026-11-13/",
-   "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-  },
-  {
-   "id": "ae955e7ab0e0",
-   "headliner": "RIVER: The Music of Carole King, Joni Mitchell and Carly Simon",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Crooners",
-   "venue_slug": "crooners",
-   "city": "Fridley",
-   "genre": "pop",
-   "price": "$35.00 - $45.00",
-   "is_free": false,
-   "tickets": "https://www.eventbrite.com/e/river-the-music-of-carole-king-joni-mitchell-and-carly-simon-tickets-2001267048615",
-   "source": "https://www.croonersmn.com/event/river-the-music-of-carole-king-joni-mitchell-and-carly-simon-64/"
-  },
-  {
-   "id": "536c6d7a710c",
-   "headliner": "Rue Nouveau",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Hook and Ladder",
-   "venue_slug": "hook-and-ladder",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "age": "21+",
-   "source": "https://thehookmpls.com/shows/rue-nouveau-november-13-2026-742741"
-  },
-  {
-   "id": "e765871aa848",
-   "headliner": "BOUNDLESS – Music Across Borders",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "MetroNOME Brewery",
-   "venue_slug": "metronome-brewery",
-   "city": "St. Paul",
-   "genre": "classical",
-   "source": "https://metronomebrewery.com/live-music/mill-city-string-quartet-presents-boundless-music-across-borders/"
-  },
-  {
-   "id": "3a686d2c204e",
-   "headliner": "Christopher Hanson",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "10K Brewing",
-   "venue_slug": "10k-brewing",
-   "city": "Anoka",
-   "genre": "unknown",
-   "source": "https://10kbrew.com/event/live-music-christopher-hanson-3/"
-  },
-  {
-   "id": "421db7cc8c28",
-   "headliner": "Loondale",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "56 Brewing",
-   "venue_slug": "56-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://56brewing.com/event/live-music-loondale-2/",
-   "spotify": "https://open.spotify.com/artist/7j7yVpBmfAQQd5dQOKR7Ek"
-  },
-  {
-   "id": "a2cd4f1a1e7c",
-   "headliner": "Mill City Machine",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Driftwood Char Bar",
-   "venue_slug": "driftwood-char-bar",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://driftwoodcharbar.com/"
-  },
-  {
-   "id": "b7ce2a68d900",
-   "headliner": "Ozzy Harris",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Excelsior Brewing",
-   "venue_slug": "excelsior-brewing",
-   "city": "Excelsior",
-   "genre": "unknown",
-   "source": "https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events"
-  },
-  {
-   "id": "7c82cdcdc821",
-   "headliner": "Punk X 3 X 3",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Pilllar Forum",
-   "venue_slug": "pilllar-forum",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "18:30",
-   "price": "Advance $15 Day of Show $17",
-   "is_free": false,
-   "source": "https://www.pilllar.com/collections/tickets/products/music-punk-x-3-x-3-11-13-2026"
-  },
-  {
-   "id": "608265803ddb",
-   "headliner": "The Confused",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Inbound BrewCo",
-   "venue_slug": "inbound-brewco",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://inboundbrew.co/taproom-events"
-  },
-  {
-   "id": "978e79c370ca",
-   "headliner": "Russell Dickerson",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:30",
-   "venue": "Armory",
-   "venue_slug": "armory",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "price": "$50",
-   "is_free": false,
-   "tickets": "https://www.livenation.com/event/vv17bZ_8GkRLhXsi/russell-dickerson",
-   "source": "https://www.livenation.com/event/vv17bZ_8GkRLhXsi/russell-dickerson",
-   "spotify": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-  },
-  {
-   "id": "b05faf600957",
-   "headliner": "Amythyst Kiah",
-   "openers": [
-    "Buffalo Nichols"
-   ],
-   "date": "2026-11-13",
-   "start_time": "19:30",
-   "venue": "Parkway Theater",
-   "venue_slug": "parkway-theater",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "price": "$25 Advance / $30 At The Door",
-   "is_free": false,
-   "tickets": "https://link.dice.fm/sba5423f8fd0",
-   "source": "https://theparkwaytheater.com/all-events/amythyst-nov-26",
-   "spotify": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-  },
-  {
-   "id": "66f9ae6574d3",
-   "headliner": "Jaspar Lepak Album Release Concert: We Are All Travelers Here",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:30",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "doors_time": "17:30",
-   "price": "$18 adv / $25 door",
-   "is_free": false,
-   "age": "18+",
-   "tickets": "https://icehouse.turntabletickets.com/shows/13159/2026-11-13?utm_source=icehousempls.com&utm_medium=website&utm_campaign=jaspar-lepak-20261113",
-   "source": "https://www.icehousempls.com/shows/jaspar-lepak-album-release-concert-we-are-all-travelers-here/"
-  },
-  {
-   "id": "cbb882f28023",
-   "headliner": "Perro Mundo",
-   "openers": [
-    "Sociedad Salvaje",
-    "Laugh Track",
-    "P.O.A."
-   ],
-   "date": "2026-11-13",
-   "start_time": "19:30",
-   "venue": "Zhora Darling",
-   "venue_slug": "zhora-darling",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "price": "$19.06",
-   "is_free": false,
-   "tickets": "https://dice.fm/event/6ae3e9a7f7133b0001ecb2c5",
-   "source": "https://dice.fm/event/6ae3e9a7f7133b0001ecb2c5",
-   "spotify": "https://open.spotify.com/artist/3jdF7ApF4AUJiEcT4PDUra"
-  },
-  {
-   "id": "916335c8b078",
-   "headliner": "Tightwire",
-   "openers": [
-    "Canadian Rifle",
-    "Visual Learner"
-   ],
-   "date": "2026-11-13",
-   "start_time": "19:30",
-   "venue": "Cloudland Theater",
-   "venue_slug": "cloudland-theater",
-   "city": "Minneapolis",
-   "genre": "metal/punk",
-   "price": "$9.44",
-   "is_free": false,
-   "source": "https://www.jambase.com/show/tightwire-cloudland-theater-20261113",
-   "spotify": "https://open.spotify.com/artist/1wcg79njXMG7Yn8nXYqP8K"
-  },
-  {
-   "id": "ceefe9ded294",
-   "headliner": "Alyssa Allgood Quartet",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:30",
-   "venue": "Berlin",
-   "venue_slug": "berlin",
-   "city": "Minneapolis",
-   "genre": "jazz/blues",
-   "price": "$25",
-   "is_free": false,
-   "source": "https://www.berlinmpls.com/calendar/alyssa-allgood-quartet-november-2026"
-  },
-  {
-   "id": "9684fce1c023",
-   "headliner": "Funk Friday",
-   "openers": [
-    "Big Fat Money"
-   ],
-   "date": "2026-11-13",
-   "start_time": "19:30",
-   "venue": "Animales Barbeque",
-   "venue_slug": "animales-barbeque",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Friday",
-   "source": "https://animalesbbq.com/calendar/funk-friday-big-fat-money-november-2026"
-  },
-  {
-   "id": "f658cb644f0d",
-   "headliner": "Josh Turner",
-   "openers": [
-    "Will Jones"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Mystic Lake Showroom",
-   "venue_slug": "mystic-lake-showroom",
-   "city": "Prior Lake",
-   "genre": "country/folk/Americana",
-   "tickets": "https://www.ticketmaster.com/event/060064FEDD109E60?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_JOSHTURNERFY26",
-   "source": "https://mysticlake.com/shows-and-events/josh-turner",
-   "spotify": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-  },
-  {
-   "id": "dc04dafac4f0",
-   "headliner": "Julia Jacklin",
-   "openers": [
-    "Jordan Patterson"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "First Avenue",
-   "venue_slug": "first-avenue",
-   "city": "Minneapolis",
-   "genre": "rock/indie",
-   "doors_time": "19:00",
-   "age": "18+",
-   "tickets": "https://www.axs.com/events/1469576/julia-jacklin-tickets?skin=firstavenue",
-   "source": "https://first-avenue.com/event/2026-11-julia-jacklin/",
-   "spotify": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-  },
-  {
-   "id": "c4bd27fdba5f",
-   "headliner": "Los Huracanes del Norte",
-   "openers": [
-    "La Zenda Norteña",
-    "El Fantasma",
-    "Cornelio Vega y Su Dinastia"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Myth Live",
-   "venue_slug": "myth-live",
-   "city": "Maplewood",
-   "genre": "Latin",
-   "source": "https://www.songkick.com/concerts/43344317-los-huracanes-del-norte-at-myth?utm_medium=organic&utm_source=microformat",
-   "spotify": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-  },
-  {
-   "id": "0d76a40bd195",
-   "headliner": "Minnesota Orchestra: Nordic Soundscapes Festival: Vänskä, Chen and Nielsen",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Orchestra Hall",
-   "venue_slug": "orchestra-hall",
-   "city": "Minneapolis",
-   "genre": "classical",
-   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpbO",
-   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpbO",
-   "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
-  },
-  {
-   "id": "ede4e1e1042a",
-   "headliner": "Boots 'N Beats",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Varsity Theater",
-   "venue_slug": "varsity-theater",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "tickets": "https://www.ticketmaster.com/boots-n-beats-a-night-of-minneapolis-minnesota-11-13-2026/event/0600653983A06D09",
-   "source": "https://www.livenation.com/event/vv1kbZ_KJdG7IkVa/boots-n-beats-a-night-of-country-edm"
-  },
-  {
-   "id": "3544eb4d9c85",
-   "headliner": "Humbird",
-   "openers": [
-    "Bad Posture Club"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Fine Line",
-   "venue_slug": "fine-line",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "doors_time": "19:00",
-   "age": "18+",
-   "tickets": "https://www.axs.com/events/1536060/humbird-tickets?skin=fineline",
-   "source": "https://first-avenue.com/event/2026-11-humbird/",
-   "spotify": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-  },
-  {
-   "id": "88b846b52740",
-   "headliner": "Improvement Movement",
-   "openers": [
-    "Jalen Reyes"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Amsterdam Bar & Hall",
-   "venue_slug": "amsterdam-bar-hall",
-   "city": "St. Paul",
-   "genre": "rock/indie",
-   "doors_time": "19:00",
-   "age": "18+",
-   "tickets": "https://www.axs.com/events/1518068/improvement-movement-tickets?skin=firstavenue",
-   "source": "https://events.amsterdambarandhall.com/event/improvement-movement-w-jalen-reyes/amsterdam-bar-hall/saint-paul-minnesota/",
-   "spotify": "https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ"
-  },
-  {
-   "id": "b9980518fdfd",
-   "headliner": "Peyton Parrish",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Cabooze",
-   "venue_slug": "cabooze",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "source": "https://www.jambase.com/show/peyton-parrish-cabooze-20261113",
-   "spotify": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
-  },
-  {
-   "id": "7c9e0c24c801",
-   "headliner": "AKPL- Aby Wolf /Kavyesh Kaviraj /Pete James Johnson /Laurels String Quartet",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Crooners",
-   "venue_slug": "crooners",
-   "city": "Fridley",
-   "genre": "pop",
-   "price": "$30.00 - $40.00",
-   "is_free": false,
-   "tickets": "https://www.eventbrite.com/e/akpl-aby-wolf-kavyesh-kaviraj-pete-james-johnson-laurels-string-quartet-tickets-2002090423351",
-   "source": "https://www.croonersmn.com/event/akpl-aby-wolf-kavyesh-kaviraj-pete-james-johnson-laurels-string-quartet/"
-  },
-  {
-   "id": "434001485f02",
-   "headliner": "Francis of Delirium",
-   "openers": [
-    "clovers daughter"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "7th St Entry",
-   "venue_slug": "7th-st-entry",
-   "city": "Minneapolis",
-   "genre": "rock/indie",
-   "doors_time": "19:00",
-   "age": "18+",
-   "tickets": "https://www.axs.com/events/1415424/francis-of-delirium-tickets?skin=firstavenue",
-   "source": "https://first-avenue.com/event/2026-11-francis-of-delirium/",
-   "spotify": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
-  },
-  {
-   "id": "1da639e3e016",
-   "headliner": "Mustard Plug",
-   "openers": [
-    "Space Monkey Mafia",
-    "Devon Kay & the Solutions"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Uptown VFW",
-   "venue_slug": "uptown-vfw",
-   "city": "Minneapolis",
-   "genre": "metal/punk",
-   "doors_time": "20:00",
-   "age": "21+",
-   "tickets": "https://app.opendate.io/e/mustard-plug-w-special-guests-devon-kay-the-solutions-space-monkey-mafia-november-13-2026-711681?default_theme=true",
-   "source": "https://app.opendate.io/e/mustard-plug-w-special-guests-devon-kay-the-solutions-space-monkey-mafia-november-13-2026-711681?default_theme=true",
-   "spotify": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-  },
-  {
-   "id": "72603516cfaa",
-   "headliner": "Snatch",
-   "openers": [
-    "Refute",
-    "Red Lovely",
-    "Getting Worse"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Memory Lanes",
-   "venue_slug": "memory-lanes",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "19:00",
-   "price": "$10",
-   "is_free": false,
-   "source": "https://www.memorylanes.com/live-music-events-minneapolis/",
-   "spotify": "https://open.spotify.com/artist/6L2p76oJHEBOAq6ejA2huz"
-  },
-  {
-   "id": "2456252ae523",
-   "headliner": "The Suburbs",
-   "openers": [
-    "The Rodents"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Turf Club",
-   "venue_slug": "turf-club",
-   "city": "St. Paul",
-   "genre": "rock/indie",
-   "doors_time": "19:00",
-   "age": "21+",
-   "tickets": "https://www.axs.com/events/1615865/the-suburbs-tickets?skin=turfclub",
-   "source": "https://first-avenue.com/event/2026-11-the-suburbs-fri/",
-   "spotify": "https://open.spotify.com/artist/6r8rjs60Gvl07KyCUV2QhF"
-  },
-  {
-   "id": "fb8c7b1197f3",
-   "headliner": "Victoria Temiz & Chad Hamblin",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Troubadour",
-   "venue_slug": "troubadour",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://troubadourwinebar.com/events"
-  },
-  {
-   "id": "79f6a59a3db1",
-   "headliner": "WailTale",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Shaws",
-   "venue_slug": "shaws",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://www.facebook.com/events/1579681023459235/"
-  },
-  {
-   "id": "f94f64c02af4",
-   "headliner": "El Fantasma",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "21:00",
-   "venue": "Myth Live",
-   "venue_slug": "myth-live",
-   "city": "Maplewood",
-   "genre": "Latin",
-   "doors_time": "20:00",
-   "tickets": "https://ticketon.com/events/Fantasma_11-13",
-   "source": "https://mythlive.com/event/el-fantasma/",
-   "spotify": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-  },
-  {
-   "id": "b6af554029b1",
-   "headliner": "Grabbitz",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "21:00",
-   "venue": "Skyway Theatre",
-   "venue_slug": "skyway-theatre",
-   "city": "Minneapolis",
-   "genre": "electronic",
-   "doors_time": "21:00",
-   "tickets": "https://events.leapevents.com/event/grabbitz-11-13-26",
-   "source": "https://skywaytheatre.com/event/grabbitz/",
-   "spotify": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-  },
-  {
-   "id": "597656751bb4",
-   "headliner": "Cristian Baca",
-   "openers": [
-    "Chalant"
-   ],
-   "date": "2026-11-13",
-   "start_time": "21:00",
-   "venue": "Green Room",
-   "venue_slug": "green-room",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "21:00",
-   "age": "18+",
-   "tickets": "https://tickets.venuepilot.com/e/mi-casa-party-presents-chalant-2026-11-13-green-room-minneapolis-6302f7?utm_source=jambase",
-   "source": "https://www.greenroommn.com/events#/events/188640",
-   "spotify": "https://open.spotify.com/artist/4miDfAjmZF6tgpRZRVgL3Y"
-  },
-  {
-   "id": "6151fb7d7b42",
-   "headliner": "Dead on Board",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "21:00",
-   "venue": "White Squirrel",
-   "venue_slug": "white-squirrel",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "end_date": "2026-11-14",
-   "hidden_category": "residency",
-   "recurrence": "every other Friday",
-   "source": "https://whitesquirrelbar.com/event/dead-on-board-2/"
-  },
-  {
-   "id": "4bc5f89a11c4",
-   "headliner": "Northerly Gales",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "21:00",
-   "venue": "Dubliner Pub",
-   "venue_slug": "dubliner-pub",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://thedublinerpub.com/show/northerly-gales/?lre_date=2026-11-13",
-   "spotify": "https://open.spotify.com/artist/1clNkdGKPKDJXqHMcnKLxO"
-  },
-  {
-   "id": "2af96c32b22f",
-   "headliner": "Paul James Nauman",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "21:00",
-   "venue": "Mystic Lake free stages",
-   "venue_slug": "mystic-lake-free-stages",
-   "city": "Prior Lake",
-   "genre": "unknown",
-   "source": "https://mysticlake.com/shows-and-events/paul-james-nauman-nov13"
-  },
-  {
-   "id": "6a70edeec9b1",
-   "headliner": "Belfast Cowboys",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "21:30",
-   "venue": "Bunker's",
-   "venue_slug": "bunker-s",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://bunkersmusic.com/calendar",
-   "spotify": "https://open.spotify.com/artist/08TtJoCSiwqqoX89vz5Wyi"
-  },
-  {
-   "id": "9e988c3868d3",
-   "headliner": "Fever Dream",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "22:00",
-   "venue": "Icehouse",
-   "venue_slug": "icehouse",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "21:30",
-   "price": "No cover",
-   "is_free": true,
-   "age": "21+",
-   "source": "https://www.icehousempls.com/shows/fever-dream/",
-   "spotify": "https://open.spotify.com/artist/1Mj2pu4aK6YHBnekTAp2b0"
-  },
-  {
-   "id": "e12d14d0644f",
-   "headliner": "Stringdingers",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "22:00",
-   "venue": "331 Club",
-   "venue_slug": "331-club",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "source": "https://www.instagram.com/stringdingers?igsi=MXU4NnZpeWdjOTUxdw==",
-   "spotify": "https://open.spotify.com/artist/4mR2QFA4sG7SPsHXIQUVoz"
-  },
-  {
-   "id": "d39aca50d0df",
-   "headliner": "Late Night Lounge: JEN-E",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "22:30",
-   "venue": "Berlin",
-   "venue_slug": "berlin",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "22:30",
-   "hidden_category": "dj_night",
-   "price": "$5 at the Door",
-   "is_free": false,
-   "source": "https://www.berlinmpls.com/calendar/late-night-lounge-jen-e-november-2026"
-  },
   {
    "id": "62a04a20a3dd",
    "headliner": "DJ Smooth Blendz",
@@ -947,7 +153,7 @@
    "venue_slug": "underground-music-venue",
    "city": "Minneapolis",
    "genre": "rock/indie",
-   "price": "$19.62",
+   "price": "$31.73",
    "is_free": false,
    "tickets": "https://link.dice.fm/Kf41d5286cff?utm_source=jambase",
    "source": "https://dice.fm/event/6aadbc97cef0bb00016257e2",
@@ -1313,7 +519,7 @@
    "venue_slug": "cloudland-theater",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "price": "$12",
+   "price": "$15",
    "is_free": false,
    "tickets": "https://dice.fm/event/6ac7c4b3399cf100018b6a45",
    "source": "https://dice.fm/event/6ac7c4b3399cf100018b6a45",
@@ -2104,7 +1310,11 @@
   {
    "id": "1f66e5a25930",
    "headliner": "Hurricane Wisdom",
-   "openers": [],
+   "openers": [
+    "DJ Hitman",
+    "Quantrell",
+    "Sqweez"
+   ],
    "date": "2026-11-15",
    "start_time": "19:30",
    "venue": "First Avenue",
@@ -3714,6 +2924,41 @@
    "source": "https://www.croonersmn.com/event/tommy-boynton-and-friends-5/"
   },
   {
+   "id": "29e2cf2adeba",
+   "headliner": "Clean Plate Club",
+   "openers": [
+    "Becca Murray",
+    "The Wildflowers",
+    "Auronova"
+   ],
+   "date": "2026-11-20",
+   "start_time": "18:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "18+",
+   "tickets": "https://app.opendate.io/e/clean-plate-club-album-release-w-becca-murray-and-the-wildflowers-and-auronova-november-20-2026-745179?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/clean-plate-club-with-becca-murray-the-wildflowers-and-auronova-november-20-2026-745179"
+  },
+  {
+   "id": "a2bfbcb91ac9",
+   "headliner": "Friday Night Live - FNL",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "18:00",
+   "venue": "Utepils Brewing",
+   "venue_slug": "utepils-brewing",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "some Fridays",
+   "price": "FREE Live Music",
+   "is_free": true,
+   "age": "all_ages",
+   "source": "https://utepilsbrewing.com/events/friday-night-live-fnl/2026-11-20/"
+  },
+  {
    "id": "cea332acca26",
    "headliner": "Origins to Ovation",
    "openers": [],
@@ -3737,6 +2982,20 @@
    "city": "St. Paul",
    "genre": "country/folk/Americana",
    "source": "https://whitesquirrelbar.com/event/chris-holm/"
+  },
+  {
+   "id": "0ea668345a46",
+   "headliner": "Irish Music Session",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "18:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "hidden_category": "residency",
+   "recurrence": "every Friday",
+   "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-20"
   },
   {
    "id": "cb5a492fab26",
@@ -3798,7 +3057,7 @@
    "genre": "pop",
    "price": "$41.85",
    "is_free": false,
-   "tickets": "https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks",
+   "tickets": "https://www.ticketmaster.com/giant-rooks-minneapolis-minnesota-11-20-2026/event/060064A6C5D63E6F",
    "source": "https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks",
    "spotify": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
   },
@@ -3903,24 +3162,6 @@
    "spotify": "https://open.spotify.com/artist/701Fj1kq5QXYOLYaVjKkw4"
   },
   {
-   "id": "29e2cf2adeba",
-   "headliner": "Clean Plate Club",
-   "openers": [
-    "Becca Murray",
-    "The Wildflowers",
-    "Auronova"
-   ],
-   "date": "2026-11-20",
-   "start_time": "19:30",
-   "venue": "Hook and Ladder",
-   "venue_slug": "hook-and-ladder",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "age": "18+",
-   "tickets": "https://app.opendate.io/e/clean-plate-club-album-release-w-becca-murray-and-the-wildflowers-and-auronova-november-20-2026-745179?utm_source=jambase",
-   "source": "https://thehookmpls.com/shows/clean-plate-club-with-becca-murray-the-wildflowers-and-auronova-november-20-2026-745179"
-  },
-  {
    "id": "96cc8d29bd8d",
    "headliner": "Deadsgiving",
    "openers": [
@@ -3953,6 +3194,22 @@
    "tickets": "https://link.dice.fm/g367463d0ac4?utm_source=jambase",
    "source": "https://dice.fm/event/6a74b687d1348f0001287bb5",
    "spotify": "https://open.spotify.com/artist/1re8x8ym8nfokPKYEW5XTn"
+  },
+  {
+   "id": "9684fce1c023",
+   "headliner": "Funk Friday",
+   "openers": [
+    "ART Dept."
+   ],
+   "date": "2026-11-20",
+   "start_time": "19:30",
+   "venue": "Animales Barbeque",
+   "venue_slug": "animales-barbeque",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "hidden_category": "residency",
+   "recurrence": "every Friday",
+   "source": "https://animalesbbq.com/calendar/arts-dept-nov-2026"
   },
   {
    "id": "5ee2186a8a06",
@@ -4178,6 +3435,19 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "7c44d9d54fe8",
+   "headliner": "DJ Bob",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "21:00",
+   "venue": "Mystic Lake free stages",
+   "venue_slug": "mystic-lake-free-stages",
+   "city": "Prior Lake",
+   "genre": "unknown",
+   "hidden_category": "dj_night",
+   "source": "https://mysticlake.com/shows-and-events/dj-bob-nov20"
   },
   {
    "id": "d1d5dbdc02cb",
@@ -5413,7 +4683,10 @@
   {
    "id": "c5079cb2afb8",
    "headliner": "Sylvia May & The Maydays",
-   "openers": [],
+   "openers": [
+    "SYFN",
+    "NONA"
+   ],
    "date": "2026-11-23",
    "start_time": "21:00",
    "venue": "White Squirrel",
@@ -5969,6 +5242,19 @@
    "genre": "Latin",
    "tickets": "https://www.eventbrite.com/e/salsa-del-soul-thanksgiving-eve-with-dj-william-el-buenon-and-free-lessons-tickets-2003357228399",
    "source": "https://www.eventbrite.com/e/salsa-del-soul-thanksgiving-eve-with-dj-william-el-buenon-and-free-lessons-tickets-2003357228399"
+  },
+  {
+   "id": "d5cd09408ce1",
+   "headliner": "DJ Espada",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "21:00",
+   "venue": "Mystic Lake free stages",
+   "venue_slug": "mystic-lake-free-stages",
+   "city": "Prior Lake",
+   "genre": "unknown",
+   "hidden_category": "dj_night",
+   "source": "https://mysticlake.com/shows-and-events/dj-espada-nov25"
   },
   {
    "id": "46e7db1a7d69",
@@ -6551,6 +5837,23 @@
    "source": "https://first-avenue.com/event/2026-11-cnt-oclock/"
   },
   {
+   "id": "161ae76d1f98",
+   "headliner": "Dead On Board",
+   "openers": [
+    "Maggy",
+    "The Skanks",
+    "Muffstache"
+   ],
+   "date": "2026-11-27",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-11-28",
+   "source": "https://whitesquirrelbar.com/event/dead-on-board/"
+  },
+  {
    "id": "1ab653018248",
    "headliner": "DJ Smooth Blendz",
    "openers": [],
@@ -6657,6 +5960,19 @@
    "city": "St. Paul",
    "genre": "world/other",
    "source": "https://www.rivercentre.org/events/detail/minnesota-hmong-new-year-3"
+  },
+  {
+   "id": "098c182171e1",
+   "headliner": "Danksgiving",
+   "openers": [],
+   "date": "2026-11-28",
+   "start_time": "12:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "source": "https://thehookmpls.com/shows/danksgiving-november-28-2026-794279"
   },
   {
    "id": "8b6bae5a1581",
@@ -7150,10 +6466,10 @@
    "source": "https://www.greenroommn.com/events#/events/177444"
   },
   {
-   "id": "dd9d9a91bfa0",
-   "headliner": "Heat on Beat",
+   "id": "b106b18fdcf1",
+   "headliner": "Heat on Beat and Elite EDM present KLIPTIC",
    "openers": [
-    "Kliptic",
+    "local support with Kliptic",
     "Cyclone Dubs",
     "Lost Ambitions",
     "Flowerrr",
@@ -7167,8 +6483,8 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "doors_time": "21:00",
-   "tickets": "https://app.opendate.io/e/heat-on-beat-november-28-2026-784836?default_theme=true",
-   "source": "https://app.opendate.io/e/heat-on-beat-november-28-2026-784836?default_theme=true"
+   "tickets": "https://app.opendate.io/e/heat-on-beat-and-elite-edm-present-kliptic-with-local-support-november-28-2026-784836?default_theme=true",
+   "source": "https://app.opendate.io/e/heat-on-beat-and-elite-edm-present-kliptic-with-local-support-november-28-2026-784836?default_theme=true"
   },
   {
    "id": "b42717faf014",
@@ -9310,6 +8626,7 @@
    "venue_slug": "icehouse",
    "city": "Minneapolis",
    "genre": "unknown",
+   "doors_time": "19:00",
    "price": "$15",
    "is_free": false,
    "age": "21+",
@@ -9645,6 +8962,18 @@
    "price": "$5 at the Door",
    "is_free": false,
    "source": "https://www.berlinmpls.com/calendar/late-night-lounge-dj-maracuya-december-2026"
+  },
+  {
+   "id": "29f9b33178c3",
+   "headliner": "BODYCAM (mpls)",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": null,
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43515735-bodycam-mpls-at-zhora-darling?utm_medium=organic&utm_source=microformat"
   },
   {
    "id": "9bca9656bd59",
@@ -10769,6 +10098,20 @@
    "source": "https://ordway.org/events/bachs-brandenburg/"
   },
   {
+   "id": "72d675586327",
+   "headliner": "Early Evening Jazz: Adam Harder Nussbaum Trio",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "16:15",
+   "venue": "Berlin",
+   "venue_slug": "berlin",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "NO COVER",
+   "is_free": true,
+   "source": "https://www.berlinmpls.com/calendar/early-evening-jazz-adam-harder-nussbaum-trio-dec-2026"
+  },
+  {
    "id": "a1105fabe13e",
    "headliner": "Merry Krampus 2026",
    "openers": [],
@@ -10782,6 +10125,31 @@
    "age": "all_ages",
    "tickets": "https://www.etix.com/ticket/p/72942501/impaler-presents-merry-krampus-2026-saint-paul-amsterdam-bar-hall?partner_id=100",
    "source": "https://events.amsterdambarandhall.com/event/impaler-presents-merry-krampus-2026/amsterdam-bar-hall/saint-paul-minnesota/"
+  },
+  {
+   "id": "a5b9927ff899",
+   "headliner": "Harmony Arcade",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "18:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/harmony-arcade/"
+  },
+  {
+   "id": "471d8e305c24",
+   "headliner": "Miners and Gardeners",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "18:00",
+   "venue": "Ginkgo",
+   "venue_slug": "ginkgo",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://ginkgocoffee.com/event/miners-and-gardeners/",
+   "spotify": "https://open.spotify.com/artist/62HcBOzvFNSNgRj8lSJaih"
   },
   {
    "id": "0c0980478b10",
@@ -10799,6 +10167,19 @@
    "source": "https://www.jambase.com/show/ditch-pigeon-underground-music-venue-cafe-20261211"
   },
   {
+   "id": "07a1b04bde71",
+   "headliner": "Garth Brooks",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.targetcenter.com/events/detail/garthbrooks",
+   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+  },
+  {
    "id": "4ee847c1608d",
    "headliner": "Minnesota Orchestra: Home Alone in Concert with the Minnesota Orchestra",
    "openers": [],
@@ -10812,17 +10193,155 @@
    "source": "https://www.ticketmaster.com/event/Z7r9jZ1A70bO-"
   },
   {
-   "id": "07a1b04bde71",
-   "headliner": "Garth Brooks",
+   "id": "30e40982513c",
+   "headliner": "Celtic Holiday Hooley",
    "openers": [],
    "date": "2026-12-11",
-   "start_time": "20:00",
-   "venue": "Target Center",
-   "venue_slug": "target-center",
+   "start_time": "19:00",
+   "venue": "Celtic Junction",
+   "venue_slug": "celtic-junction",
+   "city": "St. Paul",
+   "genre": "electronic",
+   "price": "Free – $30.00",
+   "is_free": false,
+   "source": "https://celticjunction.org/events/chh-2026-1/2026-12-11-1900/"
+  },
+  {
+   "id": "99bd52e53711",
+   "headliner": "Holidays",
+   "openers": [
+    "the Jack Schabert Jazz Orchestra"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "unknown",
+   "price": "$25.00 - $35.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/holidays-with-the-jack-schabert-jazz-orchestra-tickets-1993890385818",
+   "source": "https://www.croonersmn.com/event/holidays-with-the-jack-schabert-jazz-orchestra-2/"
+  },
+  {
+   "id": "b609ef36f4b5",
+   "headliner": "Karrin Allyson",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "source": "https://www.targetcenter.com/events/detail/garthbrooks",
-   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+   "genre": "jazz/blues",
+   "price": "$41.95+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/karrin-allyson-yuletide-hideaway-dec11-2026/"
+  },
+  {
+   "id": "db1bb945e158",
+   "headliner": "Trailer Trash",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "tickets": "https://app.opendate.io/e/trailer-trash-s-trashy-little-x-mas-friday-december-11-2026-742744?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/trailer-trash-s-trashy-little-x-mas-friday-december-11-2026-742744",
+   "spotify": "https://open.spotify.com/artist/5a1jQOVT5kO1tkCAOY9cmo"
+  },
+  {
+   "id": "c222dc3dfd0d",
+   "headliner": "Jakob Dreyer Quartet",
+   "openers": [
+    "Sasha Berliner"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Berlin",
+   "venue_slug": "berlin",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$30",
+   "is_free": false,
+   "source": "https://www.berlinmpls.com/calendar/jakob-dreyer-quartet-december-2026"
+  },
+  {
+   "id": "cabfd804a36e",
+   "headliner": "Neighbors Again",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "0639d576d16e",
+   "headliner": "🎶 Live Music Friday: Aaron Blazich at Troubadour 🎶",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://troubadourwinebar.com/events"
+  },
+  {
+   "id": "f4b608572468",
+   "headliner": "Maddie Thies",
+   "openers": [
+    "Squinny",
+    "The Nunnery",
+    "Sachi Keiko"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:30",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "source": "https://www.thecedar.org/events/maddie-thies",
+   "spotify": "https://open.spotify.com/artist/6uFMSAtb6jrFk9n4SkDIPC"
+  },
+  {
+   "id": "d22a3a546e66",
+   "headliner": "Sophie Hiroko",
+   "openers": [
+    "GR3G",
+    "Willem Dafoe Fan Club"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:30",
+   "venue": "Cloudland Theater",
+   "venue_slug": "cloudland-theater",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$12",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6a9f4df19c734500015b50d8",
+   "source": "https://dice.fm/event/6a9f4df19c734500015b50d8",
+   "spotify": "https://open.spotify.com/artist/1oaS0HlgrPV67WVH7FN8BR"
+  },
+  {
+   "id": "e8a3afc69885",
+   "headliner": "Crash Crouse Christmas Party!",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:30",
+   "venue": "Excelsior Brewing",
+   "venue_slug": "excelsior-brewing",
+   "city": "Excelsior",
+   "genre": "unknown",
+   "price": "$5",
+   "is_free": false,
+   "source": "https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events"
   },
   {
    "id": "90ea71b9dff8",
@@ -10838,6 +10357,74 @@
    "tickets": "https://www.ticketmaster.com/house-of-heavy-minneapolis-minnesota-12-11-2026/event/06006545EEB717BA",
    "source": "https://www.livenation.com/event/vv1AkZk4AGkdmcsrB/house-of-heavy",
    "spotify": "https://open.spotify.com/artist/2rhAt6ujpEoKucvM3CWxOZ"
+  },
+  {
+   "id": "8560fe43e9a8",
+   "headliner": "Late Night Thoughts",
+   "openers": [
+    "Elias Hix"
+   ],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1580323/late-night-thoughts-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-late-night-thoughts/"
+  },
+  {
+   "id": "1dd6392b01a7",
+   "headliner": "Temples",
+   "openers": [
+    "GIFT",
+    "DJ Jake Rudh"
+   ],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1405649/temples-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-12-temples/",
+   "spotify": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+  },
+  {
+   "id": "3105d85a5390",
+   "headliner": "The Seasons Show",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:00",
+   "price": "$15 adv / $22 door",
+   "is_free": false,
+   "age": "21+",
+   "tickets": "https://tix.gobo.show/events/event/42gKPBbQOFaWYBlqUBCh/dates/YseogTXYWNVbrkqsBwyJ?utm_source=icehousempls.com&utm_medium=website&utm_campaign=kion-rose-20261211",
+   "source": "https://www.icehousempls.com/shows/kion-rose-presents-the-seasons-show/"
+  },
+  {
+   "id": "481b1cca3879",
+   "headliner": "Music Gully Boys12 11 2026",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "Pilllar Forum",
+   "venue_slug": "pilllar-forum",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "price": "Advance $20 Day of Show $25",
+   "is_free": false,
+   "source": "https://www.pilllar.com/collections/tickets/products/music-gully-boys12-11-2026"
   },
   {
    "id": "0fa714ca38fd",
@@ -10867,6 +10454,106 @@
    "genre": "electronic",
    "source": "https://www.songkick.com/concerts/43331037-tsu-nami-at-loft-at-skyway-theatre?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+  },
+  {
+   "id": "7e0a76642023",
+   "headliner": "Noah Schmidt Band",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "21:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "b4ffdb142861",
+   "headliner": "The Ike Reilly Impersonation",
+   "openers": [
+    "Ben Vogel",
+    "the Migration",
+    "Califeia Cowboyz"
+   ],
+   "date": "2026-12-11",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-12-12",
+   "source": "https://whitesquirrelbar.com/event/the-ike-reilly-impersonation-w-ben-vogel-the-migration-califeia-cowboyz/"
+  },
+  {
+   "id": "481a3c5fef9f",
+   "headliner": "Swag",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "a17bf642fdf1",
+   "headliner": "HEYZ",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "22:00",
+   "venue": "Green Room",
+   "venue_slug": "green-room",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "22:00",
+   "age": "18+",
+   "tickets": "https://simshows.com/events/heyzsomethingdifferent/",
+   "source": "https://www.greenroommn.com/events#/events/194563",
+   "spotify": "https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh"
+  },
+  {
+   "id": "ccf32cdfca32",
+   "headliner": "Vampiros",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "22:00",
+   "venue": "Uptown VFW",
+   "venue_slug": "uptown-vfw",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "22:00",
+   "tickets": "https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true",
+   "source": "https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true",
+   "spotify": "https://open.spotify.com/artist/3ollyUMlBmeookjESaJu5Z"
+  },
+  {
+   "id": "1ad1fa3367a2",
+   "headliner": "Social Cues",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "22:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/socialcues.music?stkn=MWkwYzU0cHprY2Y5bg=="
+  },
+  {
+   "id": "e79a780735bd",
+   "headliner": "Late Night Lounge: Shehrzad",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "22:30",
+   "venue": "Berlin",
+   "venue_slug": "berlin",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "22:30",
+   "hidden_category": "dj_night",
+   "price": "$5 at the Door",
+   "is_free": false,
+   "source": "https://www.berlinmpls.com/calendar/late-night-lounge-shehrzad-dec-2026"
   },
   {
    "id": "7acade8b7541",
@@ -10947,6 +10634,20 @@
    "source": "https://first-avenue.com/event/2026-12-earlybirds-club-90s-vs-00s/"
   },
   {
+   "id": "2174dc5f62b0",
+   "headliner": "Garth Brooks",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "19:00",
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg",
+   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+  },
+  {
    "id": "b38d62be8eb9",
    "headliner": "Home Alone in Concert",
    "openers": [],
@@ -11015,20 +10716,6 @@
    "tickets": "https://www.livenation.com/event/vv1AkZkfYGkd_ao6R/a-boogie-wit-da-hoodie-10-years-of-artist",
    "source": "https://www.livenation.com/event/vv1AkZkfYGkd_ao6R/a-boogie-wit-da-hoodie-10-years-of-artist",
    "spotify": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-  },
-  {
-   "id": "2174dc5f62b0",
-   "headliner": "Garth Brooks",
-   "openers": [],
-   "date": "2026-12-12",
-   "start_time": "20:00",
-   "venue": "Target Center",
-   "venue_slug": "target-center",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg",
-   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAAAGg",
-   "spotify": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
   },
   {
    "id": "cca2cabcd1a0",
@@ -11316,6 +11003,23 @@
    "tickets": "https://www.axs.com/events/1672931/house-party-tickets?skin=fineline",
    "source": "https://first-avenue.com/event/2026-12-house-party/",
    "spotify": "https://open.spotify.com/artist/05zszvXo2QjcGv9bnNRKNm"
+  },
+  {
+   "id": "05b00bb3f9b2",
+   "headliner": "Emo Night!",
+   "openers": [
+    "Loudernow"
+   ],
+   "date": "2026-12-19",
+   "start_time": "18:30",
+   "venue": "Underground Music Venue",
+   "venue_slug": "underground-music-venue",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$19.62",
+   "is_free": false,
+   "tickets": "https://dice.fm/event/6af69aabc4992d00014aa81a",
+   "source": "https://dice.fm/event/6af69aabc4992d00014aa81a"
   },
   {
    "id": "98112f72b74d",
@@ -11728,6 +11432,21 @@
    "spotify": "https://open.spotify.com/artist/75Yso5HASCKo7rumWVJOXc"
   },
   {
+   "id": "ceaece66f316",
+   "headliner": "millennial falcon",
+   "openers": [
+    "The Over Unders"
+   ],
+   "date": "2027-01-08",
+   "start_time": "18:30",
+   "venue": "Underground Music Venue",
+   "venue_slug": "underground-music-venue",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43516581-millennial-falcon-at-underground-music-venue-cafe?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/2mOrgCck9vhUuwvgGWT3VN"
+  },
+  {
    "id": "7746a5bdc166",
    "headliner": "An Extra Special Tribute to Dolly Parton",
    "openers": [],
@@ -11907,7 +11626,7 @@
    "spotify": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
   },
   {
-   "id": "af4f97a974a1",
+   "id": "e8b26622ebaa",
    "headliner": "Denny Love",
    "openers": [],
    "date": "2027-01-15",
@@ -11916,8 +11635,6 @@
    "venue_slug": "fillmore-minneapolis",
    "city": "Minneapolis",
    "genre": "hip-hop/R&B",
-   "hidden_category": "residency",
-   "recurrence": "every Friday",
    "tickets": "https://www.ticketmaster.com/denny-love-show-love-tour-minneapolis-minnesota-01-15-2027/event/060064BDA02687E6",
    "source": "https://www.ticketmaster.com/denny-love-show-love-tour-minneapolis-minnesota-01-15-2027/event/060064BDA02687E6",
    "spotify": "https://open.spotify.com/artist/5jFKNogr2MCla7uSN1GHBa"
@@ -11988,6 +11705,18 @@
    "tickets": "https://www.axs.com/events/1560652/missio-tickets?skin=fineline",
    "source": "https://first-avenue.com/event/2027-01-missio/",
    "spotify": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+  },
+  {
+   "id": "21935f311ab7",
+   "headliner": "Hot Wheels Stunt Show",
+   "openers": [],
+   "date": "2027-01-16",
+   "start_time": null,
+   "venue": "Target Center",
+   "venue_slug": "target-center",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.targetcenter.com/events/detail/hotwheelsstuntshow"
   },
   {
    "id": "2dabbc624e74",
@@ -12507,6 +12236,41 @@
    "tickets": "https://www.livenation.com/event/vv17bZ_fGkVb8lrD/effin-heartbeats-tour",
    "source": "https://www.livenation.com/event/vv17bZ_fGkVb8lrD/effin-heartbeats-tour",
    "spotify": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+  },
+  {
+   "id": "af5806f566d1",
+   "headliner": "Corey Kent",
+   "openers": [
+    "Tyler Nance"
+   ],
+   "date": "2027-02-05",
+   "start_time": "19:00",
+   "venue": "Varsity Theater",
+   "venue_slug": "varsity-theater",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "price": "$33.15",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vv1AkZkfNGkdwKd1p/corey-kent-s-heartland-rock-and-roll-tour-2027",
+   "source": "https://www.livenation.com/event/vv1AkZkfNGkdwKd1p/corey-kent-s-heartland-rock-and-roll-tour-2027",
+   "spotify": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+  },
+  {
+   "id": "e9ff68899d7d",
+   "headliner": "Pancho Barraza",
+   "openers": [
+    "Zamora Live"
+   ],
+   "date": "2027-02-05",
+   "start_time": "21:00",
+   "venue": "Myth Live",
+   "venue_slug": "myth-live",
+   "city": "Maplewood",
+   "genre": "unknown",
+   "doors_time": "20:00",
+   "tickets": "https://ticketon.com/en/events/pancho-barraza-en-maplewood-maplewood-mn-2027-02-05-vwgcwlvcdsvd",
+   "source": "https://mythlive.com/event/pancho-barraza-2/",
+   "spotify": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
   }
  ]
 }

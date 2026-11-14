@@ -1,11 +1,11 @@
 # Underground Music Venue (Minneapolis): upcoming shows
 
-13 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+15 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
 
-- **When the Sun Sets w/ Halfway Down, Wolf Rd (CHI), Feels Good (NE), Portside Dive** · 18:00 · rock/indie · $19.62 · [tickets](https://link.dice.fm/Kf41d5286cff?utm_source=jambase) [info](https://dice.fm/event/6aadbc97cef0bb00016257e2) [spotify](https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4)
+- **When the Sun Sets w/ Halfway Down, Wolf Rd (CHI), Feels Good (NE), Portside Dive** · 18:00 · rock/indie · $31.73 · [tickets](https://link.dice.fm/Kf41d5286cff?utm_source=jambase) [info](https://dice.fm/event/6aadbc97cef0bb00016257e2) [spotify](https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4)
 - **Keenan TreVon** · 19:00 · hip-hop/R&B · $20 · [info](https://www.jambase.com/show/keenan-trevon-underground-music-venue-cafe-20261114) [spotify](https://open.spotify.com/artist/3TRl3Kgn8RGc0sw5QDOMsW)
 
 ## Sunday, November 15, 2026
@@ -41,6 +41,14 @@
 
 - **Boy Hero w/ more!, Virginia's Basement, Gauze** · 17:00 · metal/punk · $25.97 · [tickets](https://link.dice.fm/c034be066d89?utm_source=jambase) [info](https://dice.fm/event/6ad96282aa2460000131bfab) [spotify](https://open.spotify.com/artist/6I924s6x4qnOU181EbSGls)
 - **North By North w/ 1947** · 19:00 · unknown · $12 · [tickets](https://link.dice.fm/xd81001a0cb4?utm_source=jambase) [info](https://www.jambase.com/show/north-by-north-underground-music-venue-cafe-20261212) [spotify](https://open.spotify.com/artist/5IoXcA5DIDSG0QlNNoqQdZ)
+
+## Saturday, December 19, 2026
+
+- **Emo Night! w/ Loudernow** · 18:30 · unknown · $19.62 · [tickets](https://dice.fm/event/6af69aabc4992d00014aa81a) [info](https://dice.fm/event/6af69aabc4992d00014aa81a)
+
+## Friday, January 8, 2027
+
+- **millennial falcon w/ The Over Unders** · 18:30 · unknown · [info](https://www.songkick.com/concerts/43516581-millennial-falcon-at-underground-music-venue-cafe?utm_medium=organic&utm_source=microformat) [spotify](https://open.spotify.com/artist/2mOrgCck9vhUuwvgGWT3VN)
 
 ## Saturday, January 16, 2027
 

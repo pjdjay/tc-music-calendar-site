@@ -1,41 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Dubliner Pub",
  "city": "St. Paul",
- "count": 23,
+ "count": 22,
  "shows": [
-  {
-   "id": "0ea668345a46",
-   "headliner": "Irish Music Session",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "18:00",
-   "venue": "Dubliner Pub",
-   "venue_slug": "dubliner-pub",
-   "city": "St. Paul",
-   "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every Friday",
-   "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-13"
-  },
-  {
-   "id": "4bc5f89a11c4",
-   "headliner": "Northerly Gales",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "21:00",
-   "venue": "Dubliner Pub",
-   "venue_slug": "dubliner-pub",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://thedublinerpub.com/show/northerly-gales/?lre_date=2026-11-13",
-   "spotify": "https://open.spotify.com/artist/1clNkdGKPKDJXqHMcnKLxO"
-  },
   {
    "id": "8d15a5641854",
    "headliner": "The Langer’s Ball",
@@ -139,6 +112,20 @@
    "genre": "metal/punk",
    "source": "https://thedublinerpub.com/show/devil-dodger/?lre_date=2026-11-19",
    "spotify": "https://open.spotify.com/artist/2D5VEHBsI887Cws9NjwXgG"
+  },
+  {
+   "id": "0ea668345a46",
+   "headliner": "Irish Music Session",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "18:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "hidden_category": "residency",
+   "recurrence": "every Friday",
+   "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-20"
   },
   {
    "id": "90dc1c5d83f3",

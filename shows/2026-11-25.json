@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-25",
- "count": 24,
+ "count": 25,
  "shows": [
   {
    "id": "ba8ef2fea3ff",
@@ -336,6 +336,19 @@
    "genre": "Latin",
    "tickets": "https://www.eventbrite.com/e/salsa-del-soul-thanksgiving-eve-with-dj-william-el-buenon-and-free-lessons-tickets-2003357228399",
    "source": "https://www.eventbrite.com/e/salsa-del-soul-thanksgiving-eve-with-dj-william-el-buenon-and-free-lessons-tickets-2003357228399"
+  },
+  {
+   "id": "d5cd09408ce1",
+   "headliner": "DJ Espada",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "21:00",
+   "venue": "Mystic Lake free stages",
+   "venue_slug": "mystic-lake-free-stages",
+   "city": "Prior Lake",
+   "genre": "unknown",
+   "hidden_category": "dj_night",
+   "source": "https://mysticlake.com/shows-and-events/dj-espada-nov25"
   },
   {
    "id": "46e7db1a7d69",

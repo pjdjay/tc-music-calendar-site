@@ -1,15 +1,11 @@
 # Cloudland Theater (Minneapolis): upcoming shows
 
-6 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+6 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Tightwire w/ Canadian Rifle, Visual Learner** · 19:30 · metal/punk · $9.44 · [info](https://www.jambase.com/show/tightwire-cloudland-theater-20261113) [spotify](https://open.spotify.com/artist/1wcg79njXMG7Yn8nXYqP8K)
 
 ## Saturday, November 14, 2026
 
-- **The 241's w/ The Chair, Jeffrey Robert Larson, The Kings of Neon, Eli Bentley** · 19:30 · country/folk/Americana · $12 · [tickets](https://dice.fm/event/6ac7c4b3399cf100018b6a45) [info](https://dice.fm/event/6ac7c4b3399cf100018b6a45) [spotify](https://open.spotify.com/artist/65Q2D9P4IDTl8QL1tKYjKt)
+- **The 241's w/ The Chair, Jeffrey Robert Larson, The Kings of Neon, Eli Bentley** · 19:30 · country/folk/Americana · $15 · [tickets](https://dice.fm/event/6ac7c4b3399cf100018b6a45) [info](https://dice.fm/event/6ac7c4b3399cf100018b6a45) [spotify](https://open.spotify.com/artist/65Q2D9P4IDTl8QL1tKYjKt)
 
 ## Tuesday, November 17, 2026
 
@@ -26,5 +22,9 @@
 ## Saturday, December 5, 2026
 
 - **Lapeche w/ Endearments, Spaceport** · 19:30 · unknown · $13 · [tickets](https://dice.fm/event/6abd21ad6904e2000120781a) [info](https://dice.fm/event/6abd21ad6904e2000120781a) [spotify](https://open.spotify.com/artist/05C4NTbWKEoEQs3VchkSlL)
+
+## Friday, December 11, 2026
+
+- **Sophie Hiroko w/ GR3G, Willem Dafoe Fan Club** · 19:30 · unknown · $12 · [tickets](https://dice.fm/event/6a9f4df19c734500015b50d8) [info](https://dice.fm/event/6a9f4df19c734500015b50d8) [spotify](https://open.spotify.com/artist/1oaS0HlgrPV67WVH7FN8BR)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

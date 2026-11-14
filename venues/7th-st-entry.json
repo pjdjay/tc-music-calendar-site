@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,24 +9,6 @@
  "city": "Minneapolis",
  "count": 22,
  "shows": [
-  {
-   "id": "434001485f02",
-   "headliner": "Francis of Delirium",
-   "openers": [
-    "clovers daughter"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "7th St Entry",
-   "venue_slug": "7th-st-entry",
-   "city": "Minneapolis",
-   "genre": "rock/indie",
-   "doors_time": "19:00",
-   "age": "18+",
-   "tickets": "https://www.axs.com/events/1415424/francis-of-delirium-tickets?skin=firstavenue",
-   "source": "https://first-avenue.com/event/2026-11-francis-of-delirium/",
-   "spotify": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
-  },
   {
    "id": "0546c9dd633d",
    "headliner": "LUCY (Cooper B. Handy)",
@@ -398,6 +380,23 @@
    "tickets": "https://www.axs.com/events/1649776/north-innsbruck-tickets?skin=firstavenue",
    "source": "https://first-avenue.com/event/2026-12-north-innsbruck/",
    "spotify": "https://open.spotify.com/artist/59e5fSGQev3PyHlEkRuHly"
+  },
+  {
+   "id": "8560fe43e9a8",
+   "headliner": "Late Night Thoughts",
+   "openers": [
+    "Elias Hix"
+   ],
+   "date": "2026-12-11",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1580323/late-night-thoughts-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-late-night-thoughts/"
   }
  ]
 }

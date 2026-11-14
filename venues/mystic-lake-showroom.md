@@ -1,11 +1,7 @@
 # Mystic Lake Showroom (Prior Lake): upcoming shows
 
-11 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+10 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Josh Turner w/ Will Jones** · 20:00 · country/folk/Americana · [tickets](https://www.ticketmaster.com/event/060064FEDD109E60?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_JOSHTURNERFY26) [info](https://mysticlake.com/shows-and-events/josh-turner) [spotify](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT)
 
 ## Saturday, November 14, 2026
 

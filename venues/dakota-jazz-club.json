@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,21 +9,6 @@
  "city": "Minneapolis",
  "count": 35,
  "shows": [
-  {
-   "id": "cfdf37358774",
-   "headliner": "Lucinda Williams",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Dakota Jazz Club",
-   "venue_slug": "dakota-jazz-club",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "price": "$108.90+",
-   "is_free": false,
-   "source": "https://www.dakotacooks.com/event/an-evening-with-lucinda-williams-her-band-nov-2026/2026-11-13/",
-   "spotify": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-  },
   {
    "id": "2de6fa3d9bda",
    "headliner": "Lucinda Williams",
@@ -525,6 +510,20 @@
    "price": "$52.25+",
    "is_free": false,
    "source": "https://www.dakotacooks.com/event/esera-tuaolo-act-of-kindness-holiday-show-dec9-2026/"
+  },
+  {
+   "id": "b609ef36f4b5",
+   "headliner": "Karrin Allyson",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "19:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "jazz/blues",
+   "price": "$41.95+",
+   "is_free": false,
+   "source": "https://www.dakotacooks.com/event/karrin-allyson-yuletide-hideaway-dec11-2026/"
   }
  ]
 }

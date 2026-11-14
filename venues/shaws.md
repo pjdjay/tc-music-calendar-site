@@ -1,11 +1,7 @@
 # Shaws (Minneapolis): upcoming shows
 
-3 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+2 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **WailTale** · 20:00 · unknown · [info](https://www.facebook.com/events/1579681023459235/)
 
 ## Saturday, November 21, 2026
 

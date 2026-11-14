@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-27",
- "count": 38,
+ "count": 39,
  "shows": [
   {
    "id": "b0d56ac0487d",
@@ -517,6 +517,23 @@
    "age": "18+",
    "tickets": "https://www.axs.com/events/1619547/cnt-oclock-tickets?skin=firstavenue",
    "source": "https://first-avenue.com/event/2026-11-cnt-oclock/"
+  },
+  {
+   "id": "161ae76d1f98",
+   "headliner": "Dead On Board",
+   "openers": [
+    "Maggy",
+    "The Skanks",
+    "Muffstache"
+   ],
+   "date": "2026-11-27",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-11-28",
+   "source": "https://whitesquirrelbar.com/event/dead-on-board/"
   },
   {
    "id": "1ab653018248",

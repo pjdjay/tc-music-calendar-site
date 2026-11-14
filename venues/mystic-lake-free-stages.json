@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,31 +9,6 @@
  "city": "Prior Lake",
  "count": 13,
  "shows": [
-  {
-   "id": "7409013022fc",
-   "headliner": "Tim Sigler",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": null,
-   "venue": "Mystic Lake free stages",
-   "venue_slug": "mystic-lake-free-stages",
-   "city": "Prior Lake",
-   "genre": "unknown",
-   "source": "https://mysticlake.com/shows-and-events/tim-sigler-nov13",
-   "spotify": "https://open.spotify.com/artist/6QEDr6ezgBUnkhNKnCJOfE"
-  },
-  {
-   "id": "2af96c32b22f",
-   "headliner": "Paul James Nauman",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "21:00",
-   "venue": "Mystic Lake free stages",
-   "venue_slug": "mystic-lake-free-stages",
-   "city": "Prior Lake",
-   "genre": "unknown",
-   "source": "https://mysticlake.com/shows-and-events/paul-james-nauman-nov13"
-  },
   {
    "id": "62a04a20a3dd",
    "headliner": "DJ Smooth Blendz",
@@ -88,6 +63,19 @@
    "source": "https://mysticlake.com/shows-and-events/the-r-factor-nov20"
   },
   {
+   "id": "7c44d9d54fe8",
+   "headliner": "DJ Bob",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "21:00",
+   "venue": "Mystic Lake free stages",
+   "venue_slug": "mystic-lake-free-stages",
+   "city": "Prior Lake",
+   "genre": "unknown",
+   "hidden_category": "dj_night",
+   "source": "https://mysticlake.com/shows-and-events/dj-bob-nov20"
+  },
+  {
    "id": "57e83775fc80",
    "headliner": "DJ Diesel",
    "openers": [],
@@ -125,6 +113,19 @@
    "genre": "unknown",
    "hidden_category": "dj_night",
    "source": "https://mysticlake.com/shows-and-events/dj-stjoel-nov25"
+  },
+  {
+   "id": "d5cd09408ce1",
+   "headliner": "DJ Espada",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "21:00",
+   "venue": "Mystic Lake free stages",
+   "venue_slug": "mystic-lake-free-stages",
+   "city": "Prior Lake",
+   "genre": "unknown",
+   "hidden_category": "dj_night",
+   "source": "https://mysticlake.com/shows-and-events/dj-espada-nov25"
   },
   {
    "id": "2c38c9378a23",

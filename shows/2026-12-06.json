@@ -1,13 +1,25 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-06",
- "count": 24,
+ "count": 25,
  "shows": [
+  {
+   "id": "29f9b33178c3",
+   "headliner": "BODYCAM (mpls)",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": null,
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43515735-bodycam-mpls-at-zhora-darling?utm_medium=organic&utm_source=microformat"
+  },
   {
    "id": "9bca9656bd59",
    "headliner": "Annual Tree Lighting Celebration! 4pm-8pm",

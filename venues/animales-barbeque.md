@@ -1,15 +1,15 @@
 # Animales Barbeque (Minneapolis): upcoming shows
 
-5 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+5 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Funk Friday w/ Big Fat Money** · 19:30 · unknown · every Friday · residency · [info](https://animalesbbq.com/calendar/funk-friday-big-fat-money-november-2026)
 
 ## Saturday, November 14, 2026
 
 - **Drew Peterson** · 19:30 · unknown · [info](https://animalesbbq.com/calendar/drew-peterson-november-2026)
+
+## Friday, November 20, 2026
+
+- **Funk Friday w/ ART Dept.** · 19:30 · unknown · every Friday · residency · [info](https://animalesbbq.com/calendar/arts-dept-nov-2026)
 
 ## Saturday, November 28, 2026
 

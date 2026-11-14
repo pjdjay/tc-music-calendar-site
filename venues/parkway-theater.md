@@ -1,11 +1,7 @@
 # Parkway Theater (Minneapolis): upcoming shows
 
-23 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+22 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Amythyst Kiah w/ Buffalo Nichols** · 19:30 · country/folk/Americana · $25 Advance / $30 At The Door · [tickets](https://link.dice.fm/sba5423f8fd0) [info](https://theparkwaytheater.com/all-events/amythyst-nov-26) [spotify](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl)
 
 ## Saturday, November 14, 2026
 

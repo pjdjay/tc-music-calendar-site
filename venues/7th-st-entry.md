@@ -1,11 +1,7 @@
 # 7th St Entry (Minneapolis): upcoming shows
 
-22 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+22 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Francis of Delirium w/ clovers daughter** · 20:00 · rock/indie · 18+ · [tickets](https://www.axs.com/events/1415424/francis-of-delirium-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2026-11-francis-of-delirium/) [spotify](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif)
 
 ## Saturday, November 14, 2026
 
@@ -84,5 +80,9 @@
 ## Thursday, December 10, 2026
 
 - **North Innsbruck w/ wolfbabycup, Cheap Glue, dj shane kramer** · 19:30 · unknown · 18+ · [tickets](https://www.axs.com/events/1649776/north-innsbruck-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2026-12-north-innsbruck/) [spotify](https://open.spotify.com/artist/59e5fSGQev3PyHlEkRuHly)
+
+## Friday, December 11, 2026
+
+- **Late Night Thoughts w/ Elias Hix** · 20:00 · unknown · 18+ · [tickets](https://www.axs.com/events/1580323/late-night-thoughts-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2026-12-late-night-thoughts/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

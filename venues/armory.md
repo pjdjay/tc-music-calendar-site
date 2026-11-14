@@ -1,11 +1,7 @@
 # Armory (Minneapolis): upcoming shows
 
-9 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+8 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Russell Dickerson** · 19:30 · country/folk/Americana · $50 · [tickets](https://www.livenation.com/event/vv17bZ_8GkRLhXsi/russell-dickerson) [info](https://www.livenation.com/event/vv17bZ_8GkRLhXsi/russell-dickerson) [spotify](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw)
 
 ## Friday, November 20, 2026
 

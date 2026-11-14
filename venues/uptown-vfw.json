@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,25 +9,6 @@
  "city": "Minneapolis",
  "count": 9,
  "shows": [
-  {
-   "id": "1da639e3e016",
-   "headliner": "Mustard Plug",
-   "openers": [
-    "Space Monkey Mafia",
-    "Devon Kay & the Solutions"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Uptown VFW",
-   "venue_slug": "uptown-vfw",
-   "city": "Minneapolis",
-   "genre": "metal/punk",
-   "doors_time": "20:00",
-   "age": "21+",
-   "tickets": "https://app.opendate.io/e/mustard-plug-w-special-guests-devon-kay-the-solutions-space-monkey-mafia-november-13-2026-711681?default_theme=true",
-   "source": "https://app.opendate.io/e/mustard-plug-w-special-guests-devon-kay-the-solutions-space-monkey-mafia-november-13-2026-711681?default_theme=true",
-   "spotify": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-  },
   {
    "id": "d3d3e2735d9c",
    "headliner": "T La Shawn: Another One Around The Sun",
@@ -112,10 +93,10 @@
    "source": "https://app.opendate.io/e/off-with-their-heads-hospitals-20th-anniversary-family-reunion-november-28-2026-759210?default_theme=true"
   },
   {
-   "id": "dd9d9a91bfa0",
-   "headliner": "Heat on Beat",
+   "id": "b106b18fdcf1",
+   "headliner": "Heat on Beat and Elite EDM present KLIPTIC",
    "openers": [
-    "Kliptic",
+    "local support with Kliptic",
     "Cyclone Dubs",
     "Lost Ambitions",
     "Flowerrr",
@@ -129,8 +110,8 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "doors_time": "21:00",
-   "tickets": "https://app.opendate.io/e/heat-on-beat-november-28-2026-784836?default_theme=true",
-   "source": "https://app.opendate.io/e/heat-on-beat-november-28-2026-784836?default_theme=true"
+   "tickets": "https://app.opendate.io/e/heat-on-beat-and-elite-edm-present-kliptic-with-local-support-november-28-2026-784836?default_theme=true",
+   "source": "https://app.opendate.io/e/heat-on-beat-and-elite-edm-present-kliptic-with-local-support-november-28-2026-784836?default_theme=true"
   },
   {
    "id": "f940693137db",
@@ -166,6 +147,21 @@
    "tickets": "https://app.opendate.io/e/scott-h-biram-december-07-2026-754264?default_theme=true",
    "source": "https://app.opendate.io/e/scott-h-biram-december-07-2026-754264?default_theme=true",
    "spotify": "https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf"
+  },
+  {
+   "id": "ccf32cdfca32",
+   "headliner": "Vampiros",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "22:00",
+   "venue": "Uptown VFW",
+   "venue_slug": "uptown-vfw",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "22:00",
+   "tickets": "https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true",
+   "source": "https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true",
+   "spotify": "https://open.spotify.com/artist/3ollyUMlBmeookjESaJu5Z"
   }
  ]
 }

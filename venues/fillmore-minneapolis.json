@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -172,7 +172,7 @@
    "spotify": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
   },
   {
-   "id": "af4f97a974a1",
+   "id": "e8b26622ebaa",
    "headliner": "Denny Love",
    "openers": [],
    "date": "2027-01-15",
@@ -181,8 +181,6 @@
    "venue_slug": "fillmore-minneapolis",
    "city": "Minneapolis",
    "genre": "hip-hop/R&B",
-   "hidden_category": "residency",
-   "recurrence": "every Friday",
    "tickets": "https://www.ticketmaster.com/denny-love-show-love-tour-minneapolis-minnesota-01-15-2027/event/060064BDA02687E6",
    "source": "https://www.ticketmaster.com/denny-love-show-love-tour-minneapolis-minnesota-01-15-2027/event/060064BDA02687E6",
    "spotify": "https://open.spotify.com/artist/5jFKNogr2MCla7uSN1GHBa"

@@ -1,13 +1,7 @@
 # Berlin (Minneapolis): upcoming shows
 
-27 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+27 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Early Evening Jazz: Jason Fabus Plays & Sings** · 16:30 · jazz/blues · NO COVER · [info](https://www.berlinmpls.com/calendar/jason-fabus-plays-and-sings-november-2026)
-- **Alyssa Allgood Quartet** · 19:30 · jazz/blues · $25 · [info](https://www.berlinmpls.com/calendar/alyssa-allgood-quartet-november-2026)
-- **Late Night Lounge: JEN-E** · 22:30 · unknown · $5 at the Door · dj night · [info](https://www.berlinmpls.com/calendar/late-night-lounge-jen-e-november-2026)
 
 ## Saturday, November 14, 2026
 
@@ -71,5 +65,11 @@
 
 - **Blue Earth Sound** · 19:30 · unknown · $20 · [info](https://www.berlinmpls.com/calendar/blue-earth-sound-december-2026) [spotify](https://open.spotify.com/artist/4PnTOlwNb4uJPI4aWVXQrE)
 - **Late Night Lounge: DJ Maracuya** · 22:30 · unknown · $5 at the Door · dj night · [info](https://www.berlinmpls.com/calendar/late-night-lounge-dj-maracuya-december-2026)
+
+## Friday, December 11, 2026
+
+- **Early Evening Jazz: Adam Harder Nussbaum Trio** · 16:15 · unknown · NO COVER · [info](https://www.berlinmpls.com/calendar/early-evening-jazz-adam-harder-nussbaum-trio-dec-2026)
+- **Jakob Dreyer Quartet w/ Sasha Berliner** · 19:00 · unknown · $30 · [info](https://www.berlinmpls.com/calendar/jakob-dreyer-quartet-december-2026)
+- **Late Night Lounge: Shehrzad** · 22:30 · unknown · $5 at the Door · dj night · [info](https://www.berlinmpls.com/calendar/late-night-lounge-shehrzad-dec-2026)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

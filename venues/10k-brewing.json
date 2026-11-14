@@ -1,26 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "10K Brewing",
  "city": "Anoka",
- "count": 8,
+ "count": 7,
  "shows": [
-  {
-   "id": "3a686d2c204e",
-   "headliner": "Christopher Hanson",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "10K Brewing",
-   "venue_slug": "10k-brewing",
-   "city": "Anoka",
-   "genre": "unknown",
-   "source": "https://10kbrew.com/event/live-music-christopher-hanson-3/"
-  },
   {
    "id": "3e1949588b6f",
    "headliner": "Dan Ferstenou",

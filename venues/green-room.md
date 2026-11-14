@@ -1,11 +1,7 @@
 # Green Room (Minneapolis): upcoming shows
 
-13 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+13 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Cristian Baca w/ Chalant** · 21:00 · unknown · 18+ · [tickets](https://tickets.venuepilot.com/e/mi-casa-party-presents-chalant-2026-11-13-green-room-minneapolis-6302f7?utm_source=jambase) [info](https://www.greenroommn.com/events#/events/188640) [spotify](https://open.spotify.com/artist/4miDfAjmZF6tgpRZRVgL3Y)
 
 ## Saturday, November 14, 2026
 
@@ -48,5 +44,9 @@
 ## Tuesday, December 8, 2026
 
 - **New Band Night #43 w/ Anxiety Society, Noah Schmitt, Checkered Future, Remy Chacón** · 19:00 · unknown · 18+ · [tickets](https://tickets.venuepilot.com/e/new-band-night-44-2026-12-08-green-room-minneapolis-479588) [info](https://www.greenroommn.com/events#/events/194938)
+
+## Friday, December 11, 2026
+
+- **HEYZ** · 22:00 · unknown · 18+ · [tickets](https://simshows.com/events/heyzsomethingdifferent/) [info](https://www.greenroommn.com/events#/events/194563) [spotify](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

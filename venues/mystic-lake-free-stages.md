@@ -1,12 +1,7 @@
 # Mystic Lake free stages (Prior Lake): upcoming shows
 
-13 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+13 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Tim Sigler** · time TBA · unknown · [info](https://mysticlake.com/shows-and-events/tim-sigler-nov13) [spotify](https://open.spotify.com/artist/6QEDr6ezgBUnkhNKnCJOfE)
-- **Paul James Nauman** · 21:00 · unknown · [info](https://mysticlake.com/shows-and-events/paul-james-nauman-nov13)
 
 ## Saturday, November 14, 2026
 
@@ -20,6 +15,7 @@
 ## Friday, November 20, 2026
 
 - **The R Factor** · time TBA · unknown · [info](https://mysticlake.com/shows-and-events/the-r-factor-nov20)
+- **DJ Bob** · 21:00 · unknown · dj night · [info](https://mysticlake.com/shows-and-events/dj-bob-nov20)
 
 ## Saturday, November 21, 2026
 
@@ -29,6 +25,7 @@
 ## Wednesday, November 25, 2026
 
 - **Deejay St. Joel** · time TBA · unknown · dj night · [info](https://mysticlake.com/shows-and-events/dj-stjoel-nov25)
+- **DJ Espada** · 21:00 · unknown · dj night · [info](https://mysticlake.com/shows-and-events/dj-espada-nov25)
 
 ## Friday, November 27, 2026
 

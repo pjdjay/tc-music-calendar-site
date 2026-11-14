@@ -1,11 +1,7 @@
 # First Avenue (Minneapolis): upcoming shows
 
-26 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+25 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Julia Jacklin w/ Jordan Patterson** · 20:00 · rock/indie · 18+ · [tickets](https://www.axs.com/events/1469576/julia-jacklin-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2026-11-julia-jacklin/) [spotify](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g)
 
 ## Saturday, November 14, 2026
 
@@ -13,7 +9,7 @@
 
 ## Sunday, November 15, 2026
 
-- **Hurricane Wisdom** · 19:30 · rock/indie · all ages · [tickets](https://www.axs.com/events/1566065/hurricane-wisdom-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2026-11-hurricane-wisdom/) [spotify](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7)
+- **Hurricane Wisdom w/ DJ Hitman, Quantrell, Sqweez** · 19:30 · rock/indie · all ages · [tickets](https://www.axs.com/events/1566065/hurricane-wisdom-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2026-11-hurricane-wisdom/) [spotify](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7)
 
 ## Thursday, November 19, 2026
 

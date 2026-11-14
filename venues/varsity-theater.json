@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,19 +9,6 @@
  "city": "Minneapolis",
  "count": 22,
  "shows": [
-  {
-   "id": "ede4e1e1042a",
-   "headliner": "Boots 'N Beats",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Varsity Theater",
-   "venue_slug": "varsity-theater",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "tickets": "https://www.ticketmaster.com/boots-n-beats-a-night-of-minneapolis-minnesota-11-13-2026/event/0600653983A06D09",
-   "source": "https://www.livenation.com/event/vv1kbZ_KJdG7IkVa/boots-n-beats-a-night-of-country-edm"
-  },
   {
    "id": "55e264c41aca",
    "headliner": "Fox Stevenson",
@@ -105,7 +92,7 @@
    "genre": "pop",
    "price": "$41.85",
    "is_free": false,
-   "tickets": "https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks",
+   "tickets": "https://www.ticketmaster.com/giant-rooks-minneapolis-minnesota-11-20-2026/event/060064A6C5D63E6F",
    "source": "https://www.livenation.com/event/vvG1bZ_1hAgNyR/giant-rooks",
    "spotify": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
   },
@@ -370,6 +357,24 @@
    "tickets": "https://www.livenation.com/event/vv17bZ_fGkVb8lrD/effin-heartbeats-tour",
    "source": "https://www.livenation.com/event/vv17bZ_fGkVb8lrD/effin-heartbeats-tour",
    "spotify": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+  },
+  {
+   "id": "af5806f566d1",
+   "headliner": "Corey Kent",
+   "openers": [
+    "Tyler Nance"
+   ],
+   "date": "2027-02-05",
+   "start_time": "19:00",
+   "venue": "Varsity Theater",
+   "venue_slug": "varsity-theater",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "price": "$33.15",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vv1AkZkfNGkdwKd1p/corey-kent-s-heartland-rock-and-roll-tour-2027",
+   "source": "https://www.livenation.com/event/vv1AkZkfNGkdwKd1p/corey-kent-s-heartland-rock-and-roll-tour-2027",
+   "spotify": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
   }
  ]
 }

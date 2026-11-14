@@ -1,11 +1,7 @@
 # Orchestra Hall (Minneapolis): upcoming shows
 
-27 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+26 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Minnesota Orchestra: Nordic Soundscapes Festival: Vänskä, Chen and Nielsen** · 20:00 · classical · [tickets](https://www.ticketmaster.com/event/Z7r9jZ1AAZpbO) [info](https://www.ticketmaster.com/event/Z7r9jZ1AAZpbO) [spotify](https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn)
 
 ## Saturday, November 14, 2026
 

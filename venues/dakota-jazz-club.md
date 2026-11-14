@@ -1,11 +1,7 @@
 # Dakota Jazz Club (Minneapolis): upcoming shows
 
-35 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+35 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Lucinda Williams** · 19:00 · country/folk/Americana · $108.90+ · [info](https://www.dakotacooks.com/event/an-evening-with-lucinda-williams-her-band-nov-2026/2026-11-13/) [spotify](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP)
 
 ## Saturday, November 14, 2026
 
@@ -118,5 +114,9 @@
 ## Wednesday, December 9, 2026
 
 - **Esera Tuaolo** · 19:00 · unknown · $52.25+ · [info](https://www.dakotacooks.com/event/esera-tuaolo-act-of-kindness-holiday-show-dec9-2026/)
+
+## Friday, December 11, 2026
+
+- **Karrin Allyson** · 19:00 · jazz/blues · $41.95+ · [info](https://www.dakotacooks.com/event/karrin-allyson-yuletide-hideaway-dec11-2026/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

@@ -1,34 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Memory Lanes",
  "city": "Minneapolis",
- "count": 7,
+ "count": 6,
  "shows": [
-  {
-   "id": "72603516cfaa",
-   "headliner": "Snatch",
-   "openers": [
-    "Refute",
-    "Red Lovely",
-    "Getting Worse"
-   ],
-   "date": "2026-11-13",
-   "start_time": "20:00",
-   "venue": "Memory Lanes",
-   "venue_slug": "memory-lanes",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "19:00",
-   "price": "$10",
-   "is_free": false,
-   "source": "https://www.memorylanes.com/live-music-events-minneapolis/",
-   "spotify": "https://open.spotify.com/artist/6L2p76oJHEBOAq6ejA2huz"
-  },
   {
    "id": "f61cb8d99e8f",
    "headliner": "Doric",

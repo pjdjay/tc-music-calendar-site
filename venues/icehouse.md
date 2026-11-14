@@ -1,12 +1,7 @@
 # Icehouse (Minneapolis): upcoming shows
 
-19 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+18 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Jaspar Lepak Album Release Concert: We Are All Travelers Here** · 19:30 · country/folk/Americana · $18 adv / $25 door · 18+ · [tickets](https://icehouse.turntabletickets.com/shows/13159/2026-11-13?utm_source=icehousempls.com&utm_medium=website&utm_campaign=jaspar-lepak-20261113) [info](https://www.icehousempls.com/shows/jaspar-lepak-album-release-concert-we-are-all-travelers-here/)
-- **Fever Dream** · 22:00 · unknown · No cover · 21+ · [info](https://www.icehousempls.com/shows/fever-dream/) [spotify](https://open.spotify.com/artist/1Mj2pu4aK6YHBnekTAp2b0)
 
 ## Saturday, November 14, 2026
 
@@ -69,5 +64,9 @@
 ## Wednesday, December 9, 2026
 
 - **cool nel d and Ciao Bello** · 20:00 · unknown · $15 adv / $20 door · 21+ · [tickets](https://tix.gobo.show/events/event/zpw0phWZap161NFPmOss/dates/4AGJzX8WGlqOtGHX5urF?utm_source=icehousempls.com&utm_medium=website&utm_campaign=ciao-bello-20261209) [info](https://www.icehousempls.com/shows/cool-ned-d-and-ciao-bello/)
+
+## Friday, December 11, 2026
+
+- **The Seasons Show** · 20:00 · unknown · $15 adv / $22 door · 21+ · [tickets](https://tix.gobo.show/events/event/42gKPBbQOFaWYBlqUBCh/dates/YseogTXYWNVbrkqsBwyJ?utm_source=icehousempls.com&utm_medium=website&utm_campaign=kion-rose-20261211) [info](https://www.icehousempls.com/shows/kion-rose-presents-the-seasons-show/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

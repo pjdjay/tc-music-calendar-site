@@ -1,0 +1,47 @@
+{
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
+ "timezone": "America/Chicago",
+ "source": "https://music.tcshows.org/",
+ "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
+ "date": "2027-02-05",
+ "count": 2,
+ "shows": [
+  {
+   "id": "af5806f566d1",
+   "headliner": "Corey Kent",
+   "openers": [
+    "Tyler Nance"
+   ],
+   "date": "2027-02-05",
+   "start_time": "19:00",
+   "venue": "Varsity Theater",
+   "venue_slug": "varsity-theater",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "price": "$33.15",
+   "is_free": false,
+   "tickets": "https://www.livenation.com/event/vv1AkZkfNGkdwKd1p/corey-kent-s-heartland-rock-and-roll-tour-2027",
+   "source": "https://www.livenation.com/event/vv1AkZkfNGkdwKd1p/corey-kent-s-heartland-rock-and-roll-tour-2027",
+   "spotify": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+  },
+  {
+   "id": "e9ff68899d7d",
+   "headliner": "Pancho Barraza",
+   "openers": [
+    "Zamora Live"
+   ],
+   "date": "2027-02-05",
+   "start_time": "21:00",
+   "venue": "Myth Live",
+   "venue_slug": "myth-live",
+   "city": "Maplewood",
+   "genre": "unknown",
+   "doors_time": "20:00",
+   "tickets": "https://ticketon.com/en/events/pancho-barraza-en-maplewood-maplewood-mn-2027-02-05-vwgcwlvcdsvd",
+   "source": "https://mythlive.com/event/pancho-barraza-2/",
+   "spotify": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+  }
+ ]
+}

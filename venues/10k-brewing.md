@@ -1,11 +1,7 @@
 # 10K Brewing (Anoka): upcoming shows
 
-8 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+7 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **Christopher Hanson** · 19:00 · unknown · [info](https://10kbrew.com/event/live-music-christopher-hanson-3/)
 
 ## Saturday, November 14, 2026
 

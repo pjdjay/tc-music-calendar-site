@@ -1,26 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Inbound BrewCo",
  "city": "Minneapolis",
- "count": 3,
+ "count": 2,
  "shows": [
-  {
-   "id": "608265803ddb",
-   "headliner": "The Confused",
-   "openers": [],
-   "date": "2026-11-13",
-   "start_time": "19:00",
-   "venue": "Inbound BrewCo",
-   "venue_slug": "inbound-brewco",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://inboundbrew.co/taproom-events"
-  },
   {
    "id": "41aa17ac459b",
    "headliner": "Nick Elstad Band",

@@ -1,32 +1,14 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Parkway Theater",
  "city": "Minneapolis",
- "count": 23,
+ "count": 22,
  "shows": [
-  {
-   "id": "b05faf600957",
-   "headliner": "Amythyst Kiah",
-   "openers": [
-    "Buffalo Nichols"
-   ],
-   "date": "2026-11-13",
-   "start_time": "19:30",
-   "venue": "Parkway Theater",
-   "venue_slug": "parkway-theater",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "price": "$25 Advance / $30 At The Door",
-   "is_free": false,
-   "tickets": "https://link.dice.fm/sba5423f8fd0",
-   "source": "https://theparkwaytheater.com/all-events/amythyst-nov-26",
-   "spotify": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-  },
   {
    "id": "4ec1f93ca839",
    "headliner": "Gasteyer // Sugar & Booze Holiday Spectacular",

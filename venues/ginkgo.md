@@ -1,11 +1,7 @@
 # Ginkgo (St. Paul): upcoming shows
 
-6 shows, 2026-11-13 to 2027-02-04. All shows: https://music.tcshows.org/shows.md
+6 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Friday, November 13, 2026
-
-- **JOAN** · 18:00 · unknown · [info](https://ginkgocoffee.com/event/joan/)
 
 ## Saturday, November 14, 2026
 
@@ -26,5 +22,9 @@
 ## Friday, December 4, 2026
 
 - **Cathie English** · 18:00 · unknown · [info](https://ginkgocoffee.com/event/cathie-english/)
+
+## Friday, December 11, 2026
+
+- **Miners and Gardeners** · 18:00 · unknown · [info](https://ginkgocoffee.com/event/miners-and-gardeners/) [spotify](https://open.spotify.com/artist/62HcBOzvFNSNgRj8lSJaih)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

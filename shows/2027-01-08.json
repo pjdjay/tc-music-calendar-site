@@ -1,13 +1,28 @@
 {
- "generated_at": "2026-11-13T07:53:02+00:00",
- "window_start": "2026-11-13",
- "window_end": "2027-02-04",
+ "generated_at": "2026-11-14T08:56:43+00:00",
+ "window_start": "2026-11-14",
+ "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2027-01-08",
- "count": 3,
+ "count": 4,
  "shows": [
+  {
+   "id": "ceaece66f316",
+   "headliner": "millennial falcon",
+   "openers": [
+    "The Over Unders"
+   ],
+   "date": "2027-01-08",
+   "start_time": "18:30",
+   "venue": "Underground Music Venue",
+   "venue_slug": "underground-music-venue",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.songkick.com/concerts/43516581-millennial-falcon-at-underground-music-venue-cafe?utm_medium=organic&utm_source=microformat",
+   "spotify": "https://open.spotify.com/artist/2mOrgCck9vhUuwvgGWT3VN"
+  },
   {
    "id": "7746a5bdc166",
    "headliner": "An Extra Special Tribute to Dolly Parton",
