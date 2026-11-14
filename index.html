@@ -199,9 +199,12 @@ footer{padding-top:16px;padding-bottom:24px;color:var(--muted);font-size:.8rem}
 .fsub{display:flex;flex-wrap:wrap;gap:0 16px;margin-top:6px}
 .flink{background:none;border:0;padding:10px 0;min-height:44px;font:inherit;color:var(--accent);text-decoration:underline;cursor:pointer}
 /* chooser and correction mode (DESIGN.md "Suggest chooser" and "Correction mode"): the pencil exists on every listed card but is display:none (no tab stop, no height) until html.cmode is on */
-.chooser{display:flex;flex-direction:column;gap:8px;margin:0 0 12px}
-.chooser button{font:inherit;font-weight:600;min-height:44px;padding:8px 16px;border-radius:var(--r-md);border:1px solid var(--accent);background:none;color:var(--accent);text-align:left;cursor:pointer}
-.chooser button:hover{background:var(--accent-soft)}
+fieldset.pick{margin:0 0 14px;padding:0;border:0;display:flex;flex-direction:column;gap:8px}
+fieldset.pick legend{padding:0;margin-bottom:8px;font-size:.9rem;color:var(--muted)}
+fieldset.pick label{display:flex;align-items:center;gap:12px;min-height:48px;padding:8px 14px;border:1px solid var(--line-2);border-radius:var(--r-md);background:var(--bg);cursor:pointer;font-weight:600}
+fieldset.pick label:has(input:checked){border-color:var(--accent);background:var(--accent-soft)}
+fieldset.pick input{width:20px;height:20px;margin:0;flex:none;accent-color:var(--accent)}
+fieldset.pick~.fbtns .go[disabled]{opacity:.5;cursor:not-allowed}
 .cbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin-top:10px;padding-top:0;padding-bottom:0}
 .cbar>*{min-width:0}
 .cbar .ctext{flex:1 1 200px;padding:8px 12px;border-radius:var(--r-md);background:var(--accent-soft);color:var(--ink);font-size:.85rem;font-weight:600}
@@ -709,7 +712,7 @@ var S=D.sub;
 if(!S||typeof S.u!=="string"||typeof S.k!=="string"||typeof HTMLDialogElement!=="function"||typeof fetch!=="function")return;
 var bar=el("div","fsub"),dlg=document.createElement("dialog"),widget=null,token="",busy=false,opener=null,tsQ=null,tsEl=null,tsMsg=null;
 dlg.className="subd";document.body.appendChild(dlg);
-var sbtn=el("button","flink","Suggest\u2026");sbtn.type="button";sbtn.setAttribute("aria-haspopup","dialog");sbtn.onclick=function(){openChooser(sbtn)};bar.appendChild(sbtn);
+var sbtn=el("button","flink","Make a suggestion");sbtn.type="button";sbtn.setAttribute("aria-haspopup","dialog");sbtn.onclick=function(){openChooser(sbtn)};bar.appendChild(sbtn);
 foot.appendChild(bar);
 var MSG={invalid:"Some details were not accepted. Please check them and try again.",rate_limited:"Too many suggestions from this connection. Please try again later.",
  verification_failed:"The spam check did not pass. Please complete it again and press Send."};
@@ -795,7 +798,7 @@ function corrFields(form,e,F){
  if(!orch)add("headliner","Headliner",{max:150,auto:"off"});
  add("openers","Openers",{max:300,auto:"off",note:"Separate names with commas. Clear the box to say there are none."});
  if(vs.indexOf(full)>=0){add("venue","Venue",{select:vs.map(function(v){return[v,v]}).concat([["__other","Other venue (not listed)\u2026"]])});
-  F.venue_other=field(form,"cor-venue_other","Venue name",{max:100,auto:"off",note:"This venue is not on my list yet. I will check it and add it. The show moves once it is added."});F.venue_other.wrap.hidden=true}
+  F.venue_other=field(form,"cor-venue_other","Venue name",{max:100,auto:"off",note:"This venue is not listed yet. It will be checked and added, and the show moves once it is."});F.venue_other.wrap.hidden=true}
  if(!resid)add("date","Date",{type:"date",min:todayISO()});
  add("start_time","Start time",{type:"time"});
  add("doors_time","Doors time",{type:"time",note:"Not shown on the page."});
@@ -841,17 +844,19 @@ function corrFields(form,e,F){
  }
  return{collect:collect,full:full,first:keys[0]};
 }
-function openChooser(btn){
+function openChooser(btn){   // a standard "choose one" picker: radio list, then Continue
  opener=btn;dlg.textContent="";busy=false;removeTs();
- var box=el("div","fbox"),h=el("h2",null,"Suggest\u2026");h.id="sub-title";dlg.setAttribute("aria-labelledby","sub-title");box.appendChild(h);
- box.appendChild(el("p","fhint","What would you like to tell me?"));
- var list=el("div","chooser"),first=null;
+ var box=el("div","fbox"),form=el("form"),h=el("h2",null,"Make a suggestion");h.id="sub-title";dlg.setAttribute("aria-labelledby","sub-title");box.appendChild(h);
+ var fs=el("fieldset","pick"),first=null,go=el("button","go","Continue"),no=el("button","no","Cancel");
+ fs.appendChild(el("legend",null,"What would you like to suggest?"));
  [["A show that's missing","show"],["A fix to a listed show","correction"],["A feature","feature"]].forEach(function(o){
-  var b=el("button",null,o[0]);b.type="button";b.setAttribute("data-choice",o[1]);if(!first)first=b;
-  b.onclick=function(){if(o[1]==="correction")startCorrecting();else openForm(o[1],btn)};list.appendChild(b)});
- box.appendChild(list);
- var row=el("div","fbtns"),no=el("button","no","Cancel");no.type="button";no.onclick=function(){dlg.close()};row.appendChild(no);box.appendChild(row);
- dlg.appendChild(box);if(!dlg.open)dlg.showModal();
+  var l=el("label"),r=el("input");r.type="radio";r.name="sub-choice";r.value=o[1];r.setAttribute("data-choice",o[1]);if(!first)first=r;
+  r.onchange=function(){go.disabled=false};l.appendChild(r);l.appendChild(el("span",null,o[0]));fs.appendChild(l)});
+ form.appendChild(fs);
+ var row=el("div","fbtns");go.type="submit";go.disabled=true;no.type="button";no.onclick=function(){dlg.close()};row.appendChild(no);row.appendChild(go);form.appendChild(row);
+ form.addEventListener("submit",function(ev){ev.preventDefault();var c=form.querySelector("input:checked");if(!c)return;
+  if(c.value==="correction")startCorrecting();else openForm(c.value,btn)});
+ box.appendChild(form);dlg.appendChild(box);if(!dlg.open)dlg.showModal();
  try{first.focus({preventScroll:true})}catch(e){}
  dlg.scrollTop=0;
 }
@@ -860,7 +865,7 @@ function openForm(kind,btn,ev0){
  var box=el("div","fbox"),form=el("form");form.noValidate=true;form.setAttribute("autocomplete","off");
  var h=el("h2",null,kind==="show"?"Suggest a show":kind==="correction"?"Suggest a correction":"Suggest a feature");h.id="sub-title";dlg.setAttribute("aria-labelledby","sub-title");
  box.appendChild(h);
- var hint=el("p","fhint",kind==="show"?"Know of a show that is missing? Tell me about it. I read every suggestion and add the good ones at the next weekly update.":kind==="correction"?"Change what is wrong and leave the rest. Only the details you change are sent. I check each suggestion before anything on the page changes.":"Have an idea for the page? Tell me. I read every suggestion.");
+ var hint=el("p","fhint",kind==="show"?"Know of a show that is missing? Every suggestion is reviewed, and the good ones are added at the next weekly update.":kind==="correction"?"Change what is wrong and leave the rest. Only the details you change are sent. Each suggestion is checked before anything on the page changes.":"Have an idea for the page? Every suggestion is read.");
  box.appendChild(hint);
  var F={},iso=todayISO(),C=null;
  if(kind==="correction"){
@@ -880,7 +885,7 @@ function openForm(kind,btn,ev0){
  }else{
   F.text=field(form,"sub-text","Your idea",{area:true,max:1000});
  }
- F.contact=field(form,"sub-contact","Email or handle",{optional:true,max:100,auto:"off",note:"Only so I can ask a question. It is never shown on the page."});
+ F.contact=field(form,"sub-contact","Email or handle",{optional:true,max:100,auto:"off",note:"Only used to ask a follow-up question. It is never shown on the page."});
  var hp=el("div","hp"),hl=el("label",null,"Website (leave this empty)"),hi=el("input");hl.setAttribute("for","sub-website");
  hi.id="sub-website";hi.name="website";hi.type="text";hi.tabIndex=-1;hi.setAttribute("autocomplete","off");hp.appendChild(hl);hp.appendChild(hi);
  hp.setAttribute("aria-hidden","true");hp.inert=true;form.appendChild(hp);
@@ -936,7 +941,7 @@ function openForm(kind,btn,ev0){
    .then(function(r){return r.json().then(function(j){return j},function(){return null})})
    .then(function(j){
     if(j&&j.ok===true){clearTimeout(to);removeTs();form.hidden=true;done.hidden=false;done.textContent="";hint.hidden=true;h.textContent="Thank you";
-     done.appendChild(el("p",null,kind==="show"?"Your suggestion was sent. I review each one before anything appears on the page, usually at the next weekly update.":kind==="correction"?"Your correction was sent. I check each one before anything on the page changes, usually at the next weekly update. You can suggest another, or press Done at the top of the page.":"Your suggestion was sent. Thank you for helping improve the page."));
+     done.appendChild(el("p",null,kind==="show"?"Your suggestion was sent. Each one is reviewed before anything appears on the page, usually at the next weekly update.":kind==="correction"?"Your correction was sent. Each one is checked before anything on the page changes, usually at the next weekly update. You can suggest another, or press Done at the top of the page.":"Your suggestion was sent. Thank you for helping improve the page."));
      var c=el("button","go","Close");c.type="button";c.onclick=function(){dlg.close()};var r2=el("div","fbtns");r2.appendChild(c);done.appendChild(r2);done.focus();return}
     msg.textContent=(j&&MSG[j.error])||"Could not send your suggestion right now. Please try again later.";finish();
    },function(){msg.textContent="Could not reach the server. Please try again later.";finish()});
