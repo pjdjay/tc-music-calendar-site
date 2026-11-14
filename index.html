@@ -368,7 +368,9 @@ function money(n){return Number.isInteger(n)?String(n):n.toFixed(2)}
 function priceLabel(e){if(e.pl==null)return null;if(e.f)return"Free";
  if(e.ph==null)return"from $"+money(e.pl);if(e.ph===e.pl)return"$"+money(e.pl);return"$"+money(e.pl)+"\u2013$"+money(e.ph)}
 var EXP_AGE={all_ages:"All ages","18+":"18+","21+":"21+"},EXP_STATUS={canceled:"CANCELED",postponed:"POSTPONED",sold_out:"SOLD OUT"};
-function expLink(x){return x.k||x.s||""}
+function expSame(a,b){var n=function(u){return String(u).replace(/#.*$/,"").replace(/\/+$/,"")};return n(a)===n(b)}
+function expLinks(x){   // [label, url] pairs: the ticket link and the event page, each labeled; one line when they are the same page
+ var out=[];if(x.k)out.push(["Tickets",x.k]);if(x.s&&!(x.k&&expSame(x.k,x.s)))out.push(["Event page",x.s]);return out}
 function icsEvent(x,stamp,domain){
  var p=x.d.split("-"),day=Date.UTC(+p[0],+p[1]-1,+p[2]),L=["BEGIN:VEVENT","UID:"+x.ek+"@"+domain,"DTSTAMP:"+stamp];
  if(expTimeOk(x.t)){var s=day+(+x.t.slice(0,2))*3600000+(+x.t.slice(3,5))*60000;L.push("DTSTART:"+icsLocal(s),"DTEND:"+icsLocal(s+EXP_HOURS*3600000))}
@@ -377,8 +379,8 @@ function icsEvent(x,stamp,domain){
  L.push("SUMMARY:"+icsText(off+x.h+(x.v?" @ "+x.v:"")));
  var loc=(x.va?[x.vf||x.v,x.va]:[venueName(x),x.c,"MN"]).filter(Boolean).join(", ");   // a known address, else "Venue, City, MN": the Maps link's search, which a calendar app resolves to the place
  if(loc)L.push("LOCATION:"+icsText(loc));
- var d=[],l=expLink(x),o=(x.o||[]).filter(Boolean);
- if(l)d.push("Tickets: "+l);if(o.length)d.push("With: "+o.join(", "));
+ var d=[],o=(x.o||[]).filter(Boolean);
+ expLinks(x).forEach(function(l){d.push(l[0]+": "+l[1])});if(o.length)d.push("With: "+o.join(", "));
  if(x.v||x.c)d.push("Map: "+venueMapUrl(x));
  if(d.length)L.push("DESCRIPTION:"+icsText(d.join("\n")));
  L.push("END:VEVENT");return L}
@@ -394,7 +396,7 @@ function buildIcs(items,now,domain){
 function expTime(t){if(!expTimeOk(t))return"time TBA";var h=+t.slice(0,2),m=t.slice(3,5),ap=h>=12?"PM":"AM";h=h%12||12;return h+(m==="00"?"":":"+m)+" "+ap}
 function expDay(iso){var p=iso.split("-"),dt=new Date(Date.UTC(+p[0],+p[1]-1,+p[2]));return EXP_DOW[dt.getUTCDay()]+" "+EXP_MON[dt.getUTCMonth()]+" "+dt.getUTCDate()}
 /* Text list, in date order: a heading per date ("FRI NOV 21"), then one block per show: "• Headliner @ Venue, City, 8 PM", a detail line indented under it
-   ("with openers · price · age": only the parts the data has; age only when a source states it), then the link. CANCELED / POSTPONED / SOLD OUT lead the show
+   ("with openers · price · age": only the parts the data has; age only when a source states it), then the ticket link and the event page (each labeled, one line when they are the same page). CANCELED / POSTPONED / SOLD OUT lead the show
    line; "(may have changed)" ends a heart with no live show. A blank line separates shows and dates. */
 function textEntries(items){
  var a=items.filter(function(x){return x&&x.h&&expIsoOk(x.d)}).map(function(x,i){return{x:x,i:i}});
@@ -404,7 +406,7 @@ function textEntries(items){
   var o=(x.o||[]).filter(Boolean),pr=x.gone?null:priceLabel(x),ag=x.gone||x.agv?"":EXP_AGE[x.ag]||"",   // age only when a source states it, not the venue's usual policy
    det=[o.length?"with "+o.join(", "):"",pr,ag].filter(Boolean).join(" \u00b7 ");
   if(det)s+="\n  "+det;
-  var l=x.gone?"":expLink(x);if(l)s+="\n  "+l;return{d:x.d,s:s}})}
+  if(!x.gone)expLinks(x).forEach(function(l){s+="\n  "+l[0]+": "+l[1]});return{d:x.d,s:s}})}
 function joinEntries(es){var out="";es.forEach(function(e,i){var head=!i||es[i-1].d!==e.d;out+=(i?"\n\n":"")+(head?expDay(e.d).toUpperCase()+"\n":"")+e.s});return out}
 function shareText(items){return joinEntries(textEntries(items))}
 // ==== export:end ====
