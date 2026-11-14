@@ -394,7 +394,8 @@ function clearBox(){   // the reset: a text button, then an inline "are you sure
  b.onclick=function(){box.textContent="";
   box.appendChild(el("span",null,"Remove all "+heartKeys().length+" hearts? This can\u2019t be undone. "));
   var y=el("button","linkbtn","Remove all"),n=el("button","linkbtn","Cancel");y.type=n.type="button";
-  y.onclick=function(){Marks.clear();render();hBtn.focus()};n.onclick=function(){render();hBtn.focus()};
+  y.onclick=function(){Marks.clear();heartView=false;hBtn.setAttribute("aria-pressed","false");render();hBtn.focus()};   // nothing left to show: leave the hearted view
+  n.onclick=function(){render();hBtn.focus()};
   box.appendChild(y);box.appendChild(n);n.focus()};
  return box}
 function syncHearts(){
