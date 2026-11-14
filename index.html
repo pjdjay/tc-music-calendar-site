@@ -151,12 +151,13 @@ a.h:hover,a.h:focus-visible{text-decoration:underline;color:var(--accent)}
 .bm-sp{width:24px;height:24px;padding:2px;box-sizing:border-box;border-radius:50%;background:var(--spbg)}.bm-bc{width:20px}.bm-yt{width:24px}
 .bm-sc{display:flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:5px;background:#ff5500;flex:none}.bm-sc .bm{width:17px}
 :root:not([data-acts=icons]) .bm-bc{width:16px}:root:not([data-acts=icons]) .bm-sp{width:20px;height:20px}:root:not([data-acts=icons]) .bm-yt{width:20px}:root:not([data-acts=icons]) .bm-sc{width:20px;height:20px;border-radius:4px}:root:not([data-acts=icons]) .bm-sc .bm{width:14px}
-/* icons mode: tickets is a filled labelled pill (a ticket glyph alone is not recognisable beside the service marks) */
-:root[data-acts=icons] .acts a.tix{position:relative;width:auto;min-width:0;height:20px;padding:0 9px;margin:0 6px 0 6px;border-radius:var(--r-pill);background:var(--accent);color:var(--accent-ink)}
-:root[data-acts=icons] .acts a.tix .lbl{position:static;width:auto;height:auto;clip:auto;overflow:visible;font-size:.72rem;font-weight:600}
-:root[data-acts=icons] .acts a.tix::after{content:"";position:absolute;left:0;right:0;top:-6px;bottom:-6px}
-:root[data-acts=icons] .acts a.tix .ic{width:13px;height:13px}
-:root[data-acts=icons] .acts a.tix:hover,:root[data-acts=icons] .acts a.tix:focus-visible{background:color-mix(in srgb,var(--accent) 82%,var(--ink))}
+/* icons mode: Tickets is a text link in the detail line, after the price (DESIGN.md "Detail line"); pills mode keeps its pill in the icon row */
+.meta>a.tixl{order:2;position:relative;display:inline-flex;align-items:center;gap:4px;color:var(--accent);font-weight:600;text-decoration:none}
+.meta>a.tixl::after{content:"";position:absolute;left:0;right:-4px;top:-7px;bottom:-7px}
+.meta>a.tixl .lbl{text-decoration:underline;text-underline-offset:3px}
+.meta>a.tixl .ic{width:14px;height:14px}
+li.ev.off .meta>a.tixl,li.ev.soldout .meta>a.tixl{color:var(--muted);font-weight:500}
+li.ev.off .meta>a.tixl .lbl{text-decoration:line-through}
 .tix{color:var(--accent)}.spl{color:var(--spot)}.bcl{color:var(--bc)}.scl{color:var(--sc)}.ytl{color:var(--yt)}
 /* canceled / postponed: muted text, not opacity (opacity would drop text below 4.5:1) */
 li.ev.off .h,li.ev.off .vlink,li.ev.off .op,li.ev.off .meta>.tm,li.ev.off .meta>.price{color:var(--muted)}
@@ -456,7 +457,7 @@ function goneCard(e){
 function card(e){
  if(e.gone)return goneCard(e);
  function actLink(cls,label,url,title,svg){var a=el("a",cls);a.appendChild(typeof svg==="string"?brandMark(svg,svg==="yt"?PLAY_SVG:NOTE_SVG):icon(svg));a.appendChild(el("span","lbl",label));a.href=url;a.target="_blank";a.rel="noopener noreferrer";a.title=title;a.setAttribute("aria-label",label+" (opens in a new tab)");return a}
- var off=isOff(e),li=el("li",off?"ev off":"ev"),b=el("div","body"),l1=el("div","l1");if(e.z)li.setAttribute("data-z",e.z);
+ var off=isOff(e),li=el("li",off?"ev off":e.x==="sold_out"?"ev soldout":"ev"),b=el("div","body"),l1=el("div","l1");if(e.z)li.setAttribute("data-z",e.z);
  if(e.p){var s=el("span","star","★");s.title="Pinned artist";s.setAttribute("aria-label","Pinned artist");l1.appendChild(s)}
  var u=safeUrl(e.s),h;
  if(u){h=el("a","h",e.h);h.href=u;h.target="_blank";h.rel="noopener noreferrer"}else h=el("span","h",e.h);
@@ -485,7 +486,7 @@ function card(e){
  li.appendChild(b);
  if(e.ek)li.appendChild(heartBtn(e));   // top-right corner (CSS); the icon row keeps only links
  var acts=el("div","acts");
- if(e.k){var ku=safeUrl(e.k);if(ku){acts.appendChild(actLink("tix","Tickets",ku,"Buy tickets (opens the seller’s page)",TIX_SVG))}}
+ if(e.k){var ku=safeUrl(e.k);if(ku){if(document.documentElement.getAttribute("data-acts")==="icons"){var tl=actLink("tixl","Tickets",ku,"Buy tickets (opens the seller’s page)",TIX_SVG),ref=m.querySelector(".price")||m.querySelector(".rec")||m.querySelector(".tm");ref.after(tl)}else acts.appendChild(actLink("tix","Tickets",ku,"Buy tickets (opens the seller’s page)",TIX_SVG))}}
  if(e.sp){var su=safeUrl(e.sp);if(su&&/^https:\/\/open\.spotify\.com\/artist\//.test(su)){acts.appendChild(actLink("spl","Spotify",su,"Listen on Spotify. Matched by name, so it can be a different artist with the same name.","sp"))}}
  if(e.bc){var bu=safeUrl(e.bc);if(bu&&/^https:\/\/(?!www\.)[a-z0-9-]+\.bandcamp\.com(\/|$)/i.test(bu)){acts.appendChild(actLink("spl bcl","Bandcamp",bu,"Listen on Bandcamp. The link comes from the artist’s MusicBrainz page, so it can be a different artist with the same name.","bc"))}}
  if(e.sc){var cu=safeUrl(e.sc);if(cu&&/^https:\/\/(www\.)?soundcloud\.com\/[A-Za-z0-9_-]+/i.test(cu)){acts.appendChild(actLink("spl scl","SoundCloud",cu,"Listen on SoundCloud. The link comes from the artist’s MusicBrainz page, so it can be a different artist with the same name.","sc"))}}
