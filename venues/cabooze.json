@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,7 +7,7 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Cabooze",
  "city": "Minneapolis",
- "count": 9,
+ "count": 10,
  "shows": [
   {
    "id": "65c83edc6854",
@@ -23,7 +23,7 @@
    "spotify": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
   },
   {
-   "id": "fbf6d59b69d3",
+   "id": "397e99f28e62",
    "headliner": "Main Event Sundays",
    "openers": [],
    "date": "2026-11-15",
@@ -32,8 +32,6 @@
    "venue_slug": "cabooze",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "tickets": "https://www.etix.com/ticket/p/36481619/main-event-sundays-minneapolis-the-cabooze?partner_id=100",
    "source": "https://cabooze.com/event/main-event-sundays-2/the-cabooze/"
   },
@@ -67,6 +65,19 @@
    "hidden_category": "dj_night",
    "tickets": "https://www.etix.com/ticket/p/92457651/afrobeats-to-the-world-minneapolis-the-cabooze?partner_id=100",
    "source": "https://cabooze.com/event/afrobeats-to-the-world-2/the-cabooze/"
+  },
+  {
+   "id": "2c81b161794f",
+   "headliner": "Main Event Sundays",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "22:00",
+   "venue": "Cabooze",
+   "venue_slug": "cabooze",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "tickets": "https://www.etix.com/ticket/p/92764690/main-event-sundays-minneapolis-the-cabooze?partner_id=100",
+   "source": "https://cabooze.com/event/main-event-sundays-3/the-cabooze/"
   },
   {
    "id": "81c0dd96a57e",

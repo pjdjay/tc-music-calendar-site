@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-08",
- "count": 9,
+ "count": 13,
  "shows": [
   {
    "id": "bf3f3f7be6b7",
@@ -63,6 +63,18 @@
    "city": "St. Paul",
    "genre": "rock/indie",
    "source": "https://whitesquirrelbar.com/event/the-dans-w-special-guests-2/"
+  },
+  {
+   "id": "65f5dcdce8c0",
+   "headliner": "Worker’s Playtime",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "18:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://331club.com/"
   },
   {
    "id": "1c44bb4038c4",
@@ -129,6 +141,19 @@
    "source": "https://www.greenroommn.com/events#/events/194938"
   },
   {
+   "id": "8e634e04af06",
+   "headliner": "St. Dominic's Trio",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/",
+   "spotify": "https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv"
+  },
+  {
    "id": "4d645405be7f",
    "headliner": "The 47th Annual John Lennon Tribute",
    "openers": [
@@ -144,6 +169,33 @@
    "age": "all_ages",
    "tickets": "https://www.axs.com/events/1617099/the-47th-annual-john-lennon-tribute-tickets?skin=fitzgeraldtheater",
    "source": "https://first-avenue.com/event/2026-12-john-lennon-tribute/"
+  },
+  {
+   "id": "78fb848547ab",
+   "headliner": "International Reggae Allstars",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "reggae/ska",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "90b779e07e63",
+   "headliner": "JoJo Green",
+   "openers": [
+    "Uff-Da"
+   ],
+   "date": "2026-12-08",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/jojogreenmusic?stkn=M2hqeHMzbWo4azc5",
+   "spotify": "https://open.spotify.com/artist/2HeddibS8LprRJRLeZpzTG"
   }
  ]
 }

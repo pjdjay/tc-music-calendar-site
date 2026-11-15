@@ -1,13 +1,25 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-03",
- "count": 23,
+ "count": 27,
  "shows": [
+  {
+   "id": "230fee26c0a8",
+   "headliner": "Brown Chicken Brown Cow",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "16:00",
+   "venue": "Utepils Brewing",
+   "venue_slug": "utepils-brewing",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://utepilsbrewing.com/events/brown-chicken-brown-cow/2026-12-03/"
+  },
   {
    "id": "f06646e7b605",
    "headliner": "A Mid-Century Modern Holiday",
@@ -289,6 +301,23 @@
    "spotify": "https://open.spotify.com/artist/17cssIaAwAcgC9nZZliixv"
   },
   {
+   "id": "7424ded3fd53",
+   "headliner": "Rachel Ries Residency: Her Crooked Heart Live at Hive EP Release Show",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "18:00",
+   "price": "$15 adv / $22 door",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://icehouse.turntabletickets.com/shows/13466/2026-12-03?utm_source=icehousempls.com&utm_medium=website&utm_campaign=rachel-ries-20261203",
+   "source": "https://www.icehousempls.com/shows/rachel-ries-residency-her-crooked-heart-live-at-hive-ep-release-show/"
+  },
+  {
    "id": "7d50785a1a11",
    "headliner": "Test Site 67",
    "openers": [],
@@ -299,6 +328,22 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://thedublinerpub.com/show/test-site-67/?lre_date=2026-12-03"
+  },
+  {
+   "id": "a527d91e01c1",
+   "headliner": "Late Night Irish",
+   "openers": [
+    "Gavin Strappe",
+    "Danny Diamond",
+    "Dáithí Sproule!"
+   ],
+   "date": "2026-12-03",
+   "start_time": "20:30",
+   "venue": "Waldmann Brewery",
+   "venue_slug": "waldmann-brewery",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://waldmannbrewery.com/news-events/"
   },
   {
    "id": "9bf8e688b411",
@@ -337,6 +382,18 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "5e73734cf665",
+   "headliner": "JayBee & the Routine",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
   },
   {
    "id": "04d09f9da662",

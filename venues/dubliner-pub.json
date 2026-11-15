@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,7 +7,7 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Dubliner Pub",
  "city": "St. Paul",
- "count": 29,
+ "count": 35,
  "shows": [
   {
    "id": "bd20463f7d35",
@@ -39,7 +39,7 @@
    "source": "https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-11-15"
   },
   {
-   "id": "02a5358ccccd",
+   "id": "fcb30507aae6",
    "headliner": "Phil Heywood",
    "openers": [],
    "date": "2026-11-15",
@@ -48,13 +48,11 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Sunday",
    "source": "https://thedublinerpub.com/show/phil-heywood/?lre_date=2026-11-15",
    "spotify": "https://open.spotify.com/artist/6QvaC8gvfCsxQG7JPOhkbe"
   },
   {
-   "id": "e5a1ba4c5b5f",
+   "id": "5a563c693325",
    "headliner": "Sunday Trad Session",
    "openers": [],
    "date": "2026-11-15",
@@ -63,8 +61,6 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-15"
   },
   {
@@ -122,7 +118,7 @@
    "spotify": "https://open.spotify.com/artist/2D5VEHBsI887Cws9NjwXgG"
   },
   {
-   "id": "0ea668345a46",
+   "id": "90ec940753da",
    "headliner": "Irish Music Session",
    "openers": [],
    "date": "2026-11-20",
@@ -131,8 +127,6 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every Friday",
    "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-20"
   },
   {
@@ -190,7 +184,7 @@
    "source": "https://thedublinerpub.com/show/dehl-gallagher-band/?lre_date=2026-11-22"
   },
   {
-   "id": "206f4d5dfd33",
+   "id": "792ab73e7bd9",
    "headliner": "Hurricane Harold Trio",
    "openers": [],
    "date": "2026-11-22",
@@ -199,9 +193,19 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every fourth Sunday",
    "source": "https://thedublinerpub.com/show/hurricane-harold-trio/?lre_date=2026-11-22"
+  },
+  {
+   "id": "7038217c6e3e",
+   "headliner": "Sunday Trad Session",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-22"
   },
   {
    "id": "ffcb3aef5eb0",
@@ -226,6 +230,18 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://thedublinerpub.com/show/joe-carey/?lre_date=2026-11-26"
+  },
+  {
+   "id": "7d784bd1d226",
+   "headliner": "Irish Music Session",
+   "openers": [],
+   "date": "2026-11-27",
+   "start_time": "18:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-27"
   },
   {
    "id": "38410d8293b9",
@@ -276,6 +292,18 @@
    "source": "https://thedublinerpub.com/show/kismet-rendevouz/?lre_date=2026-11-29"
   },
   {
+   "id": "5e2c1c23d207",
+   "headliner": "Sunday Trad Session",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-29"
+  },
+  {
    "id": "ca4253540a0a",
    "headliner": "Irish Diplomacy Wednesday",
    "openers": [],
@@ -298,6 +326,18 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://thedublinerpub.com/show/test-site-67/?lre_date=2026-12-03"
+  },
+  {
+   "id": "0086e99a202d",
+   "headliner": "Irish Music Session",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": "18:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-12-04"
   },
   {
    "id": "1c5fb751b3a3",
@@ -337,6 +377,18 @@
    "source": "https://thedublinerpub.com/show/the-flying-t/?lre_date=2026-12-06"
   },
   {
+   "id": "1d24817959b3",
+   "headliner": "Sunday Trad Session",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-12-06"
+  },
+  {
    "id": "f3e51b13d992",
    "headliner": "The Great Irish Sing-Along",
    "openers": [],
@@ -373,6 +425,18 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://thedublinerpub.com/show/swamp-twisters-2/?lre_date=2026-12-10"
+  },
+  {
+   "id": "1b959701ca7e",
+   "headliner": "Irish Music Session",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "18:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-12-11"
   },
   {
    "id": "5f9b2134b38c",

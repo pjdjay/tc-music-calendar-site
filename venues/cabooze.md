@@ -1,6 +1,6 @@
 # Cabooze (Minneapolis): upcoming shows
 
-9 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+10 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
@@ -9,7 +9,7 @@
 
 ## Sunday, November 15, 2026
 
-- **Main Event Sundays** · 22:00 · unknown · every Sunday · residency · [tickets](https://www.etix.com/ticket/p/36481619/main-event-sundays-minneapolis-the-cabooze?partner_id=100) [info](https://cabooze.com/event/main-event-sundays-2/the-cabooze/)
+- **Main Event Sundays** · 22:00 · unknown · [tickets](https://www.etix.com/ticket/p/36481619/main-event-sundays-minneapolis-the-cabooze?partner_id=100) [info](https://cabooze.com/event/main-event-sundays-2/the-cabooze/)
 
 ## Friday, November 20, 2026
 
@@ -18,6 +18,10 @@
 ## Saturday, November 21, 2026
 
 - **Afrobeats To The World** · 22:00 · African/Afrobeat · dj night · [tickets](https://www.etix.com/ticket/p/92457651/afrobeats-to-the-world-minneapolis-the-cabooze?partner_id=100) [info](https://cabooze.com/event/afrobeats-to-the-world-2/the-cabooze/)
+
+## Sunday, November 22, 2026
+
+- **Main Event Sundays** · 22:00 · unknown · [tickets](https://www.etix.com/ticket/p/92764690/main-event-sundays-minneapolis-the-cabooze?partner_id=100) [info](https://cabooze.com/event/main-event-sundays-3/the-cabooze/)
 
 ## Thursday, November 26, 2026
 

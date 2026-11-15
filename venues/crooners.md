@@ -11,7 +11,7 @@
 
 ## Sunday, November 15, 2026
 
-- **Jim Bierma and Nancy Bierma** · 17:00 · unknown · Free · monthly on Sunday · residency · [tickets](https://www.eventbrite.com/e/jim-bierma-and-nancy-bierma-registration-1996655538464) [info](https://www.croonersmn.com/event/jim-bierma-and-nancy-bierma-4/)
+- **Jim Bierma and Nancy Bierma** · 17:00 · unknown · Free · [tickets](https://www.eventbrite.com/e/jim-bierma-and-nancy-bierma-registration-1996655538464) [info](https://www.croonersmn.com/event/jim-bierma-and-nancy-bierma-4/)
 - **Lila Ammons w/ the StableMates (Dale Alexander, Gary Raynor, Jay Epstein)** · 17:00 · jazz/blues · $25.00 - $35.00 · [tickets](https://www.eventbrite.com/e/lila-ammons-with-the-stablemates-dale-alexander-gary-raynor-jay-epstein-tickets-1986221921234) [info](https://www.croonersmn.com/event/lila-ammons-with-the-stablemates-dale-alexander-gary-raynor-jay-epstein/) [spotify](https://open.spotify.com/artist/6Rd1lUOela7ajOj1wanp28)
 - **The Hit Songs of NEIL DIAMOND and PAUL SIMON** · 18:00 · pop · $35.00 - $45.00 · [tickets](https://www.eventbrite.com/e/the-hit-songs-of-neil-diamond-and-paul-simon-tickets-2001256500064) [info](https://www.croonersmn.com/event/the-hit-songs-of-neil-diamond-and-paul-simon-2/)
 
@@ -33,7 +33,7 @@
 
 ## Friday, November 20, 2026
 
-- **Tommy Boynton and Friends** · 17:00 · jazz/blues · Free · every third Friday · residency · [tickets](https://www.eventbrite.com/e/tommy-boynton-and-friends-registration-1992957724202) [info](https://www.croonersmn.com/event/tommy-boynton-and-friends-5/)
+- **Tommy Boynton and Friends** · 17:00 · jazz/blues · Free · [tickets](https://www.eventbrite.com/e/tommy-boynton-and-friends-registration-1992957724202) [info](https://www.croonersmn.com/event/tommy-boynton-and-friends-5/)
 - **TRUMPET SUMMIT: Steve Kenny w/ Omar Abdulkarim, Jake Baldwin, Solomon Parham** · 19:00 · jazz/blues · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/trumpet-summit-steve-kenny-omar-abdulkarim-jake-baldwin-solomon-parham-tickets-1997618603016) [info](https://www.croonersmn.com/event/trumpet-summit-steve-kenny-omar-abdulkarim-jake-baldwin-solomon-parham/)
 
 ## Saturday, November 21, 2026

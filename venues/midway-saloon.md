@@ -1,10 +1,22 @@
 # Midway Saloon (St. Paul): upcoming shows
 
-1 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+4 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Wednesday, November 18, 2026
 
-- **Pat Donohue & Friends** · 18:00 · country/folk/Americana · every Wednesday · residency · [info](https://www.themidwaysaloon.com/events/pat-donohue-and-friends)
+- **Pat Donohue & Friends** · 18:00 · country/folk/Americana · [info](https://www.themidwaysaloon.com/events/pat-donohue-and-friends)
+
+## Wednesday, November 25, 2026
+
+- **Pat Donohue & Friends** · 18:00 · country/folk/Americana · [info](https://www.themidwaysaloon.com/events/pat-donohue-and-friends)
+
+## Wednesday, December 2, 2026
+
+- **Pat Donohue & Friends** · 18:00 · country/folk/Americana · [info](https://www.themidwaysaloon.com/events/pat-donohue-and-friends)
+
+## Wednesday, December 9, 2026
+
+- **Pat Donohue & Friends** · 18:00 · country/folk/Americana · [info](https://www.themidwaysaloon.com/events/pat-donohue-and-friends)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

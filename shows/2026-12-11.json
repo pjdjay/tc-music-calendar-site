@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-11",
- "count": 36,
+ "count": 39,
  "shows": [
   {
    "id": "6d7ea767e152",
@@ -50,6 +50,21 @@
    "source": "https://events.amsterdambarandhall.com/event/impaler-presents-merry-krampus-2026/amsterdam-bar-hall/saint-paul-minnesota/"
   },
   {
+   "id": "ca8f45b21031",
+   "headliner": "Friday Night Live - FNL",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "18:00",
+   "venue": "Utepils Brewing",
+   "venue_slug": "utepils-brewing",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "FREE Live Music",
+   "is_free": true,
+   "age": "all_ages",
+   "source": "https://utepilsbrewing.com/events/friday-night-live-fnl/2026-12-11/"
+  },
+  {
    "id": "4794ab59c04f",
    "headliner": "Drake Walters",
    "openers": [],
@@ -74,6 +89,18 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://whitesquirrelbar.com/event/harmony-arcade/"
+  },
+  {
+   "id": "1b959701ca7e",
+   "headliner": "Irish Music Session",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "18:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-12-11"
   },
   {
    "id": "471d8e305c24",
@@ -291,6 +318,20 @@
    "price": "$5",
    "is_free": false,
    "source": "https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events"
+  },
+  {
+   "id": "f07329fcff29",
+   "headliner": "Funk Friday",
+   "openers": [
+    "Big Fat Money"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:30",
+   "venue": "Animales Barbeque",
+   "venue_slug": "animales-barbeque",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://animalesbbq.com/calendar/funk-friday-big-fat-money-december-2026"
   },
   {
    "id": "90ea71b9dff8",

@@ -1,6 +1,6 @@
 # 10K Brewing (Anoka): upcoming shows
 
-7 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+9 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
@@ -9,7 +9,7 @@
 
 ## Sunday, November 15, 2026
 
-- **Chris Holm Residency** · 16:00 · unknown · every Sunday · residency · [info](https://10kbrew.com/event/live-music-chris-holm-residency-15/)
+- **Chris Holm Residency** · 16:00 · unknown · [info](https://10kbrew.com/event/live-music-chris-holm-residency-15/)
 
 ## Friday, November 20, 2026
 
@@ -18,6 +18,10 @@
 ## Saturday, November 21, 2026
 
 - **St. Peter Street Stompers** · 19:00 · jazz/blues · [info](https://10kbrew.com/event/live-music-st-peter-street-stompers-4/)
+
+## Sunday, November 22, 2026
+
+- **Chris Holm Residency** · 16:00 · unknown · [info](https://10kbrew.com/event/live-music-chris-holm-residency-16/)
 
 ## Wednesday, November 25, 2026
 
@@ -30,5 +34,9 @@
 ## Saturday, November 28, 2026
 
 - **Colton Warren** · 19:00 · unknown · [info](https://10kbrew.com/event/live-music-colton-warren-5/) [spotify](https://open.spotify.com/artist/6yfT2hvhdehQdSMOZz8ewf)
+
+## Sunday, November 29, 2026
+
+- **Chris Holm Residency** · 16:00 · unknown · [info](https://10kbrew.com/event/live-music-chris-holm-residency-17/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

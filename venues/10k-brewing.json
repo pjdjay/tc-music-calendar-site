@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,7 +7,7 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "10K Brewing",
  "city": "Anoka",
- "count": 7,
+ "count": 9,
  "shows": [
   {
    "id": "3e1949588b6f",
@@ -22,7 +22,7 @@
    "source": "https://10kbrew.com/event/live-music-dan-ferstenou-6/"
   },
   {
-   "id": "cbd442db3ad5",
+   "id": "de20b5638314",
    "headliner": "Chris Holm Residency",
    "openers": [],
    "date": "2026-11-15",
@@ -31,8 +31,6 @@
    "venue_slug": "10k-brewing",
    "city": "Anoka",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://10kbrew.com/event/live-music-chris-holm-residency-15/"
   },
   {
@@ -59,6 +57,18 @@
    "city": "Anoka",
    "genre": "jazz/blues",
    "source": "https://10kbrew.com/event/live-music-st-peter-street-stompers-4/"
+  },
+  {
+   "id": "560d3d83b49c",
+   "headliner": "Chris Holm Residency",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "16:00",
+   "venue": "10K Brewing",
+   "venue_slug": "10k-brewing",
+   "city": "Anoka",
+   "genre": "unknown",
+   "source": "https://10kbrew.com/event/live-music-chris-holm-residency-16/"
   },
   {
    "id": "cdbeeb6a2bb6",
@@ -97,6 +107,18 @@
    "genre": "unknown",
    "source": "https://10kbrew.com/event/live-music-colton-warren-5/",
    "spotify": "https://open.spotify.com/artist/6yfT2hvhdehQdSMOZz8ewf"
+  },
+  {
+   "id": "5ef248b5492c",
+   "headliner": "Chris Holm Residency",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "16:00",
+   "venue": "10K Brewing",
+   "venue_slug": "10k-brewing",
+   "city": "Anoka",
+   "genre": "unknown",
+   "source": "https://10kbrew.com/event/live-music-chris-holm-residency-17/"
   }
  ]
 }

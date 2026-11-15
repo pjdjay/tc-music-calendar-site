@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-25",
- "count": 26,
+ "count": 28,
  "shows": [
   {
    "id": "ba8ef2fea3ff",
@@ -76,6 +76,18 @@
    "genre": "country/folk/Americana",
    "source": "https://whitesquirrelbar.com/event/family-dinner-w-doug-sarah-3/",
    "spotify": "https://open.spotify.com/artist/7ztPkxDDDYp27ssoOB9sEj"
+  },
+  {
+   "id": "08dd26216720",
+   "headliner": "Pat Donohue & Friends",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "18:00",
+   "venue": "Midway Saloon",
+   "venue_slug": "midway-saloon",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://www.themidwaysaloon.com/events/pat-donohue-and-friends"
   },
   {
    "id": "d84964ca697b",
@@ -393,6 +405,18 @@
    "genre": "rock/indie",
    "source": "https://www.facebook.com/share/1DGK46pfdM/?mibextid=wwXIfr",
    "spotify": "https://open.spotify.com/artist/5xSNix7cBLfw6Zv4rRFt7W"
+  },
+  {
+   "id": "fbe2f1ff4e0f",
+   "headliner": "Twine",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
   }
  ]
 }

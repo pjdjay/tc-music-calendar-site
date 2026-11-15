@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-02",
- "count": 16,
+ "count": 18,
  "shows": [
   {
    "id": "3f3383d7cf5d",
@@ -57,6 +57,18 @@
    "price": "Advance $10 Day of Show $12",
    "is_free": false,
    "source": "https://www.pilllar.com/collections/tickets/products/music-cains-co-12-2-2026"
+  },
+  {
+   "id": "d61fba332b62",
+   "headliner": "Pat Donohue & Friends",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "18:00",
+   "venue": "Midway Saloon",
+   "venue_slug": "midway-saloon",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://www.themidwaysaloon.com/events/pat-donohue-and-friends"
   },
   {
    "id": "fd6d46cb6adb",
@@ -262,6 +274,18 @@
    "end_date": "2026-12-03",
    "source": "https://whitesquirrelbar.com/event/raymnd/",
    "spotify": "https://open.spotify.com/artist/6M4kWzXgfMtSslMAGOZuio"
+  },
+  {
+   "id": "1d535e26f41d",
+   "headliner": "Twine",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
   }
  ]
 }

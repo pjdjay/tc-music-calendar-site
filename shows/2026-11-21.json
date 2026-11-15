@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-21",
- "count": 48,
+ "count": 49,
  "shows": [
   {
    "id": "57e83775fc80",
@@ -32,6 +32,18 @@
    "city": "Hopkins",
    "genre": "unknown",
    "source": "https://www.legion320.org/music-and-events"
+  },
+  {
+   "id": "ae46adac54c9",
+   "headliner": "Cuchillo",
+   "openers": [],
+   "date": "2026-11-21",
+   "start_time": "12:00",
+   "venue": "Utepils Brewing",
+   "venue_slug": "utepils-brewing",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://utepilsbrewing.com/events/cuchillo/2026-11-21/"
   },
   {
    "id": "6eda0a978c1b",
@@ -685,7 +697,7 @@
    "spotify": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
   },
   {
-   "id": "f307443d5ddc",
+   "id": "9a04190c50ee",
    "headliner": "The Good the Bad & the Funky",
    "openers": [],
    "date": "2026-11-21",
@@ -694,8 +706,6 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "most Saturdays",
    "source": "https://bunkersmusic.com/calendar"
   },
   {

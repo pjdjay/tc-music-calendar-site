@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-06",
- "count": 25,
+ "count": 30,
  "shows": [
   {
    "id": "29f9b33178c3",
@@ -92,7 +92,7 @@
    "source": "https://events.amsterdambarandhall.com/event/chill-the-entire-charlie-brown-christmas-soundtrack-played-live-danced-sunday-matinee/amsterdam-bar-hall/saint-paul-minnesota/"
   },
   {
-   "id": "6a2eb1e10717",
+   "id": "bdca3313da47",
    "headliner": "Corpse Reviver",
    "openers": [],
    "date": "2026-12-06",
@@ -101,8 +101,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every first Sunday",
    "source": "https://www.facebook.com/share/18HHs2ZLYc/?mibextid=wwXIfr",
    "spotify": "https://open.spotify.com/artist/6bACpsWWEk8ugKQ162Vqyu"
   },
@@ -231,6 +229,18 @@
    "source": "https://whitesquirrelbar.com/event/dowser-w-vicki-dischler-the-eitel-brothers/"
   },
   {
+   "id": "ac2aa7f94759",
+   "headliner": "Phine & Friends",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "18:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
    "id": "2cce38ad2203",
    "headliner": "Sarah Morris and Lars-Erik Larson",
    "openers": [],
@@ -348,7 +358,7 @@
    "spotify": "https://open.spotify.com/artist/1pVBgmx5m44kXvyUizCDTt"
   },
   {
-   "id": "2686be5bcc32",
+   "id": "fb76c85ff1c5",
    "headliner": "Brass Messengers",
    "openers": [],
    "date": "2026-12-06",
@@ -357,8 +367,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every first Sunday",
    "source": "https://www.facebook.com/profile.php?id=100063684781557&mibextid=LQQJ4d"
   },
   {
@@ -380,6 +388,47 @@
    "spotify": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
   },
   {
+   "id": "682e9a3fc9aa",
+   "headliner": "Shotgun Ragtime Band",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "20:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "1d24817959b3",
+   "headliner": "Sunday Trad Session",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-12-06"
+  },
+  {
+   "id": "c6640f5c8fd9",
+   "headliner": "Obi Original and The Black Atlantics",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "21:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "20:00",
+   "price": "$10",
+   "is_free": false,
+   "age": "21+",
+   "tickets": "https://tix.gobo.show/events/event/tt-44654/dates/SLs6pdDfisCUewaUExK0?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261206",
+   "source": "https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-18/"
+  },
+  {
    "id": "794dc197bd19",
    "headliner": "Scarlett Tangerines",
    "openers": [
@@ -395,6 +444,18 @@
    "end_date": "2026-12-07",
    "source": "https://whitesquirrelbar.com/event/scarlett-tangerines-w-faux-pseudo-the-moby-dick-band/",
    "spotify": "https://open.spotify.com/artist/4Ki1N5KcavZqRQavKyYNGz"
+  },
+  {
+   "id": "c3d5bfa34235",
+   "headliner": "Dr Mambo's Combo",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "source": "https://bunkersmusic.com/calendar"
   }
  ]
 }

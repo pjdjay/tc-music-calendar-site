@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -33,7 +33,7 @@
    "source": "https://whitesquirrelbar.com/event/the-new-havoline-supremes-3/"
   },
   {
-   "id": "25af333eaa31",
+   "id": "969f60edfd84",
    "headliner": "Worker’s Playtime",
    "openers": [
     "David Huckfelt"
@@ -44,8 +44,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://www.instagram.com/david_huckfelt?srtk=ZHhjdWJrd2F1em5y"
   },
   {
@@ -132,7 +130,7 @@
    "spotify": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
   },
   {
-   "id": "74da90069e88",
+   "id": "73adfbb9c90c",
    "headliner": "St. Dominic's Trio",
    "openers": [],
    "date": "2026-11-17",
@@ -141,8 +139,6 @@
    "venue_slug": "driftwood-char-bar",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://driftwoodcharbar.com/",
    "spotify": "https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv"
   },
@@ -180,7 +176,7 @@
    "spotify": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
   },
   {
-   "id": "a3f0515d0327",
+   "id": "e0412e766bd6",
    "headliner": "Elour Tuesday Night Residency",
    "openers": [
     "Big Salt"
@@ -192,12 +188,10 @@
    "city": "St. Paul",
    "genre": "unknown",
    "end_date": "2026-11-18",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://whitesquirrelbar.com/event/elour-tuesday-night-residency/"
   },
   {
-   "id": "ead563320456",
+   "id": "c64aa6deb99d",
    "headliner": "Cold Sweat",
    "openers": [
     "The Lavender Project+",
@@ -209,12 +203,10 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://www.instagram.com/coldsweatnd?stkn=aWpsbmc1M2F3c3Fq"
   },
   {
-   "id": "88f7e5bfe48a",
+   "id": "e3b733f720cb",
    "headliner": "International Reggae Allstars",
    "openers": [],
    "date": "2026-11-17",
@@ -223,8 +215,6 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "reggae/ska",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://bunkersmusic.com/calendar"
   }
  ]

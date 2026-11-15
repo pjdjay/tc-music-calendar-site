@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-27",
- "count": 40,
+ "count": 43,
  "shows": [
   {
    "id": "b0d56ac0487d",
@@ -105,6 +105,18 @@
    "genre": "unknown",
    "age": "21+",
    "source": "https://thehookmpls.com/shows/truthsgiving-a-decolonized-thanksgiving-show-november-27-2026-761555"
+  },
+  {
+   "id": "7d784bd1d226",
+   "headliner": "Irish Music Session",
+   "openers": [],
+   "date": "2026-11-27",
+   "start_time": "18:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-27"
   },
   {
    "id": "b9e46a9425e2",
@@ -332,6 +344,20 @@
    "city": "Excelsior",
    "genre": "rock/indie",
    "source": "https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events"
+  },
+  {
+   "id": "574664192da2",
+   "headliner": "Funk Friday",
+   "openers": [
+    "TH3"
+   ],
+   "date": "2026-11-27",
+   "start_time": "19:30",
+   "venue": "Animales Barbeque",
+   "venue_slug": "animales-barbeque",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://animalesbbq.com/calendar/funk-friday-feat-th3-november-2026"
   },
   {
    "id": "0fa8fa9dd52a",
@@ -585,6 +611,18 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://thedublinerpub.com/show/tim-on-tap-friday/?lre_date=2026-11-27"
+  },
+  {
+   "id": "8e3b943f71b9",
+   "headliner": "JayBee & the Routine",
+   "openers": [],
+   "date": "2026-11-27",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
   },
   {
    "id": "31404c1b11dd",

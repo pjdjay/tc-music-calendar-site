@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-23",
- "count": 10,
+ "count": 14,
  "shows": [
   {
-   "id": "f4d96f83de3f",
+   "id": "4da280090ed4",
    "headliner": "HonkyTonk Ranch",
    "openers": [],
    "date": "2026-11-23",
@@ -18,8 +18,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every fourth Monday",
    "source": "https://www.facebook.com/profile.php?id=100094683949311&mibextid=LQQJ4d"
   },
   {
@@ -112,6 +110,32 @@
    "source": "https://waldmannbrewery.com/news-events/"
   },
   {
+   "id": "595509a55e58",
+   "headliner": "Mondays@MetroNOME – Free Community Concerts",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "19:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "jazz/blues",
+   "price": "Free Concert",
+   "is_free": true,
+   "source": "https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-11-23/"
+  },
+  {
+   "id": "289cfdd9fde6",
+   "headliner": "Music by Phil Berbig!",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://troubadourwinebar.com/events"
+  },
+  {
    "id": "9103e5c0345a",
    "headliner": "Devil Master",
    "openers": [
@@ -130,6 +154,36 @@
    "tickets": "https://www.axs.com/events/1599390/devil-master-tickets?skin=turfclub",
    "source": "https://first-avenue.com/event/2026-11-devil-master/",
    "spotify": "https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i"
+  },
+  {
+   "id": "ed3150653311",
+   "headliner": "L.A.’s Monday Nights",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "price": "$10",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://tix.gobo.show/events/event/tt-43268/dates/CgcdEO7CUWHD9J9yUpzc?utm_source=icehousempls.com&utm_medium=website&utm_campaign=l-a-s-monday-nights-20261123",
+   "source": "https://www.icehousempls.com/shows/l-a-s-monday-nights-15/"
+  },
+  {
+   "id": "df4fcacee0a1",
+   "headliner": "Roe Family Singers",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "20:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.facebook.com/roefamilysingers/?fref=ts",
+   "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
   },
   {
    "id": "00d9238b5f2b",

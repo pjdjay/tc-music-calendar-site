@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-07",
- "count": 14,
+ "count": 18,
  "shows": [
   {
    "id": "cf01bb16cbde",
@@ -158,6 +158,32 @@
    "spotify": "https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf"
   },
   {
+   "id": "c8aff21b13e5",
+   "headliner": "Mondays@MetroNOME – Free Community Concerts",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "19:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "jazz/blues",
+   "price": "Free Concert",
+   "is_free": true,
+   "source": "https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-12-07/"
+  },
+  {
+   "id": "a264f0ae8d7b",
+   "headliner": "Music by Phil Berbig!",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://troubadourwinebar.com/events"
+  },
+  {
    "id": "f3e51b13d992",
    "headliner": "The Great Irish Sing-Along",
    "openers": [],
@@ -197,6 +223,36 @@
    "price": "$69 Advance / $79 At The Door",
    "is_free": false,
    "source": "https://theparkwaytheater.com/all-events/mister-romantic"
+  },
+  {
+   "id": "e4a43f9b77fc",
+   "headliner": "L.A.’s Monday Nights",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "price": "$10",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://tix.gobo.show/events/event/tt-43268/dates/Qe0MdveeIvQPQ61ZkhuC?utm_source=icehousempls.com&utm_medium=website&utm_campaign=l-a-s-monday-nights-20261207",
+   "source": "https://www.icehousempls.com/shows/l-a-s-monday-nights-13/"
+  },
+  {
+   "id": "dad947a4493a",
+   "headliner": "Roe Family Singers",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "20:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.facebook.com/roefamilysingers/?fref=ts",
+   "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
   },
   {
    "id": "16a8513a7933",

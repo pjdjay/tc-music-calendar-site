@@ -1,6 +1,6 @@
 # White Squirrel (St. Paul): upcoming shows
 
-55 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+56 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
@@ -21,7 +21,7 @@
 ## Tuesday, November 17, 2026
 
 - **The New Havoline Supremes** · 18:00 · rock/indie · [info](https://whitesquirrelbar.com/event/the-new-havoline-supremes-3/)
-- **Elour Tuesday Night Residency w/ Big Salt** · 21:00 · unknown · every Tuesday · residency · [info](https://whitesquirrelbar.com/event/elour-tuesday-night-residency/)
+- **Elour Tuesday Night Residency w/ Big Salt** · 21:00 · unknown · [info](https://whitesquirrelbar.com/event/elour-tuesday-night-residency/)
 
 ## Wednesday, November 18, 2026
 
@@ -57,6 +57,7 @@
 ## Tuesday, November 24, 2026
 
 - **Tribute To The Derailers w/ Trevor Mcspadden And The DL4** · 18:00 · country/folk/Americana · [info](https://whitesquirrelbar.com/event/a-dan-l-rotation/)
+- **Elour Tuesday Night Residency w/ J-Mo On The Beat** · 21:00 · unknown · [info](https://whitesquirrelbar.com/event/elour-tuesday-night-residency-2/)
 
 ## Wednesday, November 25, 2026
 
@@ -127,7 +128,7 @@
 
 ## Wednesday, December 9, 2026
 
-- **Cole Diamond’s Whiskey Wednesdays** · 21:00 · country/folk/Americana · every Wednesday · residency · [info](https://whitesquirrelbar.com/event/cole-diamonds-whiskey-wednesdays-9/)
+- **Cole Diamond’s Whiskey Wednesdays** · 21:00 · country/folk/Americana · [info](https://whitesquirrelbar.com/event/cole-diamonds-whiskey-wednesdays-9/)
 
 ## Thursday, December 10, 2026
 

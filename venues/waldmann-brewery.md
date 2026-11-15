@@ -1,6 +1,6 @@
 # Waldmann Brewery (St. Paul): upcoming shows
 
-12 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+13 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
@@ -17,7 +17,7 @@
 
 ## Thursday, November 19, 2026
 
-- **Late Night Irish w/ Smack Walser, Brian Miller, William Cramer!** · 20:30 · Celtic/Irish · every other Thursday · residency · [info](https://waldmannbrewery.com/news-events/)
+- **Late Night Irish w/ Smack Walser, Brian Miller, William Cramer!** · 20:30 · Celtic/Irish · [info](https://waldmannbrewery.com/news-events/)
 
 ## Monday, November 23, 2026
 
@@ -34,6 +34,10 @@
 ## Tuesday, December 1, 2026
 
 - **MN 1st Re-enactors Holiday Gathering: 30 guests, 5:00pm-9:00pm** · 17:00 · unknown · [info](https://waldmannbrewery.com/news-events/)
+
+## Thursday, December 3, 2026
+
+- **Late Night Irish w/ Gavin Strappe, Danny Diamond, Dáithí Sproule!** · 20:30 · Celtic/Irish · [info](https://waldmannbrewery.com/news-events/)
 
 ## Sunday, December 6, 2026
 

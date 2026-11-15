@@ -11,8 +11,8 @@
 
 ## Thursday, November 19, 2026
 
-- **Dirty P’s Thirsty 3rd Thursdays Club** · 17:00 · unknown · 21+ · every third Thursday · residency · [info](https://thehookmpls.com/shows/dirty-p-s-thirsty-3rd-thursdays-club-november-19-2026-652586)
-- **Front Porch Swingin' Liquor Pigs** · 17:00 · country/folk/Americana · every third Thursday · residency · [tickets](https://app.opendate.io/e/dirty-p-s-thirsty-3rd-thursdays-club-november-19-2026-652586?utm_source=jambase) [info](https://www.jambase.com/show/front-porch-swingin-liquor-pigs-the-hook-and-ladder-theater-20261119)
+- **Dirty P’s Thirsty 3rd Thursdays Club** · 17:00 · unknown · 21+ · [info](https://thehookmpls.com/shows/dirty-p-s-thirsty-3rd-thursdays-club-november-19-2026-652586)
+- **Front Porch Swingin' Liquor Pigs** · 17:00 · country/folk/Americana · [tickets](https://app.opendate.io/e/dirty-p-s-thirsty-3rd-thursdays-club-november-19-2026-652586?utm_source=jambase) [info](https://www.jambase.com/show/front-porch-swingin-liquor-pigs-the-hook-and-ladder-theater-20261119)
 - **Music For Everyone - Give To The Max Celebration** · 17:00 · unknown · 21+ · [info](https://thehookmpls.com/shows/music-for-everyone-give-to-the-max-celebration-november-19-2026-795688)
 
 ## Friday, November 20, 2026

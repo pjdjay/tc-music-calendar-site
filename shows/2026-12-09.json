@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-09",
- "count": 11,
+ "count": 13,
  "shows": [
   {
    "id": "b4d04d7a860e",
@@ -24,6 +24,18 @@
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/memphis-the-meantimes-christmas-with-mick-sterling-friends-tickets-1993940822676",
    "source": "https://www.croonersmn.com/event/grand-ole-opry-christmas-with-mick-sterling-friends-2/"
+  },
+  {
+   "id": "833fc0ee0167",
+   "headliner": "Pat Donohue & Friends",
+   "openers": [],
+   "date": "2026-12-09",
+   "start_time": "18:00",
+   "venue": "Midway Saloon",
+   "venue_slug": "midway-saloon",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://www.themidwaysaloon.com/events/pat-donohue-and-friends"
   },
   {
    "id": "bf1aaf6ace66",
@@ -144,7 +156,7 @@
    "source": "https://www.icehousempls.com/shows/cool-ned-d-and-ciao-bello/"
   },
   {
-   "id": "dcb97bdb470c",
+   "id": "fffb6c5b8889",
    "headliner": "Cole Diamond’s Whiskey Wednesdays",
    "openers": [],
    "date": "2026-12-09",
@@ -153,8 +165,6 @@
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every Wednesday",
    "source": "https://whitesquirrelbar.com/event/cole-diamonds-whiskey-wednesdays-9/"
   },
   {
@@ -168,6 +178,18 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "source": "https://331club.com/"
+  },
+  {
+   "id": "073fa6511a81",
+   "headliner": "Twine",
+   "openers": [],
+   "date": "2026-12-09",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
   }
  ]
 }

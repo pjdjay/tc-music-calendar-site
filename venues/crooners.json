@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -56,7 +56,7 @@
    "spotify": "https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra"
   },
   {
-   "id": "a871d2979e2f",
+   "id": "d5c5696190d8",
    "headliner": "Jim Bierma and Nancy Bierma",
    "openers": [],
    "date": "2026-11-15",
@@ -65,8 +65,6 @@
    "venue_slug": "crooners",
    "city": "Fridley",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "monthly on Sunday",
    "price": "Free",
    "is_free": true,
    "tickets": "https://www.eventbrite.com/e/jim-bierma-and-nancy-bierma-registration-1996655538464",
@@ -217,7 +215,7 @@
    "source": "https://www.croonersmn.com/event/buddy-holly-oh-boy-23/"
   },
   {
-   "id": "515a0b417705",
+   "id": "4a869c915379",
    "headliner": "Tommy Boynton and Friends",
    "openers": [],
    "date": "2026-11-20",
@@ -226,8 +224,6 @@
    "venue_slug": "crooners",
    "city": "Fridley",
    "genre": "jazz/blues",
-   "hidden_category": "residency",
-   "recurrence": "every third Friday",
    "price": "Free",
    "is_free": true,
    "tickets": "https://www.eventbrite.com/e/tommy-boynton-and-friends-registration-1992957724202",

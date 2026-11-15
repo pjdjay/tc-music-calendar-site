@@ -1,11 +1,11 @@
 # Utepils Brewing (Minneapolis): upcoming shows
 
-8 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+12 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
 
-- **Cuchillo** · 12:00 · unknown · every Saturday · residency · [info](https://utepilsbrewing.com/events/cuchillo/2026-11-14/)
+- **Cuchillo** · 12:00 · unknown · [info](https://utepilsbrewing.com/events/cuchillo/2026-11-14/)
 - **Grunge Unplugged** · 18:00 · rock/indie · [info](https://utepilsbrewing.com/events/grunge-unplugged/)
 
 ## Tuesday, November 17, 2026
@@ -14,22 +14,35 @@
 
 ## Friday, November 20, 2026
 
-- **Friday Night Live - FNL** · 18:00 · unknown · FREE Live Music · all ages · some Fridays · residency · [info](https://utepilsbrewing.com/events/friday-night-live-fnl/2026-11-20/)
+- **Friday Night Live - FNL** · 18:00 · unknown · FREE Live Music · all ages · [info](https://utepilsbrewing.com/events/friday-night-live-fnl/2026-11-20/)
+
+## Saturday, November 21, 2026
+
+- **Cuchillo** · 12:00 · unknown · [info](https://utepilsbrewing.com/events/cuchillo/2026-11-21/)
 
 ## Sunday, November 29, 2026
 
-- **Brown Chicken Brown Cow** · 12:00 · country/folk/Americana · most Sundays · residency · [info](https://utepilsbrewing.com/events/brown-chicken-brown-cow/2026-11-29/)
+- **Brown Chicken Brown Cow** · 12:00 · country/folk/Americana · [info](https://utepilsbrewing.com/events/brown-chicken-brown-cow/2026-11-29/)
 
 ## Monday, November 30, 2026
 
-- **Sociable Circuit** · 17:00 · unknown · FREE SHOW · monthly on Monday · residency · [info](https://utepilsbrewing.com/events/sociable-circuit-2/2026-11-30/)
+- **Sociable Circuit** · 17:00 · unknown · FREE SHOW · [info](https://utepilsbrewing.com/events/sociable-circuit-2/2026-11-30/)
+
+## Thursday, December 3, 2026
+
+- **Brown Chicken Brown Cow** · 16:00 · country/folk/Americana · [info](https://utepilsbrewing.com/events/brown-chicken-brown-cow/2026-12-03/)
 
 ## Saturday, December 5, 2026
 
+- **Cuchillo** · 12:00 · unknown · [info](https://utepilsbrewing.com/events/cuchillo/2026-12-05/)
 - **Santa Rampage** · 12:00 · unknown · [info](https://utepilsbrewing.com/events/santa-rampage/)
 
 ## Monday, December 7, 2026
 
 - **Backgammon & Brews** · 19:00 · unknown · [info](https://utepilsbrewing.com/events/backgammon-brews/2026-12-07/)
+
+## Friday, December 11, 2026
+
+- **Friday Night Live - FNL** · 18:00 · unknown · FREE Live Music · all ages · [info](https://utepilsbrewing.com/events/friday-night-live-fnl/2026-12-11/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

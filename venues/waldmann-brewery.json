@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,7 +7,7 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Waldmann Brewery",
  "city": "St. Paul",
- "count": 12,
+ "count": 13,
  "shows": [
   {
    "id": "a86d2a744e62",
@@ -46,7 +46,7 @@
    "source": "https://waldmannbrewery.com/news-events/"
   },
   {
-   "id": "c729cb990e9b",
+   "id": "3e20e30cc055",
    "headliner": "Late Night Irish",
    "openers": [
     "Smack Walser",
@@ -59,8 +59,6 @@
    "venue_slug": "waldmann-brewery",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every other Thursday",
    "source": "https://waldmannbrewery.com/news-events/"
   },
   {
@@ -110,6 +108,22 @@
    "venue_slug": "waldmann-brewery",
    "city": "St. Paul",
    "genre": "unknown",
+   "source": "https://waldmannbrewery.com/news-events/"
+  },
+  {
+   "id": "a527d91e01c1",
+   "headliner": "Late Night Irish",
+   "openers": [
+    "Gavin Strappe",
+    "Danny Diamond",
+    "Dáithí Sproule!"
+   ],
+   "date": "2026-12-03",
+   "start_time": "20:30",
+   "venue": "Waldmann Brewery",
+   "venue_slug": "waldmann-brewery",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
    "source": "https://waldmannbrewery.com/news-events/"
   },
   {

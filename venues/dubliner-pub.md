@@ -1,6 +1,6 @@
 # Dubliner Pub (St. Paul): upcoming shows
 
-29 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+35 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
@@ -10,8 +10,8 @@
 ## Sunday, November 15, 2026
 
 - **Twin Prop Jane Matinee** · 15:00 · unknown · some Sundays · residency · [info](https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-11-15)
-- **Phil Heywood** · 18:00 · unknown · every third Sunday · residency · [info](https://thedublinerpub.com/show/phil-heywood/?lre_date=2026-11-15) [spotify](https://open.spotify.com/artist/6QvaC8gvfCsxQG7JPOhkbe)
-- **Sunday Trad Session** · 20:00 · Celtic/Irish · every Sunday · residency · [info](https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-15)
+- **Phil Heywood** · 18:00 · unknown · [info](https://thedublinerpub.com/show/phil-heywood/?lre_date=2026-11-15) [spotify](https://open.spotify.com/artist/6QvaC8gvfCsxQG7JPOhkbe)
+- **Sunday Trad Session** · 20:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-15)
 
 ## Monday, November 16, 2026
 
@@ -28,7 +28,7 @@
 
 ## Friday, November 20, 2026
 
-- **Irish Music Session** · 18:00 · Celtic/Irish · every Friday · residency · [info](https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-20)
+- **Irish Music Session** · 18:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-20)
 - **Wild Colonial Bhoys** · 21:00 · Celtic/Irish · every third Friday · residency · [info](https://thedublinerpub.com/show/wild-colonial-bhoys/?lre_date=2026-11-20) [spotify](https://open.spotify.com/artist/0aLUSuJgvQUUPKOJb9F4n4)
 
 ## Saturday, November 21, 2026
@@ -39,7 +39,8 @@
 ## Sunday, November 22, 2026
 
 - **Dehl Gallagher Band** · 15:00 · unknown · [info](https://thedublinerpub.com/show/dehl-gallagher-band/?lre_date=2026-11-22)
-- **Hurricane Harold Trio** · 18:00 · unknown · every fourth Sunday · residency · [info](https://thedublinerpub.com/show/hurricane-harold-trio/?lre_date=2026-11-22)
+- **Hurricane Harold Trio** · 18:00 · unknown · [info](https://thedublinerpub.com/show/hurricane-harold-trio/?lre_date=2026-11-22)
+- **Sunday Trad Session** · 20:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-22)
 
 ## Wednesday, November 25, 2026
 
@@ -51,6 +52,7 @@
 
 ## Friday, November 27, 2026
 
+- **Irish Music Session** · 18:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-27)
 - **Tim On Tap** · 21:00 · unknown · [info](https://thedublinerpub.com/show/tim-on-tap-friday/?lre_date=2026-11-27)
 
 ## Saturday, November 28, 2026
@@ -61,6 +63,7 @@
 
 - **Debbie Briggs** · 15:00 · unknown · [info](https://thedublinerpub.com/show/debbie-briggs/?lre_date=2026-11-29)
 - **Kismet Rendevouz** · 18:00 · unknown · [info](https://thedublinerpub.com/show/kismet-rendevouz/?lre_date=2026-11-29)
+- **Sunday Trad Session** · 20:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-29)
 
 ## Wednesday, December 2, 2026
 
@@ -72,6 +75,7 @@
 
 ## Friday, December 4, 2026
 
+- **Irish Music Session** · 18:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-12-04)
 - **Release The Craicen** · 21:00 · unknown · [info](https://thedublinerpub.com/show/release-the-craicen/?lre_date=2026-12-04) [spotify](https://open.spotify.com/artist/6w62pRu8qyqLoWVF46VLuE)
 
 ## Saturday, December 5, 2026
@@ -81,6 +85,7 @@
 ## Sunday, December 6, 2026
 
 - **The Flying T** · 18:00 · unknown · [info](https://thedublinerpub.com/show/the-flying-t/?lre_date=2026-12-06)
+- **Sunday Trad Session** · 20:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-12-06)
 
 ## Monday, December 7, 2026
 
@@ -96,6 +101,7 @@
 
 ## Friday, December 11, 2026
 
+- **Irish Music Session** · 18:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-12-11)
 - **DD & Company** · 21:00 · unknown · [info](https://thedublinerpub.com/show/dd-company/?lre_date=2026-12-11)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -49,7 +49,7 @@
    "spotify": "https://open.spotify.com/artist/1HNHyEYMYJqvYxlzA0RnSc"
   },
   {
-   "id": "fb801a2a134b",
+   "id": "404231bf5dc9",
    "headliner": "Robert Wilkinson",
    "openers": [],
    "date": "2026-11-15",
@@ -58,8 +58,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Sunday",
    "source": "https://www.facebook.com/RobertWilkinsonMusic?mibextid=wwXIfr&mibextid=wwXIfr",
    "spotify": "https://open.spotify.com/artist/3EsE6uFEqJlhl8X3Zh7T1o"
   },
@@ -78,8 +76,8 @@
    "source": "https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-11-15"
   },
   {
-   "id": "030ea948260e",
-   "headliner": "Rachel Ries Residency",
+   "id": "58967cf5df9a",
+   "headliner": "Rachel Ries Residency: Saint Grandma’s Garage",
    "openers": [],
    "date": "2026-11-15",
    "start_time": "16:00",
@@ -88,8 +86,6 @@
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
    "doors_time": "15:00",
-   "hidden_category": "residency",
-   "recurrence": "most Sundays",
    "price": "$15 adv / $22 door",
    "is_free": false,
    "age": "18+",
@@ -97,7 +93,7 @@
    "source": "https://www.icehousempls.com/shows/rachel-ries-residency-saint-grandmas-garage-icehouse/"
   },
   {
-   "id": "cbd442db3ad5",
+   "id": "de20b5638314",
    "headliner": "Chris Holm Residency",
    "openers": [],
    "date": "2026-11-15",
@@ -106,8 +102,6 @@
    "venue_slug": "10k-brewing",
    "city": "Anoka",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://10kbrew.com/event/live-music-chris-holm-residency-15/"
   },
   {
@@ -130,7 +124,7 @@
    "spotify": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
   },
   {
-   "id": "a871d2979e2f",
+   "id": "d5c5696190d8",
    "headliner": "Jim Bierma and Nancy Bierma",
    "openers": [],
    "date": "2026-11-15",
@@ -139,8 +133,6 @@
    "venue_slug": "crooners",
    "city": "Fridley",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "monthly on Sunday",
    "price": "Free",
    "is_free": true,
    "tickets": "https://www.eventbrite.com/e/jim-bierma-and-nancy-bierma-registration-1996655538464",
@@ -196,7 +188,7 @@
    "source": "https://www.croonersmn.com/event/the-hit-songs-of-neil-diamond-and-paul-simon-2/"
   },
   {
-   "id": "02a5358ccccd",
+   "id": "fcb30507aae6",
    "headliner": "Phil Heywood",
    "openers": [],
    "date": "2026-11-15",
@@ -205,13 +197,11 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Sunday",
    "source": "https://thedublinerpub.com/show/phil-heywood/?lre_date=2026-11-15",
    "spotify": "https://open.spotify.com/artist/6QvaC8gvfCsxQG7JPOhkbe"
   },
   {
-   "id": "8f7d3158ddf9",
+   "id": "42bd8384fa20",
    "headliner": "Phine & Friends",
    "openers": [],
    "date": "2026-11-15",
@@ -220,8 +210,6 @@
    "venue_slug": "driftwood-char-bar",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://driftwoodcharbar.com/"
   },
   {
@@ -410,7 +398,7 @@
    "spotify": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
   },
   {
-   "id": "f085188a349c",
+   "id": "b7936dd444bd",
    "headliner": "Switchyard",
    "openers": [],
    "date": "2026-11-15",
@@ -419,8 +407,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Sunday",
    "source": "https://www.instagram.com/switchyard.band.mpls?igsh=eTJ6OTk2eXVubHZt",
    "spotify": "https://open.spotify.com/artist/14JC7ZFTnM4tbOOBiXhIjZ"
   },
@@ -506,7 +492,7 @@
    "spotify": "https://open.spotify.com/artist/0V8xaun2So5GLeMAC0fpbW"
   },
   {
-   "id": "f7181ddd91c4",
+   "id": "73b059facef2",
    "headliner": "Shotgun Ragtime Band",
    "openers": [],
    "date": "2026-11-15",
@@ -515,12 +501,10 @@
    "venue_slug": "driftwood-char-bar",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://driftwoodcharbar.com/"
   },
   {
-   "id": "e5a1ba4c5b5f",
+   "id": "5a563c693325",
    "headliner": "Sunday Trad Session",
    "openers": [],
    "date": "2026-11-15",
@@ -529,12 +513,10 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-15"
   },
   {
-   "id": "3bfac2566505",
+   "id": "c9aa7ac14331",
    "headliner": "Obi Original and The Black Atlantics",
    "openers": [],
    "date": "2026-11-15",
@@ -544,8 +526,6 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "doors_time": "20:00",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "price": "$10",
    "is_free": false,
    "age": "21+",
@@ -567,7 +547,7 @@
    "spotify": "https://open.spotify.com/artist/6MAfj6nFgM5eHxLSYJJUFK"
   },
   {
-   "id": "e03aedb27b49",
+   "id": "dfc22361d602",
    "headliner": "Dr Mambo's Combo",
    "openers": [],
    "date": "2026-11-15",
@@ -576,12 +556,10 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "hip-hop/R&B",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
-   "id": "fbf6d59b69d3",
+   "id": "397e99f28e62",
    "headliner": "Main Event Sundays",
    "openers": [],
    "date": "2026-11-15",
@@ -590,13 +568,11 @@
    "venue_slug": "cabooze",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "tickets": "https://www.etix.com/ticket/p/36481619/main-event-sundays-minneapolis-the-cabooze?partner_id=100",
    "source": "https://cabooze.com/event/main-event-sundays-2/the-cabooze/"
   },
   {
-   "id": "78c16186cf53",
+   "id": "49c8df78208d",
    "headliner": "eleven degenerates",
    "openers": [],
    "date": "2026-11-15",
@@ -605,8 +581,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Sunday",
    "source": "https://331club.com/"
   }
  ]

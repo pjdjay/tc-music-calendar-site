@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,10 +7,10 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Midway Saloon",
  "city": "St. Paul",
- "count": 1,
+ "count": 4,
  "shows": [
   {
-   "id": "d939615d25c4",
+   "id": "1f764e645983",
    "headliner": "Pat Donohue & Friends",
    "openers": [],
    "date": "2026-11-18",
@@ -19,8 +19,42 @@
    "venue_slug": "midway-saloon",
    "city": "St. Paul",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every Wednesday",
+   "source": "https://www.themidwaysaloon.com/events/pat-donohue-and-friends"
+  },
+  {
+   "id": "08dd26216720",
+   "headliner": "Pat Donohue & Friends",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "18:00",
+   "venue": "Midway Saloon",
+   "venue_slug": "midway-saloon",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://www.themidwaysaloon.com/events/pat-donohue-and-friends"
+  },
+  {
+   "id": "d61fba332b62",
+   "headliner": "Pat Donohue & Friends",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "18:00",
+   "venue": "Midway Saloon",
+   "venue_slug": "midway-saloon",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://www.themidwaysaloon.com/events/pat-donohue-and-friends"
+  },
+  {
+   "id": "833fc0ee0167",
+   "headliner": "Pat Donohue & Friends",
+   "openers": [],
+   "date": "2026-12-09",
+   "start_time": "18:00",
+   "venue": "Midway Saloon",
+   "venue_slug": "midway-saloon",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
    "source": "https://www.themidwaysaloon.com/events/pat-donohue-and-friends"
   }
  ]

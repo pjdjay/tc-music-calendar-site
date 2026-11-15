@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,10 +7,10 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Bunker's",
  "city": "Minneapolis",
- "count": 11,
+ "count": 23,
  "shows": [
   {
-   "id": "ae9cb3a119ff",
+   "id": "09f7ff29ed42",
    "headliner": "Chase & Ovation",
    "openers": [],
    "date": "2026-11-14",
@@ -19,12 +19,10 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "some Saturdays",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
-   "id": "e03aedb27b49",
+   "id": "dfc22361d602",
    "headliner": "Dr Mambo's Combo",
    "openers": [],
    "date": "2026-11-15",
@@ -33,12 +31,10 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "hip-hop/R&B",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
-   "id": "88f7e5bfe48a",
+   "id": "e3b733f720cb",
    "headliner": "International Reggae Allstars",
    "openers": [],
    "date": "2026-11-17",
@@ -47,12 +43,10 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "reggae/ska",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
-   "id": "54349366358a",
+   "id": "7aad2dfecdcf",
    "headliner": "Twine",
    "openers": [],
    "date": "2026-11-18",
@@ -61,12 +55,10 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Wednesday",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
-   "id": "526dbbe7a9ec",
+   "id": "fd9d0e1d0676",
    "headliner": "JayBee & the Routine",
    "openers": [],
    "date": "2026-11-19",
@@ -75,8 +67,6 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "most Thursdays",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
@@ -92,7 +82,7 @@
    "source": "https://bunkersmusic.com/calendar"
   },
   {
-   "id": "f307443d5ddc",
+   "id": "9a04190c50ee",
    "headliner": "The Good the Bad & the Funky",
    "openers": [],
    "date": "2026-11-21",
@@ -101,8 +91,54 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "most Saturdays",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "b904a3c94883",
+   "headliner": "Dr Mambo's Combo",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "b14c12178d7e",
+   "headliner": "International Reggae Allstars",
+   "openers": [],
+   "date": "2026-11-24",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "reggae/ska",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "fbe2f1ff4e0f",
+   "headliner": "Twine",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "8e3b943f71b9",
+   "headliner": "JayBee & the Routine",
+   "openers": [],
+   "date": "2026-11-27",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
@@ -115,6 +151,54 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "hip-hop/R&B",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "19fd0a4910fd",
+   "headliner": "Dr Mambo's Combo",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "45d117ead158",
+   "headliner": "International Reggae Allstars",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "reggae/ska",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "1d535e26f41d",
+   "headliner": "Twine",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "5e73734cf665",
+   "headliner": "JayBee & the Routine",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
@@ -134,6 +218,54 @@
    "headliner": "GB Leighton",
    "openers": [],
    "date": "2026-12-05",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "c3d5bfa34235",
+   "headliner": "Dr Mambo's Combo",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "78fb848547ab",
+   "headliner": "International Reggae Allstars",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "reggae/ska",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "073fa6511a81",
+   "headliner": "Twine",
+   "openers": [],
+   "date": "2026-12-09",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "b11326978ac5",
+   "headliner": "JayBee & the Routine",
+   "openers": [],
+   "date": "2026-12-10",
    "start_time": "21:30",
    "venue": "Bunker's",
    "venue_slug": "bunker-s",

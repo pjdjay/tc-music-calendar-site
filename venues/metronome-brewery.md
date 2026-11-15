@@ -1,6 +1,6 @@
 # MetroNOME Brewery (St. Paul): upcoming shows
 
-15 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+18 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
@@ -13,7 +13,7 @@
 
 ## Monday, November 16, 2026
 
-- **Mondays@MetroNOME – Free Community Concerts** · 19:00 · jazz/blues · Free Concert · every Monday · residency · [info](https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-11-16/)
+- **Mondays@MetroNOME – Free Community Concerts** · 19:00 · jazz/blues · Free Concert · [info](https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-11-16/)
 
 ## Tuesday, November 17, 2026
 
@@ -36,13 +36,18 @@
 - **Patti Cudd w/ Jeff Johnson, Maura Bosch — dreaming the world back into harmony** · 16:00 · classical · [info](https://metronomebrewery.com/live-music/patti-cudd-jeff-johnson-and-maura-bosch-dreaming-the-world-back-into-harmony/) [spotify](https://open.spotify.com/artist/4LiwSL9NdNlmrAY9gjABBG)
 - **CABARET! – JBB & Friends present BLOOD BROTHERS!** · 19:00 · unknown · [info](https://metronomebrewery.com/live-music/cabaret-jbb-friends-present-blood-brothers/)
 
+## Monday, November 23, 2026
+
+- **Mondays@MetroNOME – Free Community Concerts** · 19:00 · jazz/blues · Free Concert · [info](https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-11-23/)
+
 ## Friday, November 27, 2026
 
 - **Grady Cartony** · 19:30 · jazz/blues · [info](https://metronomebrewery.com/live-music/grady-cartony-with-friends/) [spotify](https://open.spotify.com/artist/042BIf90v7pcQJD1ZCIobh)
 
 ## Monday, November 30, 2026
 
-- **Marc Bellemare Quartet – Mondays@MetroNOME** · 19:00 · jazz/blues · every Monday · residency · [info](https://metronomebrewery.com/live-music/marc-bellemare-quartet-mondaysmetronome/)
+- **Marc Bellemare Quartet – Mondays@MetroNOME** · 19:00 · jazz/blues · [info](https://metronomebrewery.com/live-music/marc-bellemare-quartet-mondaysmetronome/)
+- **Mondays@MetroNOME – Free Community Concerts** · 19:00 · jazz/blues · Free Concert · [info](https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-11-30/)
 
 ## Tuesday, December 1, 2026
 
@@ -51,6 +56,10 @@
 ## Friday, December 4, 2026
 
 - **Trio Amigos** · 18:00 · country/folk/Americana · [info](https://metronomebrewery.com/live-music/trio-amigos/) [spotify](https://open.spotify.com/artist/7rTJOgrk6Qvdmt6U0gFBsr)
+
+## Monday, December 7, 2026
+
+- **Mondays@MetroNOME – Free Community Concerts** · 19:00 · jazz/blues · Free Concert · [info](https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-12-07/)
 
 ## Tuesday, December 8, 2026
 

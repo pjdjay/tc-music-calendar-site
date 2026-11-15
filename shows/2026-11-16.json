@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -38,7 +38,7 @@
    "spotify": "https://open.spotify.com/artist/2D5VEHBsI887Cws9NjwXgG"
   },
   {
-   "id": "500268a0f6b5",
+   "id": "d06839eee5b8",
    "headliner": "“Womenfolk Presents”",
    "openers": [
     "Wren + Wilde"
@@ -49,8 +49,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every third Monday",
    "source": "https://331club.com/"
   },
   {
@@ -170,7 +168,7 @@
    "source": "https://waldmannbrewery.com/news-events/"
   },
   {
-   "id": "e379a4225186",
+   "id": "0e4fde6b8f2b",
    "headliner": "Mondays@MetroNOME – Free Community Concerts",
    "openers": [],
    "date": "2026-11-16",
@@ -179,14 +177,12 @@
    "venue_slug": "metronome-brewery",
    "city": "St. Paul",
    "genre": "jazz/blues",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "price": "Free Concert",
    "is_free": true,
    "source": "https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-11-16/"
   },
   {
-   "id": "b0ad560075cd",
+   "id": "d098e9bc04bd",
    "headliner": "Music by Phil Berbig!",
    "openers": [],
    "date": "2026-11-16",
@@ -195,12 +191,10 @@
    "venue_slug": "troubadour",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "source": "https://troubadourwinebar.com/events"
   },
   {
-   "id": "44e9b82c9748",
+   "id": "441a80d03dd0",
    "headliner": "L.A.’s Monday Nights",
    "openers": [],
    "date": "2026-11-16",
@@ -210,8 +204,6 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "doors_time": "19:00",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "price": "$10",
    "is_free": false,
    "age": "18+",
@@ -219,7 +211,7 @@
    "source": "https://www.icehousempls.com/shows/l-a-s-monday-nights-18/"
   },
   {
-   "id": "4e41ef55206e",
+   "id": "fccb0dc842f6",
    "headliner": "Roe Family Singers",
    "openers": [],
    "date": "2026-11-16",
@@ -228,8 +220,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "source": "https://www.facebook.com/roefamilysingers/?fref=ts",
    "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
   },

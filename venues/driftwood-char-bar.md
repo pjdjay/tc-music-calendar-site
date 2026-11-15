@@ -1,6 +1,6 @@
 # Driftwood Char Bar (Minneapolis): upcoming shows
 
-26 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+35 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
@@ -10,12 +10,12 @@
 
 ## Sunday, November 15, 2026
 
-- **Phine & Friends** · 18:00 · unknown · every Sunday · residency · [info](https://driftwoodcharbar.com/)
-- **Shotgun Ragtime Band** · 20:00 · country/folk/Americana · every Sunday · residency · [info](https://driftwoodcharbar.com/)
+- **Phine & Friends** · 18:00 · unknown · [info](https://driftwoodcharbar.com/)
+- **Shotgun Ragtime Band** · 20:00 · country/folk/Americana · [info](https://driftwoodcharbar.com/)
 
 ## Tuesday, November 17, 2026
 
-- **St. Dominic's Trio** · 19:00 · unknown · every Tuesday · residency · [info](https://driftwoodcharbar.com/) [spotify](https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv)
+- **St. Dominic's Trio** · 19:00 · unknown · [info](https://driftwoodcharbar.com/) [spotify](https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv)
 
 ## Thursday, November 19, 2026
 
@@ -32,6 +32,15 @@
 - **Soundcult** · 19:00 · unknown · [info](https://driftwoodcharbar.com/) [spotify](https://open.spotify.com/artist/1tPwmE4jCkgNvpKqw7iEqo)
 - **Exactly Five Reasons** · 20:30 · unknown · [info](https://driftwoodcharbar.com/)
 
+## Sunday, November 22, 2026
+
+- **Phine & Friends** · 18:00 · unknown · [info](https://driftwoodcharbar.com/)
+- **Shotgun Ragtime Band** · 20:00 · country/folk/Americana · [info](https://driftwoodcharbar.com/)
+
+## Tuesday, November 24, 2026
+
+- **St. Dominic's Trio** · 19:00 · unknown · [info](https://driftwoodcharbar.com/) [spotify](https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv)
+
 ## Friday, November 27, 2026
 
 - **4 Non Dons** · 19:00 · unknown · [info](https://driftwoodcharbar.com/)
@@ -42,6 +51,15 @@
 - **WvLVES** · 19:00 · unknown · [info](https://driftwoodcharbar.com/)
 - **The Handsome Traveler** · 20:00 · unknown · [info](https://driftwoodcharbar.com/) [spotify](https://open.spotify.com/artist/3WyO0WGPjBs6lJxDBcT6gV)
 - **Arrows at Dawn** · 21:30 · unknown · [info](https://driftwoodcharbar.com/) [spotify](https://open.spotify.com/artist/4CDFCdd93pU02vO3l3UvHj)
+
+## Sunday, November 29, 2026
+
+- **Phine & Friends** · 18:00 · unknown · [info](https://driftwoodcharbar.com/)
+- **Shotgun Ragtime Band** · 20:00 · country/folk/Americana · [info](https://driftwoodcharbar.com/)
+
+## Tuesday, December 1, 2026
+
+- **St. Dominic's Trio** · 19:00 · unknown · [info](https://driftwoodcharbar.com/) [spotify](https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv)
 
 ## Thursday, December 3, 2026
 
@@ -57,6 +75,15 @@
 
 - **Hot Fruit** · 19:00 · unknown · [info](https://driftwoodcharbar.com/) [spotify](https://open.spotify.com/artist/474jBEzwIxdqRiGzj1quEy)
 - **The Gould Brothers Band** · 21:00 · unknown · [info](https://driftwoodcharbar.com/) [spotify](https://open.spotify.com/artist/2nwMU1F13SJHCXqZnuqs5T)
+
+## Sunday, December 6, 2026
+
+- **Phine & Friends** · 18:00 · unknown · [info](https://driftwoodcharbar.com/)
+- **Shotgun Ragtime Band** · 20:00 · country/folk/Americana · [info](https://driftwoodcharbar.com/)
+
+## Tuesday, December 8, 2026
+
+- **St. Dominic's Trio** · 19:00 · unknown · [info](https://driftwoodcharbar.com/) [spotify](https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv)
 
 ## Thursday, December 10, 2026
 

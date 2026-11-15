@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,7 +7,7 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Driftwood Char Bar",
  "city": "Minneapolis",
- "count": 26,
+ "count": 35,
  "shows": [
   {
    "id": "a9c66107ac07",
@@ -34,7 +34,7 @@
    "source": "https://driftwoodcharbar.com/"
   },
   {
-   "id": "8f7d3158ddf9",
+   "id": "42bd8384fa20",
    "headliner": "Phine & Friends",
    "openers": [],
    "date": "2026-11-15",
@@ -43,12 +43,10 @@
    "venue_slug": "driftwood-char-bar",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://driftwoodcharbar.com/"
   },
   {
-   "id": "f7181ddd91c4",
+   "id": "73b059facef2",
    "headliner": "Shotgun Ragtime Band",
    "openers": [],
    "date": "2026-11-15",
@@ -57,12 +55,10 @@
    "venue_slug": "driftwood-char-bar",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://driftwoodcharbar.com/"
   },
   {
-   "id": "74da90069e88",
+   "id": "73adfbb9c90c",
    "headliner": "St. Dominic's Trio",
    "openers": [],
    "date": "2026-11-17",
@@ -71,8 +67,6 @@
    "venue_slug": "driftwood-char-bar",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://driftwoodcharbar.com/",
    "spotify": "https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv"
   },
@@ -150,6 +144,43 @@
    "source": "https://driftwoodcharbar.com/"
   },
   {
+   "id": "9ebf7cb76a7a",
+   "headliner": "Phine & Friends",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "18:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "28f47fa1b6dc",
+   "headliner": "Shotgun Ragtime Band",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "20:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "3a238c47c716",
+   "headliner": "St. Dominic's Trio",
+   "openers": [],
+   "date": "2026-11-24",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/",
+   "spotify": "https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv"
+  },
+  {
    "id": "bb375eb87f61",
    "headliner": "4 Non Dons",
    "openers": [],
@@ -211,6 +242,43 @@
    "genre": "unknown",
    "source": "https://driftwoodcharbar.com/",
    "spotify": "https://open.spotify.com/artist/4CDFCdd93pU02vO3l3UvHj"
+  },
+  {
+   "id": "d8275916a507",
+   "headliner": "Phine & Friends",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "18:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "8d0b0dd283e4",
+   "headliner": "Shotgun Ragtime Band",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "20:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "db6d48e6ea8c",
+   "headliner": "St. Dominic's Trio",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/",
+   "spotify": "https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv"
   },
   {
    "id": "98204cf8ffea",
@@ -287,6 +355,43 @@
    "genre": "unknown",
    "source": "https://driftwoodcharbar.com/",
    "spotify": "https://open.spotify.com/artist/2nwMU1F13SJHCXqZnuqs5T"
+  },
+  {
+   "id": "ac2aa7f94759",
+   "headliner": "Phine & Friends",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "18:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "682e9a3fc9aa",
+   "headliner": "Shotgun Ragtime Band",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "20:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "8e634e04af06",
+   "headliner": "St. Dominic's Trio",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/",
+   "spotify": "https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv"
   },
   {
    "id": "a03cd092ba05",

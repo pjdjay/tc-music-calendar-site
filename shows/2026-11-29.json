@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-29",
- "count": 21,
+ "count": 27,
  "shows": [
   {
    "id": "daa8dc053365",
@@ -22,7 +22,7 @@
    "spotify": "https://open.spotify.com/artist/3LT3ChbVJI2rE6jAFfkGWZ"
   },
   {
-   "id": "6e244618ea95",
+   "id": "f23d81637c0f",
    "headliner": "Brown Chicken Brown Cow",
    "openers": [],
    "date": "2026-11-29",
@@ -31,8 +31,6 @@
    "venue_slug": "utepils-brewing",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "most Sundays",
    "source": "https://utepilsbrewing.com/events/brown-chicken-brown-cow/2026-11-29/"
   },
   {
@@ -101,6 +99,18 @@
    "genre": "unknown",
    "source": "https://www.instagram.com/playcountryblues?mdxt=MThvYTF0aXBvaTV2OQ==",
    "spotify": "https://open.spotify.com/artist/75gvrQbCyMQ5J6CmPnQIQE"
+  },
+  {
+   "id": "5ef248b5492c",
+   "headliner": "Chris Holm Residency",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "16:00",
+   "venue": "10K Brewing",
+   "venue_slug": "10k-brewing",
+   "city": "Anoka",
+   "genre": "unknown",
+   "source": "https://10kbrew.com/event/live-music-chris-holm-residency-17/"
   },
   {
    "id": "7f39b7699771",
@@ -194,6 +204,18 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://thedublinerpub.com/show/kismet-rendevouz/?lre_date=2026-11-29"
+  },
+  {
+   "id": "d8275916a507",
+   "headliner": "Phine & Friends",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "18:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
   },
   {
    "id": "85067c552b7a",
@@ -308,6 +330,47 @@
    "spotify": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
   },
   {
+   "id": "8d0b0dd283e4",
+   "headliner": "Shotgun Ragtime Band",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "20:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "5e2c1c23d207",
+   "headliner": "Sunday Trad Session",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-29"
+  },
+  {
+   "id": "a1b5ed395350",
+   "headliner": "Obi Original and The Black Atlantics",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "21:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "20:00",
+   "price": "$10",
+   "is_free": false,
+   "age": "21+",
+   "tickets": "https://tix.gobo.show/events/event/tt-44654/dates/XXhTsioeYehbGX5vmuPx?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261129",
+   "source": "https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-17/"
+  },
+  {
    "id": "013ca9273349",
    "headliner": "Spectres of Desire",
    "openers": [
@@ -323,6 +386,18 @@
    "end_date": "2026-11-30",
    "source": "https://whitesquirrelbar.com/event/spectres-of-desire/",
    "spotify": "https://open.spotify.com/artist/7duJkNq2THy0gHs0RV3e0G"
+  },
+  {
+   "id": "19fd0a4910fd",
+   "headliner": "Dr Mambo's Combo",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "source": "https://bunkersmusic.com/calendar"
   }
  ]
 }

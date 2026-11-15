@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -36,7 +36,7 @@
    "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
   },
   {
-   "id": "bcb9a105b2b6",
+   "id": "7361c9709e54",
    "headliner": "Dirty P’s Thirsty 3rd Thursdays Club",
    "openers": [],
    "date": "2026-11-19",
@@ -45,13 +45,11 @@
    "venue_slug": "hook-and-ladder",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Thursday",
    "age": "21+",
    "source": "https://thehookmpls.com/shows/dirty-p-s-thirsty-3rd-thursdays-club-november-19-2026-652586"
   },
   {
-   "id": "4945b965cdc5",
+   "id": "4a0ca7e07334",
    "headliner": "Front Porch Swingin' Liquor Pigs",
    "openers": [],
    "date": "2026-11-19",
@@ -60,8 +58,6 @@
    "venue_slug": "hook-and-ladder",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every third Thursday",
    "tickets": "https://app.opendate.io/e/dirty-p-s-thirsty-3rd-thursdays-club-november-19-2026-652586?utm_source=jambase",
    "source": "https://www.jambase.com/show/front-porch-swingin-liquor-pigs-the-hook-and-ladder-theater-20261119"
   },
@@ -405,7 +401,7 @@
    "spotify": "https://open.spotify.com/artist/2D5VEHBsI887Cws9NjwXgG"
   },
   {
-   "id": "c729cb990e9b",
+   "id": "3e20e30cc055",
    "headliner": "Late Night Irish",
    "openers": [
     "Smack Walser",
@@ -418,8 +414,6 @@
    "venue_slug": "waldmann-brewery",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every other Thursday",
    "source": "https://waldmannbrewery.com/news-events/"
   },
   {
@@ -455,7 +449,7 @@
    "source": "https://driftwoodcharbar.com/"
   },
   {
-   "id": "a20d844bd78f",
+   "id": "eaece244f0a0",
    "headliner": "Cross Pollination",
    "openers": [
     "Boudin Blanc",
@@ -467,12 +461,10 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Thursday",
    "source": "https://www.instagram.com/boudinblancband?obrf=MTl5NnZrNnpndDU4bQ=="
   },
   {
-   "id": "526dbbe7a9ec",
+   "id": "fd9d0e1d0676",
    "headliner": "JayBee & the Routine",
    "openers": [],
    "date": "2026-11-19",
@@ -481,8 +473,6 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "most Thursdays",
    "source": "https://bunkersmusic.com/calendar"
   },
   {

@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
- "count": 818,
+ "count": 881,
  "shows": [
   {
    "id": "b7ce3d13bbbd",
@@ -47,7 +47,7 @@
    "source": "https://56brewing.com/event/family-rock-brewery-edition/2026-11-14/"
   },
   {
-   "id": "af4e0dfed08a",
+   "id": "fc815b0e8ea8",
    "headliner": "Cuchillo",
    "openers": [],
    "date": "2026-11-14",
@@ -56,8 +56,6 @@
    "venue_slug": "utepils-brewing",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Saturday",
    "source": "https://utepilsbrewing.com/events/cuchillo/2026-11-14/"
   },
   {
@@ -789,7 +787,7 @@
    "source": "https://driftwoodcharbar.com/"
   },
   {
-   "id": "ae9cb3a119ff",
+   "id": "09f7ff29ed42",
    "headliner": "Chase & Ovation",
    "openers": [],
    "date": "2026-11-14",
@@ -798,8 +796,6 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "some Saturdays",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
@@ -942,7 +938,7 @@
    "spotify": "https://open.spotify.com/artist/1HNHyEYMYJqvYxlzA0RnSc"
   },
   {
-   "id": "fb801a2a134b",
+   "id": "404231bf5dc9",
    "headliner": "Robert Wilkinson",
    "openers": [],
    "date": "2026-11-15",
@@ -951,8 +947,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Sunday",
    "source": "https://www.facebook.com/RobertWilkinsonMusic?mibextid=wwXIfr&mibextid=wwXIfr",
    "spotify": "https://open.spotify.com/artist/3EsE6uFEqJlhl8X3Zh7T1o"
   },
@@ -971,8 +965,8 @@
    "source": "https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-11-15"
   },
   {
-   "id": "030ea948260e",
-   "headliner": "Rachel Ries Residency",
+   "id": "58967cf5df9a",
+   "headliner": "Rachel Ries Residency: Saint Grandma’s Garage",
    "openers": [],
    "date": "2026-11-15",
    "start_time": "16:00",
@@ -981,8 +975,6 @@
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
    "doors_time": "15:00",
-   "hidden_category": "residency",
-   "recurrence": "most Sundays",
    "price": "$15 adv / $22 door",
    "is_free": false,
    "age": "18+",
@@ -990,7 +982,7 @@
    "source": "https://www.icehousempls.com/shows/rachel-ries-residency-saint-grandmas-garage-icehouse/"
   },
   {
-   "id": "cbd442db3ad5",
+   "id": "de20b5638314",
    "headliner": "Chris Holm Residency",
    "openers": [],
    "date": "2026-11-15",
@@ -999,8 +991,6 @@
    "venue_slug": "10k-brewing",
    "city": "Anoka",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://10kbrew.com/event/live-music-chris-holm-residency-15/"
   },
   {
@@ -1023,7 +1013,7 @@
    "spotify": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
   },
   {
-   "id": "a871d2979e2f",
+   "id": "d5c5696190d8",
    "headliner": "Jim Bierma and Nancy Bierma",
    "openers": [],
    "date": "2026-11-15",
@@ -1032,8 +1022,6 @@
    "venue_slug": "crooners",
    "city": "Fridley",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "monthly on Sunday",
    "price": "Free",
    "is_free": true,
    "tickets": "https://www.eventbrite.com/e/jim-bierma-and-nancy-bierma-registration-1996655538464",
@@ -1089,7 +1077,7 @@
    "source": "https://www.croonersmn.com/event/the-hit-songs-of-neil-diamond-and-paul-simon-2/"
   },
   {
-   "id": "02a5358ccccd",
+   "id": "fcb30507aae6",
    "headliner": "Phil Heywood",
    "openers": [],
    "date": "2026-11-15",
@@ -1098,13 +1086,11 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Sunday",
    "source": "https://thedublinerpub.com/show/phil-heywood/?lre_date=2026-11-15",
    "spotify": "https://open.spotify.com/artist/6QvaC8gvfCsxQG7JPOhkbe"
   },
   {
-   "id": "8f7d3158ddf9",
+   "id": "42bd8384fa20",
    "headliner": "Phine & Friends",
    "openers": [],
    "date": "2026-11-15",
@@ -1113,8 +1099,6 @@
    "venue_slug": "driftwood-char-bar",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://driftwoodcharbar.com/"
   },
   {
@@ -1303,7 +1287,7 @@
    "spotify": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
   },
   {
-   "id": "f085188a349c",
+   "id": "b7936dd444bd",
    "headliner": "Switchyard",
    "openers": [],
    "date": "2026-11-15",
@@ -1312,8 +1296,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Sunday",
    "source": "https://www.instagram.com/switchyard.band.mpls?igsh=eTJ6OTk2eXVubHZt",
    "spotify": "https://open.spotify.com/artist/14JC7ZFTnM4tbOOBiXhIjZ"
   },
@@ -1399,7 +1381,7 @@
    "spotify": "https://open.spotify.com/artist/0V8xaun2So5GLeMAC0fpbW"
   },
   {
-   "id": "f7181ddd91c4",
+   "id": "73b059facef2",
    "headliner": "Shotgun Ragtime Band",
    "openers": [],
    "date": "2026-11-15",
@@ -1408,12 +1390,10 @@
    "venue_slug": "driftwood-char-bar",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://driftwoodcharbar.com/"
   },
   {
-   "id": "e5a1ba4c5b5f",
+   "id": "5a563c693325",
    "headliner": "Sunday Trad Session",
    "openers": [],
    "date": "2026-11-15",
@@ -1422,12 +1402,10 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-15"
   },
   {
-   "id": "3bfac2566505",
+   "id": "c9aa7ac14331",
    "headliner": "Obi Original and The Black Atlantics",
    "openers": [],
    "date": "2026-11-15",
@@ -1437,8 +1415,6 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "doors_time": "20:00",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "price": "$10",
    "is_free": false,
    "age": "21+",
@@ -1460,7 +1436,7 @@
    "spotify": "https://open.spotify.com/artist/6MAfj6nFgM5eHxLSYJJUFK"
   },
   {
-   "id": "e03aedb27b49",
+   "id": "dfc22361d602",
    "headliner": "Dr Mambo's Combo",
    "openers": [],
    "date": "2026-11-15",
@@ -1469,12 +1445,10 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "hip-hop/R&B",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
-   "id": "fbf6d59b69d3",
+   "id": "397e99f28e62",
    "headliner": "Main Event Sundays",
    "openers": [],
    "date": "2026-11-15",
@@ -1483,13 +1457,11 @@
    "venue_slug": "cabooze",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
    "tickets": "https://www.etix.com/ticket/p/36481619/main-event-sundays-minneapolis-the-cabooze?partner_id=100",
    "source": "https://cabooze.com/event/main-event-sundays-2/the-cabooze/"
   },
   {
-   "id": "78c16186cf53",
+   "id": "49c8df78208d",
    "headliner": "eleven degenerates",
    "openers": [],
    "date": "2026-11-15",
@@ -1498,8 +1470,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Sunday",
    "source": "https://331club.com/"
   },
   {
@@ -1532,7 +1502,7 @@
    "spotify": "https://open.spotify.com/artist/2D5VEHBsI887Cws9NjwXgG"
   },
   {
-   "id": "500268a0f6b5",
+   "id": "d06839eee5b8",
    "headliner": "“Womenfolk Presents”",
    "openers": [
     "Wren + Wilde"
@@ -1543,8 +1513,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every third Monday",
    "source": "https://331club.com/"
   },
   {
@@ -1664,7 +1632,7 @@
    "source": "https://waldmannbrewery.com/news-events/"
   },
   {
-   "id": "e379a4225186",
+   "id": "0e4fde6b8f2b",
    "headliner": "Mondays@MetroNOME – Free Community Concerts",
    "openers": [],
    "date": "2026-11-16",
@@ -1673,14 +1641,12 @@
    "venue_slug": "metronome-brewery",
    "city": "St. Paul",
    "genre": "jazz/blues",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "price": "Free Concert",
    "is_free": true,
    "source": "https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-11-16/"
   },
   {
-   "id": "b0ad560075cd",
+   "id": "d098e9bc04bd",
    "headliner": "Music by Phil Berbig!",
    "openers": [],
    "date": "2026-11-16",
@@ -1689,12 +1655,10 @@
    "venue_slug": "troubadour",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "source": "https://troubadourwinebar.com/events"
   },
   {
-   "id": "44e9b82c9748",
+   "id": "441a80d03dd0",
    "headliner": "L.A.’s Monday Nights",
    "openers": [],
    "date": "2026-11-16",
@@ -1704,8 +1668,6 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "doors_time": "19:00",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "price": "$10",
    "is_free": false,
    "age": "18+",
@@ -1713,7 +1675,7 @@
    "source": "https://www.icehousempls.com/shows/l-a-s-monday-nights-18/"
   },
   {
-   "id": "4e41ef55206e",
+   "id": "fccb0dc842f6",
    "headliner": "Roe Family Singers",
    "openers": [],
    "date": "2026-11-16",
@@ -1722,8 +1684,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "source": "https://www.facebook.com/roefamilysingers/?fref=ts",
    "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
   },
@@ -1786,7 +1746,7 @@
    "source": "https://whitesquirrelbar.com/event/the-new-havoline-supremes-3/"
   },
   {
-   "id": "25af333eaa31",
+   "id": "969f60edfd84",
    "headliner": "Worker’s Playtime",
    "openers": [
     "David Huckfelt"
@@ -1797,8 +1757,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://www.instagram.com/david_huckfelt?srtk=ZHhjdWJrd2F1em5y"
   },
   {
@@ -1885,7 +1843,7 @@
    "spotify": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
   },
   {
-   "id": "74da90069e88",
+   "id": "73adfbb9c90c",
    "headliner": "St. Dominic's Trio",
    "openers": [],
    "date": "2026-11-17",
@@ -1894,8 +1852,6 @@
    "venue_slug": "driftwood-char-bar",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://driftwoodcharbar.com/",
    "spotify": "https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv"
   },
@@ -1933,7 +1889,7 @@
    "spotify": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
   },
   {
-   "id": "a3f0515d0327",
+   "id": "e0412e766bd6",
    "headliner": "Elour Tuesday Night Residency",
    "openers": [
     "Big Salt"
@@ -1945,12 +1901,10 @@
    "city": "St. Paul",
    "genre": "unknown",
    "end_date": "2026-11-18",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://whitesquirrelbar.com/event/elour-tuesday-night-residency/"
   },
   {
-   "id": "ead563320456",
+   "id": "c64aa6deb99d",
    "headliner": "Cold Sweat",
    "openers": [
     "The Lavender Project+",
@@ -1962,12 +1916,10 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://www.instagram.com/coldsweatnd?stkn=aWpsbmc1M2F3c3Fq"
   },
   {
-   "id": "88f7e5bfe48a",
+   "id": "e3b733f720cb",
    "headliner": "International Reggae Allstars",
    "openers": [],
    "date": "2026-11-17",
@@ -1976,8 +1928,6 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "reggae/ska",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
@@ -2052,7 +2002,7 @@
    "source": "https://www.croonersmn.com/event/the-music-of-clifford-brown-max-roach-with-steve-wagner-phil-hey-2/"
   },
   {
-   "id": "d939615d25c4",
+   "id": "1f764e645983",
    "headliner": "Pat Donohue & Friends",
    "openers": [],
    "date": "2026-11-18",
@@ -2061,8 +2011,6 @@
    "venue_slug": "midway-saloon",
    "city": "St. Paul",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every Wednesday",
    "source": "https://www.themidwaysaloon.com/events/pat-donohue-and-friends"
   },
   {
@@ -2368,7 +2316,7 @@
    "source": "https://331club.com/"
   },
   {
-   "id": "54349366358a",
+   "id": "7aad2dfecdcf",
    "headliner": "Twine",
    "openers": [],
    "date": "2026-11-18",
@@ -2377,8 +2325,6 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Wednesday",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
@@ -2428,7 +2374,7 @@
    "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
   },
   {
-   "id": "bcb9a105b2b6",
+   "id": "7361c9709e54",
    "headliner": "Dirty P’s Thirsty 3rd Thursdays Club",
    "openers": [],
    "date": "2026-11-19",
@@ -2437,13 +2383,11 @@
    "venue_slug": "hook-and-ladder",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Thursday",
    "age": "21+",
    "source": "https://thehookmpls.com/shows/dirty-p-s-thirsty-3rd-thursdays-club-november-19-2026-652586"
   },
   {
-   "id": "4945b965cdc5",
+   "id": "4a0ca7e07334",
    "headliner": "Front Porch Swingin' Liquor Pigs",
    "openers": [],
    "date": "2026-11-19",
@@ -2452,8 +2396,6 @@
    "venue_slug": "hook-and-ladder",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every third Thursday",
    "tickets": "https://app.opendate.io/e/dirty-p-s-thirsty-3rd-thursdays-club-november-19-2026-652586?utm_source=jambase",
    "source": "https://www.jambase.com/show/front-porch-swingin-liquor-pigs-the-hook-and-ladder-theater-20261119"
   },
@@ -2797,7 +2739,7 @@
    "spotify": "https://open.spotify.com/artist/2D5VEHBsI887Cws9NjwXgG"
   },
   {
-   "id": "c729cb990e9b",
+   "id": "3e20e30cc055",
    "headliner": "Late Night Irish",
    "openers": [
     "Smack Walser",
@@ -2810,8 +2752,6 @@
    "venue_slug": "waldmann-brewery",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every other Thursday",
    "source": "https://waldmannbrewery.com/news-events/"
   },
   {
@@ -2847,7 +2787,7 @@
    "source": "https://driftwoodcharbar.com/"
   },
   {
-   "id": "a20d844bd78f",
+   "id": "eaece244f0a0",
    "headliner": "Cross Pollination",
    "openers": [
     "Boudin Blanc",
@@ -2859,12 +2799,10 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Thursday",
    "source": "https://www.instagram.com/boudinblancband?obrf=MTl5NnZrNnpndDU4bQ=="
   },
   {
-   "id": "526dbbe7a9ec",
+   "id": "fd9d0e1d0676",
    "headliner": "JayBee & the Routine",
    "openers": [],
    "date": "2026-11-19",
@@ -2873,8 +2811,6 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "most Thursdays",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
@@ -2933,7 +2869,7 @@
    "source": "https://www.berlinmpls.com/calendar/early-evening-jazz-robert-lehmann-suwal-singh-jordan-sarkis"
   },
   {
-   "id": "515a0b417705",
+   "id": "4a869c915379",
    "headliner": "Tommy Boynton and Friends",
    "openers": [],
    "date": "2026-11-20",
@@ -2942,8 +2878,6 @@
    "venue_slug": "crooners",
    "city": "Fridley",
    "genre": "jazz/blues",
-   "hidden_category": "residency",
-   "recurrence": "every third Friday",
    "price": "Free",
    "is_free": true,
    "tickets": "https://www.eventbrite.com/e/tommy-boynton-and-friends-registration-1992957724202",
@@ -2968,7 +2902,7 @@
    "source": "https://thehookmpls.com/shows/clean-plate-club-with-becca-murray-the-wildflowers-and-auronova-november-20-2026-745179"
   },
   {
-   "id": "a2bfbcb91ac9",
+   "id": "5e4cf02b19b6",
    "headliner": "Friday Night Live - FNL",
    "openers": [],
    "date": "2026-11-20",
@@ -2977,8 +2911,6 @@
    "venue_slug": "utepils-brewing",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "some Fridays",
    "price": "FREE Live Music",
    "is_free": true,
    "age": "all_ages",
@@ -3010,7 +2942,7 @@
    "source": "https://whitesquirrelbar.com/event/chris-holm/"
   },
   {
-   "id": "0ea668345a46",
+   "id": "90ec940753da",
    "headliner": "Irish Music Session",
    "openers": [],
    "date": "2026-11-20",
@@ -3019,8 +2951,6 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every Friday",
    "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-20"
   },
   {
@@ -3222,7 +3152,7 @@
    "spotify": "https://open.spotify.com/artist/1re8x8ym8nfokPKYEW5XTn"
   },
   {
-   "id": "9684fce1c023",
+   "id": "7b55a428acd6",
    "headliner": "Funk Friday",
    "openers": [
     "ART Dept."
@@ -3233,8 +3163,6 @@
    "venue_slug": "animales-barbeque",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Friday",
    "source": "https://animalesbbq.com/calendar/arts-dept-nov-2026"
   },
   {
@@ -3606,6 +3534,18 @@
    "city": "Hopkins",
    "genre": "unknown",
    "source": "https://www.legion320.org/music-and-events"
+  },
+  {
+   "id": "ae46adac54c9",
+   "headliner": "Cuchillo",
+   "openers": [],
+   "date": "2026-11-21",
+   "start_time": "12:00",
+   "venue": "Utepils Brewing",
+   "venue_slug": "utepils-brewing",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://utepilsbrewing.com/events/cuchillo/2026-11-21/"
   },
   {
    "id": "6eda0a978c1b",
@@ -4259,7 +4199,7 @@
    "spotify": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
   },
   {
-   "id": "f307443d5ddc",
+   "id": "9a04190c50ee",
    "headliner": "The Good the Bad & the Funky",
    "openers": [],
    "date": "2026-11-21",
@@ -4268,8 +4208,6 @@
    "venue_slug": "bunker-s",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "most Saturdays",
    "source": "https://bunkersmusic.com/calendar"
   },
   {
@@ -4359,6 +4297,35 @@
    "source": "https://331club.com/"
   },
   {
+   "id": "44e22d0561cd",
+   "headliner": "Rachel Ries Residency: Her Crooked Heart (New works!), Alec Watson opens",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "16:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "15:00",
+   "price": "$15 adv / $22 door",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://icehouse.turntabletickets.com/shows/13412/2026-11-22?utm_source=icehousempls.com&utm_medium=website&utm_campaign=rachel-ries-20261122",
+   "source": "https://www.icehousempls.com/shows/rachel-ries-residency-her-crooked-heart-new-works-alec-watson-opens-icehouse/"
+  },
+  {
+   "id": "560d3d83b49c",
+   "headliner": "Chris Holm Residency",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "16:00",
+   "venue": "10K Brewing",
+   "venue_slug": "10k-brewing",
+   "city": "Anoka",
+   "genre": "unknown",
+   "source": "https://10kbrew.com/event/live-music-chris-holm-residency-16/"
+  },
+  {
    "id": "fb7e9b3ec10e",
    "headliner": "Patti Cudd",
    "openers": [
@@ -4409,7 +4376,7 @@
    "spotify": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
   },
   {
-   "id": "206f4d5dfd33",
+   "id": "792ab73e7bd9",
    "headliner": "Hurricane Harold Trio",
    "openers": [],
    "date": "2026-11-22",
@@ -4418,9 +4385,19 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every fourth Sunday",
    "source": "https://thedublinerpub.com/show/hurricane-harold-trio/?lre_date=2026-11-22"
+  },
+  {
+   "id": "9ebf7cb76a7a",
+   "headliner": "Phine & Friends",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "18:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
   },
   {
    "id": "57f0c10a7b83",
@@ -4499,7 +4476,7 @@
    "source": "https://www.berlinmpls.com/calendar/room3-residency-week-3"
   },
   {
-   "id": "68da1d712ae0",
+   "id": "18ef75c2f0d2",
    "headliner": "The Real Chuck NORAD",
    "openers": [],
    "date": "2026-11-22",
@@ -4508,8 +4485,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every fourth Sunday",
    "source": "https://www.instagram.com/the_real_chuck_norad?igsh=MWM1amt4bnVyYmh4Zw==",
    "spotify": "https://open.spotify.com/artist/4MFh9xgWFLrVEFSt18J7MV"
   },
@@ -4582,6 +4557,47 @@
    "spotify": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
   },
   {
+   "id": "28f47fa1b6dc",
+   "headliner": "Shotgun Ragtime Band",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "20:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "7038217c6e3e",
+   "headliner": "Sunday Trad Session",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-22"
+  },
+  {
+   "id": "76790b62576a",
+   "headliner": "Obi Original and The Black Atlantics",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "21:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "20:00",
+   "price": "$10",
+   "is_free": false,
+   "age": "21+",
+   "tickets": "https://tix.gobo.show/events/event/tt-44654/dates/PVCEpDPmYYGaPhfvD9JA?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261122",
+   "source": "https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-16/"
+  },
+  {
    "id": "f456f296b313",
    "headliner": "Dusk Rat",
    "openers": [
@@ -4596,6 +4612,31 @@
    "genre": "rock/indie",
    "end_date": "2026-11-23",
    "source": "https://whitesquirrelbar.com/event/dusk-rat-2/"
+  },
+  {
+   "id": "b904a3c94883",
+   "headliner": "Dr Mambo's Combo",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "2c81b161794f",
+   "headliner": "Main Event Sundays",
+   "openers": [],
+   "date": "2026-11-22",
+   "start_time": "22:00",
+   "venue": "Cabooze",
+   "venue_slug": "cabooze",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "tickets": "https://www.etix.com/ticket/p/92764690/main-event-sundays-minneapolis-the-cabooze?partner_id=100",
+   "source": "https://cabooze.com/event/main-event-sundays-3/the-cabooze/"
   },
   {
    "id": "c18d27e976bc",
@@ -4616,7 +4657,7 @@
    "spotify": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
   },
   {
-   "id": "f4d96f83de3f",
+   "id": "4da280090ed4",
    "headliner": "HonkyTonk Ranch",
    "openers": [],
    "date": "2026-11-23",
@@ -4625,8 +4666,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every fourth Monday",
    "source": "https://www.facebook.com/profile.php?id=100094683949311&mibextid=LQQJ4d"
   },
   {
@@ -4719,6 +4758,32 @@
    "source": "https://waldmannbrewery.com/news-events/"
   },
   {
+   "id": "595509a55e58",
+   "headliner": "Mondays@MetroNOME – Free Community Concerts",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "19:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "jazz/blues",
+   "price": "Free Concert",
+   "is_free": true,
+   "source": "https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-11-23/"
+  },
+  {
+   "id": "289cfdd9fde6",
+   "headliner": "Music by Phil Berbig!",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://troubadourwinebar.com/events"
+  },
+  {
    "id": "9103e5c0345a",
    "headliner": "Devil Master",
    "openers": [
@@ -4737,6 +4802,36 @@
    "tickets": "https://www.axs.com/events/1599390/devil-master-tickets?skin=turfclub",
    "source": "https://first-avenue.com/event/2026-11-devil-master/",
    "spotify": "https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i"
+  },
+  {
+   "id": "ed3150653311",
+   "headliner": "L.A.’s Monday Nights",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "price": "$10",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://tix.gobo.show/events/event/tt-43268/dates/CgcdEO7CUWHD9J9yUpzc?utm_source=icehousempls.com&utm_medium=website&utm_campaign=l-a-s-monday-nights-20261123",
+   "source": "https://www.icehousempls.com/shows/l-a-s-monday-nights-15/"
+  },
+  {
+   "id": "df4fcacee0a1",
+   "headliner": "Roe Family Singers",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "20:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.facebook.com/roefamilysingers/?fref=ts",
+   "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
   },
   {
    "id": "00d9238b5f2b",
@@ -4783,6 +4878,20 @@
    "city": "St. Paul",
    "genre": "country/folk/Americana",
    "source": "https://whitesquirrelbar.com/event/a-dan-l-rotation/"
+  },
+  {
+   "id": "2649199b4252",
+   "headliner": "Worker’s Playtime",
+   "openers": [
+    "Steve Brantseg"
+   ],
+   "date": "2026-11-24",
+   "start_time": "18:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://331club.com/"
   },
   {
    "id": "df3035d01146",
@@ -4902,6 +5011,19 @@
    "source": "https://www.greenroommn.com/events#/events/203060"
   },
   {
+   "id": "3a238c47c716",
+   "headliner": "St. Dominic's Trio",
+   "openers": [],
+   "date": "2026-11-24",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/",
+   "spotify": "https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv"
+  },
+  {
    "id": "638b40e64d9f",
    "headliner": "Tuesday Nights",
    "openers": [
@@ -4988,6 +5110,48 @@
    "source": "https://www.dakotacooks.com/event/boney-james-nov24-2026/2026-11-24/2/"
   },
   {
+   "id": "ec0ed01d4ed3",
+   "headliner": "Elour Tuesday Night Residency",
+   "openers": [
+    "J-Mo On The Beat"
+   ],
+   "date": "2026-11-24",
+   "start_time": "21:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "end_date": "2026-11-25",
+   "source": "https://whitesquirrelbar.com/event/elour-tuesday-night-residency-2/"
+  },
+  {
+   "id": "e3d6b192b3ce",
+   "headliner": "Cold Sweat",
+   "openers": [
+    "GR3G",
+    "Socktopus"
+   ],
+   "date": "2026-11-24",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/coldsweatnd?stkn=aWpsbmc1M2F3c3Fq"
+  },
+  {
+   "id": "b14c12178d7e",
+   "headliner": "International Reggae Allstars",
+   "openers": [],
+   "date": "2026-11-24",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "reggae/ska",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
    "id": "ba8ef2fea3ff",
    "headliner": "Deejay St. Joel",
    "openers": [],
@@ -5055,6 +5219,18 @@
    "genre": "country/folk/Americana",
    "source": "https://whitesquirrelbar.com/event/family-dinner-w-doug-sarah-3/",
    "spotify": "https://open.spotify.com/artist/7ztPkxDDDYp27ssoOB9sEj"
+  },
+  {
+   "id": "08dd26216720",
+   "headliner": "Pat Donohue & Friends",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "18:00",
+   "venue": "Midway Saloon",
+   "venue_slug": "midway-saloon",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://www.themidwaysaloon.com/events/pat-donohue-and-friends"
   },
   {
    "id": "d84964ca697b",
@@ -5374,6 +5550,18 @@
    "spotify": "https://open.spotify.com/artist/5xSNix7cBLfw6Zv4rRFt7W"
   },
   {
+   "id": "fbe2f1ff4e0f",
+   "headliner": "Twine",
+   "openers": [],
+   "date": "2026-11-25",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
    "id": "c56b2ff559e1",
    "headliner": "Davina and The Vagabonds",
    "openers": [],
@@ -5510,6 +5698,18 @@
    "genre": "unknown",
    "age": "21+",
    "source": "https://thehookmpls.com/shows/truthsgiving-a-decolonized-thanksgiving-show-november-27-2026-761555"
+  },
+  {
+   "id": "7d784bd1d226",
+   "headliner": "Irish Music Session",
+   "openers": [],
+   "date": "2026-11-27",
+   "start_time": "18:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-27"
   },
   {
    "id": "b9e46a9425e2",
@@ -5737,6 +5937,20 @@
    "city": "Excelsior",
    "genre": "rock/indie",
    "source": "https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events"
+  },
+  {
+   "id": "574664192da2",
+   "headliner": "Funk Friday",
+   "openers": [
+    "TH3"
+   ],
+   "date": "2026-11-27",
+   "start_time": "19:30",
+   "venue": "Animales Barbeque",
+   "venue_slug": "animales-barbeque",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://animalesbbq.com/calendar/funk-friday-feat-th3-november-2026"
   },
   {
    "id": "0fa8fa9dd52a",
@@ -5990,6 +6204,18 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://thedublinerpub.com/show/tim-on-tap-friday/?lre_date=2026-11-27"
+  },
+  {
+   "id": "8e3b943f71b9",
+   "headliner": "JayBee & the Routine",
+   "openers": [],
+   "date": "2026-11-27",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
   },
   {
    "id": "31404c1b11dd",
@@ -6681,7 +6907,7 @@
    "spotify": "https://open.spotify.com/artist/3LT3ChbVJI2rE6jAFfkGWZ"
   },
   {
-   "id": "6e244618ea95",
+   "id": "f23d81637c0f",
    "headliner": "Brown Chicken Brown Cow",
    "openers": [],
    "date": "2026-11-29",
@@ -6690,8 +6916,6 @@
    "venue_slug": "utepils-brewing",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "most Sundays",
    "source": "https://utepilsbrewing.com/events/brown-chicken-brown-cow/2026-11-29/"
   },
   {
@@ -6760,6 +6984,18 @@
    "genre": "unknown",
    "source": "https://www.instagram.com/playcountryblues?mdxt=MThvYTF0aXBvaTV2OQ==",
    "spotify": "https://open.spotify.com/artist/75gvrQbCyMQ5J6CmPnQIQE"
+  },
+  {
+   "id": "5ef248b5492c",
+   "headliner": "Chris Holm Residency",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "16:00",
+   "venue": "10K Brewing",
+   "venue_slug": "10k-brewing",
+   "city": "Anoka",
+   "genre": "unknown",
+   "source": "https://10kbrew.com/event/live-music-chris-holm-residency-17/"
   },
   {
    "id": "7f39b7699771",
@@ -6853,6 +7089,18 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://thedublinerpub.com/show/kismet-rendevouz/?lre_date=2026-11-29"
+  },
+  {
+   "id": "d8275916a507",
+   "headliner": "Phine & Friends",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "18:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
   },
   {
    "id": "85067c552b7a",
@@ -6967,6 +7215,47 @@
    "spotify": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
   },
   {
+   "id": "8d0b0dd283e4",
+   "headliner": "Shotgun Ragtime Band",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "20:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "5e2c1c23d207",
+   "headliner": "Sunday Trad Session",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-29"
+  },
+  {
+   "id": "a1b5ed395350",
+   "headliner": "Obi Original and The Black Atlantics",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "21:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "20:00",
+   "price": "$10",
+   "is_free": false,
+   "age": "21+",
+   "tickets": "https://tix.gobo.show/events/event/tt-44654/dates/XXhTsioeYehbGX5vmuPx?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261129",
+   "source": "https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-17/"
+  },
+  {
    "id": "013ca9273349",
    "headliner": "Spectres of Desire",
    "openers": [
@@ -6984,6 +7273,18 @@
    "spotify": "https://open.spotify.com/artist/7duJkNq2THy0gHs0RV3e0G"
   },
   {
+   "id": "19fd0a4910fd",
+   "headliner": "Dr Mambo's Combo",
+   "openers": [],
+   "date": "2026-11-29",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
    "id": "9779db384337",
    "headliner": "Sheridan Zuther and Ted Godbout",
    "openers": [],
@@ -6999,7 +7300,7 @@
    "source": "https://www.croonersmn.com/event/sheridan-zuther-and-ted-godbout-6/"
   },
   {
-   "id": "c24ff76cf8f1",
+   "id": "2bf57432b831",
    "headliner": "Sociable Circuit",
    "openers": [],
    "date": "2026-11-30",
@@ -7008,8 +7309,6 @@
    "venue_slug": "utepils-brewing",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "monthly on Monday",
    "price": "FREE SHOW",
    "is_free": true,
    "source": "https://utepilsbrewing.com/events/sociable-circuit-2/2026-11-30/"
@@ -7124,7 +7423,7 @@
    "source": "https://celticjunction.org/events/spiked-2026-1/2026-11-30-1900/"
   },
   {
-   "id": "b9f006880347",
+   "id": "3450531048b8",
    "headliner": "Marc Bellemare Quartet – Mondays@MetroNOME",
    "openers": [],
    "date": "2026-11-30",
@@ -7133,9 +7432,63 @@
    "venue_slug": "metronome-brewery",
    "city": "St. Paul",
    "genre": "jazz/blues",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "source": "https://metronomebrewery.com/live-music/marc-bellemare-quartet-mondaysmetronome/"
+  },
+  {
+   "id": "3b418a5d6b29",
+   "headliner": "Mondays@MetroNOME – Free Community Concerts",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "19:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "jazz/blues",
+   "price": "Free Concert",
+   "is_free": true,
+   "source": "https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-11-30/"
+  },
+  {
+   "id": "1465c6683236",
+   "headliner": "Music by Phil Berbig!",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://troubadourwinebar.com/events"
+  },
+  {
+   "id": "e0cf7d83ecb5",
+   "headliner": "L.A.’s Monday Nights",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "price": "$10",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://tix.gobo.show/events/event/tt-43268/dates/jmESJqMsKk8VXFDiW6jj?utm_source=icehousempls.com&utm_medium=website&utm_campaign=l-a-s-monday-nights-20261130",
+   "source": "https://www.icehousempls.com/shows/l-a-s-monday-nights-9/"
+  },
+  {
+   "id": "b77c78941485",
+   "headliner": "Roe Family Singers",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "20:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.facebook.com/roefamilysingers/?fref=ts",
+   "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
   },
   {
    "id": "32ec5408b98b",
@@ -7224,6 +7577,18 @@
    "spotify": "https://open.spotify.com/artist/0l16reYqmLwCXePRrQKpf4"
   },
   {
+   "id": "855b48883b0d",
+   "headliner": "Worker’s Playtime",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "18:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://331club.com/"
+  },
+  {
    "id": "80df53e92a4e",
    "headliner": "Rachael & Vilray",
    "openers": [],
@@ -7301,6 +7666,19 @@
    "source": "https://metronomebrewery.com/live-music/red-planet-25/2026-12-01/"
   },
   {
+   "id": "db6d48e6ea8c",
+   "headliner": "St. Dominic's Trio",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/",
+   "spotify": "https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv"
+  },
+  {
    "id": "332d856e9d30",
    "headliner": "Angine de Poitrine",
    "openers": [
@@ -7361,7 +7739,19 @@
    "source": "https://whitesquirrelbar.com/event/dan-tanz-the-wildfire/"
   },
   {
-   "id": "9d4792c78d7e",
+   "id": "45d117ead158",
+   "headliner": "International Reggae Allstars",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "reggae/ska",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "984c0ed665c2",
    "headliner": "JoJo Green",
    "openers": [
     "Sweet Tease"
@@ -7372,8 +7762,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://www.instagram.com/jojogreenmusic?stkn=M2hqeHMzbWo4azc5",
    "spotify": "https://open.spotify.com/artist/2HeddibS8LprRJRLeZpzTG"
   },
@@ -7426,6 +7814,18 @@
    "price": "Advance $10 Day of Show $12",
    "is_free": false,
    "source": "https://www.pilllar.com/collections/tickets/products/music-cains-co-12-2-2026"
+  },
+  {
+   "id": "d61fba332b62",
+   "headliner": "Pat Donohue & Friends",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "18:00",
+   "venue": "Midway Saloon",
+   "venue_slug": "midway-saloon",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://www.themidwaysaloon.com/events/pat-donohue-and-friends"
   },
   {
    "id": "fd6d46cb6adb",
@@ -7631,6 +8031,30 @@
    "end_date": "2026-12-03",
    "source": "https://whitesquirrelbar.com/event/raymnd/",
    "spotify": "https://open.spotify.com/artist/6M4kWzXgfMtSslMAGOZuio"
+  },
+  {
+   "id": "1d535e26f41d",
+   "headliner": "Twine",
+   "openers": [],
+   "date": "2026-12-02",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "230fee26c0a8",
+   "headliner": "Brown Chicken Brown Cow",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "16:00",
+   "venue": "Utepils Brewing",
+   "venue_slug": "utepils-brewing",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://utepilsbrewing.com/events/brown-chicken-brown-cow/2026-12-03/"
   },
   {
    "id": "f06646e7b605",
@@ -7913,6 +8337,23 @@
    "spotify": "https://open.spotify.com/artist/17cssIaAwAcgC9nZZliixv"
   },
   {
+   "id": "7424ded3fd53",
+   "headliner": "Rachel Ries Residency: Her Crooked Heart Live at Hive EP Release Show",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "doors_time": "18:00",
+   "price": "$15 adv / $22 door",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://icehouse.turntabletickets.com/shows/13466/2026-12-03?utm_source=icehousempls.com&utm_medium=website&utm_campaign=rachel-ries-20261203",
+   "source": "https://www.icehousempls.com/shows/rachel-ries-residency-her-crooked-heart-live-at-hive-ep-release-show/"
+  },
+  {
    "id": "7d50785a1a11",
    "headliner": "Test Site 67",
    "openers": [],
@@ -7923,6 +8364,22 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://thedublinerpub.com/show/test-site-67/?lre_date=2026-12-03"
+  },
+  {
+   "id": "a527d91e01c1",
+   "headliner": "Late Night Irish",
+   "openers": [
+    "Gavin Strappe",
+    "Danny Diamond",
+    "Dáithí Sproule!"
+   ],
+   "date": "2026-12-03",
+   "start_time": "20:30",
+   "venue": "Waldmann Brewery",
+   "venue_slug": "waldmann-brewery",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://waldmannbrewery.com/news-events/"
   },
   {
    "id": "9bf8e688b411",
@@ -7961,6 +8418,18 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "5e73734cf665",
+   "headliner": "JayBee & the Routine",
+   "openers": [],
+   "date": "2026-12-03",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
   },
   {
    "id": "04d09f9da662",
@@ -8028,6 +8497,18 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://ginkgocoffee.com/event/cathie-english/"
+  },
+  {
+   "id": "0086e99a202d",
+   "headliner": "Irish Music Session",
+   "openers": [],
+   "date": "2026-12-04",
+   "start_time": "18:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-12-04"
   },
   {
    "id": "788d6f4184b5",
@@ -8574,6 +9055,18 @@
    "city": "Hopkins",
    "genre": "unknown",
    "source": "https://www.legion320.org/music-and-events"
+  },
+  {
+   "id": "899bc0591b84",
+   "headliner": "Cuchillo",
+   "openers": [],
+   "date": "2026-12-05",
+   "start_time": "12:00",
+   "venue": "Utepils Brewing",
+   "venue_slug": "utepils-brewing",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://utepilsbrewing.com/events/cuchillo/2026-12-05/"
   },
   {
    "id": "be8acc17c671",
@@ -9231,7 +9724,7 @@
    "source": "https://events.amsterdambarandhall.com/event/chill-the-entire-charlie-brown-christmas-soundtrack-played-live-danced-sunday-matinee/amsterdam-bar-hall/saint-paul-minnesota/"
   },
   {
-   "id": "6a2eb1e10717",
+   "id": "bdca3313da47",
    "headliner": "Corpse Reviver",
    "openers": [],
    "date": "2026-12-06",
@@ -9240,8 +9733,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every first Sunday",
    "source": "https://www.facebook.com/share/18HHs2ZLYc/?mibextid=wwXIfr",
    "spotify": "https://open.spotify.com/artist/6bACpsWWEk8ugKQ162Vqyu"
   },
@@ -9370,6 +9861,18 @@
    "source": "https://whitesquirrelbar.com/event/dowser-w-vicki-dischler-the-eitel-brothers/"
   },
   {
+   "id": "ac2aa7f94759",
+   "headliner": "Phine & Friends",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "18:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
    "id": "2cce38ad2203",
    "headliner": "Sarah Morris and Lars-Erik Larson",
    "openers": [],
@@ -9487,7 +9990,7 @@
    "spotify": "https://open.spotify.com/artist/1pVBgmx5m44kXvyUizCDTt"
   },
   {
-   "id": "2686be5bcc32",
+   "id": "fb76c85ff1c5",
    "headliner": "Brass Messengers",
    "openers": [],
    "date": "2026-12-06",
@@ -9496,8 +9999,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every first Sunday",
    "source": "https://www.facebook.com/profile.php?id=100063684781557&mibextid=LQQJ4d"
   },
   {
@@ -9519,6 +10020,47 @@
    "spotify": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
   },
   {
+   "id": "682e9a3fc9aa",
+   "headliner": "Shotgun Ragtime Band",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "20:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "1d24817959b3",
+   "headliner": "Sunday Trad Session",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-12-06"
+  },
+  {
+   "id": "c6640f5c8fd9",
+   "headliner": "Obi Original and The Black Atlantics",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "21:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "20:00",
+   "price": "$10",
+   "is_free": false,
+   "age": "21+",
+   "tickets": "https://tix.gobo.show/events/event/tt-44654/dates/SLs6pdDfisCUewaUExK0?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261206",
+   "source": "https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-18/"
+  },
+  {
    "id": "794dc197bd19",
    "headliner": "Scarlett Tangerines",
    "openers": [
@@ -9534,6 +10076,18 @@
    "end_date": "2026-12-07",
    "source": "https://whitesquirrelbar.com/event/scarlett-tangerines-w-faux-pseudo-the-moby-dick-band/",
    "spotify": "https://open.spotify.com/artist/4Ki1N5KcavZqRQavKyYNGz"
+  },
+  {
+   "id": "c3d5bfa34235",
+   "headliner": "Dr Mambo's Combo",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "source": "https://bunkersmusic.com/calendar"
   },
   {
    "id": "cf01bb16cbde",
@@ -9685,6 +10239,32 @@
    "spotify": "https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf"
   },
   {
+   "id": "c8aff21b13e5",
+   "headliner": "Mondays@MetroNOME – Free Community Concerts",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "19:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "jazz/blues",
+   "price": "Free Concert",
+   "is_free": true,
+   "source": "https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-12-07/"
+  },
+  {
+   "id": "a264f0ae8d7b",
+   "headliner": "Music by Phil Berbig!",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://troubadourwinebar.com/events"
+  },
+  {
    "id": "f3e51b13d992",
    "headliner": "The Great Irish Sing-Along",
    "openers": [],
@@ -9724,6 +10304,36 @@
    "price": "$69 Advance / $79 At The Door",
    "is_free": false,
    "source": "https://theparkwaytheater.com/all-events/mister-romantic"
+  },
+  {
+   "id": "e4a43f9b77fc",
+   "headliner": "L.A.’s Monday Nights",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "price": "$10",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://tix.gobo.show/events/event/tt-43268/dates/Qe0MdveeIvQPQ61ZkhuC?utm_source=icehousempls.com&utm_medium=website&utm_campaign=l-a-s-monday-nights-20261207",
+   "source": "https://www.icehousempls.com/shows/l-a-s-monday-nights-13/"
+  },
+  {
+   "id": "dad947a4493a",
+   "headliner": "Roe Family Singers",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "20:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.facebook.com/roefamilysingers/?fref=ts",
+   "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
   },
   {
    "id": "16a8513a7933",
@@ -9797,6 +10407,18 @@
    "source": "https://whitesquirrelbar.com/event/the-dans-w-special-guests-2/"
   },
   {
+   "id": "65f5dcdce8c0",
+   "headliner": "Worker’s Playtime",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "18:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://331club.com/"
+  },
+  {
    "id": "1c44bb4038c4",
    "headliner": "Minnesota Orchestra: A Charlie Brown Christmas: Live at the Symphony",
    "openers": [],
@@ -9861,6 +10483,19 @@
    "source": "https://www.greenroommn.com/events#/events/194938"
   },
   {
+   "id": "8e634e04af06",
+   "headliner": "St. Dominic's Trio",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/",
+   "spotify": "https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv"
+  },
+  {
    "id": "4d645405be7f",
    "headliner": "The 47th Annual John Lennon Tribute",
    "openers": [
@@ -9878,6 +10513,33 @@
    "source": "https://first-avenue.com/event/2026-12-john-lennon-tribute/"
   },
   {
+   "id": "78fb848547ab",
+   "headliner": "International Reggae Allstars",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "reggae/ska",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "90b779e07e63",
+   "headliner": "JoJo Green",
+   "openers": [
+    "Uff-Da"
+   ],
+   "date": "2026-12-08",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/jojogreenmusic?stkn=M2hqeHMzbWo4azc5",
+   "spotify": "https://open.spotify.com/artist/2HeddibS8LprRJRLeZpzTG"
+  },
+  {
    "id": "b4d04d7a860e",
    "headliner": "Memphis & The Meantimes Christmas",
    "openers": [
@@ -9893,6 +10555,18 @@
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/memphis-the-meantimes-christmas-with-mick-sterling-friends-tickets-1993940822676",
    "source": "https://www.croonersmn.com/event/grand-ole-opry-christmas-with-mick-sterling-friends-2/"
+  },
+  {
+   "id": "833fc0ee0167",
+   "headliner": "Pat Donohue & Friends",
+   "openers": [],
+   "date": "2026-12-09",
+   "start_time": "18:00",
+   "venue": "Midway Saloon",
+   "venue_slug": "midway-saloon",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://www.themidwaysaloon.com/events/pat-donohue-and-friends"
   },
   {
    "id": "bf1aaf6ace66",
@@ -10013,7 +10687,7 @@
    "source": "https://www.icehousempls.com/shows/cool-ned-d-and-ciao-bello/"
   },
   {
-   "id": "dcb97bdb470c",
+   "id": "fffb6c5b8889",
    "headliner": "Cole Diamond’s Whiskey Wednesdays",
    "openers": [],
    "date": "2026-12-09",
@@ -10022,8 +10696,6 @@
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every Wednesday",
    "source": "https://whitesquirrelbar.com/event/cole-diamonds-whiskey-wednesdays-9/"
   },
   {
@@ -10037,6 +10709,18 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "source": "https://331club.com/"
+  },
+  {
+   "id": "073fa6511a81",
+   "headliner": "Twine",
+   "openers": [],
+   "date": "2026-12-09",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
   },
   {
    "id": "26af8568e912",
@@ -10294,6 +10978,18 @@
    "source": "https://www.facebook.com/share/1Kkw9x5Rwt/?mibextid=wwXIfr"
   },
   {
+   "id": "b11326978ac5",
+   "headliner": "JayBee & the Routine",
+   "openers": [],
+   "date": "2026-12-10",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
    "id": "6d7ea767e152",
    "headliner": "Bach’s Brandenburg Concertos",
    "openers": [],
@@ -10335,6 +11031,21 @@
    "source": "https://events.amsterdambarandhall.com/event/impaler-presents-merry-krampus-2026/amsterdam-bar-hall/saint-paul-minnesota/"
   },
   {
+   "id": "ca8f45b21031",
+   "headliner": "Friday Night Live - FNL",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "18:00",
+   "venue": "Utepils Brewing",
+   "venue_slug": "utepils-brewing",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "FREE Live Music",
+   "is_free": true,
+   "age": "all_ages",
+   "source": "https://utepilsbrewing.com/events/friday-night-live-fnl/2026-12-11/"
+  },
+  {
    "id": "4794ab59c04f",
    "headliner": "Drake Walters",
    "openers": [],
@@ -10359,6 +11070,18 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://whitesquirrelbar.com/event/harmony-arcade/"
+  },
+  {
+   "id": "1b959701ca7e",
+   "headliner": "Irish Music Session",
+   "openers": [],
+   "date": "2026-12-11",
+   "start_time": "18:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-12-11"
   },
   {
    "id": "471d8e305c24",
@@ -10576,6 +11299,20 @@
    "price": "$5",
    "is_free": false,
    "source": "https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events"
+  },
+  {
+   "id": "f07329fcff29",
+   "headliner": "Funk Friday",
+   "openers": [
+    "Big Fat Money"
+   ],
+   "date": "2026-12-11",
+   "start_time": "19:30",
+   "venue": "Animales Barbeque",
+   "venue_slug": "animales-barbeque",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://animalesbbq.com/calendar/funk-friday-big-fat-money-december-2026"
   },
   {
    "id": "90ea71b9dff8",

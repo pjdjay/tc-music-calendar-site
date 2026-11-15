@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,7 +7,7 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "MetroNOME Brewery",
  "city": "St. Paul",
- "count": 15,
+ "count": 18,
  "shows": [
   {
    "id": "047a41833fc3",
@@ -36,7 +36,7 @@
    "spotify": "https://open.spotify.com/artist/1Nk5ihRVSfp6rlOWW41VJg"
   },
   {
-   "id": "e379a4225186",
+   "id": "0e4fde6b8f2b",
    "headliner": "Mondays@MetroNOME – Free Community Concerts",
    "openers": [],
    "date": "2026-11-16",
@@ -45,8 +45,6 @@
    "venue_slug": "metronome-brewery",
    "city": "St. Paul",
    "genre": "jazz/blues",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "price": "Free Concert",
    "is_free": true,
    "source": "https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-11-16/"
@@ -131,6 +129,20 @@
    "source": "https://metronomebrewery.com/live-music/cabaret-jbb-friends-present-blood-brothers/"
   },
   {
+   "id": "595509a55e58",
+   "headliner": "Mondays@MetroNOME – Free Community Concerts",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "19:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "jazz/blues",
+   "price": "Free Concert",
+   "is_free": true,
+   "source": "https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-11-23/"
+  },
+  {
    "id": "0fa8fa9dd52a",
    "headliner": "Grady Cartony",
    "openers": [],
@@ -144,7 +156,7 @@
    "spotify": "https://open.spotify.com/artist/042BIf90v7pcQJD1ZCIobh"
   },
   {
-   "id": "b9f006880347",
+   "id": "3450531048b8",
    "headliner": "Marc Bellemare Quartet – Mondays@MetroNOME",
    "openers": [],
    "date": "2026-11-30",
@@ -153,9 +165,21 @@
    "venue_slug": "metronome-brewery",
    "city": "St. Paul",
    "genre": "jazz/blues",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "source": "https://metronomebrewery.com/live-music/marc-bellemare-quartet-mondaysmetronome/"
+  },
+  {
+   "id": "3b418a5d6b29",
+   "headliner": "Mondays@MetroNOME – Free Community Concerts",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "19:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "jazz/blues",
+   "price": "Free Concert",
+   "is_free": true,
+   "source": "https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-11-30/"
   },
   {
    "id": "0733ef42ac24",
@@ -183,6 +207,20 @@
    "genre": "country/folk/Americana",
    "source": "https://metronomebrewery.com/live-music/trio-amigos/",
    "spotify": "https://open.spotify.com/artist/7rTJOgrk6Qvdmt6U0gFBsr"
+  },
+  {
+   "id": "c8aff21b13e5",
+   "headliner": "Mondays@MetroNOME – Free Community Concerts",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "19:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "jazz/blues",
+   "price": "Free Concert",
+   "is_free": true,
+   "source": "https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-12-07/"
   },
   {
    "id": "30793a1fd548",

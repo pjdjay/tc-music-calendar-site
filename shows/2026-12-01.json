@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-01",
- "count": 13,
+ "count": 16,
  "shows": [
   {
    "id": "1d72108b68e2",
@@ -49,6 +49,18 @@
    "genre": "country/folk/Americana",
    "source": "https://whitesquirrelbar.com/event/thomas-sticha-3/",
    "spotify": "https://open.spotify.com/artist/0l16reYqmLwCXePRrQKpf4"
+  },
+  {
+   "id": "855b48883b0d",
+   "headliner": "Worker’s Playtime",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "18:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://331club.com/"
   },
   {
    "id": "80df53e92a4e",
@@ -128,6 +140,19 @@
    "source": "https://metronomebrewery.com/live-music/red-planet-25/2026-12-01/"
   },
   {
+   "id": "db6d48e6ea8c",
+   "headliner": "St. Dominic's Trio",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/",
+   "spotify": "https://open.spotify.com/artist/7lwQPTcnMn9O9URyiCn0jv"
+  },
+  {
    "id": "332d856e9d30",
    "headliner": "Angine de Poitrine",
    "openers": [
@@ -188,7 +213,19 @@
    "source": "https://whitesquirrelbar.com/event/dan-tanz-the-wildfire/"
   },
   {
-   "id": "9d4792c78d7e",
+   "id": "45d117ead158",
+   "headliner": "International Reggae Allstars",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "reggae/ska",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
+   "id": "984c0ed665c2",
    "headliner": "JoJo Green",
    "openers": [
     "Sweet Tease"
@@ -199,8 +236,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://www.instagram.com/jojogreenmusic?stkn=M2hqeHMzbWo4azc5",
    "spotify": "https://open.spotify.com/artist/2HeddibS8LprRJRLeZpzTG"
   }

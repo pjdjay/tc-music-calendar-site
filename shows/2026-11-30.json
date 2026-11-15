@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-30",
- "count": 13,
+ "count": 17,
  "shows": [
   {
    "id": "9779db384337",
@@ -24,7 +24,7 @@
    "source": "https://www.croonersmn.com/event/sheridan-zuther-and-ted-godbout-6/"
   },
   {
-   "id": "c24ff76cf8f1",
+   "id": "2bf57432b831",
    "headliner": "Sociable Circuit",
    "openers": [],
    "date": "2026-11-30",
@@ -33,8 +33,6 @@
    "venue_slug": "utepils-brewing",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "monthly on Monday",
    "price": "FREE SHOW",
    "is_free": true,
    "source": "https://utepilsbrewing.com/events/sociable-circuit-2/2026-11-30/"
@@ -149,7 +147,7 @@
    "source": "https://celticjunction.org/events/spiked-2026-1/2026-11-30-1900/"
   },
   {
-   "id": "b9f006880347",
+   "id": "3450531048b8",
    "headliner": "Marc Bellemare Quartet – Mondays@MetroNOME",
    "openers": [],
    "date": "2026-11-30",
@@ -158,9 +156,63 @@
    "venue_slug": "metronome-brewery",
    "city": "St. Paul",
    "genre": "jazz/blues",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "source": "https://metronomebrewery.com/live-music/marc-bellemare-quartet-mondaysmetronome/"
+  },
+  {
+   "id": "3b418a5d6b29",
+   "headliner": "Mondays@MetroNOME – Free Community Concerts",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "19:00",
+   "venue": "MetroNOME Brewery",
+   "venue_slug": "metronome-brewery",
+   "city": "St. Paul",
+   "genre": "jazz/blues",
+   "price": "Free Concert",
+   "is_free": true,
+   "source": "https://metronomebrewery.com/live-music/mondaysmetronome-free-community-concerts/2026-11-30/"
+  },
+  {
+   "id": "1465c6683236",
+   "headliner": "Music by Phil Berbig!",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "19:00",
+   "venue": "Troubadour",
+   "venue_slug": "troubadour",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://troubadourwinebar.com/events"
+  },
+  {
+   "id": "e0cf7d83ecb5",
+   "headliner": "L.A.’s Monday Nights",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "20:00",
+   "venue": "Icehouse",
+   "venue_slug": "icehouse",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "price": "$10",
+   "is_free": false,
+   "age": "18+",
+   "tickets": "https://tix.gobo.show/events/event/tt-43268/dates/jmESJqMsKk8VXFDiW6jj?utm_source=icehousempls.com&utm_medium=website&utm_campaign=l-a-s-monday-nights-20261130",
+   "source": "https://www.icehousempls.com/shows/l-a-s-monday-nights-9/"
+  },
+  {
+   "id": "b77c78941485",
+   "headliner": "Roe Family Singers",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "20:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.facebook.com/roefamilysingers/?fref=ts",
+   "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
   },
   {
    "id": "32ec5408b98b",

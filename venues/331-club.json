@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:05:21+00:00",
+ "generated_at": "2026-11-15T04:50:22+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,7 +7,7 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "331 Club",
  "city": "Minneapolis",
- "count": 30,
+ "count": 38,
  "shows": [
   {
    "id": "24e49154e7b0",
@@ -26,7 +26,7 @@
    "spotify": "https://open.spotify.com/artist/7FwNIGFCbsqacUqaBPZIhH"
   },
   {
-   "id": "fb801a2a134b",
+   "id": "404231bf5dc9",
    "headliner": "Robert Wilkinson",
    "openers": [],
    "date": "2026-11-15",
@@ -35,13 +35,11 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Sunday",
    "source": "https://www.facebook.com/RobertWilkinsonMusic?mibextid=wwXIfr&mibextid=wwXIfr",
    "spotify": "https://open.spotify.com/artist/3EsE6uFEqJlhl8X3Zh7T1o"
   },
   {
-   "id": "f085188a349c",
+   "id": "b7936dd444bd",
    "headliner": "Switchyard",
    "openers": [],
    "date": "2026-11-15",
@@ -50,13 +48,11 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Sunday",
    "source": "https://www.instagram.com/switchyard.band.mpls?igsh=eTJ6OTk2eXVubHZt",
    "spotify": "https://open.spotify.com/artist/14JC7ZFTnM4tbOOBiXhIjZ"
   },
   {
-   "id": "78c16186cf53",
+   "id": "49c8df78208d",
    "headliner": "eleven degenerates",
    "openers": [],
    "date": "2026-11-15",
@@ -65,12 +61,10 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Sunday",
    "source": "https://331club.com/"
   },
   {
-   "id": "500268a0f6b5",
+   "id": "d06839eee5b8",
    "headliner": "“Womenfolk Presents”",
    "openers": [
     "Wren + Wilde"
@@ -81,12 +75,10 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every third Monday",
    "source": "https://331club.com/"
   },
   {
-   "id": "4e41ef55206e",
+   "id": "fccb0dc842f6",
    "headliner": "Roe Family Singers",
    "openers": [],
    "date": "2026-11-16",
@@ -95,13 +87,11 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "source": "https://www.facebook.com/roefamilysingers/?fref=ts",
    "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
   },
   {
-   "id": "25af333eaa31",
+   "id": "969f60edfd84",
    "headliner": "Worker’s Playtime",
    "openers": [
     "David Huckfelt"
@@ -112,12 +102,10 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://www.instagram.com/david_huckfelt?srtk=ZHhjdWJrd2F1em5y"
   },
   {
-   "id": "ead563320456",
+   "id": "c64aa6deb99d",
    "headliner": "Cold Sweat",
    "openers": [
     "The Lavender Project+",
@@ -129,8 +117,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://www.instagram.com/coldsweatnd?stkn=aWpsbmc1M2F3c3Fq"
   },
   {
@@ -162,7 +148,7 @@
    "source": "https://331club.com/"
   },
   {
-   "id": "a20d844bd78f",
+   "id": "eaece244f0a0",
    "headliner": "Cross Pollination",
    "openers": [
     "Boudin Blanc",
@@ -174,8 +160,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every third Thursday",
    "source": "https://www.instagram.com/boudinblancband?obrf=MTl5NnZrNnpndDU4bQ=="
   },
   {
@@ -222,7 +206,7 @@
    "source": "https://331club.com/"
   },
   {
-   "id": "68da1d712ae0",
+   "id": "18ef75c2f0d2",
    "headliner": "The Real Chuck NORAD",
    "openers": [],
    "date": "2026-11-22",
@@ -231,13 +215,11 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every fourth Sunday",
    "source": "https://www.instagram.com/the_real_chuck_norad?igsh=MWM1amt4bnVyYmh4Zw==",
    "spotify": "https://open.spotify.com/artist/4MFh9xgWFLrVEFSt18J7MV"
   },
   {
-   "id": "f4d96f83de3f",
+   "id": "4da280090ed4",
    "headliner": "HonkyTonk Ranch",
    "openers": [],
    "date": "2026-11-23",
@@ -246,9 +228,49 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "country/folk/Americana",
-   "hidden_category": "residency",
-   "recurrence": "every fourth Monday",
    "source": "https://www.facebook.com/profile.php?id=100094683949311&mibextid=LQQJ4d"
+  },
+  {
+   "id": "df4fcacee0a1",
+   "headliner": "Roe Family Singers",
+   "openers": [],
+   "date": "2026-11-23",
+   "start_time": "20:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.facebook.com/roefamilysingers/?fref=ts",
+   "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
+  },
+  {
+   "id": "2649199b4252",
+   "headliner": "Worker’s Playtime",
+   "openers": [
+    "Steve Brantseg"
+   ],
+   "date": "2026-11-24",
+   "start_time": "18:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://331club.com/"
+  },
+  {
+   "id": "e3d6b192b3ce",
+   "headliner": "Cold Sweat",
+   "openers": [
+    "GR3G",
+    "Socktopus"
+   ],
+   "date": "2026-11-24",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/coldsweatnd?stkn=aWpsbmc1M2F3c3Fq"
   },
   {
    "id": "66403db67c9c",
@@ -307,7 +329,32 @@
    "source": "https://www.facebook.com/share/1D8SsoKp6Z/?mibextid=wwXIfr"
   },
   {
-   "id": "9d4792c78d7e",
+   "id": "b77c78941485",
+   "headliner": "Roe Family Singers",
+   "openers": [],
+   "date": "2026-11-30",
+   "start_time": "20:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.facebook.com/roefamilysingers/?fref=ts",
+   "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
+  },
+  {
+   "id": "855b48883b0d",
+   "headliner": "Worker’s Playtime",
+   "openers": [],
+   "date": "2026-12-01",
+   "start_time": "18:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://331club.com/"
+  },
+  {
+   "id": "984c0ed665c2",
    "headliner": "JoJo Green",
    "openers": [
     "Sweet Tease"
@@ -318,8 +365,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Tuesday",
    "source": "https://www.instagram.com/jojogreenmusic?stkn=M2hqeHMzbWo4azc5",
    "spotify": "https://open.spotify.com/artist/2HeddibS8LprRJRLeZpzTG"
   },
@@ -361,7 +406,7 @@
    "spotify": "https://open.spotify.com/artist/6rrP4pJPit5nxaTYOD1S0z"
   },
   {
-   "id": "6a2eb1e10717",
+   "id": "bdca3313da47",
    "headliner": "Corpse Reviver",
    "openers": [],
    "date": "2026-12-06",
@@ -370,13 +415,11 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every first Sunday",
    "source": "https://www.facebook.com/share/18HHs2ZLYc/?mibextid=wwXIfr",
    "spotify": "https://open.spotify.com/artist/6bACpsWWEk8ugKQ162Vqyu"
   },
   {
-   "id": "2686be5bcc32",
+   "id": "fb76c85ff1c5",
    "headliner": "Brass Messengers",
    "openers": [],
    "date": "2026-12-06",
@@ -385,8 +428,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every first Sunday",
    "source": "https://www.facebook.com/profile.php?id=100063684781557&mibextid=LQQJ4d"
   },
   {
@@ -402,6 +443,46 @@
    "hidden_category": "residency",
    "recurrence": "every first Monday",
    "source": "https://www.facebook.com/share/1AFhiYvk34/?mibextid=wwXIfr"
+  },
+  {
+   "id": "dad947a4493a",
+   "headliner": "Roe Family Singers",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "20:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://www.facebook.com/roefamilysingers/?fref=ts",
+   "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
+  },
+  {
+   "id": "65f5dcdce8c0",
+   "headliner": "Worker’s Playtime",
+   "openers": [],
+   "date": "2026-12-08",
+   "start_time": "18:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://331club.com/"
+  },
+  {
+   "id": "90b779e07e63",
+   "headliner": "JoJo Green",
+   "openers": [
+    "Uff-Da"
+   ],
+   "date": "2026-12-08",
+   "start_time": "21:30",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.instagram.com/jojogreenmusic?stkn=M2hqeHMzbWo4azc5",
+   "spotify": "https://open.spotify.com/artist/2HeddibS8LprRJRLeZpzTG"
   },
   {
    "id": "715769111cd8",
