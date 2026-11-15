@@ -913,7 +913,7 @@ function openForm(kind,btn,ev0){
   box.appendChild(el("p","csum",ev0.h+" at "+full+", "+fmtDay(ev0.d)));
   C=corrFields(form,ev0,F);
   F.reason=field(form,"cor-reason","Why is this wrong?",{max:500,auto:"off",note:"A short sentence, for example where you saw the right information."});
-  F.evidence=field(form,"cor-evidence","Link that shows it",{optional:true,type:"url",max:500,auto:"off",mode:"url",ph:"https:"+"//",note:"It is only saved, not opened."});
+  F.evidence=field(form,"cor-evidence","Link that shows it",{optional:true,type:"url",max:500,auto:"off",mode:"url",ph:"https:"+"//"});
  }else if(kind==="show"){
   F.headliner=field(form,"sub-headliner","Headliner",{max:100,auto:"off"});
   F.openers=field(form,"sub-openers","Openers",{optional:true,max:300,auto:"off",note:"Separate names with commas."});
@@ -921,16 +921,16 @@ function openForm(kind,btn,ev0){
   var dl=document.createElement("datalist");dl.id="sub-venues";(Array.isArray(S.venues)?S.venues:[]).slice(0,300).forEach(function(v){if(typeof v==="string")dl.appendChild(new Option(v))});form.appendChild(dl);
   F.date=field(form,"sub-date","Date",{type:"date",min:iso});
   F.time=field(form,"sub-time","Start time",{optional:true,type:"time"});
-  F.link=field(form,"sub-link","Link to the show",{type:"url",max:500,auto:"off",mode:"url",ph:"https:"+"//",note:"The venue’s page or a ticket page. It is only saved, not opened."});
+  F.link=field(form,"sub-link","Link to the show",{type:"url",max:500,auto:"off",mode:"url",ph:"https:"+"//",note:"The venue’s page or a ticket page."});
  }else if(kind==="venue"){
   F.name=field(form,"sub-name","Venue name",{max:150,auto:"off",list:"sub-venues"});   // the datalist is a hint only: a name already on it is allowed (the review queue sorts it out)
   var vdl=document.createElement("datalist");vdl.id="sub-venues";(Array.isArray(S.venues)?S.venues:[]).slice(0,300).forEach(function(v){if(typeof v==="string")vdl.appendChild(new Option(v))});form.appendChild(vdl);
   F.city=field(form,"sub-city","City",{optional:true,max:60,auto:"off"});
-  F.link=field(form,"sub-link","Website or calendar link",{optional:true,type:"url",max:500,auto:"off",mode:"url",ph:"https:"+"//",note:"It is only saved, not opened."});
+  F.link=field(form,"sub-link","Website or calendar link",{optional:true,type:"url",max:500,auto:"off",mode:"url",ph:"https:"+"//"});
   F.note=field(form,"sub-note","Typical genre",{optional:true,max:300,auto:"off"});
  }else if(kind==="band"){
   F.name=field(form,"sub-name","Band name",{max:150,auto:"off"});
-  F.link=field(form,"sub-link","Link",{optional:true,type:"url",max:500,auto:"off",mode:"url",ph:"https:"+"//",note:"A website, Bandcamp, Instagram or Spotify page. It is only saved, not opened."});
+  F.link=field(form,"sub-link","Link",{optional:true,type:"url",max:500,auto:"off",mode:"url",ph:"https:"+"//",note:"A website, Bandcamp, Instagram or Spotify page."});
   F.where=field(form,"sub-where","Where do they play in the Twin Cities?",{optional:true,max:150,auto:"off"});
  }else{
   F.text=field(form,"sub-text","Your idea",{area:true,max:1000});
