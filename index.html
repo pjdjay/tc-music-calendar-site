@@ -890,11 +890,11 @@ function corrFields(form,e,F){
  return{collect:collect,full:full,first:keys[0]};
 }
 var TITLE={show:"Suggest a show",correction:"Suggest a correction",feature:"Suggest a feature",venue:"Suggest a venue",band:"Suggest a band"};
-var HINT={show:"Know of a show that is missing? Every suggestion is reviewed, and the good ones are added at the next weekly update.",
+var HINT={show:"Know of a show that is missing? Every suggestion is reviewed before anything is added, usually at the next weekly update.",
  correction:"Change what is wrong and leave the rest. Only the details you change are sent. Each suggestion is checked before anything on the page changes.",
  feature:"Have an idea for the page? Every suggestion is read.",
- venue:"Know a venue that should be on the calendar? Every suggestion is reviewed, and the good ones are added.",
- band:"Know a band that plays around here? Every suggestion is reviewed, and the good ones are added."};
+ venue:"Know a venue that should be on the calendar? Every suggestion is reviewed before anything is added.",
+ band:"Know a band whose shows should be on the calendar? Every suggestion is reviewed before anything is added."};
 var DONE={show:"Your suggestion was sent. Each one is reviewed before anything appears on the page, usually at the next weekly update.",
  correction:"Your correction was sent. Each one is checked before anything on the page changes, usually at the next weekly update. You can suggest another, or press Done at the top of the page.",
  feature:"Your suggestion was sent. Thank you for helping improve the page.",
@@ -927,11 +927,11 @@ function openForm(kind,btn,ev0){
   var vdl=document.createElement("datalist");vdl.id="sub-venues";(Array.isArray(S.venues)?S.venues:[]).slice(0,300).forEach(function(v){if(typeof v==="string")vdl.appendChild(new Option(v))});form.appendChild(vdl);
   F.city=field(form,"sub-city","City",{optional:true,max:60,auto:"off"});
   F.link=field(form,"sub-link","Website or calendar link",{optional:true,type:"url",max:500,auto:"off",mode:"url",ph:"https:"+"//",note:"It is only saved, not opened."});
-  F.note=field(form,"sub-note","What kind of music?",{optional:true,max:300,auto:"off"});
+  F.note=field(form,"sub-note","Typical genre",{optional:true,max:300,auto:"off"});
  }else if(kind==="band"){
   F.name=field(form,"sub-name","Band name",{max:150,auto:"off"});
   F.link=field(form,"sub-link","Link",{optional:true,type:"url",max:500,auto:"off",mode:"url",ph:"https:"+"//",note:"A website, Bandcamp, Instagram or Spotify page. It is only saved, not opened."});
-  F.where=field(form,"sub-where","Where do they play around here?",{optional:true,max:150,auto:"off"});
+  F.where=field(form,"sub-where","Where do they play in the Twin Cities?",{optional:true,max:150,auto:"off"});
  }else{
   F.text=field(form,"sub-text","Your idea",{area:true,max:1000});
  }
@@ -977,7 +977,7 @@ function openForm(kind,btn,ev0){
    body.name=need(F.name,oneLine(F.name,kind==="venue"?"the venue name":"the band name",150,true));
    if(kind==="venue")body.city=need(F.city,oneLine(F.city,"a city",60,false));
    body.link=need(F.link,linkOf(F.link,""));
-   if(kind==="venue")body.note=need(F.note,oneLine(F.note,"a note",300,false));else body.local_venue=need(F.where,oneLine(F.where,"a venue",150,false));
+   if(kind==="venue")body.note=need(F.note,oneLine(F.note,"the typical genre",300,false));else body.local_venue=need(F.where,oneLine(F.where,"a venue",150,false));
   }else{
    var tx=F.text.input.value.replace(/\r\n?/g,"\n").trim();
    if(tx.length<3){bad(F.text,"Please describe your idea.");need(F.text,null)}
