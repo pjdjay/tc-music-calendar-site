@@ -5,7 +5,7 @@
 
 ## Saturday, November 14, 2026
 
-- **The Suburbs w/ The Rodents** · 20:00 · rock/indie · 21+ · [tickets](https://www.axs.com/events/1615867/the-suburbs-tickets?skin=turfclub) [info](https://first-avenue.com/event/2026-11-the-suburbs-sat/) [spotify](https://open.spotify.com/artist/6r8rjs60Gvl07KyCUV2QhF)
+- **The Suburbs w/ The Rodents** · 20:00 · rock/indie · 21+ · [info](https://first-avenue.com/event/2026-11-the-suburbs-sat/) [spotify](https://open.spotify.com/artist/6r8rjs60Gvl07KyCUV2QhF)
 
 ## Tuesday, November 17, 2026
 

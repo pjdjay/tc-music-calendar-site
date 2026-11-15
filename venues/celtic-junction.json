@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,22 +7,8 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Celtic Junction",
  "city": "St. Paul",
- "count": 7,
+ "count": 6,
  "shows": [
-  {
-   "id": "054b90cc2ced",
-   "headliner": "Clog-O-Rama! Fancy Feet, Old-time Beat!",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "Celtic Junction",
-   "venue_slug": "celtic-junction",
-   "city": "St. Paul",
-   "genre": "Celtic/Irish",
-   "price": "$25.00",
-   "is_free": false,
-   "source": "https://celticjunction.org/events/clog-o-rama-2026/"
-  },
   {
    "id": "5bd0cd52f38a",
    "headliner": "Monday Night Square Dance",

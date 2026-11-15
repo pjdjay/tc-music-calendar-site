@@ -5,7 +5,7 @@
 
 ## Saturday, November 14, 2026
 
-- **LUCY (Cooper B. Handy) w/ Gods Wisdom, Nation** · 20:00 · rock/indie · 18+ · [tickets](https://www.axs.com/events/1569820/lucy-cooper-b-handy-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2026-11-lucy-cooper-b-handy/) [spotify](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO)
+- **LUCY (Cooper B. Handy) w/ Gods Wisdom, Nation** · 20:00 · rock/indie · 18+ · [tickets](https://www.axs.com/events/1569820/lucy-cooper-b-handy-tickets?cid=usaffjambase&utm_source=jambase) [info](https://first-avenue.com/event/2026-11-lucy-cooper-b-handy/) [spotify](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO)
 
 ## Sunday, November 15, 2026
 

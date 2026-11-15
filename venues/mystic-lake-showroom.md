@@ -5,7 +5,7 @@
 
 ## Saturday, November 14, 2026
 
-- **Alter Bridge** · 19:00 · rock/indie · [tickets](https://www.ticketmaster.com/event/060064B4989986D7?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_ALTERBRIDGEFY26) [info](https://mysticlake.com/shows-and-events/alter-bridge) [spotify](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU)
+- **Alter Bridge** · time TBA · rock/indie · [info](https://mysticlake.com/shows-and-events/alter-bridge) [spotify](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU)
 
 ## Sunday, November 15, 2026
 

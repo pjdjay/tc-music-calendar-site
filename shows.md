@@ -1,10 +1,11 @@
 # Twin Cities live music: all shows
 
-817 shows, 2026-11-14 to 2027-02-05 (America/Chicago). Data refreshed weekly. Per-day files: https://music.tcshows.org/shows/YYYY-MM-DD.md; per-venue files: https://music.tcshows.org/venues/<slug>.md (see https://music.tcshows.org/venues.json).
+818 shows, 2026-11-14 to 2027-02-05 (America/Chicago). Data refreshed weekly. Per-day files: https://music.tcshows.org/shows/YYYY-MM-DD.md; per-venue files: https://music.tcshows.org/venues/<slug>.md (see https://music.tcshows.org/venues.json).
 
 
 ## Saturday, November 14, 2026
 
+- **Alter Bridge** · time TBA · Mystic Lake Showroom, Prior Lake · rock/indie · [info](https://mysticlake.com/shows-and-events/alter-bridge) [spotify](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU)
 - **DJ Smooth Blendz** · time TBA · Mystic Lake free stages, Prior Lake · unknown · dj night · [info](https://mysticlake.com/shows-and-events/dj-smooth-blendz-nov14) [spotify](https://open.spotify.com/artist/6MAfj6nFgM5eHxLSYJJUFK)
 - **Family Rock! Brewery Edition** · 10:30 · 56 Brewing, Minneapolis · unknown · [info](https://56brewing.com/event/family-rock-brewery-edition/2026-11-14/)
 - **Cuchillo** · 12:00 · Utepils Brewing, Minneapolis · unknown · every Saturday · residency · [info](https://utepilsbrewing.com/events/cuchillo/2026-11-14/)
@@ -14,18 +15,15 @@
 - **Early Evening Jazz: Jackson Peters Trio** · 16:30 · Berlin, Minneapolis · jazz/blues · NO COVER · [info](https://www.berlinmpls.com/calendar/early-evening-jazz-jackson-peters-trio-nov-2026)
 - **Jiselle McCollam & Joe Twohy** · 17:00 · Crooners, Fridley · unknown · Free · [tickets](https://www.eventbrite.com/e/jiselle-mccollam-joe-twohy-registration-2004314969027) [info](https://www.croonersmn.com/event/jiselle-mccollam-joe-twohy/)
 - **The Brokedown Dollys** · 17:00 · Icehouse, Minneapolis · country/folk/Americana · No cover · 18+ · [info](https://www.icehousempls.com/shows/the-brokedown-dollys/)
-- **When the Sun Sets w/ Halfway Down, Wolf Rd (CHI), Feels Good (NE), Portside Dive** · 18:00 · Underground Music Venue, Minneapolis · rock/indie · $31.73 · [tickets](https://link.dice.fm/Kf41d5286cff?utm_source=jambase) [info](https://dice.fm/event/6aadbc97cef0bb00016257e2) [spotify](https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4)
+- **When the Sun Sets w/ Halfway Down, Wolf Rd, Portside Dive** · 18:00 · Underground Music Venue, Minneapolis · rock/indie · $15 · [tickets](https://link.dice.fm/Kf41d5286cff?utm_source=jambase) [info](https://www.jambase.com/show/when-the-sun-sets-underground-music-venue-event-space-20261114) [spotify](https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4)
 - **Grunge Unplugged** · 18:00 · Utepils Brewing, Minneapolis · rock/indie · [info](https://utepilsbrewing.com/events/grunge-unplugged/)
-- **Leslie Vincent** · 18:00 · Crooners, Fridley · jazz/blues · $25.00 - $35.00 · [tickets](https://www.eventbrite.com/e/leslie-vincent-tickets-2003366293513) [info](https://www.croonersmn.com/event/leslie-vincent-4/)
+- **Leslie Vincent** · 18:00 · Crooners, Fridley · jazz/blues · $25.00 · [tickets](https://www.eventbrite.com/e/leslie-vincent-tickets-2003366293513) [info](https://www.croonersmn.com/event/leslie-vincent-4/)
 - **Ciao Bello w/ Fumbler** · 18:00 · White Squirrel, St. Paul · unknown · [info](https://whitesquirrelbar.com/event/ciao-bello-w-fumbler/) [spotify](https://open.spotify.com/artist/30fgmNH7IVSNN0QyTHfS9m)
 - **Amerigrass '26** · 18:30 · Hook and Ladder, Minneapolis · country/folk/Americana · 21+ · [info](https://thehookmpls.com/shows/amerigrass-26-november-14-2026-711921)
-- **Supportive Parents w/ Public Missile Crisis, Powerdam, TV for Dogs, Wilbur** · 18:30 · Zhora Darling, Minneapolis · metal/punk · $19.06 · [tickets](https://dice.fm/event/6ac19f127005ba000107926c) [info](https://dice.fm/event/6ac19f127005ba000107926c) [spotify](https://open.spotify.com/artist/1AWLgWZadZi7YFicPYt5mG)
-- **Alter Bridge** · 19:00 · Mystic Lake Showroom, Prior Lake · rock/indie · [tickets](https://www.ticketmaster.com/event/060064B4989986D7?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_ALTERBRIDGEFY26) [info](https://mysticlake.com/shows-and-events/alter-bridge) [spotify](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU)
-- **Minnesota Orchestra: Nordic Soundscapes Festival: Vänskä, Chen and Nielsen** · 19:00 · Orchestra Hall, Minneapolis · classical · [tickets](https://www.ticketmaster.com/event/Z7r9jZ1AAZpbx) [info](https://www.ticketmaster.com/event/Z7r9jZ1AAZpbx) [spotify](https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn)
+- **Minnesota Orchestra: Nordic Soundscapes Festival: Vänskä, Chen and Nielsen** · 19:00 · Orchestra Hall, Minneapolis · classical · [info](https://www.jambase.com/show/minnesota-orchestra-orchestra-hall-20261114) [spotify](https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn)
 - **Wookiefoot w/ Balkan Bump, The Limns** · 19:00 · Uptown Theater, Minneapolis · rock/indie · $34.25 · 18+ · [tickets](https://www.livenation.com/event/vv17bZ_3GkTVS3x8/wookiefoot-18) [info](https://www.livenation.com/event/vv17bZ_3GkTVS3x8/wookiefoot-18) [spotify](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH)
 - **Fox Stevenson w/ Mystery Skulls** · 19:00 · Varsity Theater, Minneapolis · electronic · $39.85 · [tickets](https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls) [info](https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls) [spotify](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy)
 - **Keenan TreVon** · 19:00 · Underground Music Venue, Minneapolis · hip-hop/R&B · $20 · [info](https://www.jambase.com/show/keenan-trevon-underground-music-venue-cafe-20261114) [spotify](https://open.spotify.com/artist/3TRl3Kgn8RGc0sw5QDOMsW)
-- **Clog-O-Rama! Fancy Feet, Old-time Beat!** · 19:00 · Celtic Junction, St. Paul · Celtic/Irish · $25.00 · [info](https://celticjunction.org/events/clog-o-rama-2026/)
 - **Diego Figueiredo** · 19:00 · Crooners, Fridley · jazz/blues · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/diego-figueiredo-tickets-2002923327590) [info](https://www.croonersmn.com/event/diego-figueiredo/) [spotify](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra)
 - **Lucinda Williams** · 19:00 · Dakota Jazz Club, Minneapolis · country/folk/Americana · $108.90+ · [info](https://www.dakotacooks.com/event/an-evening-with-lucinda-williams-her-band-nov-2026/2026-11-14/) [spotify](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP)
 - **Maygen & The Birdwatcher w/ Rich Mattson and the Northstars, Emmy Woods, Ross Thorn** · 19:00 · Hook and Ladder, Minneapolis · country/folk/Americana · [tickets](https://app.opendate.io/e/amerigrass-26-november-14-2026-711921?utm_source=jambase) [info](https://www.jambase.com/show/maygen-the-birdwatcher-the-hook-and-ladder-theater-20261114) [spotify](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8)
@@ -35,7 +33,7 @@
 - **The Great Northern** · 19:00 · Driftwood Char Bar, Minneapolis · unknown · [info](https://driftwoodcharbar.com/)
 - **Waiting for Walter** · 19:00 · Hopkins Legion, Hopkins · unknown · [info](https://www.legion320.org/music-and-events)
 - **🎶 Live Music at Troubadour! 🎶 Phil Berbig w/ Saturday at 7 PM** · 19:00 · Troubadour, Minneapolis · unknown · [info](https://troubadourwinebar.com/events)
-- **Almost Monday w/ feel trip.** · 19:30 · Fine Line, Minneapolis · rock/indie · all ages · [tickets](https://www.axs.com/events/1497548/almost-monday-tickets?skin=fineline) [info](https://first-avenue.com/event/2026-11-almost-monday/) [spotify](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E)
+- **Almost Monday w/ feel trip.** · 19:30 · Fine Line, Minneapolis · rock/indie · all ages · [info](https://first-avenue.com/event/2026-11-almost-monday/) [spotify](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E)
 - **Motown Christmas** · 19:30 · Ames Center, Burnsville · hip-hop/R&B · [tickets](https://www.ticketmaster.com/motown-christmas-burnsville-minnesota-11-14-2026/event/060064CBCE5B1D6F) [info](https://www.ticketmaster.com/motown-christmas-burnsville-minnesota-11-14-2026/event/060064CBCE5B1D6F)
 - **The Fab Four** · 19:30 · Pantages Theatre, Minneapolis · rock/indie · $37.45 · [tickets](https://www.ticketmaster.com/the-fab-four-tribute-to-the-minneapolis-minnesota-11-14-2026/event/06006471A446BAA7) [info](https://www.ticketmaster.com/the-fab-four-tribute-to-the-minneapolis-minnesota-11-14-2026/event/06006471A446BAA7) [spotify](https://open.spotify.com/artist/0hKKZ3XZ2uQD5j1EIrFFf7)
 - **Golden Satellite / Killed By Kiwis / JuiceNeck** · 19:30 · Hook and Ladder, Minneapolis · rock/indie · 21+ · [info](https://thehookmpls.com/shows/golden-satellite-killed-by-kiwis-juiceneck-november-14-2026-741774)
@@ -45,13 +43,13 @@
 - **Drew Peterson** · 19:30 · Animales Barbeque, Minneapolis · unknown · [info](https://animalesbbq.com/calendar/drew-peterson-november-2026)
 - **Jackson Churchill** · 19:30 · MetroNOME Brewery, St. Paul · classical · [info](https://metronomebrewery.com/live-music/jackson-churchill/) [spotify](https://open.spotify.com/artist/7rmSzrS1a4UOn6fwEccsr0)
 - **Kenny Reichert 5tet** · 19:30 · Berlin, Minneapolis · jazz/blues · $20 · [info](https://www.berlinmpls.com/calendar/kenny-reichert-5tet-november-2026)
-- **Kitchen Dwellers w/ Dogs In A Pile** · 20:00 · First Avenue, Minneapolis · country/folk/Americana · 18+ · [tickets](https://www.axs.com/events/1568171/kitchen-dwellers-and-dogs-in-a-pile-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2026-11-kitchen-dwellers-and-dogs-in-a-pile/) [spotify](https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31)
-- **Gasteyer // Sugar & Booze Holiday Spectacular** · 20:00 · Parkway Theater, Minneapolis · unknown · $69 Advance / $79 At The Door · SOLD OUT · [tickets](https://link.dice.fm/b2e02da742b6) [info](https://theparkwaytheater.com/all-events/ana-gasteyer)
-- **Mni Sota Mystery Box: An Afterdark Night of First Nations Talent** · 20:00 · Amsterdam Bar & Hall, St. Paul · unknown · 21+ · [tickets](https://www.etix.com/ticket/p/41455432/mni-sota-mystery-boxan-afterdark-night-of-first-nations-talent-saint-paul-amsterdam-bar-hall?partner_id=100) [info](https://events.amsterdambarandhall.com/event/mni-sota-mystery-box-an-afterdark-night-of-first-nations-talent/amsterdam-bar-hall/saint-paul-minnesota/)
+- **Kitchen Dwellers w/ Dogs In A Pile** · 20:00 · First Avenue, Minneapolis · country/folk/Americana · 18+ · [tickets](https://www.axs.com/events/1568171/kitchen-dwellers-and-dogs-in-a-pile-tickets?cid=usaffjambase) [info](https://first-avenue.com/event/2026-11-kitchen-dwellers-and-dogs-in-a-pile/) [spotify](https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31)
+- **Gasteyer // Sugar & Booze Holiday Spectacular** · 20:00 · Parkway Theater, Minneapolis · unknown · $69 Advance / $79 At The Door · SOLD OUT · [info](https://theparkwaytheater.com/all-events/ana-gasteyer)
+- **Mni Sota Mystery Box: An Afterdark Night of First Nations Talent** · 20:00 · Amsterdam Bar & Hall, St. Paul · unknown · 21+ · [info](https://events.amsterdambarandhall.com/event/mni-sota-mystery-box-an-afterdark-night-of-first-nations-talent/amsterdam-bar-hall/saint-paul-minnesota/)
 - **Chicago Farmer w/ Thomas Sticha, The Fieldnotes** · 20:00 · The Cedar, Minneapolis · country/folk/Americana · $10 · [info](https://www.thecedar.org/events/chicago-farmer) [spotify](https://open.spotify.com/artist/69MACpHHQg9ovd1retYWPq)
 - **Local.Fm w/ Damo, Logan Day, Roxanne, Lucky the Unfortunate, Midnight Gold, Rulo, Pross, Luke Suede** · 20:00 · Celio Lounge, Minneapolis · unknown · $10 entry · [info](https://music.tcshows.org/)
-- **LUCY (Cooper B. Handy) w/ Gods Wisdom, Nation** · 20:00 · 7th St Entry, Minneapolis · rock/indie · 18+ · [tickets](https://www.axs.com/events/1569820/lucy-cooper-b-handy-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2026-11-lucy-cooper-b-handy/) [spotify](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO)
-- **The Suburbs w/ The Rodents** · 20:00 · Turf Club, St. Paul · rock/indie · 21+ · [tickets](https://www.axs.com/events/1615867/the-suburbs-tickets?skin=turfclub) [info](https://first-avenue.com/event/2026-11-the-suburbs-sat/) [spotify](https://open.spotify.com/artist/6r8rjs60Gvl07KyCUV2QhF)
+- **LUCY (Cooper B. Handy) w/ Gods Wisdom, Nation** · 20:00 · 7th St Entry, Minneapolis · rock/indie · 18+ · [tickets](https://www.axs.com/events/1569820/lucy-cooper-b-handy-tickets?cid=usaffjambase&utm_source=jambase) [info](https://first-avenue.com/event/2026-11-lucy-cooper-b-handy/) [spotify](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO)
+- **The Suburbs w/ The Rodents** · 20:00 · Turf Club, St. Paul · rock/indie · 21+ · [info](https://first-avenue.com/event/2026-11-the-suburbs-sat/) [spotify](https://open.spotify.com/artist/6r8rjs60Gvl07KyCUV2QhF)
 - **Jeff Loven (live music)** · 20:00 · 201 Tavern, Anoka · unknown · [info](https://www.201tavern.com/anoka-201-tavern-beer-garden-and-grill-events) [spotify](https://open.spotify.com/artist/2mxDDIyOtwGNgNY4WFUmG3)
 - **The Langer’s Ball** · 20:00 · Dubliner Pub, St. Paul · Celtic/Irish · every second Saturday · residency · [info](https://thedublinerpub.com/show/the-langers-ball/?lre_date=2026-11-14) [spotify](https://open.spotify.com/artist/1OwkUsd7vzrmPKCddzxXm8)
 - **CHAN w/ Cristian Baca** · 21:00 · Skyway Theatre, Minneapolis · unknown · [tickets](https://www.showclix.com/event/chan-11-14-26) [info](https://skywaytheatre.com/event/chan/)
@@ -60,10 +58,11 @@
 - **My Famous Friends** · 21:00 · Mystic Lake free stages, Prior Lake · unknown · [info](https://mysticlake.com/shows-and-events/my-famous-friends-nov14) [spotify](https://open.spotify.com/artist/5fvCfEiVdYIzDq7e1b6WOe)
 - **The Comebacks** · 21:00 · Driftwood Char Bar, Minneapolis · unknown · [info](https://driftwoodcharbar.com/)
 - **Chase & Ovation** · 21:30 · Bunker's, Minneapolis · unknown · some Saturdays · residency · [info](https://bunkersmusic.com/calendar)
-- **42DUGG** · 22:00 · Cabooze, Minneapolis · hip-hop/R&B · [tickets](https://www.etix.com/ticket/p/81773637/42dugg-minneapolis-the-cabooze?partner_id=100) [info](https://cabooze.com/event/42dugg/the-cabooze/) [spotify](https://open.spotify.com/artist/5v3HhAurt26FxdtKu3plRs)
+- **42 Dugg** · 22:00 · Cabooze, Minneapolis · hip-hop/R&B · [info](https://www.jambase.com/show/42-dugg-cabooze-20261114) [spotify](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG)
 - **House Sessions w/ Michael Grey, Alexis Rose, TNA!!!** · 22:00 · Icehouse, Minneapolis · unknown · $10 adv / $15 door · 21+ · [tickets](https://tix.gobo.show/events/event/x0QU98kyelyBLQ08JHgL/dates/SB0JGWAuYrB7PLaUVqbR?utm_source=icehousempls.com&utm_medium=website&utm_campaign=housesessions-20261114) [info](https://www.icehousempls.com/shows/house-sessions-feat-michael-grey-alexis-rose-tna/)
 - **Post Animal w/ Brotherkenzie** · 22:00 · Green Room, Minneapolis · rock/indie · 18+ · [tickets](https://tickets.venuepilot.com/e/post-animal-maybe-you-have-to-tour-2026-11-14-green-room-minneapolis-c675ce) [info](https://www.greenroommn.com/events#/events/180675) [spotify](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE)
 - **Echo Signal w/ The Dead Electrics, wolfbabycup** · 22:00 · 331 Club, Minneapolis · unknown · [info](https://www.instagram.com/echo_signal_?stkn=MW5ydzRrZWlxdHV6eg==) [spotify](https://open.spotify.com/artist/7FwNIGFCbsqacUqaBPZIhH)
+- **Orquesta La Clave** · 22:00 · Iconos Gastro Cantina, Minneapolis · Latin · Free · [info](https://ma.to/event/sabado-con-salsa-14-nov-2026) [spotify](https://open.spotify.com/artist/08P0PBwydQZ9PpCALUhnqZ)
 - **Late Night Lounge: Tim Ritter** · 22:30 · Berlin, Minneapolis · unknown · $5 at the Door · dj night · [info](https://www.berlinmpls.com/calendar/tim-ritter-november-2026)
 
 ## Sunday, November 15, 2026
@@ -255,6 +254,7 @@
 - **Reventón Anniversary Party** · 22:00 · Green Room, Minneapolis · Latin · 18+ · dj night · [tickets](https://tickets.venuepilot.com/e/reventon-anniversary-party-2026-11-20-green-room-minneapolis-c60b3a) [info](https://www.greenroommn.com/events#/events/203640)
 - **Grim Lot w/ Battery Eyes, The Anesthetics** · 22:00 · 331 Club, Minneapolis · unknown · [info](https://www.instagram.com/grim_lot?vrfl=MWJ1cDE3Z2p1ODJveg==) [spotify](https://open.spotify.com/artist/4PxeGPLqJf7QF6HBrQnvBV)
 - **Late Night Lounge: Dedicated Enemy** · 22:30 · Berlin, Minneapolis · unknown · $5 at the Door · dj night · [info](https://www.berlinmpls.com/calendar/late-night-lounge-dedicated-enemy-nov-2026)
+- **42DUGG** · 22:00 · Cabooze, Minneapolis · hip-hop/R&B · POSTPONED · [tickets](https://www.etix.com/ticket/p/81773637/postponed-42dugg-minneapolis-the-cabooze?partner_id=100) [info](https://cabooze.com/event/postponed-42dugg/the-cabooze/) [spotify](https://open.spotify.com/artist/5v3HhAurt26FxdtKu3plRs)
 
 ## Saturday, November 21, 2026
 
@@ -442,7 +442,7 @@
 - **Deejay St. Joel** · time TBA · Mystic Lake free stages, Prior Lake · unknown · dj night · [info](https://mysticlake.com/shows-and-events/dj-stjoel-nov28)
 - **Deep Fried Tweeters** · time TBA · Hopkins Legion, Hopkins · unknown · [info](https://www.legion320.org/music-and-events)
 - **Minnesota Hmong New Year** · 08:00 · Roy Wilkins Auditorium, St. Paul · world/other · [info](https://www.rivercentre.org/events/detail/minnesota-hmong-new-year-3)
-- **Danksgiving** · 12:00 · Hook and Ladder, Minneapolis · unknown · 21+ · [info](https://thehookmpls.com/shows/danksgiving-november-28-2026-794279)
+- **DANKSGIVING - Blow Out Sale & Open House** · 12:00 · Hook and Ladder, Minneapolis · unknown · 21+ · [info](https://thehookmpls.com/shows/danksgiving-blow-out-sale-open-house-november-28-2026-794279)
 - **Olga Flores 80th Birthday Party 10-12ppl Fireplace rm @12pm** · 12:00 · Waldmann Brewery, St. Paul · unknown · [info](https://waldmannbrewery.com/news-events/)
 - **SPIKED! Put Some Punch in Your Holidays** · 13:00 · Celtic Junction, St. Paul · country/folk/Americana · $25.00 – $30.00 · [info](https://celticjunction.org/events/spiked-2026-1/2026-11-28-1300/)
 - **AlienGodTheory w/ Paul Thomas Flynn, Disparity Bit, Cog Wheel** · 13:00 · White Squirrel, St. Paul · unknown · [info](https://whitesquirrelbar.com/event/aliengodtheory-w/)
@@ -592,7 +592,7 @@
 - **Cathie English** · 18:00 · Ginkgo, St. Paul · unknown · [info](https://ginkgocoffee.com/event/cathie-english/)
 - **Trio Amigos** · 18:00 · MetroNOME Brewery, St. Paul · country/folk/Americana · [info](https://metronomebrewery.com/live-music/trio-amigos/) [spotify](https://open.spotify.com/artist/7rTJOgrk6Qvdmt6U0gFBsr)
 - **Christmas Memories w/ Deb Brown, Sara Renner, Aimée Lee** · 18:30 · Crooners, Fridley · jazz/blues · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/christmas-memories-with-deb-brown-sara-renner-aimee-lee-tickets-2001782566543) [info](https://www.croonersmn.com/event/christmas-memories-with-deb-brown-sara-renner-aimee-lee/) [spotify](https://open.spotify.com/artist/3JdgniELdXlZnW2u8wOd4P)
-- **Amy Grant w/ Michael W. Smith, CeCe Winans** · 19:00 · Grand Casino Arena, St. Paul · pop · $56.54 · [tickets](https://www.ticketmaster.com/event/Z7r9jZ1A7x47_) [info](https://www.ticketmaster.com/event/Z7r9jZ1A7x47_) [spotify](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es)
+- **Amy Grant w/ Michael W. Smith, CeCe Winans** · 19:00 · Grand Casino Arena, St. Paul · pop · $56.54 · [tickets](https://www.ticketmaster.com/event/Z7r9jZ1A7x47_) [info](https://www.grandcasinoarena.com/events/detail/christmas-together) [spotify](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es)
 - **Blue October w/ Jess Woodland** · 19:00 · Fillmore Minneapolis, Minneapolis · rock/indie · $64 · [tickets](https://www.ticketmaster.com/blue-october-foiled-20th-anniversary-world-minneapolis-minnesota-12-04-2026/event/06006472DC001BE4) [info](https://www.ticketmaster.com/blue-october-foiled-20th-anniversary-world-minneapolis-minnesota-12-04-2026/event/06006472DC001BE4) [spotify](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh)
 - **Chill: The Entire Charlie Brown Christmas Soundtrack, Played Live & Danced – Friday Evening** · 19:00 · Amsterdam Bar & Hall, St. Paul · jazz/blues · all ages · [tickets](https://www.etix.com/ticket/p/71457058/chillthe-entire-charlie-brown-christmas-soundtrackplayed-live-danced-friday-evening-saint-paul-amsterdam-bar-hall?partner_id=100) [info](https://events.amsterdambarandhall.com/event/chill-the-entire-charlie-brown-christmas-soundtrack-played-live-danced-friday-evening/amsterdam-bar-hall/saint-paul-minnesota/)
 - **Rhye** · 19:00 · Varsity Theater, Minneapolis · pop · $45 · [tickets](https://www.livenation.com/event/vvG1bZ_GKWHeTy/rhye-joy-tour) [info](https://www.livenation.com/event/vvG1bZ_GKWHeTy/rhye-joy-tour) [spotify](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN)
@@ -811,6 +811,7 @@
 
 ## Sunday, December 13, 2026
 
+- **Minnesota Frost vs. Seattle** · time TBA · Grand Casino Arena, St. Paul · unknown · [info](https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-seattle-2)
 - **School of Rock!** · 12:00 · Amsterdam Bar & Hall, St. Paul · unknown · all ages · [info](https://events.amsterdambarandhall.com/event/school-of-rock/amsterdam-bar-hall/saint-paul-minnesota/)
 - **Home Alone in Concert** · 14:00 · Orchestra Hall, Minneapolis · classical · [info](https://www.minnesotaorchestra.org/tickets/calendar)
 - **Caritas Vocal Ensemble** · 15:00 · First Universalist Church of Minneapolis, Minneapolis · classical · Suggested $25 online or at the door · [tickets](https://www.zeffy.com/en-US/ticketing/christmas-with-caritas) [info](https://www.zeffy.com/en-US/ticketing/christmas-with-caritas)

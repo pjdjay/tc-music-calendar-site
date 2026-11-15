@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-20",
- "count": 44,
+ "count": 45,
  "shows": [
   {
    "id": "7b54f732cff2",
@@ -682,6 +682,22 @@
    "price": "$5 at the Door",
    "is_free": false,
    "source": "https://www.berlinmpls.com/calendar/late-night-lounge-dedicated-enemy-nov-2026"
+  },
+  {
+   "id": "d6ba9e22db0b",
+   "headliner": "42DUGG",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "22:00",
+   "venue": "Cabooze",
+   "venue_slug": "cabooze",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "doors_time": "20:00",
+   "status": "postponed",
+   "tickets": "https://www.etix.com/ticket/p/81773637/postponed-42dugg-minneapolis-the-cabooze?partner_id=100",
+   "source": "https://cabooze.com/event/postponed-42dugg/the-cabooze/",
+   "spotify": "https://open.spotify.com/artist/5v3HhAurt26FxdtKu3plRs"
   }
  ]
 }

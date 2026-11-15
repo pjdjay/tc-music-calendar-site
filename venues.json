@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
- "count": 69,
+ "count": 70,
  "venues": [
   {
    "slug": "10k-brewing",
@@ -141,7 +141,7 @@
    "slug": "cabooze",
    "venue": "Cabooze",
    "city": "Minneapolis",
-   "show_count": 8,
+   "show_count": 9,
    "first_date": "2026-11-14",
    "last_date": "2026-12-17",
    "json": "https://music.tcshows.org/venues/cabooze.json",
@@ -161,8 +161,8 @@
    "slug": "celtic-junction",
    "venue": "Celtic Junction",
    "city": "St. Paul",
-   "show_count": 7,
-   "first_date": "2026-11-14",
+   "show_count": 6,
+   "first_date": "2026-11-16",
    "last_date": "2026-12-11",
    "json": "https://music.tcshows.org/venues/celtic-junction.json",
    "markdown": "https://music.tcshows.org/venues/celtic-junction.md"
@@ -321,9 +321,9 @@
    "slug": "grand-casino-arena",
    "venue": "Grand Casino Arena",
    "city": "St. Paul",
-   "show_count": 1,
+   "show_count": 2,
    "first_date": "2026-12-04",
-   "last_date": "2026-12-04",
+   "last_date": "2026-12-13",
    "json": "https://music.tcshows.org/venues/grand-casino-arena.json",
    "markdown": "https://music.tcshows.org/venues/grand-casino-arena.md"
   },
@@ -386,6 +386,16 @@
    "last_date": "2026-12-11",
    "json": "https://music.tcshows.org/venues/icehouse.json",
    "markdown": "https://music.tcshows.org/venues/icehouse.md"
+  },
+  {
+   "slug": "iconos-gastro-cantina",
+   "venue": "Iconos Gastro Cantina",
+   "city": "Minneapolis",
+   "show_count": 1,
+   "first_date": "2026-11-14",
+   "last_date": "2026-11-14",
+   "json": "https://music.tcshows.org/venues/iconos-gastro-cantina.json",
+   "markdown": "https://music.tcshows.org/venues/iconos-gastro-cantina.md"
   },
   {
    "slug": "inbound-brewco",
@@ -691,8 +701,8 @@
    "slug": "zhora-darling",
    "venue": "Zhora Darling",
    "city": "Minneapolis",
-   "show_count": 15,
-   "first_date": "2026-11-14",
+   "show_count": 14,
+   "first_date": "2026-11-15",
    "last_date": "2026-12-06",
    "json": "https://music.tcshows.org/venues/zhora-darling.json",
    "markdown": "https://music.tcshows.org/venues/zhora-darling.md"

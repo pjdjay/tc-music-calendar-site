@@ -1,11 +1,7 @@
 # Zhora Darling (Minneapolis): upcoming shows
 
-15 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+14 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Supportive Parents w/ Public Missile Crisis, Powerdam, TV for Dogs, Wilbur** · 18:30 · metal/punk · $19.06 · [tickets](https://dice.fm/event/6ac19f127005ba000107926c) [info](https://dice.fm/event/6ac19f127005ba000107926c) [spotify](https://open.spotify.com/artist/1AWLgWZadZi7YFicPYt5mG)
 
 ## Sunday, November 15, 2026
 

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -23,7 +23,6 @@
    "genre": "rock/indie",
    "doors_time": "18:30",
    "age": "all_ages",
-   "tickets": "https://www.axs.com/events/1497548/almost-monday-tickets?skin=fineline",
    "source": "https://first-avenue.com/event/2026-11-almost-monday/",
    "spotify": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
   },

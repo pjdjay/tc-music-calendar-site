@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,29 +7,8 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Zhora Darling",
  "city": "Minneapolis",
- "count": 15,
+ "count": 14,
  "shows": [
-  {
-   "id": "cc8f9a562a64",
-   "headliner": "Supportive Parents",
-   "openers": [
-    "Public Missile Crisis",
-    "Powerdam",
-    "TV for Dogs",
-    "Wilbur"
-   ],
-   "date": "2026-11-14",
-   "start_time": "18:30",
-   "venue": "Zhora Darling",
-   "venue_slug": "zhora-darling",
-   "city": "Minneapolis",
-   "genre": "metal/punk",
-   "price": "$19.06",
-   "is_free": false,
-   "tickets": "https://dice.fm/event/6ac19f127005ba000107926c",
-   "source": "https://dice.fm/event/6ac19f127005ba000107926c",
-   "spotify": "https://open.spotify.com/artist/1AWLgWZadZi7YFicPYt5mG"
-  },
   {
    "id": "bb535c4f07bf",
    "headliner": "Porcelain (TX)",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -14,8 +14,7 @@
    "headliner": "When the Sun Sets",
    "openers": [
     "Halfway Down",
-    "Wolf Rd (CHI)",
-    "Feels Good (NE)",
+    "Wolf Rd",
     "Portside Dive"
    ],
    "date": "2026-11-14",
@@ -24,10 +23,10 @@
    "venue_slug": "underground-music-venue",
    "city": "Minneapolis",
    "genre": "rock/indie",
-   "price": "$31.73",
+   "price": "$15",
    "is_free": false,
    "tickets": "https://link.dice.fm/Kf41d5286cff?utm_source=jambase",
-   "source": "https://dice.fm/event/6aadbc97cef0bb00016257e2",
+   "source": "https://www.jambase.com/show/when-the-sun-sets-underground-music-venue-event-space-20261114",
    "spotify": "https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4"
   },
   {

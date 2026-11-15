@@ -5,7 +5,7 @@
 
 ## Saturday, November 14, 2026
 
-- **Minnesota Orchestra: Nordic Soundscapes Festival: Vänskä, Chen and Nielsen** · 19:00 · classical · [tickets](https://www.ticketmaster.com/event/Z7r9jZ1AAZpbx) [info](https://www.ticketmaster.com/event/Z7r9jZ1AAZpbx) [spotify](https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn)
+- **Minnesota Orchestra: Nordic Soundscapes Festival: Vänskä, Chen and Nielsen** · 19:00 · classical · [info](https://www.jambase.com/show/minnesota-orchestra-orchestra-hall-20261114) [spotify](https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn)
 
 ## Thursday, November 19, 2026
 

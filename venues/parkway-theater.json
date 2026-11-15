@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -22,7 +22,6 @@
    "status": "sold_out",
    "price": "$69 Advance / $79 At The Door",
    "is_free": false,
-   "tickets": "https://link.dice.fm/b2e02da742b6",
    "source": "https://theparkwaytheater.com/all-events/ana-gasteyer"
   },
   {

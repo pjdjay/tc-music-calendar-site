@@ -5,7 +5,7 @@
 
 ## Saturday, November 14, 2026
 
-- **Kitchen Dwellers w/ Dogs In A Pile** · 20:00 · country/folk/Americana · 18+ · [tickets](https://www.axs.com/events/1568171/kitchen-dwellers-and-dogs-in-a-pile-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2026-11-kitchen-dwellers-and-dogs-in-a-pile/) [spotify](https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31)
+- **Kitchen Dwellers w/ Dogs In A Pile** · 20:00 · country/folk/Americana · 18+ · [tickets](https://www.axs.com/events/1568171/kitchen-dwellers-and-dogs-in-a-pile-tickets?cid=usaffjambase) [info](https://first-avenue.com/event/2026-11-kitchen-dwellers-and-dogs-in-a-pile/) [spotify](https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31)
 
 ## Sunday, November 15, 2026
 

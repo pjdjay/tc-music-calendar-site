@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,7 +7,7 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Grand Casino Arena",
  "city": "St. Paul",
- "count": 1,
+ "count": 2,
  "shows": [
   {
    "id": "a6c068986815",
@@ -25,8 +25,20 @@
    "price": "$56.54",
    "is_free": false,
    "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A7x47_",
-   "source": "https://www.ticketmaster.com/event/Z7r9jZ1A7x47_",
+   "source": "https://www.grandcasinoarena.com/events/detail/christmas-together",
    "spotify": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+  },
+  {
+   "id": "8a10ba3e7b68",
+   "headliner": "Minnesota Frost vs. Seattle",
+   "openers": [],
+   "date": "2026-12-13",
+   "start_time": null,
+   "venue": "Grand Casino Arena",
+   "venue_slug": "grand-casino-arena",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-seattle-2"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -19,8 +19,7 @@
    "venue_slug": "orchestra-hall",
    "city": "Minneapolis",
    "genre": "classical",
-   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpbx",
-   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpbx",
+   "source": "https://www.jambase.com/show/minnesota-orchestra-orchestra-hall-20261114",
    "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
   },
   {

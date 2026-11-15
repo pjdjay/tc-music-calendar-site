@@ -1,13 +1,25 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-13",
- "count": 5,
+ "count": 6,
  "shows": [
+  {
+   "id": "8a10ba3e7b68",
+   "headliner": "Minnesota Frost vs. Seattle",
+   "openers": [],
+   "date": "2026-12-13",
+   "start_time": null,
+   "venue": "Grand Casino Arena",
+   "venue_slug": "grand-casino-arena",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-seattle-2"
+  },
   {
    "id": "cc6c7a7a3c3b",
    "headliner": "School of Rock!",

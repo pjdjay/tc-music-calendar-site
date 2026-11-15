@@ -1,15 +1,19 @@
 # Cabooze (Minneapolis): upcoming shows
 
-8 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+9 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
 
-- **42DUGG** · 22:00 · hip-hop/R&B · [tickets](https://www.etix.com/ticket/p/81773637/42dugg-minneapolis-the-cabooze?partner_id=100) [info](https://cabooze.com/event/42dugg/the-cabooze/) [spotify](https://open.spotify.com/artist/5v3HhAurt26FxdtKu3plRs)
+- **42 Dugg** · 22:00 · hip-hop/R&B · [info](https://www.jambase.com/show/42-dugg-cabooze-20261114) [spotify](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG)
 
 ## Sunday, November 15, 2026
 
 - **Main Event Sundays** · 22:00 · unknown · every Sunday · residency · [tickets](https://www.etix.com/ticket/p/36481619/main-event-sundays-minneapolis-the-cabooze?partner_id=100) [info](https://cabooze.com/event/main-event-sundays-2/the-cabooze/)
+
+## Friday, November 20, 2026
+
+- **42DUGG** · 22:00 · hip-hop/R&B · POSTPONED · [tickets](https://www.etix.com/ticket/p/81773637/postponed-42dugg-minneapolis-the-cabooze?partner_id=100) [info](https://cabooze.com/event/postponed-42dugg/the-cabooze/) [spotify](https://open.spotify.com/artist/5v3HhAurt26FxdtKu3plRs)
 
 ## Saturday, November 21, 2026
 

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -34,7 +34,7 @@
    "venue_slug": "crooners",
    "city": "Fridley",
    "genre": "jazz/blues",
-   "price": "$25.00 - $35.00",
+   "price": "$25.00",
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/leslie-vincent-tickets-2003366293513",
    "source": "https://www.croonersmn.com/event/leslie-vincent-4/"

@@ -36,7 +36,7 @@
 
 ## Saturday, November 28, 2026
 
-- **Danksgiving** · 12:00 · unknown · 21+ · [info](https://thehookmpls.com/shows/danksgiving-november-28-2026-794279)
+- **DANKSGIVING - Blow Out Sale & Open House** · 12:00 · unknown · 21+ · [info](https://thehookmpls.com/shows/danksgiving-blow-out-sale-open-house-november-28-2026-794279)
 - **Shoeless Revolution w/ The Brothers Allmanac: A Midwest Tribute to The Allman Brothers, Shane Cox & the Funky Spuds** · 19:00 · unknown · 21+ · [tickets](https://app.opendate.io/e/getdown-give-the-brothers-allmanac-shoeless-revolution-shane-cox-the-funky-spuds-november-28-2026-736714?utm_source=jambase) [info](https://thehookmpls.com/shows/getdown-give-the-brothers-allmanac-shoeless-revolution-shane-cox-the-funky-spuds-november-28-2026-736714) [spotify](https://open.spotify.com/artist/0M7Y52xLPvGYYvMjCE8qhF)
 
 ## Thursday, December 3, 2026

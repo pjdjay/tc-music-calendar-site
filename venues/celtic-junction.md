@@ -1,11 +1,7 @@
 # Celtic Junction (St. Paul): upcoming shows
 
-7 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+6 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Clog-O-Rama! Fancy Feet, Old-time Beat!** · 19:00 · Celtic/Irish · $25.00 · [info](https://celticjunction.org/events/clog-o-rama-2026/)
 
 ## Monday, November 16, 2026
 

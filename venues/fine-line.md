@@ -5,7 +5,7 @@
 
 ## Saturday, November 14, 2026
 
-- **Almost Monday w/ feel trip.** · 19:30 · rock/indie · all ages · [tickets](https://www.axs.com/events/1497548/almost-monday-tickets?skin=fineline) [info](https://first-avenue.com/event/2026-11-almost-monday/) [spotify](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E)
+- **Almost Monday w/ feel trip.** · 19:30 · rock/indie · all ages · [info](https://first-avenue.com/event/2026-11-almost-monday/) [spotify](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E)
 
 ## Monday, November 16, 2026
 

@@ -6,7 +6,7 @@
 ## Saturday, November 14, 2026
 
 - **Jiselle McCollam & Joe Twohy** · 17:00 · unknown · Free · [tickets](https://www.eventbrite.com/e/jiselle-mccollam-joe-twohy-registration-2004314969027) [info](https://www.croonersmn.com/event/jiselle-mccollam-joe-twohy/)
-- **Leslie Vincent** · 18:00 · jazz/blues · $25.00 - $35.00 · [tickets](https://www.eventbrite.com/e/leslie-vincent-tickets-2003366293513) [info](https://www.croonersmn.com/event/leslie-vincent-4/)
+- **Leslie Vincent** · 18:00 · jazz/blues · $25.00 · [tickets](https://www.eventbrite.com/e/leslie-vincent-tickets-2003366293513) [info](https://www.croonersmn.com/event/leslie-vincent-4/)
 - **Diego Figueiredo** · 19:00 · jazz/blues · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/diego-figueiredo-tickets-2002923327590) [info](https://www.croonersmn.com/event/diego-figueiredo/) [spotify](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra)
 
 ## Sunday, November 15, 2026

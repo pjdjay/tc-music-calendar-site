@@ -5,7 +5,7 @@
 
 ## Saturday, November 14, 2026
 
-- **Gasteyer // Sugar & Booze Holiday Spectacular** · 20:00 · unknown · $69 Advance / $79 At The Door · SOLD OUT · [tickets](https://link.dice.fm/b2e02da742b6) [info](https://theparkwaytheater.com/all-events/ana-gasteyer)
+- **Gasteyer // Sugar & Booze Holiday Spectacular** · 20:00 · unknown · $69 Advance / $79 At The Door · SOLD OUT · [info](https://theparkwaytheater.com/all-events/ana-gasteyer)
 
 ## Sunday, November 15, 2026
 

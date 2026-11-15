@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,11 +7,11 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Cabooze",
  "city": "Minneapolis",
- "count": 8,
+ "count": 9,
  "shows": [
   {
-   "id": "78f8e120646b",
-   "headliner": "42DUGG",
+   "id": "65c83edc6854",
+   "headliner": "42 Dugg",
    "openers": [],
    "date": "2026-11-14",
    "start_time": "22:00",
@@ -19,10 +19,8 @@
    "venue_slug": "cabooze",
    "city": "Minneapolis",
    "genre": "hip-hop/R&B",
-   "doors_time": "20:00",
-   "tickets": "https://www.etix.com/ticket/p/81773637/42dugg-minneapolis-the-cabooze?partner_id=100",
-   "source": "https://cabooze.com/event/42dugg/the-cabooze/",
-   "spotify": "https://open.spotify.com/artist/5v3HhAurt26FxdtKu3plRs"
+   "source": "https://www.jambase.com/show/42-dugg-cabooze-20261114",
+   "spotify": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
   },
   {
    "id": "fbf6d59b69d3",
@@ -38,6 +36,22 @@
    "recurrence": "every Sunday",
    "tickets": "https://www.etix.com/ticket/p/36481619/main-event-sundays-minneapolis-the-cabooze?partner_id=100",
    "source": "https://cabooze.com/event/main-event-sundays-2/the-cabooze/"
+  },
+  {
+   "id": "d6ba9e22db0b",
+   "headliner": "42DUGG",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "22:00",
+   "venue": "Cabooze",
+   "venue_slug": "cabooze",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "doors_time": "20:00",
+   "status": "postponed",
+   "tickets": "https://www.etix.com/ticket/p/81773637/postponed-42dugg-minneapolis-the-cabooze?partner_id=100",
+   "source": "https://cabooze.com/event/postponed-42dugg/the-cabooze/",
+   "spotify": "https://open.spotify.com/artist/5v3HhAurt26FxdtKu3plRs"
   },
   {
    "id": "badc43b6591f",

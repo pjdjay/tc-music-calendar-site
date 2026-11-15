@@ -5,7 +5,7 @@
 
 ## Saturday, November 14, 2026
 
-- **When the Sun Sets w/ Halfway Down, Wolf Rd (CHI), Feels Good (NE), Portside Dive** · 18:00 · rock/indie · $31.73 · [tickets](https://link.dice.fm/Kf41d5286cff?utm_source=jambase) [info](https://dice.fm/event/6aadbc97cef0bb00016257e2) [spotify](https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4)
+- **When the Sun Sets w/ Halfway Down, Wolf Rd, Portside Dive** · 18:00 · rock/indie · $15 · [tickets](https://link.dice.fm/Kf41d5286cff?utm_source=jambase) [info](https://www.jambase.com/show/when-the-sun-sets-underground-music-venue-event-space-20261114) [spotify](https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4)
 - **Keenan TreVon** · 19:00 · hip-hop/R&B · $20 · [info](https://www.jambase.com/show/keenan-trevon-underground-music-venue-cafe-20261114) [spotify](https://open.spotify.com/artist/3TRl3Kgn8RGc0sw5QDOMsW)
 
 ## Sunday, November 15, 2026

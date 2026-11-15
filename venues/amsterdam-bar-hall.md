@@ -5,7 +5,7 @@
 
 ## Saturday, November 14, 2026
 
-- **Mni Sota Mystery Box: An Afterdark Night of First Nations Talent** · 20:00 · unknown · 21+ · [tickets](https://www.etix.com/ticket/p/41455432/mni-sota-mystery-boxan-afterdark-night-of-first-nations-talent-saint-paul-amsterdam-bar-hall?partner_id=100) [info](https://events.amsterdambarandhall.com/event/mni-sota-mystery-box-an-afterdark-night-of-first-nations-talent/amsterdam-bar-hall/saint-paul-minnesota/)
+- **Mni Sota Mystery Box: An Afterdark Night of First Nations Talent** · 20:00 · unknown · 21+ · [info](https://events.amsterdambarandhall.com/event/mni-sota-mystery-box-an-afterdark-night-of-first-nations-talent/amsterdam-bar-hall/saint-paul-minnesota/)
 
 ## Sunday, November 15, 2026
 

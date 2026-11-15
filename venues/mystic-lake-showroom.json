@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -14,12 +14,11 @@
    "headliner": "Alter Bridge",
    "openers": [],
    "date": "2026-11-14",
-   "start_time": "19:00",
+   "start_time": null,
    "venue": "Mystic Lake Showroom",
    "venue_slug": "mystic-lake-showroom",
    "city": "Prior Lake",
    "genre": "rock/indie",
-   "tickets": "https://www.ticketmaster.com/event/060064B4989986D7?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_ALTERBRIDGEFY26",
    "source": "https://mysticlake.com/shows-and-events/alter-bridge",
    "spotify": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
   },

@@ -1,12 +1,25 @@
 {
- "generated_at": "2026-11-14T20:50:21+00:00",
+ "generated_at": "2026-11-15T04:05:21+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
- "count": 817,
+ "count": 818,
  "shows": [
+  {
+   "id": "b7ce3d13bbbd",
+   "headliner": "Alter Bridge",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": null,
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "rock/indie",
+   "source": "https://mysticlake.com/shows-and-events/alter-bridge",
+   "spotify": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+  },
   {
    "id": "62a04a20a3dd",
    "headliner": "DJ Smooth Blendz",
@@ -143,8 +156,7 @@
    "headliner": "When the Sun Sets",
    "openers": [
     "Halfway Down",
-    "Wolf Rd (CHI)",
-    "Feels Good (NE)",
+    "Wolf Rd",
     "Portside Dive"
    ],
    "date": "2026-11-14",
@@ -153,10 +165,10 @@
    "venue_slug": "underground-music-venue",
    "city": "Minneapolis",
    "genre": "rock/indie",
-   "price": "$31.73",
+   "price": "$15",
    "is_free": false,
    "tickets": "https://link.dice.fm/Kf41d5286cff?utm_source=jambase",
-   "source": "https://dice.fm/event/6aadbc97cef0bb00016257e2",
+   "source": "https://www.jambase.com/show/when-the-sun-sets-underground-music-venue-event-space-20261114",
    "spotify": "https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4"
   },
   {
@@ -181,7 +193,7 @@
    "venue_slug": "crooners",
    "city": "Fridley",
    "genre": "jazz/blues",
-   "price": "$25.00 - $35.00",
+   "price": "$25.00",
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/leslie-vincent-tickets-2003366293513",
    "source": "https://www.croonersmn.com/event/leslie-vincent-4/"
@@ -215,41 +227,6 @@
    "source": "https://thehookmpls.com/shows/amerigrass-26-november-14-2026-711921"
   },
   {
-   "id": "cc8f9a562a64",
-   "headliner": "Supportive Parents",
-   "openers": [
-    "Public Missile Crisis",
-    "Powerdam",
-    "TV for Dogs",
-    "Wilbur"
-   ],
-   "date": "2026-11-14",
-   "start_time": "18:30",
-   "venue": "Zhora Darling",
-   "venue_slug": "zhora-darling",
-   "city": "Minneapolis",
-   "genre": "metal/punk",
-   "price": "$19.06",
-   "is_free": false,
-   "tickets": "https://dice.fm/event/6ac19f127005ba000107926c",
-   "source": "https://dice.fm/event/6ac19f127005ba000107926c",
-   "spotify": "https://open.spotify.com/artist/1AWLgWZadZi7YFicPYt5mG"
-  },
-  {
-   "id": "b7ce3d13bbbd",
-   "headliner": "Alter Bridge",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "Mystic Lake Showroom",
-   "venue_slug": "mystic-lake-showroom",
-   "city": "Prior Lake",
-   "genre": "rock/indie",
-   "tickets": "https://www.ticketmaster.com/event/060064B4989986D7?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_ALTERBRIDGEFY26",
-   "source": "https://mysticlake.com/shows-and-events/alter-bridge",
-   "spotify": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-  },
-  {
    "id": "9d780f681ca6",
    "headliner": "Minnesota Orchestra: Nordic Soundscapes Festival: Vänskä, Chen and Nielsen",
    "openers": [],
@@ -259,8 +236,7 @@
    "venue_slug": "orchestra-hall",
    "city": "Minneapolis",
    "genre": "classical",
-   "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpbx",
-   "source": "https://www.ticketmaster.com/event/Z7r9jZ1AAZpbx",
+   "source": "https://www.jambase.com/show/minnesota-orchestra-orchestra-hall-20261114",
    "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
   },
   {
@@ -315,20 +291,6 @@
    "is_free": false,
    "source": "https://www.jambase.com/show/keenan-trevon-underground-music-venue-cafe-20261114",
    "spotify": "https://open.spotify.com/artist/3TRl3Kgn8RGc0sw5QDOMsW"
-  },
-  {
-   "id": "054b90cc2ced",
-   "headliner": "Clog-O-Rama! Fancy Feet, Old-time Beat!",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "Celtic Junction",
-   "venue_slug": "celtic-junction",
-   "city": "St. Paul",
-   "genre": "Celtic/Irish",
-   "price": "$25.00",
-   "is_free": false,
-   "source": "https://celticjunction.org/events/clog-o-rama-2026/"
   },
   {
    "id": "94ffbfbbf276",
@@ -470,7 +432,6 @@
    "genre": "rock/indie",
    "doors_time": "18:30",
    "age": "all_ages",
-   "tickets": "https://www.axs.com/events/1497548/almost-monday-tickets?skin=fineline",
    "source": "https://first-avenue.com/event/2026-11-almost-monday/",
    "spotify": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
   },
@@ -617,7 +578,7 @@
    "genre": "country/folk/Americana",
    "doors_time": "19:00",
    "age": "18+",
-   "tickets": "https://www.axs.com/events/1568171/kitchen-dwellers-and-dogs-in-a-pile-tickets?skin=firstavenue",
+   "tickets": "https://www.axs.com/events/1568171/kitchen-dwellers-and-dogs-in-a-pile-tickets?cid=usaffjambase",
    "source": "https://first-avenue.com/event/2026-11-kitchen-dwellers-and-dogs-in-a-pile/",
    "spotify": "https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31"
   },
@@ -634,7 +595,6 @@
    "status": "sold_out",
    "price": "$69 Advance / $79 At The Door",
    "is_free": false,
-   "tickets": "https://link.dice.fm/b2e02da742b6",
    "source": "https://theparkwaytheater.com/all-events/ana-gasteyer"
   },
   {
@@ -649,7 +609,6 @@
    "genre": "unknown",
    "doors_time": "19:00",
    "age": "21+",
-   "tickets": "https://www.etix.com/ticket/p/41455432/mni-sota-mystery-boxan-afterdark-night-of-first-nations-talent-saint-paul-amsterdam-bar-hall?partner_id=100",
    "source": "https://events.amsterdambarandhall.com/event/mni-sota-mystery-box-an-afterdark-night-of-first-nations-talent/amsterdam-bar-hall/saint-paul-minnesota/"
   },
   {
@@ -709,7 +668,7 @@
    "genre": "rock/indie",
    "doors_time": "19:00",
    "age": "18+",
-   "tickets": "https://www.axs.com/events/1569820/lucy-cooper-b-handy-tickets?skin=firstavenue",
+   "tickets": "https://www.axs.com/events/1569820/lucy-cooper-b-handy-tickets?cid=usaffjambase&utm_source=jambase",
    "source": "https://first-avenue.com/event/2026-11-lucy-cooper-b-handy/",
    "spotify": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
   },
@@ -727,7 +686,6 @@
    "genre": "rock/indie",
    "doors_time": "19:00",
    "age": "21+",
-   "tickets": "https://www.axs.com/events/1615867/the-suburbs-tickets?skin=turfclub",
    "source": "https://first-avenue.com/event/2026-11-the-suburbs-sat/",
    "spotify": "https://open.spotify.com/artist/6r8rjs60Gvl07KyCUV2QhF"
   },
@@ -845,8 +803,8 @@
    "source": "https://bunkersmusic.com/calendar"
   },
   {
-   "id": "78f8e120646b",
-   "headliner": "42DUGG",
+   "id": "65c83edc6854",
+   "headliner": "42 Dugg",
    "openers": [],
    "date": "2026-11-14",
    "start_time": "22:00",
@@ -854,10 +812,8 @@
    "venue_slug": "cabooze",
    "city": "Minneapolis",
    "genre": "hip-hop/R&B",
-   "doors_time": "20:00",
-   "tickets": "https://www.etix.com/ticket/p/81773637/42dugg-minneapolis-the-cabooze?partner_id=100",
-   "source": "https://cabooze.com/event/42dugg/the-cabooze/",
-   "spotify": "https://open.spotify.com/artist/5v3HhAurt26FxdtKu3plRs"
+   "source": "https://www.jambase.com/show/42-dugg-cabooze-20261114",
+   "spotify": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
   },
   {
    "id": "bd770ffce744",
@@ -913,6 +869,21 @@
    "genre": "unknown",
    "source": "https://www.instagram.com/echo_signal_?stkn=MW5ydzRrZWlxdHV6eg==",
    "spotify": "https://open.spotify.com/artist/7FwNIGFCbsqacUqaBPZIhH"
+  },
+  {
+   "id": "a836a599eb93",
+   "headliner": "Orquesta La Clave",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "22:00",
+   "venue": "Iconos Gastro Cantina",
+   "venue_slug": "iconos-gastro-cantina",
+   "city": "Minneapolis",
+   "genre": "Latin",
+   "price": "Free",
+   "is_free": true,
+   "source": "https://ma.to/event/sabado-con-salsa-14-nov-2026",
+   "spotify": "https://open.spotify.com/artist/08P0PBwydQZ9PpCALUhnqZ"
   },
   {
    "id": "3341e980ddbf",
@@ -3596,6 +3567,22 @@
    "source": "https://www.berlinmpls.com/calendar/late-night-lounge-dedicated-enemy-nov-2026"
   },
   {
+   "id": "d6ba9e22db0b",
+   "headliner": "42DUGG",
+   "openers": [],
+   "date": "2026-11-20",
+   "start_time": "22:00",
+   "venue": "Cabooze",
+   "venue_slug": "cabooze",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "doors_time": "20:00",
+   "status": "postponed",
+   "tickets": "https://www.etix.com/ticket/p/81773637/postponed-42dugg-minneapolis-the-cabooze?partner_id=100",
+   "source": "https://cabooze.com/event/postponed-42dugg/the-cabooze/",
+   "spotify": "https://open.spotify.com/artist/5v3HhAurt26FxdtKu3plRs"
+  },
+  {
    "id": "57e83775fc80",
    "headliner": "DJ Diesel",
    "openers": [],
@@ -6086,8 +6073,8 @@
    "source": "https://www.rivercentre.org/events/detail/minnesota-hmong-new-year-3"
   },
   {
-   "id": "098c182171e1",
-   "headliner": "Danksgiving",
+   "id": "d9ad4d8a4bb2",
+   "headliner": "DANKSGIVING - Blow Out Sale & Open House",
    "openers": [],
    "date": "2026-11-28",
    "start_time": "12:00",
@@ -6096,7 +6083,7 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "age": "21+",
-   "source": "https://thehookmpls.com/shows/danksgiving-november-28-2026-794279"
+   "source": "https://thehookmpls.com/shows/danksgiving-blow-out-sale-open-house-november-28-2026-794279"
   },
   {
    "id": "8b6bae5a1581",
@@ -8091,7 +8078,7 @@
    "price": "$56.54",
    "is_free": false,
    "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A7x47_",
-   "source": "https://www.ticketmaster.com/event/Z7r9jZ1A7x47_",
+   "source": "https://www.grandcasinoarena.com/events/detail/christmas-together",
    "spotify": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
   },
   {
@@ -10989,6 +10976,18 @@
    "doors_time": "21:00",
    "tickets": "https://www.eventbrite.com/e/perreoland-minneapolis-tickets-2003951563070?irclickid=zxSypRwqyxyZRFM1twwmOWpmUkr3LvVJRXm%3AUY0&sharedid=linktr.ee&irpid=10078&utm_source=impact&utm_medium=ebaf&utm_term=10078&utm_content=1818731__linktr.ee&irgwc=1&afsrc=1&utm_campaign=afsp_ceal_pmk_fpp_0_us_0_0_bau_0",
    "source": "https://mythlive.com/event/perreoland/"
+  },
+  {
+   "id": "8a10ba3e7b68",
+   "headliner": "Minnesota Frost vs. Seattle",
+   "openers": [],
+   "date": "2026-12-13",
+   "start_time": null,
+   "venue": "Grand Casino Arena",
+   "venue_slug": "grand-casino-arena",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-seattle-2"
   },
   {
    "id": "cc6c7a7a3c3b",
