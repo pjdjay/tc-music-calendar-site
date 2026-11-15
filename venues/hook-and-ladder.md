@@ -1,13 +1,11 @@
 # Hook and Ladder (Minneapolis): upcoming shows
 
-24 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+22 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
 
-- **Amerigrass '26** · 18:30 · country/folk/Americana · 21+ · [info](https://thehookmpls.com/shows/amerigrass-26-november-14-2026-711921)
 - **Maygen & The Birdwatcher w/ Rich Mattson and the Northstars, Emmy Woods, Ross Thorn** · 19:00 · country/folk/Americana · [tickets](https://app.opendate.io/e/amerigrass-26-november-14-2026-711921?utm_source=jambase) [info](https://www.jambase.com/show/maygen-the-birdwatcher-the-hook-and-ladder-theater-20261114) [spotify](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8)
-- **Golden Satellite / Killed By Kiwis / JuiceNeck** · 19:30 · rock/indie · 21+ · [info](https://thehookmpls.com/shows/golden-satellite-killed-by-kiwis-juiceneck-november-14-2026-741774)
 
 ## Thursday, November 19, 2026
 

@@ -1,11 +1,7 @@
 # Cloudland Theater (Minneapolis): upcoming shows
 
-6 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+5 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **The 241's w/ The Chair, Jeffrey Robert Larson, The Kings of Neon, Eli Bentley** · 19:30 · country/folk/Americana · $15 · [tickets](https://dice.fm/event/6ac7c4b3399cf100018b6a45) [info](https://dice.fm/event/6ac7c4b3399cf100018b6a45) [spotify](https://open.spotify.com/artist/65Q2D9P4IDTl8QL1tKYjKt)
 
 ## Tuesday, November 17, 2026
 

@@ -1,6 +1,6 @@
 # Twin Cities live music: all shows
 
-881 shows, 2026-11-14 to 2027-02-05 (America/Chicago). Data refreshed weekly. Per-day files: https://music.tcshows.org/shows/YYYY-MM-DD.md; per-venue files: https://music.tcshows.org/venues/<slug>.md (see https://music.tcshows.org/venues.json).
+879 shows, 2026-11-14 to 2027-02-05 (America/Chicago). Data refreshed weekly. Per-day files: https://music.tcshows.org/shows/YYYY-MM-DD.md; per-venue files: https://music.tcshows.org/venues/<slug>.md (see https://music.tcshows.org/venues.json).
 
 
 ## Saturday, November 14, 2026
@@ -19,7 +19,7 @@
 - **Grunge Unplugged** · 18:00 · Utepils Brewing, Minneapolis · rock/indie · [info](https://utepilsbrewing.com/events/grunge-unplugged/)
 - **Leslie Vincent** · 18:00 · Crooners, Fridley · jazz/blues · $25.00 · [tickets](https://www.eventbrite.com/e/leslie-vincent-tickets-2003366293513) [info](https://www.croonersmn.com/event/leslie-vincent-4/)
 - **Ciao Bello w/ Fumbler** · 18:00 · White Squirrel, St. Paul · unknown · [info](https://whitesquirrelbar.com/event/ciao-bello-w-fumbler/) [spotify](https://open.spotify.com/artist/30fgmNH7IVSNN0QyTHfS9m)
-- **Amerigrass '26** · 18:30 · Hook and Ladder, Minneapolis · country/folk/Americana · 21+ · [info](https://thehookmpls.com/shows/amerigrass-26-november-14-2026-711921)
+- **65th Annual Marching Band Indoor Concert** · 19:00 · Northrop Auditorium, Minneapolis · unknown · [info](https://www.northrop.umn.edu/events/university-minnesota-marching-band-2026)
 - **Minnesota Orchestra: Nordic Soundscapes Festival: Vänskä, Chen and Nielsen** · 19:00 · Orchestra Hall, Minneapolis · classical · [info](https://www.jambase.com/show/minnesota-orchestra-orchestra-hall-20261114) [spotify](https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn)
 - **Wookiefoot w/ Balkan Bump, The Limns** · 19:00 · Uptown Theater, Minneapolis · rock/indie · $34.25 · 18+ · [tickets](https://www.livenation.com/event/vv17bZ_3GkTVS3x8/wookiefoot-18) [info](https://www.livenation.com/event/vv17bZ_3GkTVS3x8/wookiefoot-18) [spotify](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH)
 - **Fox Stevenson w/ Mystery Skulls** · 19:00 · Varsity Theater, Minneapolis · electronic · $39.85 · [tickets](https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls) [info](https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls) [spotify](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy)
@@ -36,8 +36,6 @@
 - **Almost Monday w/ feel trip.** · 19:30 · Fine Line, Minneapolis · rock/indie · all ages · [info](https://first-avenue.com/event/2026-11-almost-monday/) [spotify](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E)
 - **Motown Christmas** · 19:30 · Ames Center, Burnsville · hip-hop/R&B · [tickets](https://www.ticketmaster.com/motown-christmas-burnsville-minnesota-11-14-2026/event/060064CBCE5B1D6F) [info](https://www.ticketmaster.com/motown-christmas-burnsville-minnesota-11-14-2026/event/060064CBCE5B1D6F)
 - **The Fab Four** · 19:30 · Pantages Theatre, Minneapolis · rock/indie · $37.45 · [tickets](https://www.ticketmaster.com/the-fab-four-tribute-to-the-minneapolis-minnesota-11-14-2026/event/06006471A446BAA7) [info](https://www.ticketmaster.com/the-fab-four-tribute-to-the-minneapolis-minnesota-11-14-2026/event/06006471A446BAA7) [spotify](https://open.spotify.com/artist/0hKKZ3XZ2uQD5j1EIrFFf7)
-- **Golden Satellite / Killed By Kiwis / JuiceNeck** · 19:30 · Hook and Ladder, Minneapolis · rock/indie · 21+ · [info](https://thehookmpls.com/shows/golden-satellite-killed-by-kiwis-juiceneck-november-14-2026-741774)
-- **The 241's w/ The Chair, Jeffrey Robert Larson, The Kings of Neon, Eli Bentley** · 19:30 · Cloudland Theater, Minneapolis · country/folk/Americana · $15 · [tickets](https://dice.fm/event/6ac7c4b3399cf100018b6a45) [info](https://dice.fm/event/6ac7c4b3399cf100018b6a45) [spotify](https://open.spotify.com/artist/65Q2D9P4IDTl8QL1tKYjKt)
 - **Chad Johnson Band** · 19:30 · Excelsior Brewing, Excelsior · unknown · [info](https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events)
 - **Chuck Suchy** · 19:30 · Ginkgo, St. Paul · country/folk/Americana · Tickets: $20 · [info](https://ginkgocoffee.com/event/chuck-suchy/) [spotify](https://open.spotify.com/artist/68VfWRpDhClLUQHbrxSrcj)
 - **Drew Peterson** · 19:30 · Animales Barbeque, Minneapolis · unknown · [info](https://animalesbbq.com/calendar/drew-peterson-november-2026)
@@ -70,6 +68,7 @@
 - **Heart of the City Band at All Nations Christian Assembly** · 10:30 · Heart of the City, Anoka · unknown · [info](https://heartofthecity.org/go/events/6795320?feature_id=480644&occurrence_id=786449291&popup=1)
 - **Young Man** · 12:00 · 56 Brewing, Minneapolis · unknown · [info](https://56brewing.com/event/young-man-9/2026-11-15/)
 - **International Treasures w/ Wren, Wilde** · 13:00 · White Squirrel, St. Paul · country/folk/Americana · [info](https://whitesquirrelbar.com/event/international-treasures-w-wren-wilde/) [spotify](https://open.spotify.com/artist/1HNHyEYMYJqvYxlzA0RnSc)
+- **65th Annual Marching Band Indoor Concert** · 14:00 · Northrop Auditorium, Minneapolis · unknown · [info](https://www.northrop.umn.edu/events/university-minnesota-marching-band-2026)
 - **Robert Wilkinson** · 15:00 · 331 Club, Minneapolis · unknown · [info](https://www.facebook.com/RobertWilkinsonMusic?mibextid=wwXIfr&mibextid=wwXIfr) [spotify](https://open.spotify.com/artist/3EsE6uFEqJlhl8X3Zh7T1o)
 - **Twin Prop Jane Matinee** · 15:00 · Dubliner Pub, St. Paul · unknown · some Sundays · residency · [info](https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-11-15)
 - **Rachel Ries Residency: Saint Grandma’s Garage** · 16:00 · Icehouse, Minneapolis · country/folk/Americana · $15 adv / $22 door · 18+ · [tickets](https://icehouse.turntabletickets.com/shows/13411/2026-11-15?utm_source=icehousempls.com&utm_medium=website&utm_campaign=rachel-ries-20261115) [info](https://www.icehousempls.com/shows/rachel-ries-residency-saint-grandmas-garage-icehouse/)
@@ -635,7 +634,7 @@
 - **Irish Music Session** · 18:00 · Dubliner Pub, St. Paul · Celtic/Irish · [info](https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-12-04)
 - **Trio Amigos** · 18:00 · MetroNOME Brewery, St. Paul · country/folk/Americana · [info](https://metronomebrewery.com/live-music/trio-amigos/) [spotify](https://open.spotify.com/artist/7rTJOgrk6Qvdmt6U0gFBsr)
 - **Christmas Memories w/ Deb Brown, Sara Renner, Aimée Lee** · 18:30 · Crooners, Fridley · jazz/blues · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/christmas-memories-with-deb-brown-sara-renner-aimee-lee-tickets-2001782566543) [info](https://www.croonersmn.com/event/christmas-memories-with-deb-brown-sara-renner-aimee-lee/) [spotify](https://open.spotify.com/artist/3JdgniELdXlZnW2u8wOd4P)
-- **Amy Grant w/ Michael W. Smith, CeCe Winans** · 19:00 · Grand Casino Arena, St. Paul · pop · $56.54 · [tickets](https://www.ticketmaster.com/event/Z7r9jZ1A7x47_) [info](https://www.grandcasinoarena.com/events/detail/christmas-together) [spotify](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es)
+- **Amy Grant w/ Michael W. Smith, CeCe Winans** · 19:00 · Grand Casino Arena, St. Paul · pop · $56.54 · [tickets](https://www.ticketmaster.com/event/Z7r9jZ1A7x47_) [info](https://www.ticketmaster.com/event/Z7r9jZ1A7x47_) [spotify](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es)
 - **Blue October w/ Jess Woodland** · 19:00 · Fillmore Minneapolis, Minneapolis · rock/indie · $64 · [tickets](https://www.ticketmaster.com/blue-october-foiled-20th-anniversary-world-minneapolis-minnesota-12-04-2026/event/06006472DC001BE4) [info](https://www.ticketmaster.com/blue-october-foiled-20th-anniversary-world-minneapolis-minnesota-12-04-2026/event/06006472DC001BE4) [spotify](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh)
 - **Chill: The Entire Charlie Brown Christmas Soundtrack, Played Live & Danced – Friday Evening** · 19:00 · Amsterdam Bar & Hall, St. Paul · jazz/blues · all ages · [tickets](https://www.etix.com/ticket/p/71457058/chillthe-entire-charlie-brown-christmas-soundtrackplayed-live-danced-friday-evening-saint-paul-amsterdam-bar-hall?partner_id=100) [info](https://events.amsterdambarandhall.com/event/chill-the-entire-charlie-brown-christmas-soundtrack-played-live-danced-friday-evening/amsterdam-bar-hall/saint-paul-minnesota/)
 - **Rhye** · 19:00 · Varsity Theater, Minneapolis · pop · $45 · [tickets](https://www.livenation.com/event/vvG1bZ_GKWHeTy/rhye-joy-tour) [info](https://www.livenation.com/event/vvG1bZ_GKWHeTy/rhye-joy-tour) [spotify](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN)
@@ -874,7 +873,6 @@
 
 ## Sunday, December 13, 2026
 
-- **Minnesota Frost vs. Seattle** · time TBA · Grand Casino Arena, St. Paul · unknown · [info](https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-seattle-2)
 - **School of Rock!** · 12:00 · Amsterdam Bar & Hall, St. Paul · unknown · all ages · [info](https://events.amsterdambarandhall.com/event/school-of-rock/amsterdam-bar-hall/saint-paul-minnesota/)
 - **Home Alone in Concert** · 14:00 · Orchestra Hall, Minneapolis · classical · [info](https://www.minnesotaorchestra.org/tickets/calendar)
 - **Caritas Vocal Ensemble** · 15:00 · First Universalist Church of Minneapolis, Minneapolis · classical · Suggested $25 online or at the door · [tickets](https://www.zeffy.com/en-US/ticketing/christmas-with-caritas) [info](https://www.zeffy.com/en-US/ticketing/christmas-with-caritas)

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:50:22+00:00",
+ "generated_at": "2026-11-15T05:44:51+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,8 +7,32 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Northrop Auditorium",
  "city": "Minneapolis",
- "count": 1,
+ "count": 3,
  "shows": [
+  {
+   "id": "3eaef6c6519b",
+   "headliner": "65th Annual Marching Band Indoor Concert",
+   "openers": [],
+   "date": "2026-11-14",
+   "start_time": "19:00",
+   "venue": "Northrop Auditorium",
+   "venue_slug": "northrop-auditorium",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.northrop.umn.edu/events/university-minnesota-marching-band-2026"
+  },
+  {
+   "id": "45fd898135d0",
+   "headliner": "65th Annual Marching Band Indoor Concert",
+   "openers": [],
+   "date": "2026-11-15",
+   "start_time": "14:00",
+   "venue": "Northrop Auditorium",
+   "venue_slug": "northrop-auditorium",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.northrop.umn.edu/events/university-minnesota-marching-band-2026"
+  },
   {
    "id": "71643ede149d",
    "headliner": "Elevation Rhythm",

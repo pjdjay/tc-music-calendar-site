@@ -1,7 +1,15 @@
 # Northrop Auditorium (Minneapolis): upcoming shows
 
-1 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+3 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
 
+
+## Saturday, November 14, 2026
+
+- **65th Annual Marching Band Indoor Concert** · 19:00 · unknown · [info](https://www.northrop.umn.edu/events/university-minnesota-marching-band-2026)
+
+## Sunday, November 15, 2026
+
+- **65th Annual Marching Band Indoor Concert** · 14:00 · unknown · [info](https://www.northrop.umn.edu/events/university-minnesota-marching-band-2026)
 
 ## Tuesday, November 17, 2026
 

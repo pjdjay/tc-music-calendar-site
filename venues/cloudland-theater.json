@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:50:22+00:00",
+ "generated_at": "2026-11-15T05:44:51+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,29 +7,8 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Cloudland Theater",
  "city": "Minneapolis",
- "count": 6,
+ "count": 5,
  "shows": [
-  {
-   "id": "52ebdb6e3bdf",
-   "headliner": "The 241's",
-   "openers": [
-    "The Chair",
-    "Jeffrey Robert Larson",
-    "The Kings of Neon",
-    "Eli Bentley"
-   ],
-   "date": "2026-11-14",
-   "start_time": "19:30",
-   "venue": "Cloudland Theater",
-   "venue_slug": "cloudland-theater",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "price": "$15",
-   "is_free": false,
-   "tickets": "https://dice.fm/event/6ac7c4b3399cf100018b6a45",
-   "source": "https://dice.fm/event/6ac7c4b3399cf100018b6a45",
-   "spotify": "https://open.spotify.com/artist/65Q2D9P4IDTl8QL1tKYjKt"
-  },
   {
    "id": "71f8747acb46",
    "headliner": "Spanish Love Songs",

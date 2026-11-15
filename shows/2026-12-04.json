@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:50:22+00:00",
+ "generated_at": "2026-11-15T05:44:51+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -124,7 +124,7 @@
    "price": "$56.54",
    "is_free": false,
    "tickets": "https://www.ticketmaster.com/event/Z7r9jZ1A7x47_",
-   "source": "https://www.grandcasinoarena.com/events/detail/christmas-together",
+   "source": "https://www.ticketmaster.com/event/Z7r9jZ1A7x47_",
    "spotify": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
   },
   {

@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T04:50:22+00:00",
+ "generated_at": "2026-11-15T05:44:51+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-14",
- "count": 59,
+ "count": 57,
  "shows": [
   {
    "id": "b7ce3d13bbbd",
@@ -213,17 +213,16 @@
    "spotify": "https://open.spotify.com/artist/30fgmNH7IVSNN0QyTHfS9m"
   },
   {
-   "id": "3db94a99a1a0",
-   "headliner": "Amerigrass '26",
+   "id": "3eaef6c6519b",
+   "headliner": "65th Annual Marching Band Indoor Concert",
    "openers": [],
    "date": "2026-11-14",
-   "start_time": "18:30",
-   "venue": "Hook and Ladder",
-   "venue_slug": "hook-and-ladder",
+   "start_time": "19:00",
+   "venue": "Northrop Auditorium",
+   "venue_slug": "northrop-auditorium",
    "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "age": "21+",
-   "source": "https://thehookmpls.com/shows/amerigrass-26-november-14-2026-711921"
+   "genre": "unknown",
+   "source": "https://www.northrop.umn.edu/events/university-minnesota-marching-band-2026"
   },
   {
    "id": "9d780f681ca6",
@@ -462,40 +461,6 @@
    "tickets": "https://www.ticketmaster.com/the-fab-four-tribute-to-the-minneapolis-minnesota-11-14-2026/event/06006471A446BAA7",
    "source": "https://www.ticketmaster.com/the-fab-four-tribute-to-the-minneapolis-minnesota-11-14-2026/event/06006471A446BAA7",
    "spotify": "https://open.spotify.com/artist/0hKKZ3XZ2uQD5j1EIrFFf7"
-  },
-  {
-   "id": "a65a04039b0a",
-   "headliner": "Golden Satellite / Killed By Kiwis / JuiceNeck",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:30",
-   "venue": "Hook and Ladder",
-   "venue_slug": "hook-and-ladder",
-   "city": "Minneapolis",
-   "genre": "rock/indie",
-   "age": "21+",
-   "source": "https://thehookmpls.com/shows/golden-satellite-killed-by-kiwis-juiceneck-november-14-2026-741774"
-  },
-  {
-   "id": "52ebdb6e3bdf",
-   "headliner": "The 241's",
-   "openers": [
-    "The Chair",
-    "Jeffrey Robert Larson",
-    "The Kings of Neon",
-    "Eli Bentley"
-   ],
-   "date": "2026-11-14",
-   "start_time": "19:30",
-   "venue": "Cloudland Theater",
-   "venue_slug": "cloudland-theater",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "price": "$15",
-   "is_free": false,
-   "tickets": "https://dice.fm/event/6ac7c4b3399cf100018b6a45",
-   "source": "https://dice.fm/event/6ac7c4b3399cf100018b6a45",
-   "spotify": "https://open.spotify.com/artist/65Q2D9P4IDTl8QL1tKYjKt"
   },
   {
    "id": "a881d3a9770e",

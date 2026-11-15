@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:50:22+00:00",
+ "generated_at": "2026-11-15T05:44:51+00:00",
  "window_start": "2026-11-14",
  "window_end": "2027-02-05",
  "timezone": "America/Chicago",
@@ -7,21 +7,8 @@
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Hook and Ladder",
  "city": "Minneapolis",
- "count": 24,
+ "count": 22,
  "shows": [
-  {
-   "id": "3db94a99a1a0",
-   "headliner": "Amerigrass '26",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "18:30",
-   "venue": "Hook and Ladder",
-   "venue_slug": "hook-and-ladder",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "age": "21+",
-   "source": "https://thehookmpls.com/shows/amerigrass-26-november-14-2026-711921"
-  },
   {
    "id": "c266ab3d4854",
    "headliner": "Maygen & The Birdwatcher",
@@ -39,19 +26,6 @@
    "tickets": "https://app.opendate.io/e/amerigrass-26-november-14-2026-711921?utm_source=jambase",
    "source": "https://www.jambase.com/show/maygen-the-birdwatcher-the-hook-and-ladder-theater-20261114",
    "spotify": "https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8"
-  },
-  {
-   "id": "a65a04039b0a",
-   "headliner": "Golden Satellite / Killed By Kiwis / JuiceNeck",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:30",
-   "venue": "Hook and Ladder",
-   "venue_slug": "hook-and-ladder",
-   "city": "Minneapolis",
-   "genre": "rock/indie",
-   "age": "21+",
-   "source": "https://thehookmpls.com/shows/golden-satellite-killed-by-kiwis-juiceneck-november-14-2026-741774"
   },
   {
    "id": "7361c9709e54",
