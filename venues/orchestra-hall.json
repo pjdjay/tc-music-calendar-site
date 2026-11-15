@@ -1,27 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Orchestra Hall",
  "city": "Minneapolis",
- "count": 26,
+ "count": 25,
  "shows": [
-  {
-   "id": "9d780f681ca6",
-   "headliner": "Minnesota Orchestra: Nordic Soundscapes Festival: Vänskä, Chen and Nielsen",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "Orchestra Hall",
-   "venue_slug": "orchestra-hall",
-   "city": "Minneapolis",
-   "genre": "classical",
-   "source": "https://www.jambase.com/show/minnesota-orchestra-orchestra-hall-20261114",
-   "spotify": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
-  },
   {
    "id": "d5cc1f35e194",
    "headliner": "Minnesota Orchestra: Elgar and Dvořák",

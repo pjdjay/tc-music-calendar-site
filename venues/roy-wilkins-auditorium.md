@@ -1,6 +1,6 @@
 # Roy Wilkins Auditorium (St. Paul): upcoming shows
 
-1 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+1 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 28, 2026

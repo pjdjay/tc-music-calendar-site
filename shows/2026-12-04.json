@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -327,7 +327,7 @@
    "venue": "Berlin",
    "venue_slug": "berlin",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "jazz/blues",
    "price": "$20",
    "is_free": false,
    "source": "https://www.berlinmpls.com/calendar/mississippi-hot-club-dec-2026"
@@ -533,7 +533,7 @@
    "venue": "Dubliner Pub",
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "Celtic/Irish",
    "source": "https://thedublinerpub.com/show/release-the-craicen/?lre_date=2026-12-04",
    "spotify": "https://open.spotify.com/artist/6w62pRu8qyqLoWVF46VLuE"
   },

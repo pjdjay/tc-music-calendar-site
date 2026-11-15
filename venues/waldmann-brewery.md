@@ -1,11 +1,7 @@
 # Waldmann Brewery (St. Paul): upcoming shows
 
-13 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+8 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Lois' 11/14 Memorial- 50ppl 4pm-Close Upstairs Wald/Buff rm** · 16:00 · unknown · [info](https://waldmannbrewery.com/news-events/)
 
 ## Monday, November 16, 2026
 
@@ -27,26 +23,16 @@
 
 - **Three On A Match** · 19:00 · unknown · [info](https://waldmannbrewery.com/news-events/) [spotify](https://open.spotify.com/artist/12LSOoE9FJpHhA1e7F8bH2)
 
-## Saturday, November 28, 2026
-
-- **Olga Flores 80th Birthday Party 10-12ppl Fireplace rm @12pm** · 12:00 · unknown · [info](https://waldmannbrewery.com/news-events/)
-
-## Tuesday, December 1, 2026
-
-- **MN 1st Re-enactors Holiday Gathering: 30 guests, 5:00pm-9:00pm** · 17:00 · unknown · [info](https://waldmannbrewery.com/news-events/)
-
 ## Thursday, December 3, 2026
 
 - **Late Night Irish w/ Gavin Strappe, Danny Diamond, Dáithí Sproule!** · 20:30 · Celtic/Irish · [info](https://waldmannbrewery.com/news-events/)
 
 ## Sunday, December 6, 2026
 
-- **Annual Tree Lighting Celebration! 4pm-8pm** · time TBA · unknown · [info](https://waldmannbrewery.com/news-events/)
 - **Sarah Morris and Lars-Erik Larson** · 18:00 · unknown · [info](https://waldmannbrewery.com/news-events/)
 
 ## Monday, December 7, 2026
 
-- **Euchre Banquet & Bustle!** · 17:30 · unknown · [info](https://waldmannbrewery.com/news-events/)
 - **Zak Stelter & friends** · 19:00 · unknown · [info](https://waldmannbrewery.com/news-events/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

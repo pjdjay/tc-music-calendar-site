@@ -1,6 +1,6 @@
 # Fitzgerald Theater (St. Paul): upcoming shows
 
-5 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+5 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
 
 ## Sunday, November 15, 2026

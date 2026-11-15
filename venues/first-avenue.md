@@ -1,11 +1,7 @@
 # First Avenue (Minneapolis): upcoming shows
 
-25 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+25 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Kitchen Dwellers w/ Dogs In A Pile** · 20:00 · country/folk/Americana · 18+ · [tickets](https://www.axs.com/events/1568171/kitchen-dwellers-and-dogs-in-a-pile-tickets?cid=usaffjambase) [info](https://first-avenue.com/event/2026-11-kitchen-dwellers-and-dogs-in-a-pile/) [spotify](https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31)
 
 ## Sunday, November 15, 2026
 
@@ -102,5 +98,9 @@
 ## Saturday, January 30, 2027
 
 - **The Womack Sisters** · 20:00 · rock/indie · 18+ · [tickets](https://www.axs.com/events/1640636/the-womack-sisters-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2027-01-the-womack-sisters/) [spotify](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s)
+
+## Saturday, February 6, 2027
+
+- **Josh Meloy w/ Hoss Miller** · 20:00 · unknown · 18+ · [tickets](https://www.axs.com/events/1675984/josh-meloy-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2027-02-josh-meloy/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

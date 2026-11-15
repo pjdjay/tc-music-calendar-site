@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -38,7 +38,7 @@
    "source": "https://www.croonersmn.com/event/a-mid-century-modern-holiday-with-retrofizz/"
   },
   {
-   "id": "ac7412f93561",
+   "id": "2de6e4356e1c",
    "headliner": "A Emmy Woods Cuntry Club",
    "openers": [
     "Boots",
@@ -50,8 +50,6 @@
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every first Thursday",
    "source": "https://whitesquirrelbar.com/event/a-emmy-woods-cuntry-club-w-boots-needles/"
   },
   {
@@ -366,7 +364,7 @@
    "venue": "White Squirrel",
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "country/folk/Americana",
    "end_date": "2026-12-04",
    "source": "https://whitesquirrelbar.com/event/ex-rodeo-3/",
    "spotify": "https://open.spotify.com/artist/3RfkDDhWZaHFplT5OQJ7Sl"

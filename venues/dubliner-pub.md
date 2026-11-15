@@ -1,15 +1,11 @@
 # Dubliner Pub (St. Paul): upcoming shows
 
-35 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+36 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **The Langer’s Ball** · 20:00 · Celtic/Irish · every second Saturday · residency · [info](https://thedublinerpub.com/show/the-langers-ball/?lre_date=2026-11-14) [spotify](https://open.spotify.com/artist/1OwkUsd7vzrmPKCddzxXm8)
 
 ## Sunday, November 15, 2026
 
-- **Twin Prop Jane Matinee** · 15:00 · unknown · some Sundays · residency · [info](https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-11-15)
+- **Twin Prop Jane Matinee** · 15:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-11-15)
 - **Phil Heywood** · 18:00 · unknown · [info](https://thedublinerpub.com/show/phil-heywood/?lre_date=2026-11-15) [spotify](https://open.spotify.com/artist/6QvaC8gvfCsxQG7JPOhkbe)
 - **Sunday Trad Session** · 20:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-15)
 
@@ -19,32 +15,32 @@
 
 ## Wednesday, November 18, 2026
 
-- **The Twin Cities Céilí Band** · 19:00 · Celtic/Irish · every third Wednesday · residency · [info](https://thedublinerpub.com/show/the-twin-cities-ceili-band/?lre_date=2026-11-18)
+- **The Twin Cities Céilí Band** · 19:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/the-twin-cities-ceili-band/?lre_date=2026-11-18)
 
 ## Thursday, November 19, 2026
 
 - **Pop Wagner** · 17:00 · country/folk/Americana · [info](https://thedublinerpub.com/show/pop-wagner/?lre_date=2026-11-19) [spotify](https://open.spotify.com/artist/1sFxQhVtg7yStQLFhS9OlY)
-- **Devil Dodger** · 20:00 · metal/punk · every third Thursday · residency · [info](https://thedublinerpub.com/show/devil-dodger/?lre_date=2026-11-19) [spotify](https://open.spotify.com/artist/2D5VEHBsI887Cws9NjwXgG)
+- **Devil Dodger** · 20:00 · metal/punk · [info](https://thedublinerpub.com/show/devil-dodger/?lre_date=2026-11-19) [spotify](https://open.spotify.com/artist/2D5VEHBsI887Cws9NjwXgG)
 
 ## Friday, November 20, 2026
 
 - **Irish Music Session** · 18:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-20)
-- **Wild Colonial Bhoys** · 21:00 · Celtic/Irish · every third Friday · residency · [info](https://thedublinerpub.com/show/wild-colonial-bhoys/?lre_date=2026-11-20) [spotify](https://open.spotify.com/artist/0aLUSuJgvQUUPKOJb9F4n4)
+- **Wild Colonial Bhoys** · 21:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/wild-colonial-bhoys/?lre_date=2026-11-20) [spotify](https://open.spotify.com/artist/0aLUSuJgvQUUPKOJb9F4n4)
 
 ## Saturday, November 21, 2026
 
 - **Crown of Clover & Sycamore Gap** · 15:00 · unknown · [info](https://thedublinerpub.com/show/crown-of-clover-sycamore-gap/?lre_date=2026-11-21)
-- **Lochtune** · 20:00 · Celtic/Irish · every third Saturday · residency · [info](https://thedublinerpub.com/show/lochtune/?lre_date=2026-11-21) [spotify](https://open.spotify.com/artist/170xq3rY1QBM827AfGcf7i)
+- **Lochtune** · 20:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/lochtune/?lre_date=2026-11-21) [spotify](https://open.spotify.com/artist/170xq3rY1QBM827AfGcf7i)
 
 ## Sunday, November 22, 2026
 
-- **Dehl Gallagher Band** · 15:00 · unknown · [info](https://thedublinerpub.com/show/dehl-gallagher-band/?lre_date=2026-11-22)
+- **Dehl Gallagher Band** · 15:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/dehl-gallagher-band/?lre_date=2026-11-22)
 - **Hurricane Harold Trio** · 18:00 · unknown · [info](https://thedublinerpub.com/show/hurricane-harold-trio/?lre_date=2026-11-22)
 - **Sunday Trad Session** · 20:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-11-22)
 
 ## Wednesday, November 25, 2026
 
-- **Twin Prop Jane** · 19:00 · unknown · [info](https://thedublinerpub.com/show/twin-prop-jane-wednesday/?lre_date=2026-11-25)
+- **Twin Prop Jane** · 19:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/twin-prop-jane-wednesday/?lre_date=2026-11-25)
 
 ## Thursday, November 26, 2026
 
@@ -67,7 +63,7 @@
 
 ## Wednesday, December 2, 2026
 
-- **Irish Diplomacy Wednesday** · 19:00 · unknown · [info](https://thedublinerpub.com/show/irish-diplomacy-wednesday/?lre_date=2026-12-02)
+- **Irish Diplomacy Wednesday** · 19:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/irish-diplomacy-wednesday/?lre_date=2026-12-02)
 
 ## Thursday, December 3, 2026
 
@@ -76,7 +72,7 @@
 ## Friday, December 4, 2026
 
 - **Irish Music Session** · 18:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-12-04)
-- **Release The Craicen** · 21:00 · unknown · [info](https://thedublinerpub.com/show/release-the-craicen/?lre_date=2026-12-04) [spotify](https://open.spotify.com/artist/6w62pRu8qyqLoWVF46VLuE)
+- **Release The Craicen** · 21:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/release-the-craicen/?lre_date=2026-12-04) [spotify](https://open.spotify.com/artist/6w62pRu8qyqLoWVF46VLuE)
 
 ## Saturday, December 5, 2026
 
@@ -84,16 +80,17 @@
 
 ## Sunday, December 6, 2026
 
+- **Twin Prop Jane Matinee** · 15:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-12-06)
 - **The Flying T** · 18:00 · unknown · [info](https://thedublinerpub.com/show/the-flying-t/?lre_date=2026-12-06)
 - **Sunday Trad Session** · 20:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-12-06)
 
 ## Monday, December 7, 2026
 
-- **The Great Irish Sing-Along** · 19:00 · unknown · every first Monday · residency · [info](https://thedublinerpub.com/show/the-great-irish-sing-along/?lre_date=2026-12-07)
+- **The Great Irish Sing-Along** · 19:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/the-great-irish-sing-along/?lre_date=2026-12-07)
 
 ## Wednesday, December 9, 2026
 
-- **Tom Dahill and Ginny Johnson** · 19:00 · unknown · [info](https://thedublinerpub.com/show/tom-dahill-and-ginny-johnson/?lre_date=2026-12-09)
+- **Tom Dahill and Ginny Johnson** · 19:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/tom-dahill-and-ginny-johnson/?lre_date=2026-12-09)
 
 ## Thursday, December 10, 2026
 
@@ -103,5 +100,9 @@
 
 - **Irish Music Session** · 18:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-12-11)
 - **DD & Company** · 21:00 · unknown · [info](https://thedublinerpub.com/show/dd-company/?lre_date=2026-12-11)
+
+## Saturday, December 12, 2026
+
+- **The Langer’s Ball** · 20:00 · Celtic/Irish · [info](https://thedublinerpub.com/show/the-langers-ball/?lre_date=2026-12-12) [spotify](https://open.spotify.com/artist/1OwkUsd7vzrmPKCddzxXm8)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

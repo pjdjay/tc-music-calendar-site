@@ -1,32 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Varsity Theater",
  "city": "Minneapolis",
- "count": 22,
+ "count": 21,
  "shows": [
-  {
-   "id": "55e264c41aca",
-   "headliner": "Fox Stevenson",
-   "openers": [
-    "Mystery Skulls"
-   ],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "Varsity Theater",
-   "venue_slug": "varsity-theater",
-   "city": "Minneapolis",
-   "genre": "electronic",
-   "price": "$39.85",
-   "is_free": false,
-   "tickets": "https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls",
-   "source": "https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls",
-   "spotify": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
-  },
   {
    "id": "5495db45dfc3",
    "headliner": "Absolutely Yours",

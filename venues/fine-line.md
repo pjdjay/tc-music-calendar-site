@@ -1,11 +1,7 @@
 # Fine Line (Minneapolis): upcoming shows
 
-26 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+25 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Almost Monday w/ feel trip.** · 19:30 · rock/indie · all ages · [info](https://first-avenue.com/event/2026-11-almost-monday/) [spotify](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E)
 
 ## Monday, November 16, 2026
 
@@ -101,7 +97,7 @@
 
 ## Tuesday, February 2, 2027
 
-- **Rayland Baxter w/ Dylan LeBlanc** · 20:00 · unknown · 18+ · [tickets](https://www.axs.com/events/1611243/rayland-baxter-tickets?skin=fineline) [info](https://first-avenue.com/event/2027-02-rayland-baxter/) [spotify](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq)
+- **Rayland Baxter w/ Dylan LeBlanc** · 20:00 · country/folk/Americana · 18+ · [tickets](https://www.axs.com/events/1611243/rayland-baxter-tickets?skin=fineline) [info](https://first-avenue.com/event/2027-02-rayland-baxter/) [spotify](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq)
 
 ## Wednesday, February 3, 2027
 

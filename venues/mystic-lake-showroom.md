@@ -1,11 +1,7 @@
 # Mystic Lake Showroom (Prior Lake): upcoming shows
 
-10 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+10 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Alter Bridge** · time TBA · rock/indie · [info](https://mysticlake.com/shows-and-events/alter-bridge) [spotify](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU)
 
 ## Sunday, November 15, 2026
 
@@ -41,6 +37,10 @@
 
 ## Friday, January 29, 2027
 
-- **Ben Em Mua Xuan** · 19:30 · unknown · [tickets](https://www.ticketmaster.com/event/06006567CE0A38F5?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_BENEMMUAXUAN) [info](https://mysticlake.com/shows-and-events/ben-em-mua-xuan)
+- **Ben Em Mua Xuan** · 19:30 · world/other · [tickets](https://www.ticketmaster.com/event/06006567CE0A38F5?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_BENEMMUAXUAN) [info](https://mysticlake.com/shows-and-events/ben-em-mua-xuan)
+
+## Saturday, February 6, 2027
+
+- **The Marshall Tucker Band w/ Foghat** · 19:30 · rock/indie · [tickets](https://www.ticketmaster.com/event/0600654EF031F3CE?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_MARSHALLTUCKERBAND) [info](https://mysticlake.com/shows-and-events/marshall-tucker-band)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Target Center",
  "city": "Minneapolis",
- "count": 10,
+ "count": 8,
  "shows": [
   {
    "id": "c4e4824912c1",
@@ -108,31 +108,6 @@
    "tickets": "https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-minneapolis-minnesota-12-27-2026/event/06006518ABE7B1FE",
    "source": "https://www.targetcenter.com/events/detail/transsiberianorchestra26",
    "spotify": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
-  },
-  {
-   "id": "707daced3889",
-   "headliner": "Harlem Globetrotters",
-   "openers": [],
-   "date": "2027-01-01",
-   "start_time": "19:00",
-   "venue": "Target Center",
-   "venue_slug": "target-center",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://www.targetcenter.com/events/detail/harlemglobetrotters27",
-   "spotify": "https://open.spotify.com/artist/75Yso5HASCKo7rumWVJOXc"
-  },
-  {
-   "id": "21935f311ab7",
-   "headliner": "Hot Wheels Stunt Show",
-   "openers": [],
-   "date": "2027-01-16",
-   "start_time": null,
-   "venue": "Target Center",
-   "venue_slug": "target-center",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://www.targetcenter.com/events/detail/hotwheelsstuntshow"
   },
   {
    "id": "d1604e949cf5",

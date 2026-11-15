@@ -1,12 +1,10 @@
 # White Squirrel (St. Paul): upcoming shows
 
-56 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+55 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 14, 2026
 
-- **Scott Hefte w/ Boots, Needles, Aaron James** · 13:00 · unknown · [info](https://whitesquirrelbar.com/event/bury-em-deep/) [spotify](https://open.spotify.com/artist/2f9L6AOv6zwwyA5hqETJ4b)
-- **Ciao Bello w/ Fumbler** · 18:00 · unknown · [info](https://whitesquirrelbar.com/event/ciao-bello-w-fumbler/) [spotify](https://open.spotify.com/artist/30fgmNH7IVSNN0QyTHfS9m)
 - **Clog w/ JWAC, Ben Vogel And The Migration** · 21:00 · unknown · [info](https://whitesquirrelbar.com/event/clog/)
 
 ## Sunday, November 15, 2026
@@ -41,7 +39,7 @@
 
 - **Freezerburn w/ Low Town Cowpunks, Ron Tracy, Niko, Al Bea** · 13:00 · unknown · [info](https://whitesquirrelbar.com/event/freezerburn-w-low-town-cowpunks-ron-tracy-niko-and-al-bea/)
 - **Coax From Chuckanut w/ Slaphazard** · 18:00 · rock/indie · [info](https://whitesquirrelbar.com/event/coax-from-chuckanut/) [spotify](https://open.spotify.com/artist/1A3PkOtDHmVCg4tfclG9im)
-- **The Dirty Pretty w/ The Hazy Daze, Lettters** · 21:00 · unknown · [info](https://whitesquirrelbar.com/event/the-dirty-pretty/) [spotify](https://open.spotify.com/artist/1uQXU3sLMPGUt8rnqQaQG4)
+- **The Dirty Pretty w/ The Hazy Daze, Lettters** · 21:00 · rock/indie · [info](https://whitesquirrelbar.com/event/the-dirty-pretty/) [spotify](https://open.spotify.com/artist/1uQXU3sLMPGUt8rnqQaQG4)
 
 ## Sunday, November 22, 2026
 
@@ -67,13 +65,13 @@
 ## Friday, November 27, 2026
 
 - **The Mary Cutrufello Band** · 18:00 · country/folk/Americana · [info](https://whitesquirrelbar.com/event/the-mary-cutrufello-band-3/)
-- **Dead On Board w/ Maggy, The Skanks, Muffstache** · 21:00 · unknown · [info](https://whitesquirrelbar.com/event/dead-on-board/)
+- **Dead On Board w/ Maggy, The Skanks, Muffstache** · 21:00 · metal/punk · [info](https://whitesquirrelbar.com/event/dead-on-board/)
 
 ## Saturday, November 28, 2026
 
 - **AlienGodTheory w/ Paul Thomas Flynn, Disparity Bit, Cog Wheel** · 13:00 · unknown · [info](https://whitesquirrelbar.com/event/aliengodtheory-w/)
 - **Big Trouble** · 18:00 · unknown · [info](https://whitesquirrelbar.com/event/big-trouble-3/)
-- **Prophets of Mothra w/ The Confused, Whispered the Rabbit** · 21:00 · unknown · [info](https://whitesquirrelbar.com/event/prophets-of-mothra/)
+- **Prophets of Mothra w/ The Confused, Whispered the Rabbit** · 21:00 · metal/punk · [info](https://whitesquirrelbar.com/event/prophets-of-mothra/)
 
 ## Sunday, November 29, 2026
 
@@ -98,8 +96,8 @@
 
 ## Thursday, December 3, 2026
 
-- **A Emmy Woods Cuntry Club w/ Boots, Needles** · 18:00 · unknown · every first Thursday · residency · [info](https://whitesquirrelbar.com/event/a-emmy-woods-cuntry-club-w-boots-needles/)
-- **Ex Rodeo** · 21:00 · unknown · [info](https://whitesquirrelbar.com/event/ex-rodeo-3/) [spotify](https://open.spotify.com/artist/3RfkDDhWZaHFplT5OQJ7Sl)
+- **A Emmy Woods Cuntry Club w/ Boots, Needles** · 18:00 · unknown · [info](https://whitesquirrelbar.com/event/a-emmy-woods-cuntry-club-w-boots-needles/)
+- **Ex Rodeo** · 21:00 · country/folk/Americana · [info](https://whitesquirrelbar.com/event/ex-rodeo-3/) [spotify](https://open.spotify.com/artist/3RfkDDhWZaHFplT5OQJ7Sl)
 
 ## Friday, December 4, 2026
 
@@ -108,7 +106,7 @@
 
 ## Saturday, December 5, 2026
 
-- **Jay Boys Family Band w/ Kaitlin Cassady, Jordy Vaughn** · 13:00 · unknown · [info](https://whitesquirrelbar.com/event/jay-boys-family-band-w-kaitlin-cassady-jordy-vaughn/) [spotify](https://open.spotify.com/artist/3OVZFFP15gHvtshgCMKEc0)
+- **Jay Boys Family Band w/ Kaitlin Cassady, Jordy Vaughn** · 13:00 · rock/indie · [info](https://whitesquirrelbar.com/event/jay-boys-family-band-w-kaitlin-cassady-jordy-vaughn/) [spotify](https://open.spotify.com/artist/3OVZFFP15gHvtshgCMKEc0)
 
 ## Sunday, December 6, 2026
 
@@ -119,7 +117,7 @@
 ## Monday, December 7, 2026
 
 - **Higher Ground w/ NOIR** · 18:00 · unknown · [info](https://whitesquirrelbar.com/event/higher-ground-w-noir/)
-- **Metal Mondays** · 21:00 · unknown · every Monday · residency · [info](https://whitesquirrelbar.com/event/metal-mondays-6/)
+- **Metal Mondays** · 21:00 · metal/punk · [info](https://whitesquirrelbar.com/event/metal-mondays-6/)
 
 ## Tuesday, December 8, 2026
 
@@ -139,5 +137,9 @@
 
 - **Harmony Arcade** · 18:00 · unknown · [info](https://whitesquirrelbar.com/event/harmony-arcade/)
 - **The Ike Reilly Impersonation w/ Ben Vogel, the Migration, Califeia Cowboyz** · 21:00 · unknown · [info](https://whitesquirrelbar.com/event/the-ike-reilly-impersonation-w-ben-vogel-the-migration-califeia-cowboyz/)
+
+## Saturday, December 12, 2026
+
+- **Arbor Moon & City Folk** · 13:00 · unknown · [info](https://whitesquirrelbar.com/event/arbor-moon-city-folk/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

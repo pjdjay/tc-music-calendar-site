@@ -1,32 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Hook and Ladder",
  "city": "Minneapolis",
- "count": 22,
+ "count": 21,
  "shows": [
-  {
-   "id": "c266ab3d4854",
-   "headliner": "Maygen & The Birdwatcher",
-   "openers": [
-    "Rich Mattson and the Northstars",
-    "Emmy Woods",
-    "Ross Thorn"
-   ],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "Hook and Ladder",
-   "venue_slug": "hook-and-ladder",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "tickets": "https://app.opendate.io/e/amerigrass-26-november-14-2026-711921?utm_source=jambase",
-   "source": "https://www.jambase.com/show/maygen-the-birdwatcher-the-hook-and-ladder-theater-20261114",
-   "spotify": "https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8"
-  },
   {
    "id": "7361c9709e54",
    "headliner": "Dirty P’s Thirsty 3rd Thursdays Club",
@@ -185,19 +167,6 @@
    "source": "https://thehookmpls.com/shows/truthsgiving-a-decolonized-thanksgiving-show-november-27-2026-761555"
   },
   {
-   "id": "d9ad4d8a4bb2",
-   "headliner": "DANKSGIVING - Blow Out Sale & Open House",
-   "openers": [],
-   "date": "2026-11-28",
-   "start_time": "12:00",
-   "venue": "Hook and Ladder",
-   "venue_slug": "hook-and-ladder",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "age": "21+",
-   "source": "https://thehookmpls.com/shows/danksgiving-blow-out-sale-open-house-november-28-2026-794279"
-  },
-  {
    "id": "a57d48de8250",
    "headliner": "Shoeless Revolution",
    "openers": [
@@ -297,7 +266,7 @@
    "venue": "Hook and Ladder",
    "venue_slug": "hook-and-ladder",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "rock/indie",
    "age": "21+",
    "source": "https://thehookmpls.com/shows/david-cook-december-09-2026-753052",
    "spotify": "https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa"
@@ -327,7 +296,7 @@
    "venue": "Hook and Ladder",
    "venue_slug": "hook-and-ladder",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "rock/indie",
    "age": "21+",
    "tickets": "https://app.opendate.io/e/the-steepwater-band-december-10-2026-751118?utm_source=jambase",
    "source": "https://thehookmpls.com/shows/the-steepwater-band-december-10-2026-751118",
@@ -346,6 +315,21 @@
    "age": "21+",
    "tickets": "https://app.opendate.io/e/trailer-trash-s-trashy-little-x-mas-friday-december-11-2026-742744?utm_source=jambase",
    "source": "https://thehookmpls.com/shows/trailer-trash-s-trashy-little-x-mas-friday-december-11-2026-742744",
+   "spotify": "https://open.spotify.com/artist/5a1jQOVT5kO1tkCAOY9cmo"
+  },
+  {
+   "id": "cf13807fa0ed",
+   "headliner": "Trailer Trash",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "tickets": "https://app.opendate.io/e/trailer-trash-s-trashy-little-x-mas-saturday-december-12-2026-742745?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/trailer-trash-s-trashy-little-x-mas-saturday-december-12-2026-742745",
    "spotify": "https://open.spotify.com/artist/5a1jQOVT5kO1tkCAOY9cmo"
   }
  ]

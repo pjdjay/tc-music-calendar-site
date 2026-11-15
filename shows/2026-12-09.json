@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-09",
- "count": 13,
+ "count": 14,
  "shows": [
   {
    "id": "b4d04d7a860e",
@@ -19,7 +19,7 @@
    "venue": "Crooners",
    "venue_slug": "crooners",
    "city": "Fridley",
-   "genre": "unknown",
+   "genre": "jazz/blues",
    "price": "$35.00 - $45.00",
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/memphis-the-meantimes-christmas-with-mick-sterling-friends-tickets-1993940822676",
@@ -76,7 +76,7 @@
    "venue": "Hook and Ladder",
    "venue_slug": "hook-and-ladder",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "rock/indie",
    "age": "21+",
    "source": "https://thehookmpls.com/shows/david-cook-december-09-2026-753052",
    "spotify": "https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa"
@@ -90,10 +90,24 @@
    "venue": "Dakota Jazz Club",
    "venue_slug": "dakota-jazz-club",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "pop",
    "price": "$52.25+",
    "is_free": false,
    "source": "https://www.dakotacooks.com/event/esera-tuaolo-act-of-kindness-holiday-show-dec9-2026/"
+  },
+  {
+   "id": "92fe7895ee41",
+   "headliner": "Harold’s House Party on KFAI",
+   "openers": [
+    "The Pistol Whippin’ Party Penguins"
+   ],
+   "date": "2026-12-09",
+   "start_time": "19:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.facebook.com/profile.php?id=100063582730118"
   },
   {
    "id": "38ec0d8b0516",
@@ -104,7 +118,7 @@
    "venue": "Dubliner Pub",
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "Celtic/Irish",
    "source": "https://thedublinerpub.com/show/tom-dahill-and-ginny-johnson/?lre_date=2026-12-09"
   },
   {
@@ -176,7 +190,7 @@
    "venue": "331 Club",
    "venue_slug": "331-club",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "jazz/blues",
    "source": "https://331club.com/"
   },
   {

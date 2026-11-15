@@ -1,28 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Amsterdam Bar & Hall",
  "city": "St. Paul",
- "count": 21,
+ "count": 19,
  "shows": [
-  {
-   "id": "33211ed3c8d9",
-   "headliner": "Mni Sota Mystery Box: An Afterdark Night of First Nations Talent",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "20:00",
-   "venue": "Amsterdam Bar & Hall",
-   "venue_slug": "amsterdam-bar-hall",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "doors_time": "19:00",
-   "age": "21+",
-   "source": "https://events.amsterdambarandhall.com/event/mni-sota-mystery-box-an-afterdark-night-of-first-nations-talent/amsterdam-bar-hall/saint-paul-minnesota/"
-  },
   {
    "id": "da7fc37030ef",
    "headliner": "vaultboy",
@@ -95,22 +81,6 @@
    "tickets": "https://www.etix.com/ticket/p/79581781/country-night-wthird-datelake-daviand-keep-for-cheap-saint-paul-amsterdam-bar-hall?partner_id=100",
    "source": "https://events.amsterdambarandhall.com/event/country-night-w-third-date-lake-davi-and-keep-for-cheap/amsterdam-bar-hall/saint-paul-minnesota/",
    "spotify": "https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3"
-  },
-  {
-   "id": "9ec9bd9b9cd5",
-   "headliner": "Nerdy November: Villains!",
-   "openers": [],
-   "date": "2026-11-21",
-   "start_time": "19:00",
-   "venue": "Amsterdam Bar & Hall",
-   "venue_slug": "amsterdam-bar-hall",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "doors_time": "18:00",
-   "hidden_category": "dj_night",
-   "age": "21+",
-   "tickets": "https://www.etix.com/ticket/p/76934066/tc-cabaret-presentsnerdy-novembervillains-saint-paul-amsterdam-bar-hall?partner_id=100",
-   "source": "https://events.amsterdambarandhall.com/event/tc-cabaret-presents-nerdy-november-villains/amsterdam-bar-hall/saint-paul-minnesota/"
   },
   {
    "id": "6570926ef4dc",

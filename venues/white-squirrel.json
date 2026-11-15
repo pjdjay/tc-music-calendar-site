@@ -1,46 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "White Squirrel",
  "city": "St. Paul",
- "count": 56,
+ "count": 55,
  "shows": [
-  {
-   "id": "97a8cf142334",
-   "headliner": "Scott Hefte",
-   "openers": [
-    "Boots",
-    "Needles",
-    "Aaron James"
-   ],
-   "date": "2026-11-14",
-   "start_time": "13:00",
-   "venue": "White Squirrel",
-   "venue_slug": "white-squirrel",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://whitesquirrelbar.com/event/bury-em-deep/",
-   "spotify": "https://open.spotify.com/artist/2f9L6AOv6zwwyA5hqETJ4b"
-  },
-  {
-   "id": "02e6659df562",
-   "headliner": "Ciao Bello",
-   "openers": [
-    "Fumbler"
-   ],
-   "date": "2026-11-14",
-   "start_time": "18:00",
-   "venue": "White Squirrel",
-   "venue_slug": "white-squirrel",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://whitesquirrelbar.com/event/ciao-bello-w-fumbler/",
-   "spotify": "https://open.spotify.com/artist/30fgmNH7IVSNN0QyTHfS9m"
-  },
   {
    "id": "059fbcab4a28",
    "headliner": "Clog",
@@ -241,7 +209,7 @@
    "venue": "White Squirrel",
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "rock/indie",
    "end_date": "2026-11-22",
    "source": "https://whitesquirrelbar.com/event/the-dirty-pretty/",
    "spotify": "https://open.spotify.com/artist/1uQXU3sLMPGUt8rnqQaQG4"
@@ -408,7 +376,7 @@
    "venue": "White Squirrel",
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "metal/punk",
    "end_date": "2026-11-28",
    "source": "https://whitesquirrelbar.com/event/dead-on-board/"
   },
@@ -452,7 +420,7 @@
    "venue": "White Squirrel",
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "metal/punk",
    "end_date": "2026-11-29",
    "source": "https://whitesquirrelbar.com/event/prophets-of-mothra/"
   },
@@ -586,7 +554,7 @@
    "spotify": "https://open.spotify.com/artist/6M4kWzXgfMtSslMAGOZuio"
   },
   {
-   "id": "ac7412f93561",
+   "id": "2de6e4356e1c",
    "headliner": "A Emmy Woods Cuntry Club",
    "openers": [
     "Boots",
@@ -598,8 +566,6 @@
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every first Thursday",
    "source": "https://whitesquirrelbar.com/event/a-emmy-woods-cuntry-club-w-boots-needles/"
   },
   {
@@ -611,7 +577,7 @@
    "venue": "White Squirrel",
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "country/folk/Americana",
    "end_date": "2026-12-04",
    "source": "https://whitesquirrelbar.com/event/ex-rodeo-3/",
    "spotify": "https://open.spotify.com/artist/3RfkDDhWZaHFplT5OQJ7Sl"
@@ -660,7 +626,7 @@
    "venue": "White Squirrel",
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "rock/indie",
    "source": "https://whitesquirrelbar.com/event/jay-boys-family-band-w-kaitlin-cassady-jordy-vaughn/",
    "spotify": "https://open.spotify.com/artist/3OVZFFP15gHvtshgCMKEc0"
   },
@@ -727,7 +693,7 @@
    "source": "https://whitesquirrelbar.com/event/higher-ground-w-noir/"
   },
   {
-   "id": "16a8513a7933",
+   "id": "84feb6ae986f",
    "headliner": "Metal Mondays",
    "openers": [],
    "date": "2026-12-07",
@@ -735,10 +701,8 @@
    "venue": "White Squirrel",
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "metal/punk",
    "end_date": "2026-12-08",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "source": "https://whitesquirrelbar.com/event/metal-mondays-6/"
   },
   {
@@ -834,6 +798,18 @@
    "genre": "unknown",
    "end_date": "2026-12-12",
    "source": "https://whitesquirrelbar.com/event/the-ike-reilly-impersonation-w-ben-vogel-the-migration-califeia-cowboyz/"
+  },
+  {
+   "id": "3c9fe642b2eb",
+   "headliner": "Arbor Moon & City Folk",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "13:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/arbor-moon-city-folk/"
   }
  ]
 }

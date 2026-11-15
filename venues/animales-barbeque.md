@@ -1,11 +1,7 @@
 # Animales Barbeque (Minneapolis): upcoming shows
 
-7 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+6 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Drew Peterson** · 19:30 · unknown · [info](https://animalesbbq.com/calendar/drew-peterson-november-2026)
 
 ## Friday, November 20, 2026
 

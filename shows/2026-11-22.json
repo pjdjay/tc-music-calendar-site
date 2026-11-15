@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-22",
- "count": 27,
+ "count": 26,
  "shows": [
   {
    "id": "5ecfca8e39e0",
@@ -33,7 +33,7 @@
    "venue": "Dubliner Pub",
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "Celtic/Irish",
    "source": "https://thedublinerpub.com/show/dehl-gallagher-band/?lre_date=2026-11-22"
   },
   {
@@ -174,7 +174,7 @@
    "venue": "Crooners",
    "venue_slug": "crooners",
    "city": "Fridley",
-   "genre": "unknown",
+   "genre": "jazz/blues",
    "price": "$30.00 - $40.00",
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/a-cabaret-of-gratitude-presented-by-lori-dokken-tickets-2001258748790",
@@ -208,24 +208,6 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://metronomebrewery.com/live-music/cabaret-jbb-friends-present-blood-brothers/"
-  },
-  {
-   "id": "5aa73606c9bf",
-   "headliner": "Sundays",
-   "openers": [
-    "Room3 Collective (feat. Kevin Gamble)"
-   ],
-   "date": "2026-11-22",
-   "start_time": "19:00",
-   "venue": "Berlin",
-   "venue_slug": "berlin",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Sunday",
-   "price": "$20",
-   "is_free": false,
-   "source": "https://www.berlinmpls.com/calendar/room3-residency-week-3"
   },
   {
    "id": "18ef75c2f0d2",
@@ -341,7 +323,7 @@
    "venue": "Icehouse",
    "venue_slug": "icehouse",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "hip-hop/R&B",
    "doors_time": "20:00",
    "price": "$10",
    "is_free": false,

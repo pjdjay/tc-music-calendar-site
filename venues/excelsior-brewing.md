@@ -1,11 +1,7 @@
 # Excelsior Brewing (Excelsior): upcoming shows
 
-9 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+9 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Chad Johnson Band** · 19:30 · unknown · [info](https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events)
 
 ## Friday, November 20, 2026
 
@@ -38,5 +34,9 @@
 ## Friday, December 11, 2026
 
 - **Crash Crouse Christmas Party!** · 19:30 · unknown · $5 · [info](https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events)
+
+## Saturday, December 12, 2026
+
+- **Rough House** · 19:30 · unknown · [info](https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

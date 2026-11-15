@@ -1,11 +1,7 @@
 # Amsterdam Bar & Hall (St. Paul): upcoming shows
 
-21 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+19 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Mni Sota Mystery Box: An Afterdark Night of First Nations Talent** · 20:00 · unknown · 21+ · [info](https://events.amsterdambarandhall.com/event/mni-sota-mystery-box-an-afterdark-night-of-first-nations-talent/amsterdam-bar-hall/saint-paul-minnesota/)
 
 ## Sunday, November 15, 2026
 
@@ -22,10 +18,6 @@
 ## Friday, November 20, 2026
 
 - **Country Night w/ Third Date, Lake Davi, Keep for Cheap!** · 19:00 · country/folk/Americana · all ages · [tickets](https://www.etix.com/ticket/p/79581781/country-night-wthird-datelake-daviand-keep-for-cheap-saint-paul-amsterdam-bar-hall?partner_id=100) [info](https://events.amsterdambarandhall.com/event/country-night-w-third-date-lake-davi-and-keep-for-cheap/amsterdam-bar-hall/saint-paul-minnesota/) [spotify](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3)
-
-## Saturday, November 21, 2026
-
-- **Nerdy November: Villains!** · 19:00 · unknown · 21+ · dj night · [tickets](https://www.etix.com/ticket/p/76934066/tc-cabaret-presentsnerdy-novembervillains-saint-paul-amsterdam-bar-hall?partner_id=100) [info](https://events.amsterdambarandhall.com/event/tc-cabaret-presents-nerdy-november-villains/amsterdam-bar-hall/saint-paul-minnesota/)
 
 ## Friday, November 27, 2026
 

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,18 +9,6 @@
  "city": "Excelsior",
  "count": 9,
  "shows": [
-  {
-   "id": "a881d3a9770e",
-   "headliner": "Chad Johnson Band",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:30",
-   "venue": "Excelsior Brewing",
-   "venue_slug": "excelsior-brewing",
-   "city": "Excelsior",
-   "genre": "unknown",
-   "source": "https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events"
-  },
   {
    "id": "2877259b1a2e",
    "headliner": "Grunge Unplugged",
@@ -118,6 +106,18 @@
    "genre": "unknown",
    "price": "$5",
    "is_free": false,
+   "source": "https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events"
+  },
+  {
+   "id": "415b9c7efd12",
+   "headliner": "Rough House",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "19:30",
+   "venue": "Excelsior Brewing",
+   "venue_slug": "excelsior-brewing",
+   "city": "Excelsior",
+   "genre": "unknown",
    "source": "https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events"
   }
  ]

@@ -1,12 +1,7 @@
 # Mystic Lake free stages (Prior Lake): upcoming shows
 
-13 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+11 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **DJ Smooth Blendz** · time TBA · unknown · dj night · [info](https://mysticlake.com/shows-and-events/dj-smooth-blendz-nov14) [spotify](https://open.spotify.com/artist/6MAfj6nFgM5eHxLSYJJUFK)
-- **My Famous Friends** · 21:00 · unknown · [info](https://mysticlake.com/shows-and-events/my-famous-friends-nov14) [spotify](https://open.spotify.com/artist/5fvCfEiVdYIzDq7e1b6WOe)
 
 ## Sunday, November 15, 2026
 

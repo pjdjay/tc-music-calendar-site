@@ -1,12 +1,7 @@
 # Underground Music Venue (Minneapolis): upcoming shows
 
-15 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+13 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **When the Sun Sets w/ Halfway Down, Wolf Rd, Portside Dive** · 18:00 · rock/indie · $15 · [tickets](https://link.dice.fm/Kf41d5286cff?utm_source=jambase) [info](https://www.jambase.com/show/when-the-sun-sets-underground-music-venue-event-space-20261114) [spotify](https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4)
-- **Keenan TreVon** · 19:00 · hip-hop/R&B · $20 · [info](https://www.jambase.com/show/keenan-trevon-underground-music-venue-cafe-20261114) [spotify](https://open.spotify.com/artist/3TRl3Kgn8RGc0sw5QDOMsW)
 
 ## Sunday, November 15, 2026
 
@@ -44,7 +39,7 @@
 
 ## Saturday, December 19, 2026
 
-- **Emo Night! w/ Loudernow** · 18:30 · unknown · $19.62 · [tickets](https://dice.fm/event/6af69aabc4992d00014aa81a) [info](https://dice.fm/event/6af69aabc4992d00014aa81a)
+- **Emo Night! w/ Loudernow** · 18:30 · rock/indie · $19.62 · [tickets](https://dice.fm/event/6af69aabc4992d00014aa81a) [info](https://dice.fm/event/6af69aabc4992d00014aa81a)
 
 ## Friday, January 8, 2027
 

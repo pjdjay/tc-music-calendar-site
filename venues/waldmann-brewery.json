@@ -1,26 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Waldmann Brewery",
  "city": "St. Paul",
- "count": 13,
+ "count": 8,
  "shows": [
-  {
-   "id": "a86d2a744e62",
-   "headliner": "Lois' 11/14 Memorial- 50ppl 4pm-Close Upstairs Wald/Buff rm",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "16:00",
-   "venue": "Waldmann Brewery",
-   "venue_slug": "waldmann-brewery",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://waldmannbrewery.com/news-events/"
-  },
   {
    "id": "4b12a1ed233f",
    "headliner": "Joe Nicola",
@@ -87,30 +75,6 @@
    "spotify": "https://open.spotify.com/artist/12LSOoE9FJpHhA1e7F8bH2"
   },
   {
-   "id": "8b6bae5a1581",
-   "headliner": "Olga Flores 80th Birthday Party 10-12ppl Fireplace rm @12pm",
-   "openers": [],
-   "date": "2026-11-28",
-   "start_time": "12:00",
-   "venue": "Waldmann Brewery",
-   "venue_slug": "waldmann-brewery",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://waldmannbrewery.com/news-events/"
-  },
-  {
-   "id": "6bdffb949083",
-   "headliner": "MN 1st Re-enactors Holiday Gathering: 30 guests, 5:00pm-9:00pm",
-   "openers": [],
-   "date": "2026-12-01",
-   "start_time": "17:00",
-   "venue": "Waldmann Brewery",
-   "venue_slug": "waldmann-brewery",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://waldmannbrewery.com/news-events/"
-  },
-  {
    "id": "a527d91e01c1",
    "headliner": "Late Night Irish",
    "openers": [
@@ -127,35 +91,11 @@
    "source": "https://waldmannbrewery.com/news-events/"
   },
   {
-   "id": "9bca9656bd59",
-   "headliner": "Annual Tree Lighting Celebration! 4pm-8pm",
-   "openers": [],
-   "date": "2026-12-06",
-   "start_time": null,
-   "venue": "Waldmann Brewery",
-   "venue_slug": "waldmann-brewery",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://waldmannbrewery.com/news-events/"
-  },
-  {
    "id": "2cce38ad2203",
    "headliner": "Sarah Morris and Lars-Erik Larson",
    "openers": [],
    "date": "2026-12-06",
    "start_time": "18:00",
-   "venue": "Waldmann Brewery",
-   "venue_slug": "waldmann-brewery",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://waldmannbrewery.com/news-events/"
-  },
-  {
-   "id": "3e2b77d9fd98",
-   "headliner": "Euchre Banquet & Bustle!",
-   "openers": [],
-   "date": "2026-12-07",
-   "start_time": "17:30",
    "venue": "Waldmann Brewery",
    "venue_slug": "waldmann-brewery",
    "city": "St. Paul",

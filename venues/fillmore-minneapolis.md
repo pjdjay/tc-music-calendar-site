@@ -1,6 +1,6 @@
 # Fillmore Minneapolis (Minneapolis): upcoming shows
 
-11 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+11 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
 
 ## Wednesday, November 18, 2026
@@ -45,6 +45,6 @@
 
 ## Saturday, January 16, 2027
 
-- **Wonho** · 19:00 · unknown · [tickets](https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76) [info](https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76) [spotify](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D)
+- **Wonho** · 19:00 · pop · [tickets](https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76) [info](https://www.ticketmaster.com/wonho-2027-world-tour-noche-minneapolis-minnesota-01-16-2027/event/06006563E70FEC76) [spotify](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

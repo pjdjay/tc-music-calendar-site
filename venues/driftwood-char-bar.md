@@ -1,12 +1,7 @@
 # Driftwood Char Bar (Minneapolis): upcoming shows
 
-35 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+35 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **The Great Northern** · 19:00 · unknown · [info](https://driftwoodcharbar.com/)
-- **The Comebacks** · 21:00 · unknown · [info](https://driftwoodcharbar.com/)
 
 ## Sunday, November 15, 2026
 
@@ -74,7 +69,7 @@
 ## Saturday, December 5, 2026
 
 - **Hot Fruit** · 19:00 · unknown · [info](https://driftwoodcharbar.com/) [spotify](https://open.spotify.com/artist/474jBEzwIxdqRiGzj1quEy)
-- **The Gould Brothers Band** · 21:00 · unknown · [info](https://driftwoodcharbar.com/) [spotify](https://open.spotify.com/artist/2nwMU1F13SJHCXqZnuqs5T)
+- **The Gould Brothers Band** · 21:00 · country/folk/Americana · [info](https://driftwoodcharbar.com/) [spotify](https://open.spotify.com/artist/2nwMU1F13SJHCXqZnuqs5T)
 
 ## Sunday, December 6, 2026
 
@@ -87,12 +82,17 @@
 
 ## Thursday, December 10, 2026
 
-- **Shelly Lynne** · 19:00 · unknown · [info](https://driftwoodcharbar.com/)
+- **Shelly Lynne** · 19:00 · country/folk/Americana · [info](https://driftwoodcharbar.com/)
 - **Dream of the Wild** · 21:00 · unknown · [info](https://driftwoodcharbar.com/)
 
 ## Friday, December 11, 2026
 
 - **Neighbors Again** · 19:00 · unknown · [info](https://driftwoodcharbar.com/)
-- **Noah Schmidt Band** · 21:00 · unknown · [info](https://driftwoodcharbar.com/)
+- **Noah Schmidt Band** · 21:00 · country/folk/Americana · [info](https://driftwoodcharbar.com/)
+
+## Saturday, December 12, 2026
+
+- **Gonzo's Planet** · 19:00 · unknown · [info](https://driftwoodcharbar.com/)
+- **Dad Joke** · 21:00 · unknown · [info](https://driftwoodcharbar.com/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

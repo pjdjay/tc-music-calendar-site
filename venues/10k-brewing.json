@@ -1,26 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "10K Brewing",
  "city": "Anoka",
- "count": 9,
+ "count": 8,
  "shows": [
-  {
-   "id": "3e1949588b6f",
-   "headliner": "Dan Ferstenou",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "10K Brewing",
-   "venue_slug": "10k-brewing",
-   "city": "Anoka",
-   "genre": "unknown",
-   "source": "https://10kbrew.com/event/live-music-dan-ferstenou-6/"
-  },
   {
    "id": "de20b5638314",
    "headliner": "Chris Holm Residency",
@@ -79,7 +67,7 @@
    "venue": "10K Brewing",
    "venue_slug": "10k-brewing",
    "city": "Anoka",
-   "genre": "unknown",
+   "genre": "country/folk/Americana",
    "source": "https://10kbrew.com/event/kevin-james-the-weary-6/",
    "spotify": "https://open.spotify.com/artist/7c2a7VChP7B5a5GlmewJhd"
   },

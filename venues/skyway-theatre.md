@@ -1,12 +1,7 @@
 # Skyway Theatre (Minneapolis): upcoming shows
 
-8 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+6 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **CHAN w/ Cristian Baca** · 21:00 · unknown · [tickets](https://www.showclix.com/event/chan-11-14-26) [info](https://skywaytheatre.com/event/chan/)
-- **Kloud 360 Set** · 21:00 · unknown · [tickets](https://events.leapevents.com/event/kloud-360-set) [info](https://skywaytheatre.com/event/kloud-360-set/)
 
 ## Friday, November 20, 2026
 

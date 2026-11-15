@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-07",
- "count": 18,
+ "count": 17,
  "shows": [
   {
    "id": "cf01bb16cbde",
@@ -17,7 +17,7 @@
    "venue": "Crooners",
    "venue_slug": "crooners",
    "city": "Fridley",
-   "genre": "unknown",
+   "genre": "jazz/blues",
    "price": "Free",
    "is_free": true,
    "tickets": "https://www.eventbrite.com/e/lori-dokken-registration-1996051262057",
@@ -41,18 +41,6 @@
    "tickets": "https://www.ticketmaster.com/imminence-axis-mundi-tour-north-america-minneapolis-minnesota-12-07-2026/event/060064CBD3AA28FD",
    "source": "https://www.ticketmaster.com/imminence-axis-mundi-tour-north-america-minneapolis-minnesota-12-07-2026/event/060064CBD3AA28FD",
    "spotify": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-  },
-  {
-   "id": "3e2b77d9fd98",
-   "headliner": "Euchre Banquet & Bustle!",
-   "openers": [],
-   "date": "2026-12-07",
-   "start_time": "17:30",
-   "venue": "Waldmann Brewery",
-   "venue_slug": "waldmann-brewery",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://waldmannbrewery.com/news-events/"
   },
   {
    "id": "8d067b26d856",
@@ -86,7 +74,7 @@
    "source": "https://whitesquirrelbar.com/event/higher-ground-w-noir/"
   },
   {
-   "id": "e54d54a90644",
+   "id": "472e26e6d953",
    "headliner": "Soul Trouvère",
    "openers": [],
    "date": "2026-12-07",
@@ -95,8 +83,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every first Monday",
    "source": "https://www.facebook.com/share/1AFhiYvk34/?mibextid=wwXIfr"
   },
   {
@@ -112,18 +98,6 @@
    "price": "$74.91+",
    "is_free": false,
    "source": "https://www.dakotacooks.com/event/asleep-at-the-wheel-dec-2026/2026-12-07/"
-  },
-  {
-   "id": "67c73a44f5d4",
-   "headliner": "Backgammon & Brews",
-   "openers": [],
-   "date": "2026-12-07",
-   "start_time": "19:00",
-   "venue": "Utepils Brewing",
-   "venue_slug": "utepils-brewing",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://utepilsbrewing.com/events/backgammon-brews/2026-12-07/"
   },
   {
    "id": "ad7d3b26707d",
@@ -143,6 +117,18 @@
    "source": "https://www.croonersmn.com/event/jennifer-grimm-a-christmas-with-family-and-friends-9/"
   },
   {
+   "id": "ed3beddc9cd9",
+   "headliner": "Monday Night Square Dance",
+   "openers": [],
+   "date": "2026-12-07",
+   "start_time": "19:00",
+   "venue": "Celtic Junction",
+   "venue_slug": "celtic-junction",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "source": "https://celticjunction.org/events/monday-night-square-dance/2026-12-07-1900/"
+  },
+  {
    "id": "a3c2fdf46d13",
    "headliner": "Scott H. Biram",
    "openers": [],
@@ -151,7 +137,7 @@
    "venue": "Uptown VFW",
    "venue_slug": "uptown-vfw",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "country/folk/Americana",
    "doors_time": "19:00",
    "tickets": "https://app.opendate.io/e/scott-h-biram-december-07-2026-754264?default_theme=true",
    "source": "https://app.opendate.io/e/scott-h-biram-december-07-2026-754264?default_theme=true",
@@ -184,7 +170,7 @@
    "source": "https://troubadourwinebar.com/events"
   },
   {
-   "id": "f3e51b13d992",
+   "id": "5309deee5794",
    "headliner": "The Great Irish Sing-Along",
    "openers": [],
    "date": "2026-12-07",
@@ -192,9 +178,7 @@
    "venue": "Dubliner Pub",
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
-   "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every first Monday",
+   "genre": "Celtic/Irish",
    "source": "https://thedublinerpub.com/show/the-great-irish-sing-along/?lre_date=2026-12-07"
   },
   {
@@ -255,7 +239,7 @@
    "spotify": "https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm"
   },
   {
-   "id": "16a8513a7933",
+   "id": "84feb6ae986f",
    "headliner": "Metal Mondays",
    "openers": [],
    "date": "2026-12-07",
@@ -263,10 +247,8 @@
    "venue": "White Squirrel",
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "metal/punk",
    "end_date": "2026-12-08",
-   "hidden_category": "residency",
-   "recurrence": "every Monday",
    "source": "https://whitesquirrelbar.com/event/metal-mondays-6/"
   }
  ]

@@ -1,15 +1,7 @@
 # Ginkgo (St. Paul): upcoming shows
 
-6 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+4 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Chuck Suchy** · 19:30 · country/folk/Americana · Tickets: $20 · [info](https://ginkgocoffee.com/event/chuck-suchy/) [spotify](https://open.spotify.com/artist/68VfWRpDhClLUQHbrxSrcj)
-
-## Thursday, November 19, 2026
-
-- **Hats for the Homeless** · 09:00 · unknown · [info](https://ginkgocoffee.com/event/hats-for-the-homeless/) [spotify](https://open.spotify.com/artist/1JktRVuayhRgZcg8KU9mhv)
 
 ## Friday, November 20, 2026
 

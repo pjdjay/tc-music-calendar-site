@@ -1,27 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Cabooze",
  "city": "Minneapolis",
- "count": 10,
+ "count": 9,
  "shows": [
-  {
-   "id": "65c83edc6854",
-   "headliner": "42 Dugg",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "22:00",
-   "venue": "Cabooze",
-   "venue_slug": "cabooze",
-   "city": "Minneapolis",
-   "genre": "hip-hop/R&B",
-   "source": "https://www.jambase.com/show/42-dugg-cabooze-20261114",
-   "spotify": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-  },
   {
    "id": "397e99f28e62",
    "headliner": "Main Event Sundays",

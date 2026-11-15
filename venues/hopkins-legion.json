@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,18 +9,6 @@
  "city": "Hopkins",
  "count": 8,
  "shows": [
-  {
-   "id": "9c824446a2b8",
-   "headliner": "Waiting for Walter",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "Hopkins Legion",
-   "venue_slug": "hopkins-legion",
-   "city": "Hopkins",
-   "genre": "unknown",
-   "source": "https://www.legion320.org/music-and-events"
-  },
   {
    "id": "7b54f732cff2",
    "headliner": "Bird Dogs",
@@ -104,6 +92,18 @@
    "city": "Hopkins",
    "genre": "unknown",
    "source": "https://www.legion320.org/event-details/waiting-for-walter-16"
+  },
+  {
+   "id": "07c28d9ec6e0",
+   "headliner": "Triggerfish",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": null,
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Hopkins",
+   "genre": "unknown",
+   "source": "https://www.legion320.org/music-and-events"
   }
  ]
 }

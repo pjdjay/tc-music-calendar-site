@@ -1,30 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "331 Club",
  "city": "Minneapolis",
- "count": 38,
+ "count": 41,
  "shows": [
-  {
-   "id": "24e49154e7b0",
-   "headliner": "Echo Signal",
-   "openers": [
-    "The Dead Electrics",
-    "wolfbabycup"
-   ],
-   "date": "2026-11-14",
-   "start_time": "22:00",
-   "venue": "331 Club",
-   "venue_slug": "331-club",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://www.instagram.com/echo_signal_?stkn=MW5ydzRrZWlxdHV6eg==",
-   "spotify": "https://open.spotify.com/artist/7FwNIGFCbsqacUqaBPZIhH"
-  },
   {
    "id": "404231bf5dc9",
    "headliner": "Robert Wilkinson",
@@ -120,7 +104,7 @@
    "source": "https://www.instagram.com/coldsweatnd?stkn=aWpsbmc1M2F3c3Fq"
   },
   {
-   "id": "0dc117dc0121",
+   "id": "44d9ff4e84e5",
    "headliner": "Harold’s House Party on KFAI",
    "openers": [
     "Connor McRae Trio"
@@ -131,8 +115,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Wednesday",
    "source": "https://www.facebook.com/profile.php?id=100063582730118"
   },
   {
@@ -174,7 +156,7 @@
    "venue": "331 Club",
    "venue_slug": "331-club",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "metal/punk",
    "source": "https://www.instagram.com/grim_lot?vrfl=MWJ1cDE3Z2p1ODJveg==",
    "spotify": "https://open.spotify.com/artist/4PxeGPLqJf7QF6HBrQnvBV"
   },
@@ -273,6 +255,20 @@
    "source": "https://www.instagram.com/coldsweatnd?stkn=aWpsbmc1M2F3c3Fq"
   },
   {
+   "id": "ece83d1dcf13",
+   "headliner": "Harold’s House Party on KFAI",
+   "openers": [
+    "Nikki Matteso & Rich Rue + Friends"
+   ],
+   "date": "2026-11-25",
+   "start_time": "19:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.facebook.com/profile.php?id=100063582730118"
+  },
+  {
    "id": "66403db67c9c",
    "headliner": "Tramps Like Us",
    "openers": [],
@@ -369,6 +365,20 @@
    "spotify": "https://open.spotify.com/artist/2HeddibS8LprRJRLeZpzTG"
   },
   {
+   "id": "b2078a76ef6d",
+   "headliner": "Harold’s House Party on KFAI",
+   "openers": [
+    "Heat Dome"
+   ],
+   "date": "2026-12-02",
+   "start_time": "19:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.facebook.com/profile.php?id=100063582730118"
+  },
+  {
    "id": "04d09f9da662",
    "headliner": "Northeast Invitational",
    "openers": [],
@@ -401,7 +411,7 @@
    "venue": "331 Club",
    "venue_slug": "331-club",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "rock/indie",
    "source": "https://www.instagram.com/lordsoftheuniverse_mn?stkn=a2JhOWtiaWN2ZXFw",
    "spotify": "https://open.spotify.com/artist/6rrP4pJPit5nxaTYOD1S0z"
   },
@@ -414,7 +424,7 @@
    "venue": "331 Club",
    "venue_slug": "331-club",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "metal/punk",
    "source": "https://www.facebook.com/share/18HHs2ZLYc/?mibextid=wwXIfr",
    "spotify": "https://open.spotify.com/artist/6bACpsWWEk8ugKQ162Vqyu"
   },
@@ -427,11 +437,11 @@
    "venue": "331 Club",
    "venue_slug": "331-club",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "jazz/blues",
    "source": "https://www.facebook.com/profile.php?id=100063684781557&mibextid=LQQJ4d"
   },
   {
-   "id": "e54d54a90644",
+   "id": "472e26e6d953",
    "headliner": "Soul Trouvère",
    "openers": [],
    "date": "2026-12-07",
@@ -440,8 +450,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every first Monday",
    "source": "https://www.facebook.com/share/1AFhiYvk34/?mibextid=wwXIfr"
   },
   {
@@ -485,6 +493,20 @@
    "spotify": "https://open.spotify.com/artist/2HeddibS8LprRJRLeZpzTG"
   },
   {
+   "id": "92fe7895ee41",
+   "headliner": "Harold’s House Party on KFAI",
+   "openers": [
+    "The Pistol Whippin’ Party Penguins"
+   ],
+   "date": "2026-12-09",
+   "start_time": "19:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.facebook.com/profile.php?id=100063582730118"
+  },
+  {
    "id": "715769111cd8",
    "headliner": "John Magnuson Trio+",
    "openers": [],
@@ -493,7 +515,7 @@
    "venue": "331 Club",
    "venue_slug": "331-club",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "jazz/blues",
    "source": "https://331club.com/"
   },
   {
@@ -522,6 +544,18 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "source": "https://www.instagram.com/socialcues.music?stkn=MWkwYzU0cHprY2Y5bg=="
+  },
+  {
+   "id": "0a36f4056b84",
+   "headliner": "Holiday Sing A Long 2026",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "22:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "source": "https://331club.com/"
   }
  ]
 }

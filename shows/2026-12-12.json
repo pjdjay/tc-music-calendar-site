@@ -1,13 +1,63 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-12",
- "count": 10,
+ "count": 31,
  "shows": [
+  {
+   "id": "07c28d9ec6e0",
+   "headliner": "Triggerfish",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": null,
+   "venue": "Hopkins Legion",
+   "venue_slug": "hopkins-legion",
+   "city": "Hopkins",
+   "genre": "unknown",
+   "source": "https://www.legion320.org/music-and-events"
+  },
+  {
+   "id": "4255c58b7f8f",
+   "headliner": "Cuchillo",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "12:00",
+   "venue": "Utepils Brewing",
+   "venue_slug": "utepils-brewing",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://utepilsbrewing.com/events/cuchillo/2026-12-12/"
+  },
+  {
+   "id": "c249681a3610",
+   "headliner": "Celtic Holiday Hooley",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "13:00",
+   "venue": "Celtic Junction",
+   "venue_slug": "celtic-junction",
+   "city": "St. Paul",
+   "genre": "electronic",
+   "price": "Free – $30.00",
+   "is_free": false,
+   "source": "https://celticjunction.org/events/chh-2026-1/2026-12-12-1300/"
+  },
+  {
+   "id": "3c9fe642b2eb",
+   "headliner": "Arbor Moon & City Folk",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "13:00",
+   "venue": "White Squirrel",
+   "venue_slug": "white-squirrel",
+   "city": "St. Paul",
+   "genre": "unknown",
+   "source": "https://whitesquirrelbar.com/event/arbor-moon-city-folk/"
+  },
   {
    "id": "0c0caa309b21",
    "headliner": "Minnesota Orchestra: Home Alone in Concert with the Minnesota Orchestra",
@@ -54,6 +104,41 @@
    "spotify": "https://open.spotify.com/artist/6I924s6x4qnOU181EbSGls"
   },
   {
+   "id": "b3baa235125c",
+   "headliner": "Erin and Jay Cabaret Present A Naughty and Nice Holiday Spectacular",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "17:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "unknown",
+   "price": "$30.00 - $40.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/erin-and-jay-cabaret-present-a-naughty-and-nice-holiday-spectacular-tickets-1996147220070",
+   "source": "https://www.croonersmn.com/event/erin-and-jay-cabaret-present-a-naughty-and-nice-holiday-spectacular-12/"
+  },
+  {
+   "id": "96cd47cf5f36",
+   "headliner": "Evernorth",
+   "openers": [
+    "Angelshot",
+    "Intrinsic",
+    "God Cult (SD)",
+    "Drift Pattern"
+   ],
+   "date": "2026-12-12",
+   "start_time": "17:30",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$12.70",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/r19560ea4499?utm_source=jambase",
+   "source": "https://dice.fm/event/6acfff554a46260001bcf71d"
+  },
+  {
    "id": "1efdab20724e",
    "headliner": "Earlybirds Club",
    "openers": [],
@@ -68,6 +153,18 @@
    "age": "21+",
    "tickets": "https://www.axs.com/events/1642801/earlybirds-club-90s-vs-2000s-party-tickets?skin=firstavenue",
    "source": "https://first-avenue.com/event/2026-12-earlybirds-club-90s-vs-00s/"
+  },
+  {
+   "id": "b122b5778ac2",
+   "headliner": "Ladies of Soul, Vol 6: A Soulful Holiday",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "18:30",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "source": "https://www.dakotacooks.com/event/ladies-of-soul-vol-6-a-soulful-holiday-dec12-2026/2026-12-12/1/"
   },
   {
    "id": "2174dc5f62b0",
@@ -114,6 +211,46 @@
    "spotify": "https://open.spotify.com/artist/5IoXcA5DIDSG0QlNNoqQdZ"
   },
   {
+   "id": "cf13807fa0ed",
+   "headliner": "Trailer Trash",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "19:00",
+   "venue": "Hook and Ladder",
+   "venue_slug": "hook-and-ladder",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "age": "21+",
+   "tickets": "https://app.opendate.io/e/trailer-trash-s-trashy-little-x-mas-saturday-december-12-2026-742745?utm_source=jambase",
+   "source": "https://thehookmpls.com/shows/trailer-trash-s-trashy-little-x-mas-saturday-december-12-2026-742745",
+   "spotify": "https://open.spotify.com/artist/5a1jQOVT5kO1tkCAOY9cmo"
+  },
+  {
+   "id": "0e3a2f36bab2",
+   "headliner": "Cindy Lawson",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "19:00",
+   "venue": "Pilllar Forum",
+   "venue_slug": "pilllar-forum",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:30",
+   "source": "https://www.pilllar.com/collections/tickets/products/music-cindy-lawson-12-12-2026"
+  },
+  {
+   "id": "729222016421",
+   "headliner": "Gonzo's Planet",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
    "id": "b6131f7db1fe",
    "headliner": "bugsy",
    "openers": [
@@ -135,6 +272,36 @@
    "spotify": "https://open.spotify.com/artist/550HK4Z4yrcThhCm0An7NZ"
   },
   {
+   "id": "c9f2cc4705a5",
+   "headliner": "Buio Omega",
+   "openers": [
+    "Vacant",
+    "Treatment"
+   ],
+   "date": "2026-12-12",
+   "start_time": "19:30",
+   "venue": "Cloudland Theater",
+   "venue_slug": "cloudland-theater",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$12",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/H3d22970eea1?utm_source=jambase",
+   "source": "https://dice.fm/event/6acfc851f76aac0001cc8544"
+  },
+  {
+   "id": "415b9c7efd12",
+   "headliner": "Rough House",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "19:30",
+   "venue": "Excelsior Brewing",
+   "venue_slug": "excelsior-brewing",
+   "city": "Excelsior",
+   "genre": "unknown",
+   "source": "https://excelsiorbrew.com/excelsior-excelsior-brewing-co-events"
+  },
+  {
    "id": "3a1b05848d4a",
    "headliner": "A Boogie Wit da Hoodie",
    "openers": [
@@ -154,6 +321,117 @@
    "spotify": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
   },
   {
+   "id": "9ffde10d3413",
+   "headliner": "Church of Cash",
+   "openers": [
+    "Kinda Fonda Wanda"
+   ],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1617104/church-of-cash-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-12-church-of-cash/"
+  },
+  {
+   "id": "e3c02bf97542",
+   "headliner": "Erin and Jay Cabaret Present A Naughty and Nice Holiday Spectacular",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "Crooners",
+   "venue_slug": "crooners",
+   "city": "Fridley",
+   "genre": "unknown",
+   "price": "$30.00 - $40.00",
+   "is_free": false,
+   "tickets": "https://www.eventbrite.com/e/erin-and-jay-cabaret-present-a-naughty-and-nice-holiday-spectacular-tickets-1996150603189",
+   "source": "https://www.croonersmn.com/event/erin-and-jay-cabaret-present-a-naughty-and-nice-holiday-spectacular-13/"
+  },
+  {
+   "id": "abbad2ad0ee3",
+   "headliner": "Modern Joey",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1620738/jon-sullivan-band-and-modern-joey-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-jon-sullivan-band-and-modern-joey/"
+  },
+  {
+   "id": "a49c136ab8c0",
+   "headliner": "Nathan Graham and Good Company",
+   "openers": [
+    "Molly Dean"
+   ],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "source": "https://www.thecedar.org/events/nathan-graham"
+  },
+  {
+   "id": "3f9ca494ced9",
+   "headliner": "The Langer’s Ball",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/the-langers-ball/?lre_date=2026-12-12",
+   "spotify": "https://open.spotify.com/artist/1OwkUsd7vzrmPKCddzxXm8"
+  },
+  {
+   "id": "bcc2be52e012",
+   "headliner": "Ladies of Soul, Vol 6: A Soulful Holiday",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "21:00",
+   "venue": "Dakota Jazz Club",
+   "venue_slug": "dakota-jazz-club",
+   "city": "Minneapolis",
+   "genre": "hip-hop/R&B",
+   "source": "https://www.dakotacooks.com/event/ladies-of-soul-vol-6-a-soulful-holiday-dec12-2026/2026-12-12/2/"
+  },
+  {
+   "id": "fa6223e77935",
+   "headliner": "Dad Joke",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "21:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "a9ffc7fa2948",
+   "headliner": "Chase & Ovation",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "21:30",
+   "venue": "Bunker's",
+   "venue_slug": "bunker-s",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://bunkersmusic.com/calendar"
+  },
+  {
    "id": "cca2cabcd1a0",
    "headliner": "Perreoland",
    "openers": [],
@@ -162,10 +440,22 @@
    "venue": "Myth Live",
    "venue_slug": "myth-live",
    "city": "Maplewood",
-   "genre": "unknown",
+   "genre": "Latin",
    "doors_time": "21:00",
    "tickets": "https://www.eventbrite.com/e/perreoland-minneapolis-tickets-2003951563070?irclickid=zxSypRwqyxyZRFM1twwmOWpmUkr3LvVJRXm%3AUY0&sharedid=linktr.ee&irpid=10078&utm_source=impact&utm_medium=ebaf&utm_term=10078&utm_content=1818731__linktr.ee&irgwc=1&afsrc=1&utm_campaign=afsp_ceal_pmk_fpp_0_us_0_0_bau_0",
    "source": "https://mythlive.com/event/perreoland/"
+  },
+  {
+   "id": "0a36f4056b84",
+   "headliner": "Holiday Sing A Long 2026",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "22:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "pop",
+   "source": "https://331club.com/"
   }
  ]
 }

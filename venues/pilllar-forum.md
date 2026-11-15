@@ -1,11 +1,7 @@
 # Pilllar Forum (Minneapolis): upcoming shows
 
-22 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+22 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Disaster Kid** · 19:00 · unknown · [info](https://www.pilllar.com/collections/tickets/products/music-disaster-kid-11-14-2026) [spotify](https://open.spotify.com/artist/11iu46IxtMdKtSL7qBpXgB)
 
 ## Sunday, November 15, 2026
 
@@ -87,5 +83,9 @@
 ## Friday, December 11, 2026
 
 - **Music Gully Boys12 11 2026** · 20:00 · unknown · Advance $20 Day of Show $25 · [info](https://www.pilllar.com/collections/tickets/products/music-gully-boys12-11-2026)
+
+## Saturday, December 12, 2026
+
+- **Cindy Lawson** · 19:00 · unknown · [info](https://www.pilllar.com/collections/tickets/products/music-cindy-lawson-12-12-2026)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

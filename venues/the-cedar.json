@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,25 +9,6 @@
  "city": "Minneapolis",
  "count": 12,
  "shows": [
-  {
-   "id": "efa94515568d",
-   "headliner": "Chicago Farmer",
-   "openers": [
-    "Thomas Sticha",
-    "The Fieldnotes"
-   ],
-   "date": "2026-11-14",
-   "start_time": "20:00",
-   "venue": "The Cedar",
-   "venue_slug": "the-cedar",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "doors_time": "19:00",
-   "price": "$10",
-   "is_free": false,
-   "source": "https://www.thecedar.org/events/chicago-farmer",
-   "spotify": "https://open.spotify.com/artist/69MACpHHQg9ovd1retYWPq"
-  },
   {
    "id": "2af0174a3e8c",
    "headliner": "Duo Andalus",
@@ -68,7 +49,7 @@
    "venue": "The Cedar",
    "venue_slug": "the-cedar",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "classical",
    "doors_time": "17:30",
    "source": "https://www.thecedar.org/events/orgins-to-ovation"
   },
@@ -198,6 +179,21 @@
    "doors_time": "19:00",
    "source": "https://www.thecedar.org/events/maddie-thies",
    "spotify": "https://open.spotify.com/artist/6uFMSAtb6jrFk9n4SkDIPC"
+  },
+  {
+   "id": "a49c136ab8c0",
+   "headliner": "Nathan Graham and Good Company",
+   "openers": [
+    "Molly Dean"
+   ],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "The Cedar",
+   "venue_slug": "the-cedar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "source": "https://www.thecedar.org/events/nathan-graham"
   }
  ]
 }

@@ -1,11 +1,7 @@
 # Pantages Theatre (Minneapolis): upcoming shows
 
-3 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+2 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **The Fab Four** · 19:30 · rock/indie · $37.45 · [tickets](https://www.ticketmaster.com/the-fab-four-tribute-to-the-minneapolis-minnesota-11-14-2026/event/06006471A446BAA7) [info](https://www.ticketmaster.com/the-fab-four-tribute-to-the-minneapolis-minnesota-11-14-2026/event/06006471A446BAA7) [spotify](https://open.spotify.com/artist/0hKKZ3XZ2uQD5j1EIrFFf7)
 
 ## Tuesday, December 1, 2026
 

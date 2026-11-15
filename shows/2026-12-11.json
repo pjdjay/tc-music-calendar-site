@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -29,7 +29,7 @@
    "venue": "Berlin",
    "venue_slug": "berlin",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "jazz/blues",
    "price": "NO COVER",
    "is_free": true,
    "source": "https://www.berlinmpls.com/calendar/early-evening-jazz-adam-harder-nussbaum-trio-dec-2026"
@@ -227,7 +227,7 @@
    "venue": "Berlin",
    "venue_slug": "berlin",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "jazz/blues",
    "price": "$30",
    "is_free": false,
    "source": "https://www.berlinmpls.com/calendar/jakob-dreyer-quartet-december-2026"
@@ -377,7 +377,7 @@
    "venue": "Turf Club",
    "venue_slug": "turf-club",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "rock/indie",
    "doors_time": "19:00",
    "age": "21+",
    "tickets": "https://www.axs.com/events/1405649/temples-tickets?skin=turfclub",
@@ -466,7 +466,7 @@
    "venue": "Driftwood Char Bar",
    "venue_slug": "driftwood-char-bar",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "country/folk/Americana",
    "source": "https://driftwoodcharbar.com/"
   },
   {
@@ -523,7 +523,7 @@
    "venue": "Uptown VFW",
    "venue_slug": "uptown-vfw",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "metal/punk",
    "doors_time": "22:00",
    "tickets": "https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true",
    "source": "https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true",

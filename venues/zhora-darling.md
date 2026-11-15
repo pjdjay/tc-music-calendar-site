@@ -1,6 +1,6 @@
 # Zhora Darling (Minneapolis): upcoming shows
 
-14 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+15 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
 
 ## Sunday, November 15, 2026
@@ -18,7 +18,7 @@
 
 ## Friday, November 20, 2026
 
-- **Cursing (CO) w/ Crypt.ID, Gothess** · 21:00 · unknown · $19.06 · [tickets](https://dice.fm/event/6af249c5cc479800017873b4) [info](https://dice.fm/event/6af249c5cc479800017873b4)
+- **Cursing (CO) w/ Crypt.ID, Gothess** · 21:00 · metal/punk · $19.06 · [tickets](https://dice.fm/event/6af249c5cc479800017873b4) [info](https://dice.fm/event/6af249c5cc479800017873b4)
 
 ## Saturday, November 21, 2026
 
@@ -52,5 +52,9 @@
 
 - **BODYCAM (mpls)** · time TBA · unknown · [info](https://www.songkick.com/concerts/43515735-bodycam-mpls-at-zhora-darling?utm_medium=organic&utm_source=microformat)
 - **Sunless w/ Bodycam, Unsouling** · 19:00 · unknown · $19.06 · [tickets](https://dice.fm/event/6af3b4c20c25ed0001460f5d) [info](https://dice.fm/event/6af3b4c20c25ed0001460f5d) [spotify](https://open.spotify.com/artist/1pVBgmx5m44kXvyUizCDTt)
+
+## Saturday, December 12, 2026
+
+- **Evernorth w/ Angelshot, Intrinsic, God Cult (SD), Drift Pattern** · 17:30 · unknown · $12.70 · [tickets](https://link.dice.fm/r19560ea4499?utm_source=jambase) [info](https://dice.fm/event/6acfff554a46260001bcf71d)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

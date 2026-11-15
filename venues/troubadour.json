@@ -1,28 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Troubadour",
  "city": "Minneapolis",
- "count": 8,
+ "count": 7,
  "shows": [
-  {
-   "id": "70e3cb7092de",
-   "headliner": "🎶 Live Music at Troubadour! 🎶 Phil Berbig",
-   "openers": [
-    "Saturday at 7 PM"
-   ],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "Troubadour",
-   "venue_slug": "troubadour",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://troubadourwinebar.com/events"
-  },
   {
    "id": "d098e9bc04bd",
    "headliner": "Music by Phil Berbig!",

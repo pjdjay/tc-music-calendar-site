@@ -1,6 +1,6 @@
 # FOE Eagles No. 34 (Minneapolis): upcoming shows
 
-1 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+1 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
 
 ## Wednesday, November 18, 2026

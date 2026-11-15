@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-25",
- "count": 28,
+ "count": 29,
  "shows": [
   {
    "id": "ba8ef2fea3ff",
@@ -186,6 +186,20 @@
    "spotify": "https://open.spotify.com/artist/1lmPlmV52lOVcQaHb8M1MB"
   },
   {
+   "id": "ece83d1dcf13",
+   "headliner": "Harold’s House Party on KFAI",
+   "openers": [
+    "Nikki Matteso & Rich Rue + Friends"
+   ],
+   "date": "2026-11-25",
+   "start_time": "19:00",
+   "venue": "331 Club",
+   "venue_slug": "331-club",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://www.facebook.com/profile.php?id=100063582730118"
+  },
+  {
    "id": "cdbeeb6a2bb6",
    "headliner": "Kevin James and the Weary",
    "openers": [],
@@ -194,7 +208,7 @@
    "venue": "10K Brewing",
    "venue_slug": "10k-brewing",
    "city": "Anoka",
-   "genre": "unknown",
+   "genre": "country/folk/Americana",
    "source": "https://10kbrew.com/event/kevin-james-the-weary-6/",
    "spotify": "https://open.spotify.com/artist/7c2a7VChP7B5a5GlmewJhd"
   },
@@ -220,7 +234,7 @@
    "venue": "Dubliner Pub",
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "Celtic/Irish",
    "source": "https://thedublinerpub.com/show/twin-prop-jane-wednesday/?lre_date=2026-11-25"
   },
   {

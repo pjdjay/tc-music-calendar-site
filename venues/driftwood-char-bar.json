@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,30 +9,6 @@
  "city": "Minneapolis",
  "count": 35,
  "shows": [
-  {
-   "id": "a9c66107ac07",
-   "headliner": "The Great Northern",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "Driftwood Char Bar",
-   "venue_slug": "driftwood-char-bar",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://driftwoodcharbar.com/"
-  },
-  {
-   "id": "719976d075d2",
-   "headliner": "The Comebacks",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "21:00",
-   "venue": "Driftwood Char Bar",
-   "venue_slug": "driftwood-char-bar",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://driftwoodcharbar.com/"
-  },
   {
    "id": "42bd8384fa20",
    "headliner": "Phine & Friends",
@@ -352,7 +328,7 @@
    "venue": "Driftwood Char Bar",
    "venue_slug": "driftwood-char-bar",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "country/folk/Americana",
    "source": "https://driftwoodcharbar.com/",
    "spotify": "https://open.spotify.com/artist/2nwMU1F13SJHCXqZnuqs5T"
   },
@@ -402,7 +378,7 @@
    "venue": "Driftwood Char Bar",
    "venue_slug": "driftwood-char-bar",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "country/folk/Americana",
    "source": "https://driftwoodcharbar.com/"
   },
   {
@@ -434,6 +410,30 @@
    "headliner": "Noah Schmidt Band",
    "openers": [],
    "date": "2026-12-11",
+   "start_time": "21:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "country/folk/Americana",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "729222016421",
+   "headliner": "Gonzo's Planet",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "19:00",
+   "venue": "Driftwood Char Bar",
+   "venue_slug": "driftwood-char-bar",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "source": "https://driftwoodcharbar.com/"
+  },
+  {
+   "id": "fa6223e77935",
+   "headliner": "Dad Joke",
+   "openers": [],
+   "date": "2026-12-12",
    "start_time": "21:00",
    "venue": "Driftwood Char Bar",
    "venue_slug": "driftwood-char-bar",

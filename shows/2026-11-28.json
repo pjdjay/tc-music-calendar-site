@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-28",
- "count": 44,
+ "count": 42,
  "shows": [
   {
    "id": "3c2408d42db6",
@@ -17,7 +17,7 @@
    "venue": "Aster Cafe",
    "venue_slug": "aster-cafe",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "country/folk/Americana",
    "source": "https://www.songkick.com/concerts/43507139-david-huckfelt-at-aster-cafe?utm_medium=organic&utm_source=microformat",
    "spotify": "https://open.spotify.com/artist/3LT3ChbVJI2rE6jAFfkGWZ"
   },
@@ -57,31 +57,6 @@
    "city": "St. Paul",
    "genre": "world/other",
    "source": "https://www.rivercentre.org/events/detail/minnesota-hmong-new-year-3"
-  },
-  {
-   "id": "d9ad4d8a4bb2",
-   "headliner": "DANKSGIVING - Blow Out Sale & Open House",
-   "openers": [],
-   "date": "2026-11-28",
-   "start_time": "12:00",
-   "venue": "Hook and Ladder",
-   "venue_slug": "hook-and-ladder",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "age": "21+",
-   "source": "https://thehookmpls.com/shows/danksgiving-blow-out-sale-open-house-november-28-2026-794279"
-  },
-  {
-   "id": "8b6bae5a1581",
-   "headliner": "Olga Flores 80th Birthday Party 10-12ppl Fireplace rm @12pm",
-   "openers": [],
-   "date": "2026-11-28",
-   "start_time": "12:00",
-   "venue": "Waldmann Brewery",
-   "venue_slug": "waldmann-brewery",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://waldmannbrewery.com/news-events/"
   },
   {
    "id": "c01e80d4ef4c",
@@ -163,7 +138,7 @@
    "venue": "Crooners",
    "venue_slug": "crooners",
    "city": "Fridley",
-   "genre": "unknown",
+   "genre": "jazz/blues",
    "price": "Free",
    "is_free": true,
    "tickets": "https://www.eventbrite.com/e/jennifer-marie-registration-2003617718532",
@@ -206,7 +181,7 @@
    "venue": "Crooners",
    "venue_slug": "crooners",
    "city": "Fridley",
-   "genre": "unknown",
+   "genre": "jazz/blues",
    "price": "$25.00 - $35.00",
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/christmas-soul-joy-with-kijana-gant-tickets-1994762585591",
@@ -608,7 +583,7 @@
    "venue": "White Squirrel",
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "metal/punk",
    "end_date": "2026-11-29",
    "source": "https://whitesquirrelbar.com/event/prophets-of-mothra/"
   },

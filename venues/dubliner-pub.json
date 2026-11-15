@@ -1,31 +1,16 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Dubliner Pub",
  "city": "St. Paul",
- "count": 35,
+ "count": 36,
  "shows": [
   {
-   "id": "bd20463f7d35",
-   "headliner": "The Langer’s Ball",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "20:00",
-   "venue": "Dubliner Pub",
-   "venue_slug": "dubliner-pub",
-   "city": "St. Paul",
-   "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every second Saturday",
-   "source": "https://thedublinerpub.com/show/the-langers-ball/?lre_date=2026-11-14",
-   "spotify": "https://open.spotify.com/artist/1OwkUsd7vzrmPKCddzxXm8"
-  },
-  {
-   "id": "21b0de57ed9b",
+   "id": "e2be3a9454a9",
    "headliner": "Twin Prop Jane Matinee",
    "openers": [],
    "date": "2026-11-15",
@@ -33,9 +18,7 @@
    "venue": "Dubliner Pub",
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
-   "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "some Sundays",
+   "genre": "Celtic/Irish",
    "source": "https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-11-15"
   },
   {
@@ -76,7 +59,7 @@
    "source": "https://thedublinerpub.com/show/fleshpots-of-egypt-hymntap/?lre_date=2026-11-16"
   },
   {
-   "id": "5edfbcfeb79a",
+   "id": "08c85d324a4c",
    "headliner": "The Twin Cities Céilí Band",
    "openers": [],
    "date": "2026-11-18",
@@ -85,8 +68,6 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every third Wednesday",
    "source": "https://thedublinerpub.com/show/the-twin-cities-ceili-band/?lre_date=2026-11-18"
   },
   {
@@ -103,7 +84,7 @@
    "spotify": "https://open.spotify.com/artist/1sFxQhVtg7yStQLFhS9OlY"
   },
   {
-   "id": "77018f18b20a",
+   "id": "49f3576eb17e",
    "headliner": "Devil Dodger",
    "openers": [],
    "date": "2026-11-19",
@@ -112,8 +93,6 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "metal/punk",
-   "hidden_category": "residency",
-   "recurrence": "every third Thursday",
    "source": "https://thedublinerpub.com/show/devil-dodger/?lre_date=2026-11-19",
    "spotify": "https://open.spotify.com/artist/2D5VEHBsI887Cws9NjwXgG"
   },
@@ -130,7 +109,7 @@
    "source": "https://thedublinerpub.com/show/irish-music-session/?lre_date=2026-11-20"
   },
   {
-   "id": "8d5fad419c8d",
+   "id": "90dc1c5d83f3",
    "headliner": "Wild Colonial Bhoys",
    "openers": [],
    "date": "2026-11-20",
@@ -139,8 +118,6 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every third Friday",
    "source": "https://thedublinerpub.com/show/wild-colonial-bhoys/?lre_date=2026-11-20",
    "spotify": "https://open.spotify.com/artist/0aLUSuJgvQUUPKOJb9F4n4"
   },
@@ -157,7 +134,7 @@
    "source": "https://thedublinerpub.com/show/crown-of-clover-sycamore-gap/?lre_date=2026-11-21"
   },
   {
-   "id": "4b9294a0b232",
+   "id": "c498959ed22a",
    "headliner": "Lochtune",
    "openers": [],
    "date": "2026-11-21",
@@ -166,8 +143,6 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every third Saturday",
    "source": "https://thedublinerpub.com/show/lochtune/?lre_date=2026-11-21",
    "spotify": "https://open.spotify.com/artist/170xq3rY1QBM827AfGcf7i"
   },
@@ -180,7 +155,7 @@
    "venue": "Dubliner Pub",
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "Celtic/Irish",
    "source": "https://thedublinerpub.com/show/dehl-gallagher-band/?lre_date=2026-11-22"
   },
   {
@@ -216,7 +191,7 @@
    "venue": "Dubliner Pub",
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "Celtic/Irish",
    "source": "https://thedublinerpub.com/show/twin-prop-jane-wednesday/?lre_date=2026-11-25"
   },
   {
@@ -312,7 +287,7 @@
    "venue": "Dubliner Pub",
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "Celtic/Irish",
    "source": "https://thedublinerpub.com/show/irish-diplomacy-wednesday/?lre_date=2026-12-02"
   },
   {
@@ -348,7 +323,7 @@
    "venue": "Dubliner Pub",
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "Celtic/Irish",
    "source": "https://thedublinerpub.com/show/release-the-craicen/?lre_date=2026-12-04",
    "spotify": "https://open.spotify.com/artist/6w62pRu8qyqLoWVF46VLuE"
   },
@@ -363,6 +338,18 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://thedublinerpub.com/show/mac-and-cheese/?lre_date=2026-12-05"
+  },
+  {
+   "id": "cf33613ae94f",
+   "headliner": "Twin Prop Jane Matinee",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "15:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-12-06"
   },
   {
    "id": "028e024fba7c",
@@ -389,7 +376,7 @@
    "source": "https://thedublinerpub.com/show/sunday-trad-session/?lre_date=2026-12-06"
   },
   {
-   "id": "f3e51b13d992",
+   "id": "5309deee5794",
    "headliner": "The Great Irish Sing-Along",
    "openers": [],
    "date": "2026-12-07",
@@ -397,9 +384,7 @@
    "venue": "Dubliner Pub",
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
-   "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every first Monday",
+   "genre": "Celtic/Irish",
    "source": "https://thedublinerpub.com/show/the-great-irish-sing-along/?lre_date=2026-12-07"
   },
   {
@@ -411,7 +396,7 @@
    "venue": "Dubliner Pub",
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "Celtic/Irish",
    "source": "https://thedublinerpub.com/show/tom-dahill-and-ginny-johnson/?lre_date=2026-12-09"
   },
   {
@@ -449,6 +434,19 @@
    "city": "St. Paul",
    "genre": "unknown",
    "source": "https://thedublinerpub.com/show/dd-company/?lre_date=2026-12-11"
+  },
+  {
+   "id": "3f9ca494ced9",
+   "headliner": "The Langer’s Ball",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/the-langers-ball/?lre_date=2026-12-12",
+   "spotify": "https://open.spotify.com/artist/1OwkUsd7vzrmPKCddzxXm8"
   }
  ]
 }

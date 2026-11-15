@@ -1,17 +1,12 @@
 # Icehouse (Minneapolis): upcoming shows
 
-26 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+24 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **The Brokedown Dollys** · 17:00 · country/folk/Americana · No cover · 18+ · [info](https://www.icehousempls.com/shows/the-brokedown-dollys/)
-- **House Sessions w/ Michael Grey, Alexis Rose, TNA!!!** · 22:00 · unknown · $10 adv / $15 door · 21+ · [tickets](https://tix.gobo.show/events/event/x0QU98kyelyBLQ08JHgL/dates/SB0JGWAuYrB7PLaUVqbR?utm_source=icehousempls.com&utm_medium=website&utm_campaign=housesessions-20261114) [info](https://www.icehousempls.com/shows/house-sessions-feat-michael-grey-alexis-rose-tna/)
 
 ## Sunday, November 15, 2026
 
 - **Rachel Ries Residency: Saint Grandma’s Garage** · 16:00 · country/folk/Americana · $15 adv / $22 door · 18+ · [tickets](https://icehouse.turntabletickets.com/shows/13411/2026-11-15?utm_source=icehousempls.com&utm_medium=website&utm_campaign=rachel-ries-20261115) [info](https://www.icehousempls.com/shows/rachel-ries-residency-saint-grandmas-garage-icehouse/)
-- **Obi Original and The Black Atlantics** · 21:00 · unknown · $10 · 21+ · [tickets](https://tix.gobo.show/events/event/tt-44654/dates/H0SRBEaHAKRMr2qBhM7p?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261115) [info](https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-15/)
+- **Obi Original and The Black Atlantics** · 21:00 · hip-hop/R&B · $10 · 21+ · [tickets](https://tix.gobo.show/events/event/tt-44654/dates/H0SRBEaHAKRMr2qBhM7p?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261115) [info](https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-15/)
 
 ## Monday, November 16, 2026
 
@@ -32,7 +27,7 @@
 ## Sunday, November 22, 2026
 
 - **Rachel Ries Residency: Her Crooked Heart (New works!), Alec Watson opens** · 16:00 · country/folk/Americana · $15 adv / $22 door · 18+ · [tickets](https://icehouse.turntabletickets.com/shows/13412/2026-11-22?utm_source=icehousempls.com&utm_medium=website&utm_campaign=rachel-ries-20261122) [info](https://www.icehousempls.com/shows/rachel-ries-residency-her-crooked-heart-new-works-alec-watson-opens-icehouse/)
-- **Obi Original and The Black Atlantics** · 21:00 · unknown · $10 · 21+ · [tickets](https://tix.gobo.show/events/event/tt-44654/dates/PVCEpDPmYYGaPhfvD9JA?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261122) [info](https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-16/)
+- **Obi Original and The Black Atlantics** · 21:00 · hip-hop/R&B · $10 · 21+ · [tickets](https://tix.gobo.show/events/event/tt-44654/dates/PVCEpDPmYYGaPhfvD9JA?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261122) [info](https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-16/)
 
 ## Monday, November 23, 2026
 
@@ -52,8 +47,8 @@
 
 ## Sunday, November 29, 2026
 
-- **Tim Sparks and Ben Abrahamson** · 17:00 · unknown · No cover · 21+ · [info](https://www.icehousempls.com/shows/tim-sparks-and-ben-abrahamson/)
-- **Obi Original and The Black Atlantics** · 21:00 · unknown · $10 · 21+ · [tickets](https://tix.gobo.show/events/event/tt-44654/dates/XXhTsioeYehbGX5vmuPx?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261129) [info](https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-17/)
+- **Tim Sparks and Ben Abrahamson** · 17:00 · country/folk/Americana · No cover · 21+ · [info](https://www.icehousempls.com/shows/tim-sparks-and-ben-abrahamson/)
+- **Obi Original and The Black Atlantics** · 21:00 · hip-hop/R&B · $10 · 21+ · [tickets](https://tix.gobo.show/events/event/tt-44654/dates/XXhTsioeYehbGX5vmuPx?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261129) [info](https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-17/)
 
 ## Monday, November 30, 2026
 
@@ -78,7 +73,7 @@
 ## Sunday, December 6, 2026
 
 - **Twin Cities Flamenco Collective: Holiday Show** · 17:00 · Latin · $20 adv / $25 door · all ages · [tickets](https://icehouse.turntabletickets.com/shows/9411/2026-12-06?utm_source=icehousempls.com&utm_medium=website&utm_campaign=twin-cities-flamenco-collective-20261206) [info](https://www.icehousempls.com/shows/twin-cities-flamenco-collective-at-icehouse-minneapolis-2/)
-- **Obi Original and The Black Atlantics** · 21:00 · unknown · $10 · 21+ · [tickets](https://tix.gobo.show/events/event/tt-44654/dates/SLs6pdDfisCUewaUExK0?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261206) [info](https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-18/)
+- **Obi Original and The Black Atlantics** · 21:00 · hip-hop/R&B · $10 · 21+ · [tickets](https://tix.gobo.show/events/event/tt-44654/dates/SLs6pdDfisCUewaUExK0?utm_source=icehousempls.com&utm_medium=website&utm_campaign=obi-original-and-the-black-atlantics-20261206) [info](https://www.icehousempls.com/shows/obi-original-and-the-black-atlantics-18/)
 
 ## Monday, December 7, 2026
 

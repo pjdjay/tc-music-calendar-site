@@ -1,11 +1,7 @@
 # Varsity Theater (Minneapolis): upcoming shows
 
-22 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+21 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Fox Stevenson w/ Mystery Skulls** · 19:00 · electronic · $39.85 · [tickets](https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls) [info](https://www.livenation.com/event/vv1AkZkfbGkdEPPQZ/fox-stevenson-mystery-skulls) [spotify](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy)
 
 ## Wednesday, November 18, 2026
 

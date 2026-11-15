@@ -1,11 +1,7 @@
 # Troubadour (Minneapolis): upcoming shows
 
-8 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+7 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **🎶 Live Music at Troubadour! 🎶 Phil Berbig w/ Saturday at 7 PM** · 19:00 · unknown · [info](https://troubadourwinebar.com/events)
 
 ## Monday, November 16, 2026
 

@@ -1,11 +1,7 @@
 # MetroNOME Brewery (St. Paul): upcoming shows
 
-18 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+17 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Jackson Churchill** · 19:30 · classical · [info](https://metronomebrewery.com/live-music/jackson-churchill/) [spotify](https://open.spotify.com/artist/7rmSzrS1a4UOn6fwEccsr0)
 
 ## Sunday, November 15, 2026
 
@@ -51,7 +47,7 @@
 
 ## Tuesday, December 1, 2026
 
-- **Red Planet** · 19:00 · jazz/blues · every first Tuesday · residency · [info](https://metronomebrewery.com/live-music/red-planet-25/2026-12-01/)
+- **Red Planet** · 19:00 · jazz/blues · [info](https://metronomebrewery.com/live-music/red-planet-25/2026-12-01/)
 
 ## Friday, December 4, 2026
 
@@ -63,7 +59,7 @@
 
 ## Tuesday, December 8, 2026
 
-- **MN Guitar Society Monthly FREE Concert – American Tunes and International Traditions** · 18:00 · unknown · FREE Concert · [info](https://metronomebrewery.com/live-music/mn-guitar-society-monthly-free-concert-american-tunes-and-international-traditions/)
+- **MN Guitar Society Monthly FREE Concert – American Tunes and International Traditions** · 18:00 · classical · FREE Concert · [info](https://metronomebrewery.com/live-music/mn-guitar-society-monthly-free-concert-american-tunes-and-international-traditions/)
 
 ## Thursday, December 10, 2026
 

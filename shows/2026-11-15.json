@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -57,7 +57,7 @@
    "venue": "Northrop Auditorium",
    "venue_slug": "northrop-auditorium",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "classical",
    "source": "https://www.northrop.umn.edu/events/university-minnesota-marching-band-2026"
   },
   {
@@ -74,7 +74,7 @@
    "spotify": "https://open.spotify.com/artist/3EsE6uFEqJlhl8X3Zh7T1o"
   },
   {
-   "id": "21b0de57ed9b",
+   "id": "e2be3a9454a9",
    "headliner": "Twin Prop Jane Matinee",
    "openers": [],
    "date": "2026-11-15",
@@ -82,9 +82,7 @@
    "venue": "Dubliner Pub",
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
-   "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "some Sundays",
+   "genre": "Celtic/Irish",
    "source": "https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-11-15"
   },
   {
@@ -536,7 +534,7 @@
    "venue": "Icehouse",
    "venue_slug": "icehouse",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "hip-hop/R&B",
    "doors_time": "20:00",
    "price": "$10",
    "is_free": false,

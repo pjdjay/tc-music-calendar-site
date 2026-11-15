@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,23 +9,6 @@
  "city": "St. Paul",
  "count": 17,
  "shows": [
-  {
-   "id": "748f49c82e44",
-   "headliner": "The Suburbs",
-   "openers": [
-    "The Rodents"
-   ],
-   "date": "2026-11-14",
-   "start_time": "20:00",
-   "venue": "Turf Club",
-   "venue_slug": "turf-club",
-   "city": "St. Paul",
-   "genre": "rock/indie",
-   "doors_time": "19:00",
-   "age": "21+",
-   "source": "https://first-avenue.com/event/2026-11-the-suburbs-sat/",
-   "spotify": "https://open.spotify.com/artist/6r8rjs60Gvl07KyCUV2QhF"
-  },
   {
    "id": "a41a1afc8177",
    "headliner": "Nicole Atkins",
@@ -297,7 +280,7 @@
    "venue": "Turf Club",
    "venue_slug": "turf-club",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "country/folk/Americana",
    "doors_time": "19:00",
    "age": "21+",
    "tickets": "https://www.axs.com/events/1568174/the-steel-wheels-tickets?skin=turfclub",
@@ -316,12 +299,29 @@
    "venue": "Turf Club",
    "venue_slug": "turf-club",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "rock/indie",
    "doors_time": "19:00",
    "age": "21+",
    "tickets": "https://www.axs.com/events/1405649/temples-tickets?skin=turfclub",
    "source": "https://first-avenue.com/event/2026-12-temples/",
    "spotify": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+  },
+  {
+   "id": "9ffde10d3413",
+   "headliner": "Church of Cash",
+   "openers": [
+    "Kinda Fonda Wanda"
+   ],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "Turf Club",
+   "venue_slug": "turf-club",
+   "city": "St. Paul",
+   "genre": "country/folk/Americana",
+   "doors_time": "19:00",
+   "age": "21+",
+   "tickets": "https://www.axs.com/events/1617104/church-of-cash-tickets?skin=turfclub",
+   "source": "https://first-avenue.com/event/2026-12-church-of-cash/"
   }
  ]
 }

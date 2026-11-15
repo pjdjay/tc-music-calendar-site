@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -38,7 +38,7 @@
    "spotify": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
   },
   {
-   "id": "7f805aa26059",
+   "id": "0cd39537af29",
    "headliner": "Lissie",
    "openers": [],
    "date": "2027-01-09",
@@ -46,9 +46,7 @@
    "venue": "Parkway Theater",
    "venue_slug": "parkway-theater",
    "city": "Minneapolis",
-   "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "most Saturdays",
+   "genre": "rock/indie",
    "price": "$39 Advance / $44 At The Door",
    "is_free": false,
    "source": "https://theparkwaytheater.com/all-events/lissie-2027",

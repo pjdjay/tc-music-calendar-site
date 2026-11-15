@@ -1,11 +1,7 @@
 # Hook and Ladder (Minneapolis): upcoming shows
 
-22 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+21 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Maygen & The Birdwatcher w/ Rich Mattson and the Northstars, Emmy Woods, Ross Thorn** · 19:00 · country/folk/Americana · [tickets](https://app.opendate.io/e/amerigrass-26-november-14-2026-711921?utm_source=jambase) [info](https://www.jambase.com/show/maygen-the-birdwatcher-the-hook-and-ladder-theater-20261114) [spotify](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8)
 
 ## Thursday, November 19, 2026
 
@@ -34,7 +30,6 @@
 
 ## Saturday, November 28, 2026
 
-- **DANKSGIVING - Blow Out Sale & Open House** · 12:00 · unknown · 21+ · [info](https://thehookmpls.com/shows/danksgiving-blow-out-sale-open-house-november-28-2026-794279)
 - **Shoeless Revolution w/ The Brothers Allmanac: A Midwest Tribute to The Allman Brothers, Shane Cox & the Funky Spuds** · 19:00 · unknown · 21+ · [tickets](https://app.opendate.io/e/getdown-give-the-brothers-allmanac-shoeless-revolution-shane-cox-the-funky-spuds-november-28-2026-736714?utm_source=jambase) [info](https://thehookmpls.com/shows/getdown-give-the-brothers-allmanac-shoeless-revolution-shane-cox-the-funky-spuds-november-28-2026-736714) [spotify](https://open.spotify.com/artist/0M7Y52xLPvGYYvMjCE8qhF)
 
 ## Thursday, December 3, 2026
@@ -53,15 +48,19 @@
 
 ## Wednesday, December 9, 2026
 
-- **David Cook** · 19:00 · unknown · 21+ · [info](https://thehookmpls.com/shows/david-cook-december-09-2026-753052) [spotify](https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa)
+- **David Cook** · 19:00 · rock/indie · 21+ · [info](https://thehookmpls.com/shows/david-cook-december-09-2026-753052) [spotify](https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa)
 
 ## Thursday, December 10, 2026
 
 - **Rising Voices: Lumberstock Music Fest** · 17:30 · unknown · 21+ · [info](https://thehookmpls.com/shows/rising-voices-lumberstock-music-fest-december-10-2026-800339)
-- **The Steepwater Band w/ Mark Joseph, Nicholas David** · 19:30 · unknown · 21+ · [tickets](https://app.opendate.io/e/the-steepwater-band-december-10-2026-751118?utm_source=jambase) [info](https://thehookmpls.com/shows/the-steepwater-band-december-10-2026-751118) [spotify](https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J)
+- **The Steepwater Band w/ Mark Joseph, Nicholas David** · 19:30 · rock/indie · 21+ · [tickets](https://app.opendate.io/e/the-steepwater-band-december-10-2026-751118?utm_source=jambase) [info](https://thehookmpls.com/shows/the-steepwater-band-december-10-2026-751118) [spotify](https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J)
 
 ## Friday, December 11, 2026
 
 - **Trailer Trash** · 19:00 · unknown · 21+ · [tickets](https://app.opendate.io/e/trailer-trash-s-trashy-little-x-mas-friday-december-11-2026-742744?utm_source=jambase) [info](https://thehookmpls.com/shows/trailer-trash-s-trashy-little-x-mas-friday-december-11-2026-742744) [spotify](https://open.spotify.com/artist/5a1jQOVT5kO1tkCAOY9cmo)
+
+## Saturday, December 12, 2026
+
+- **Trailer Trash** · 19:00 · unknown · 21+ · [tickets](https://app.opendate.io/e/trailer-trash-s-trashy-little-x-mas-saturday-december-12-2026-742745?utm_source=jambase) [info](https://thehookmpls.com/shows/trailer-trash-s-trashy-little-x-mas-saturday-december-12-2026-742745) [spotify](https://open.spotify.com/artist/5a1jQOVT5kO1tkCAOY9cmo)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

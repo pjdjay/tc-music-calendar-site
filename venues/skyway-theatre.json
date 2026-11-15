@@ -1,44 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Skyway Theatre",
  "city": "Minneapolis",
- "count": 8,
+ "count": 6,
  "shows": [
-  {
-   "id": "636ab4fb6bf9",
-   "headliner": "CHAN",
-   "openers": [
-    "Cristian Baca"
-   ],
-   "date": "2026-11-14",
-   "start_time": "21:00",
-   "venue": "Skyway Theatre",
-   "venue_slug": "skyway-theatre",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "21:00",
-   "tickets": "https://www.showclix.com/event/chan-11-14-26",
-   "source": "https://skywaytheatre.com/event/chan/"
-  },
-  {
-   "id": "b66c23cc5cdf",
-   "headliner": "Kloud 360 Set",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "21:00",
-   "venue": "Skyway Theatre",
-   "venue_slug": "skyway-theatre",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "21:00",
-   "tickets": "https://events.leapevents.com/event/kloud-360-set",
-   "source": "https://skywaytheatre.com/event/kloud-360-set/"
-  },
   {
    "id": "ac4e2083f95f",
    "headliner": "Haliene",

@@ -1,11 +1,7 @@
 # 10K Brewing (Anoka): upcoming shows
 
-9 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+8 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Dan Ferstenou** · 19:00 · unknown · [info](https://10kbrew.com/event/live-music-dan-ferstenou-6/)
 
 ## Sunday, November 15, 2026
 
@@ -25,7 +21,7 @@
 
 ## Wednesday, November 25, 2026
 
-- **Kevin James and the Weary** · 19:00 · unknown · [info](https://10kbrew.com/event/kevin-james-the-weary-6/) [spotify](https://open.spotify.com/artist/7c2a7VChP7B5a5GlmewJhd)
+- **Kevin James and the Weary** · 19:00 · country/folk/Americana · [info](https://10kbrew.com/event/kevin-james-the-weary-6/) [spotify](https://open.spotify.com/artist/7c2a7VChP7B5a5GlmewJhd)
 
 ## Friday, November 27, 2026
 

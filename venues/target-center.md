@@ -1,6 +1,6 @@
 # Target Center (Minneapolis): upcoming shows
 
-10 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+8 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
 
 ## Sunday, November 15, 2026
@@ -27,14 +27,6 @@
 ## Sunday, December 27, 2026
 
 - **Trans-Siberian Orchestra** · 15:00 · pop · [tickets](https://www.ticketmaster.com/transsiberian-orchestra-the-ghosts-of-christmas-minneapolis-minnesota-12-27-2026/event/06006518ABE7B1FE) [info](https://www.targetcenter.com/events/detail/transsiberianorchestra26) [spotify](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau)
-
-## Friday, January 1, 2027
-
-- **Harlem Globetrotters** · 19:00 · unknown · [info](https://www.targetcenter.com/events/detail/harlemglobetrotters27) [spotify](https://open.spotify.com/artist/75Yso5HASCKo7rumWVJOXc)
-
-## Saturday, January 16, 2027
-
-- **Hot Wheels Stunt Show** · time TBA · unknown · [info](https://www.targetcenter.com/events/detail/hotwheelsstuntshow)
 
 ## Saturday, January 30, 2027
 

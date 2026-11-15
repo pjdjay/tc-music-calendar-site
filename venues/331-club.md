@@ -1,11 +1,7 @@
 # 331 Club (Minneapolis): upcoming shows
 
-38 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+41 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Echo Signal w/ The Dead Electrics, wolfbabycup** · 22:00 · unknown · [info](https://www.instagram.com/echo_signal_?stkn=MW5ydzRrZWlxdHV6eg==) [spotify](https://open.spotify.com/artist/7FwNIGFCbsqacUqaBPZIhH)
 
 ## Sunday, November 15, 2026
 
@@ -25,7 +21,7 @@
 
 ## Wednesday, November 18, 2026
 
-- **Harold’s House Party on KFAI w/ Connor McRae Trio** · 19:00 · unknown · every Wednesday · residency · [info](https://www.facebook.com/profile.php?id=100063582730118)
+- **Harold’s House Party on KFAI w/ Connor McRae Trio** · 19:00 · unknown · [info](https://www.facebook.com/profile.php?id=100063582730118)
 - **The Blues Shifters** · 21:30 · jazz/blues · [info](https://331club.com/)
 
 ## Thursday, November 19, 2026
@@ -34,7 +30,7 @@
 
 ## Friday, November 20, 2026
 
-- **Grim Lot w/ Battery Eyes, The Anesthetics** · 22:00 · unknown · [info](https://www.instagram.com/grim_lot?vrfl=MWJ1cDE3Z2p1ODJveg==) [spotify](https://open.spotify.com/artist/4PxeGPLqJf7QF6HBrQnvBV)
+- **Grim Lot w/ Battery Eyes, The Anesthetics** · 22:00 · metal/punk · [info](https://www.instagram.com/grim_lot?vrfl=MWJ1cDE3Z2p1ODJveg==) [spotify](https://open.spotify.com/artist/4PxeGPLqJf7QF6HBrQnvBV)
 
 ## Saturday, November 21, 2026
 
@@ -57,6 +53,7 @@
 
 ## Wednesday, November 25, 2026
 
+- **Harold’s House Party on KFAI w/ Nikki Matteso & Rich Rue + Friends** · 19:00 · unknown · [info](https://www.facebook.com/profile.php?id=100063582730118)
 - **Tramps Like Us** · 21:30 · rock/indie · [info](https://www.facebook.com/share/1DGK46pfdM/?mibextid=wwXIfr) [spotify](https://open.spotify.com/artist/5xSNix7cBLfw6Zv4rRFt7W)
 
 ## Saturday, November 28, 2026
@@ -77,6 +74,10 @@
 - **Worker’s Playtime** · 18:00 · unknown · [info](https://331club.com/)
 - **JoJo Green w/ Sweet Tease** · 21:30 · unknown · [info](https://www.instagram.com/jojogreenmusic?stkn=M2hqeHMzbWo4azc5) [spotify](https://open.spotify.com/artist/2HeddibS8LprRJRLeZpzTG)
 
+## Wednesday, December 2, 2026
+
+- **Harold’s House Party on KFAI w/ Heat Dome** · 19:00 · unknown · [info](https://www.facebook.com/profile.php?id=100063582730118)
+
 ## Thursday, December 3, 2026
 
 - **Northeast Invitational** · 21:30 · unknown · [info](https://331club.com/)
@@ -87,16 +88,16 @@
 
 ## Saturday, December 5, 2026
 
-- **Lords of the Universe** · 22:00 · unknown · [info](https://www.instagram.com/lordsoftheuniverse_mn?stkn=a2JhOWtiaWN2ZXFw) [spotify](https://open.spotify.com/artist/6rrP4pJPit5nxaTYOD1S0z)
+- **Lords of the Universe** · 22:00 · rock/indie · [info](https://www.instagram.com/lordsoftheuniverse_mn?stkn=a2JhOWtiaWN2ZXFw) [spotify](https://open.spotify.com/artist/6rrP4pJPit5nxaTYOD1S0z)
 
 ## Sunday, December 6, 2026
 
-- **Corpse Reviver** · 15:00 · unknown · [info](https://www.facebook.com/share/18HHs2ZLYc/?mibextid=wwXIfr) [spotify](https://open.spotify.com/artist/6bACpsWWEk8ugKQ162Vqyu)
-- **Brass Messengers** · 19:00 · unknown · [info](https://www.facebook.com/profile.php?id=100063684781557&mibextid=LQQJ4d)
+- **Corpse Reviver** · 15:00 · metal/punk · [info](https://www.facebook.com/share/18HHs2ZLYc/?mibextid=wwXIfr) [spotify](https://open.spotify.com/artist/6bACpsWWEk8ugKQ162Vqyu)
+- **Brass Messengers** · 19:00 · jazz/blues · [info](https://www.facebook.com/profile.php?id=100063684781557&mibextid=LQQJ4d)
 
 ## Monday, December 7, 2026
 
-- **Soul Trouvère** · 18:00 · unknown · every first Monday · residency · [info](https://www.facebook.com/share/1AFhiYvk34/?mibextid=wwXIfr)
+- **Soul Trouvère** · 18:00 · unknown · [info](https://www.facebook.com/share/1AFhiYvk34/?mibextid=wwXIfr)
 - **Roe Family Singers** · 20:00 · country/folk/Americana · [info](https://www.facebook.com/roefamilysingers/?fref=ts) [spotify](https://open.spotify.com/artist/4ZfMRIzLzK9OOGtr6m1TYm)
 
 ## Tuesday, December 8, 2026
@@ -106,7 +107,8 @@
 
 ## Wednesday, December 9, 2026
 
-- **John Magnuson Trio+** · 21:30 · unknown · [info](https://331club.com/)
+- **Harold’s House Party on KFAI w/ The Pistol Whippin’ Party Penguins** · 19:00 · unknown · [info](https://www.facebook.com/profile.php?id=100063582730118)
+- **John Magnuson Trio+** · 21:30 · jazz/blues · [info](https://331club.com/)
 
 ## Thursday, December 10, 2026
 
@@ -115,5 +117,9 @@
 ## Friday, December 11, 2026
 
 - **Social Cues** · 22:00 · unknown · [info](https://www.instagram.com/socialcues.music?stkn=MWkwYzU0cHprY2Y5bg==)
+
+## Saturday, December 12, 2026
+
+- **Holiday Sing A Long 2026** · 22:00 · pop · [info](https://331club.com/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

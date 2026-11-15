@@ -1,11 +1,7 @@
 # Cabooze (Minneapolis): upcoming shows
 
-10 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+9 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **42 Dugg** · 22:00 · hip-hop/R&B · [info](https://www.jambase.com/show/42-dugg-cabooze-20261114) [spotify](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG)
 
 ## Sunday, November 15, 2026
 

@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-21",
- "count": 49,
+ "count": 48,
  "shows": [
   {
    "id": "57e83775fc80",
@@ -253,22 +253,6 @@
    "tickets": "https://www.livenation.com/event/vvG1bZ_CXTIV4v/shaun-cassidy-unwrapped-songs-stories-for-the-holidays",
    "source": "https://www.livenation.com/event/vvG1bZ_CXTIV4v/shaun-cassidy-unwrapped-songs-stories-for-the-holidays",
    "spotify": "https://open.spotify.com/artist/6XJ5IHDtW2OkjtwVllkANt"
-  },
-  {
-   "id": "9ec9bd9b9cd5",
-   "headliner": "Nerdy November: Villains!",
-   "openers": [],
-   "date": "2026-11-21",
-   "start_time": "19:00",
-   "venue": "Amsterdam Bar & Hall",
-   "venue_slug": "amsterdam-bar-hall",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "doors_time": "18:00",
-   "hidden_category": "dj_night",
-   "age": "21+",
-   "tickets": "https://www.etix.com/ticket/p/76934066/tc-cabaret-presentsnerdy-novembervillains-saint-paul-amsterdam-bar-hall?partner_id=100",
-   "source": "https://events.amsterdambarandhall.com/event/tc-cabaret-presents-nerdy-november-villains/amsterdam-bar-hall/saint-paul-minnesota/"
   },
   {
    "id": "0c6c1c052fb8",
@@ -553,7 +537,7 @@
    "source": "https://www.facebook.com/groups/177674839311967/events/"
   },
   {
-   "id": "4b9294a0b232",
+   "id": "c498959ed22a",
    "headliner": "Lochtune",
    "openers": [],
    "date": "2026-11-21",
@@ -562,8 +546,6 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every third Saturday",
    "source": "https://thedublinerpub.com/show/lochtune/?lre_date=2026-11-21",
    "spotify": "https://open.spotify.com/artist/170xq3rY1QBM827AfGcf7i"
   },
@@ -676,7 +658,7 @@
    "venue": "White Squirrel",
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "rock/indie",
    "end_date": "2026-11-22",
    "source": "https://whitesquirrelbar.com/event/the-dirty-pretty/",
    "spotify": "https://open.spotify.com/artist/1uQXU3sLMPGUt8rnqQaQG4"
@@ -747,7 +729,7 @@
    "venue": "Berlin",
    "venue_slug": "berlin",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "hip-hop/R&B",
    "doors_time": "22:30",
    "hidden_category": "dj_night",
    "price": "$5 at the Door",

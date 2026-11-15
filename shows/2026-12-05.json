@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -56,7 +56,7 @@
    "venue": "White Squirrel",
    "venue_slug": "white-squirrel",
    "city": "St. Paul",
-   "genre": "unknown",
+   "genre": "rock/indie",
    "source": "https://whitesquirrelbar.com/event/jay-boys-family-band-w-kaitlin-cassady-jordy-vaughn/",
    "spotify": "https://open.spotify.com/artist/3OVZFFP15gHvtshgCMKEc0"
   },
@@ -543,7 +543,7 @@
    "venue": "Driftwood Char Bar",
    "venue_slug": "driftwood-char-bar",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "country/folk/Americana",
    "source": "https://driftwoodcharbar.com/",
    "spotify": "https://open.spotify.com/artist/2nwMU1F13SJHCXqZnuqs5T"
   },
@@ -584,7 +584,7 @@
    "venue": "331 Club",
    "venue_slug": "331-club",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "rock/indie",
    "source": "https://www.instagram.com/lordsoftheuniverse_mn?stkn=a2JhOWtiaWN2ZXFw",
    "spotify": "https://open.spotify.com/artist/6rrP4pJPit5nxaTYOD1S0z"
   },

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Zhora Darling",
  "city": "Minneapolis",
- "count": 14,
+ "count": 15,
  "shows": [
   {
    "id": "bb535c4f07bf",
@@ -90,7 +90,7 @@
    "venue": "Zhora Darling",
    "venue_slug": "zhora-darling",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "metal/punk",
    "end_date": "2026-11-21",
    "price": "$19.06",
    "is_free": false,
@@ -265,6 +265,26 @@
    "tickets": "https://dice.fm/event/6af3b4c20c25ed0001460f5d",
    "source": "https://dice.fm/event/6af3b4c20c25ed0001460f5d",
    "spotify": "https://open.spotify.com/artist/1pVBgmx5m44kXvyUizCDTt"
+  },
+  {
+   "id": "96cd47cf5f36",
+   "headliner": "Evernorth",
+   "openers": [
+    "Angelshot",
+    "Intrinsic",
+    "God Cult (SD)",
+    "Drift Pattern"
+   ],
+   "date": "2026-12-12",
+   "start_time": "17:30",
+   "venue": "Zhora Darling",
+   "venue_slug": "zhora-darling",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "price": "$12.70",
+   "is_free": false,
+   "tickets": "https://link.dice.fm/r19560ea4499?utm_source=jambase",
+   "source": "https://dice.fm/event/6acfff554a46260001bcf71d"
   }
  ]
 }

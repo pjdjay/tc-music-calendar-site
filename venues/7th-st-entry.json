@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,25 +9,6 @@
  "city": "Minneapolis",
  "count": 22,
  "shows": [
-  {
-   "id": "0546c9dd633d",
-   "headliner": "LUCY (Cooper B. Handy)",
-   "openers": [
-    "Gods Wisdom",
-    "Nation"
-   ],
-   "date": "2026-11-14",
-   "start_time": "20:00",
-   "venue": "7th St Entry",
-   "venue_slug": "7th-st-entry",
-   "city": "Minneapolis",
-   "genre": "rock/indie",
-   "doors_time": "19:00",
-   "age": "18+",
-   "tickets": "https://www.axs.com/events/1569820/lucy-cooper-b-handy-tickets?cid=usaffjambase&utm_source=jambase",
-   "source": "https://first-avenue.com/event/2026-11-lucy-cooper-b-handy/",
-   "spotify": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
-  },
   {
    "id": "9c19b3372620",
    "headliner": "Ha Ha Tonka",
@@ -397,6 +378,21 @@
    "age": "18+",
    "tickets": "https://www.axs.com/events/1580323/late-night-thoughts-tickets?skin=firstavenue",
    "source": "https://first-avenue.com/event/2026-12-late-night-thoughts/"
+  },
+  {
+   "id": "abbad2ad0ee3",
+   "headliner": "Modern Joey",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "20:00",
+   "venue": "7th St Entry",
+   "venue_slug": "7th-st-entry",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1620738/jon-sullivan-band-and-modern-joey-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2026-12-jon-sullivan-band-and-modern-joey/"
   }
  ]
 }

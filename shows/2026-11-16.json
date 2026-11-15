@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -142,7 +142,7 @@
    "source": "https://www.croonersmn.com/event/mia-dorrs-evolution-of-the-diva-dolly-parton/"
   },
   {
-   "id": "5bd0cd52f38a",
+   "id": "e72da17749df",
    "headliner": "Monday Night Square Dance",
    "openers": [],
    "date": "2026-11-16",
@@ -150,9 +150,7 @@
    "venue": "Celtic Junction",
    "venue_slug": "celtic-junction",
    "city": "St. Paul",
-   "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "some Mondays",
+   "genre": "country/folk/Americana",
    "source": "https://celticjunction.org/events/monday-night-square-dance/2026-11-16-1900/"
   },
   {

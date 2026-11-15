@@ -1,6 +1,6 @@
 # Cloudland Theater (Minneapolis): upcoming shows
 
-5 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+6 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
 
 ## Tuesday, November 17, 2026
@@ -22,5 +22,9 @@
 ## Friday, December 11, 2026
 
 - **Sophie Hiroko w/ GR3G, Willem Dafoe Fan Club** · 19:30 · unknown · $12 · [tickets](https://dice.fm/event/6a9f4df19c734500015b50d8) [info](https://dice.fm/event/6a9f4df19c734500015b50d8) [spotify](https://open.spotify.com/artist/1oaS0HlgrPV67WVH7FN8BR)
+
+## Saturday, December 12, 2026
+
+- **Buio Omega w/ Vacant, Treatment** · 19:30 · unknown · $12 · [tickets](https://link.dice.fm/H3d22970eea1?utm_source=jambase) [info](https://dice.fm/event/6acfc851f76aac0001cc8544)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

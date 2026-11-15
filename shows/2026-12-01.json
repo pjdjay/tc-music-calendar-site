@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-12-01",
- "count": 16,
+ "count": 15,
  "shows": [
   {
    "id": "1d72108b68e2",
@@ -24,18 +24,6 @@
    "is_free": false,
    "tickets": "https://www.eventbrite.com/e/kat-edmonson-have-your-merry-christmas-with-me-tickets-1999222554478",
    "source": "https://www.croonersmn.com/event/kat-edmonson-have-your-merry-christmas-with-me/"
-  },
-  {
-   "id": "6bdffb949083",
-   "headliner": "MN 1st Re-enactors Holiday Gathering: 30 guests, 5:00pm-9:00pm",
-   "openers": [],
-   "date": "2026-12-01",
-   "start_time": "17:00",
-   "venue": "Waldmann Brewery",
-   "venue_slug": "waldmann-brewery",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://waldmannbrewery.com/news-events/"
   },
   {
    "id": "103200574eb3",
@@ -126,7 +114,7 @@
    "spotify": "https://open.spotify.com/artist/2A4YAeUVDUcyOZ0GPTL3WF"
   },
   {
-   "id": "0733ef42ac24",
+   "id": "921a6764861c",
    "headliner": "Red Planet",
    "openers": [],
    "date": "2026-12-01",
@@ -135,8 +123,6 @@
    "venue_slug": "metronome-brewery",
    "city": "St. Paul",
    "genre": "jazz/blues",
-   "hidden_category": "residency",
-   "recurrence": "every first Tuesday",
    "source": "https://metronomebrewery.com/live-music/red-planet-25/2026-12-01/"
   },
   {

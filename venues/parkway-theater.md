@@ -1,11 +1,7 @@
 # Parkway Theater (Minneapolis): upcoming shows
 
-22 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+25 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Gasteyer // Sugar & Booze Holiday Spectacular** · 20:00 · unknown · $69 Advance / $79 At The Door · SOLD OUT · [info](https://theparkwaytheater.com/all-events/ana-gasteyer)
 
 ## Sunday, November 15, 2026
 
@@ -71,15 +67,31 @@
 
 ## Saturday, January 9, 2027
 
-- **Lissie** · 19:30 · unknown · $39 Advance / $44 At The Door · most Saturdays · residency · [info](https://theparkwaytheater.com/all-events/lissie-2027) [spotify](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt)
+- **Lissie** · 19:30 · rock/indie · $39 Advance / $44 At The Door · [info](https://theparkwaytheater.com/all-events/lissie-2027) [spotify](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt)
 
 ## Friday, January 15, 2027
 
 - **Dan Donohue** · 20:00 · unknown · $25 Advance / $30 At The Door · [tickets](https://link.dice.fm/h161bd2aa47e) [info](https://theparkwaytheater.com/all-events/dan-donohue) [spotify](https://open.spotify.com/artist/4yKG62KxvIurbwrfZZndBL)
 
+## Saturday, January 16, 2027
+
+- **Lissie** · 19:30 · rock/indie · [info](https://www.songkick.com/concerts/43512376-lissie-at-parkway-theater?utm_medium=organic&utm_source=microformat) [spotify](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt)
+
+## Saturday, January 23, 2027
+
+- **Lissie** · 19:30 · rock/indie · [info](https://www.songkick.com/concerts/43512377-lissie-at-parkway-theater?utm_medium=organic&utm_source=microformat) [spotify](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt)
+
 ## Wednesday, January 27, 2027
 
 - **Skerryvore** · 19:30 · Celtic/Irish · $35 Advance / $40 At The Door · [tickets](https://link.dice.fm/zecf77abb14d) [info](https://theparkwaytheater.com/all-events/skerryvore-2027) [spotify](https://open.spotify.com/artist/0rvuzsIPX7eql9Iq8e8AUA)
+
+## Friday, January 29, 2027
+
+- **Lissie** · 19:30 · rock/indie · [info](https://www.songkick.com/concerts/43512380-lissie-at-parkway-theater?utm_medium=organic&utm_source=microformat) [spotify](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt)
+
+## Saturday, January 30, 2027
+
+- **Lissie** · 19:30 · rock/indie · [info](https://www.songkick.com/concerts/43512383-lissie-at-parkway-theater?utm_medium=organic&utm_source=microformat) [spotify](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt)
 
 ## Thursday, February 4, 2027
 

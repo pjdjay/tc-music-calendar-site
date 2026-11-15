@@ -1,13 +1,7 @@
 # Crooners (Fridley): upcoming shows
 
-60 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+59 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Jiselle McCollam & Joe Twohy** · 17:00 · unknown · Free · [tickets](https://www.eventbrite.com/e/jiselle-mccollam-joe-twohy-registration-2004314969027) [info](https://www.croonersmn.com/event/jiselle-mccollam-joe-twohy/)
-- **Leslie Vincent** · 18:00 · jazz/blues · $25.00 · [tickets](https://www.eventbrite.com/e/leslie-vincent-tickets-2003366293513) [info](https://www.croonersmn.com/event/leslie-vincent-4/)
-- **Diego Figueiredo** · 19:00 · jazz/blues · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/diego-figueiredo-tickets-2002923327590) [info](https://www.croonersmn.com/event/diego-figueiredo/) [spotify](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra)
 
 ## Sunday, November 15, 2026
 
@@ -45,7 +39,7 @@
 ## Sunday, November 22, 2026
 
 - **Bryan Nichols & Zacc Harris Play the Great American Songbook** · 17:00 · jazz/blues · Free · [tickets](https://www.eventbrite.com/e/bryan-nichols-zacc-harris-play-the-great-american-songbook-registration-2003996139399) [info](https://www.croonersmn.com/event/bryan-nichols-zacc-harris-play-the-great-american-songbook/)
-- **A Cabaret of Gratitude Presented by Lori Dokken** · 19:00 · unknown · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/a-cabaret-of-gratitude-presented-by-lori-dokken-tickets-2001258748790) [info](https://www.croonersmn.com/event/a-cabaret-of-gratitude-presented-by-lori-dokken-2/)
+- **A Cabaret of Gratitude Presented by Lori Dokken** · 19:00 · jazz/blues · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/a-cabaret-of-gratitude-presented-by-lori-dokken-tickets-2001258748790) [info](https://www.croonersmn.com/event/a-cabaret-of-gratitude-presented-by-lori-dokken-2/)
 
 ## Monday, November 23, 2026
 
@@ -65,8 +59,8 @@
 
 ## Saturday, November 28, 2026
 
-- **Jennifer Marie** · 17:00 · unknown · Free · [tickets](https://www.eventbrite.com/e/jennifer-marie-registration-2003617718532) [info](https://www.croonersmn.com/event/jennifer-marie-4/) [spotify](https://open.spotify.com/artist/5Iq7p1OofHNLGJ0EzqP6Tv)
-- **Christmas, Soul & Joy w/ Kijana Gant** · 18:30 · unknown · $25.00 - $35.00 · [tickets](https://www.eventbrite.com/e/christmas-soul-joy-with-kijana-gant-tickets-1994762585591) [info](https://www.croonersmn.com/event/christmas-soul-joy-with-kijana-gant/)
+- **Jennifer Marie** · 17:00 · jazz/blues · Free · [tickets](https://www.eventbrite.com/e/jennifer-marie-registration-2003617718532) [info](https://www.croonersmn.com/event/jennifer-marie-4/) [spotify](https://open.spotify.com/artist/5Iq7p1OofHNLGJ0EzqP6Tv)
+- **Christmas, Soul & Joy w/ Kijana Gant** · 18:30 · jazz/blues · $25.00 - $35.00 · [tickets](https://www.eventbrite.com/e/christmas-soul-joy-with-kijana-gant-tickets-1994762585591) [info](https://www.croonersmn.com/event/christmas-soul-joy-with-kijana-gant/)
 
 ## Sunday, November 29, 2026
 
@@ -115,7 +109,7 @@
 
 ## Monday, December 7, 2026
 
-- **Lori Dokken** · 17:00 · unknown · Free · [tickets](https://www.eventbrite.com/e/lori-dokken-registration-1996051262057) [info](https://www.croonersmn.com/event/lori-dokken-10/)
+- **Lori Dokken** · 17:00 · jazz/blues · Free · [tickets](https://www.eventbrite.com/e/lori-dokken-registration-1996051262057) [info](https://www.croonersmn.com/event/lori-dokken-10/)
 - **A Charlie Brown Christmas w/ the Tanner Taylor Trio** · 18:00 · jazz/blues · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/a-charlie-brown-christmas-with-the-tanner-taylor-trio-tickets-1995861102284) [info](https://www.croonersmn.com/event/a-charlie-brown-christmas-with-the-tanner-taylor-trio-8/)
 - **Jennifer Grimm: A Christmas w/ Family** · 19:00 · unknown · $35.00 - $45.00 · [tickets](https://www.eventbrite.com/e/jennifer-grimm-a-christmas-with-family-and-friends-tickets-1994761405060) [info](https://www.croonersmn.com/event/jennifer-grimm-a-christmas-with-family-and-friends-9/)
 
@@ -126,7 +120,7 @@
 
 ## Wednesday, December 9, 2026
 
-- **Memphis & The Meantimes Christmas w/ Mick Sterling** · 17:30 · unknown · $35.00 - $45.00 · [tickets](https://www.eventbrite.com/e/memphis-the-meantimes-christmas-with-mick-sterling-friends-tickets-1993940822676) [info](https://www.croonersmn.com/event/grand-ole-opry-christmas-with-mick-sterling-friends-2/)
+- **Memphis & The Meantimes Christmas w/ Mick Sterling** · 17:30 · jazz/blues · $35.00 - $45.00 · [tickets](https://www.eventbrite.com/e/memphis-the-meantimes-christmas-with-mick-sterling-friends-tickets-1993940822676) [info](https://www.croonersmn.com/event/grand-ole-opry-christmas-with-mick-sterling-friends-2/)
 - **A Charlie Brown Christmas w/ the Tanner Taylor Trio** · 18:30 · jazz/blues · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/a-charlie-brown-christmas-with-the-tanner-taylor-trio-tickets-1995861203587) [info](https://www.croonersmn.com/event/a-charlie-brown-christmas-with-the-tanner-taylor-trio-10/)
 
 ## Thursday, December 10, 2026
@@ -137,5 +131,10 @@
 ## Friday, December 11, 2026
 
 - **Holidays w/ the Jack Schabert Jazz Orchestra** · 19:00 · unknown · $25.00 - $35.00 · [tickets](https://www.eventbrite.com/e/holidays-with-the-jack-schabert-jazz-orchestra-tickets-1993890385818) [info](https://www.croonersmn.com/event/holidays-with-the-jack-schabert-jazz-orchestra-2/)
+
+## Saturday, December 12, 2026
+
+- **Erin and Jay Cabaret Present A Naughty and Nice Holiday Spectacular** · 17:00 · unknown · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/erin-and-jay-cabaret-present-a-naughty-and-nice-holiday-spectacular-tickets-1996147220070) [info](https://www.croonersmn.com/event/erin-and-jay-cabaret-present-a-naughty-and-nice-holiday-spectacular-12/)
+- **Erin and Jay Cabaret Present A Naughty and Nice Holiday Spectacular** · 20:00 · unknown · $30.00 - $40.00 · [tickets](https://www.eventbrite.com/e/erin-and-jay-cabaret-present-a-naughty-and-nice-holiday-spectacular-tickets-1996150603189) [info](https://www.croonersmn.com/event/erin-and-jay-cabaret-present-a-naughty-and-nice-holiday-spectacular-13/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

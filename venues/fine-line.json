@@ -1,31 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Fine Line",
  "city": "Minneapolis",
- "count": 26,
+ "count": 25,
  "shows": [
-  {
-   "id": "121fbc8b3610",
-   "headliner": "Almost Monday",
-   "openers": [
-    "feel trip."
-   ],
-   "date": "2026-11-14",
-   "start_time": "19:30",
-   "venue": "Fine Line",
-   "venue_slug": "fine-line",
-   "city": "Minneapolis",
-   "genre": "rock/indie",
-   "doors_time": "18:30",
-   "age": "all_ages",
-   "source": "https://first-avenue.com/event/2026-11-almost-monday/",
-   "spotify": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-  },
   {
    "id": "a6edc1b1eb9c",
    "headliner": "Ethan Regan",
@@ -442,7 +425,7 @@
    "venue": "Fine Line",
    "venue_slug": "fine-line",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "country/folk/Americana",
    "doors_time": "19:00",
    "age": "18+",
    "tickets": "https://www.axs.com/events/1611243/rayland-baxter-tickets?skin=fineline",

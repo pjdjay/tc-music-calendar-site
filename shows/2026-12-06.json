@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -19,18 +19,6 @@
    "city": "Minneapolis",
    "genre": "unknown",
    "source": "https://www.songkick.com/concerts/43515735-bodycam-mpls-at-zhora-darling?utm_medium=organic&utm_source=microformat"
-  },
-  {
-   "id": "9bca9656bd59",
-   "headliner": "Annual Tree Lighting Celebration! 4pm-8pm",
-   "openers": [],
-   "date": "2026-12-06",
-   "start_time": null,
-   "venue": "Waldmann Brewery",
-   "venue_slug": "waldmann-brewery",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://waldmannbrewery.com/news-events/"
   },
   {
    "id": "9136cf61b890",
@@ -100,9 +88,21 @@
    "venue": "331 Club",
    "venue_slug": "331-club",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "metal/punk",
    "source": "https://www.facebook.com/share/18HHs2ZLYc/?mibextid=wwXIfr",
    "spotify": "https://open.spotify.com/artist/6bACpsWWEk8ugKQ162Vqyu"
+  },
+  {
+   "id": "cf33613ae94f",
+   "headliner": "Twin Prop Jane Matinee",
+   "openers": [],
+   "date": "2026-12-06",
+   "start_time": "15:00",
+   "venue": "Dubliner Pub",
+   "venue_slug": "dubliner-pub",
+   "city": "St. Paul",
+   "genre": "Celtic/Irish",
+   "source": "https://thedublinerpub.com/show/twin-prop-jane-matinee/?lre_date=2026-12-06"
   },
   {
    "id": "ecb907895774",
@@ -366,7 +366,7 @@
    "venue": "331 Club",
    "venue_slug": "331-club",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "jazz/blues",
    "source": "https://www.facebook.com/profile.php?id=100063684781557&mibextid=LQQJ4d"
   },
   {
@@ -420,7 +420,7 @@
    "venue": "Icehouse",
    "venue_slug": "icehouse",
    "city": "Minneapolis",
-   "genre": "unknown",
+   "genre": "hip-hop/R&B",
    "doors_time": "20:00",
    "price": "$10",
    "is_free": false,

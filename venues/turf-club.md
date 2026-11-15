@@ -1,11 +1,7 @@
 # Turf Club (St. Paul): upcoming shows
 
-17 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+17 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **The Suburbs w/ The Rodents** · 20:00 · rock/indie · 21+ · [info](https://first-avenue.com/event/2026-11-the-suburbs-sat/) [spotify](https://open.spotify.com/artist/6r8rjs60Gvl07KyCUV2QhF)
 
 ## Tuesday, November 17, 2026
 
@@ -65,10 +61,14 @@
 
 ## Thursday, December 10, 2026
 
-- **The Steel Wheels w/ Bobcat Opossum** · 20:00 · unknown · 21+ · [tickets](https://www.axs.com/events/1568174/the-steel-wheels-tickets?skin=turfclub) [info](https://first-avenue.com/event/2026-12-the-steel-wheels/) [spotify](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn)
+- **The Steel Wheels w/ Bobcat Opossum** · 20:00 · country/folk/Americana · 21+ · [tickets](https://www.axs.com/events/1568174/the-steel-wheels-tickets?skin=turfclub) [info](https://first-avenue.com/event/2026-12-the-steel-wheels/) [spotify](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn)
 
 ## Friday, December 11, 2026
 
-- **Temples w/ GIFT, DJ Jake Rudh** · 20:00 · unknown · 21+ · [tickets](https://www.axs.com/events/1405649/temples-tickets?skin=turfclub) [info](https://first-avenue.com/event/2026-12-temples/) [spotify](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV)
+- **Temples w/ GIFT, DJ Jake Rudh** · 20:00 · rock/indie · 21+ · [tickets](https://www.axs.com/events/1405649/temples-tickets?skin=turfclub) [info](https://first-avenue.com/event/2026-12-temples/) [spotify](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV)
+
+## Saturday, December 12, 2026
+
+- **Church of Cash w/ Kinda Fonda Wanda** · 20:00 · country/folk/Americana · 21+ · [tickets](https://www.axs.com/events/1617104/church-of-cash-tickets?skin=turfclub) [info](https://first-avenue.com/event/2026-12-church-of-cash/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

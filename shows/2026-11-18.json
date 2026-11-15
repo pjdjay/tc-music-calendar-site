@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -215,7 +215,7 @@
    "spotify": "https://open.spotify.com/artist/4kydTVshiKvEeuiealqhOo"
   },
   {
-   "id": "0dc117dc0121",
+   "id": "44d9ff4e84e5",
    "headliner": "Harold’s House Party on KFAI",
    "openers": [
     "Connor McRae Trio"
@@ -226,8 +226,6 @@
    "venue_slug": "331-club",
    "city": "Minneapolis",
    "genre": "unknown",
-   "hidden_category": "residency",
-   "recurrence": "every Wednesday",
    "source": "https://www.facebook.com/profile.php?id=100063582730118"
   },
   {
@@ -255,7 +253,7 @@
    "source": "https://waldmannbrewery.com/news-events/"
   },
   {
-   "id": "5edfbcfeb79a",
+   "id": "08c85d324a4c",
    "headliner": "The Twin Cities Céilí Band",
    "openers": [],
    "date": "2026-11-18",
@@ -264,8 +262,6 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "Celtic/Irish",
-   "hidden_category": "residency",
-   "recurrence": "every third Wednesday",
    "source": "https://thedublinerpub.com/show/the-twin-cities-ceili-band/?lre_date=2026-11-18"
   },
   {

@@ -1,26 +1,13 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "date": "2026-11-19",
- "count": 32,
+ "count": 31,
  "shows": [
-  {
-   "id": "6d9806c4eb86",
-   "headliner": "Hats for the Homeless",
-   "openers": [],
-   "date": "2026-11-19",
-   "start_time": "09:00",
-   "venue": "Ginkgo",
-   "venue_slug": "ginkgo",
-   "city": "St. Paul",
-   "genre": "unknown",
-   "source": "https://ginkgocoffee.com/event/hats-for-the-homeless/",
-   "spotify": "https://open.spotify.com/artist/1JktRVuayhRgZcg8KU9mhv"
-  },
   {
    "id": "d5cc1f35e194",
    "headliner": "Minnesota Orchestra: Elgar and Dvořák",
@@ -386,7 +373,7 @@
    "spotify": "https://open.spotify.com/artist/4jZfJWTKg0oea9gn2EER4C"
   },
   {
-   "id": "77018f18b20a",
+   "id": "49f3576eb17e",
    "headliner": "Devil Dodger",
    "openers": [],
    "date": "2026-11-19",
@@ -395,8 +382,6 @@
    "venue_slug": "dubliner-pub",
    "city": "St. Paul",
    "genre": "metal/punk",
-   "hidden_category": "residency",
-   "recurrence": "every third Thursday",
    "source": "https://thedublinerpub.com/show/devil-dodger/?lre_date=2026-11-19",
    "spotify": "https://open.spotify.com/artist/2D5VEHBsI887Cws9NjwXgG"
   },

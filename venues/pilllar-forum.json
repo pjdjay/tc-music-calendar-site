@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,20 +9,6 @@
  "city": "Minneapolis",
  "count": 22,
  "shows": [
-  {
-   "id": "57ff9a86bad5",
-   "headliner": "Disaster Kid",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:00",
-   "venue": "Pilllar Forum",
-   "venue_slug": "pilllar-forum",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "doors_time": "18:30",
-   "source": "https://www.pilllar.com/collections/tickets/products/music-disaster-kid-11-14-2026",
-   "spotify": "https://open.spotify.com/artist/11iu46IxtMdKtSL7qBpXgB"
-  },
   {
    "id": "594a73783a7a",
    "headliner": "93Feetofsmoke",
@@ -354,6 +340,19 @@
    "price": "Advance $20 Day of Show $25",
    "is_free": false,
    "source": "https://www.pilllar.com/collections/tickets/products/music-gully-boys12-11-2026"
+  },
+  {
+   "id": "0e3a2f36bab2",
+   "headliner": "Cindy Lawson",
+   "openers": [],
+   "date": "2026-12-12",
+   "start_time": "19:00",
+   "venue": "Pilllar Forum",
+   "venue_slug": "pilllar-forum",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "18:30",
+   "source": "https://www.pilllar.com/collections/tickets/products/music-cindy-lawson-12-12-2026"
   }
  ]
 }

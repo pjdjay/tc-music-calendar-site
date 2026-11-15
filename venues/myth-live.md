@@ -1,6 +1,6 @@
 # Myth Live (Maplewood): upcoming shows
 
-8 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+8 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
 
 ## Saturday, November 21, 2026
@@ -26,10 +26,10 @@
 
 ## Saturday, December 12, 2026
 
-- **Perreoland** · 22:00 · unknown · [tickets](https://www.eventbrite.com/e/perreoland-minneapolis-tickets-2003951563070?irclickid=zxSypRwqyxyZRFM1twwmOWpmUkr3LvVJRXm%3AUY0&sharedid=linktr.ee&irpid=10078&utm_source=impact&utm_medium=ebaf&utm_term=10078&utm_content=1818731__linktr.ee&irgwc=1&afsrc=1&utm_campaign=afsp_ceal_pmk_fpp_0_us_0_0_bau_0) [info](https://mythlive.com/event/perreoland/)
+- **Perreoland** · 22:00 · Latin · [tickets](https://www.eventbrite.com/e/perreoland-minneapolis-tickets-2003951563070?irclickid=zxSypRwqyxyZRFM1twwmOWpmUkr3LvVJRXm%3AUY0&sharedid=linktr.ee&irpid=10078&utm_source=impact&utm_medium=ebaf&utm_term=10078&utm_content=1818731__linktr.ee&irgwc=1&afsrc=1&utm_campaign=afsp_ceal_pmk_fpp_0_us_0_0_bau_0) [info](https://mythlive.com/event/perreoland/)
 
 ## Friday, February 5, 2027
 
-- **Pancho Barraza w/ Zamora Live** · 21:00 · unknown · [tickets](https://ticketon.com/en/events/pancho-barraza-en-maplewood-maplewood-mn-2027-02-05-vwgcwlvcdsvd) [info](https://mythlive.com/event/pancho-barraza-2/) [spotify](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp)
+- **Pancho Barraza w/ Zamora Live** · 21:00 · Latin · [tickets](https://ticketon.com/en/events/pancho-barraza-en-maplewood-maplewood-mn-2027-02-05-vwgcwlvcdsvd) [info](https://mythlive.com/event/pancho-barraza-2/) [spotify](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

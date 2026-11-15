@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,19 +9,6 @@
  "city": "Prior Lake",
  "count": 10,
  "shows": [
-  {
-   "id": "b7ce3d13bbbd",
-   "headliner": "Alter Bridge",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": null,
-   "venue": "Mystic Lake Showroom",
-   "venue_slug": "mystic-lake-showroom",
-   "city": "Prior Lake",
-   "genre": "rock/indie",
-   "source": "https://mysticlake.com/shows-and-events/alter-bridge",
-   "spotify": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-  },
   {
    "id": "536cfd5c9e91",
    "headliner": "Everclear",
@@ -144,9 +131,24 @@
    "venue": "Mystic Lake Showroom",
    "venue_slug": "mystic-lake-showroom",
    "city": "Prior Lake",
-   "genre": "unknown",
+   "genre": "world/other",
    "tickets": "https://www.ticketmaster.com/event/06006567CE0A38F5?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_BENEMMUAXUAN",
    "source": "https://mysticlake.com/shows-and-events/ben-em-mua-xuan"
+  },
+  {
+   "id": "5304e8126806",
+   "headliner": "The Marshall Tucker Band",
+   "openers": [
+    "Foghat"
+   ],
+   "date": "2027-02-06",
+   "start_time": "19:30",
+   "venue": "Mystic Lake Showroom",
+   "venue_slug": "mystic-lake-showroom",
+   "city": "Prior Lake",
+   "genre": "rock/indie",
+   "tickets": "https://www.ticketmaster.com/event/0600654EF031F3CE?CAMEFROM=CFC_MLCASINO_WEB_BUTTON_MARSHALLTUCKERBAND",
+   "source": "https://mysticlake.com/shows-and-events/marshall-tucker-band"
   }
  ]
 }

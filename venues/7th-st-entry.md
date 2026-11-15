@@ -1,11 +1,7 @@
 # 7th St Entry (Minneapolis): upcoming shows
 
-22 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+22 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **LUCY (Cooper B. Handy) w/ Gods Wisdom, Nation** · 20:00 · rock/indie · 18+ · [tickets](https://www.axs.com/events/1569820/lucy-cooper-b-handy-tickets?cid=usaffjambase&utm_source=jambase) [info](https://first-avenue.com/event/2026-11-lucy-cooper-b-handy/) [spotify](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO)
 
 ## Sunday, November 15, 2026
 
@@ -84,5 +80,9 @@
 ## Friday, December 11, 2026
 
 - **Late Night Thoughts w/ Elias Hix** · 20:00 · unknown · 18+ · [tickets](https://www.axs.com/events/1580323/late-night-thoughts-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2026-12-late-night-thoughts/)
+
+## Saturday, December 12, 2026
+
+- **Modern Joey** · 20:00 · unknown · 18+ · [tickets](https://www.axs.com/events/1620738/jon-sullivan-band-and-modern-joey-tickets?skin=firstavenue) [info](https://first-avenue.com/event/2026-12-jon-sullivan-band-and-modern-joey/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

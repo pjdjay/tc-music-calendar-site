@@ -1,12 +1,7 @@
 # Green Room (Minneapolis): upcoming shows
 
-13 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+11 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Bed By 10 w/ Because Adults Have Stuff to do Tomorrow** · 15:00 · unknown · 21+ · SOLD OUT · [info](https://www.greenroommn.com/events#/events/173351)
-- **Post Animal w/ Brotherkenzie** · 22:00 · rock/indie · 18+ · [tickets](https://tickets.venuepilot.com/e/post-animal-maybe-you-have-to-tour-2026-11-14-green-room-minneapolis-c675ce) [info](https://www.greenroommn.com/events#/events/180675) [spotify](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE)
 
 ## Sunday, November 15, 2026
 

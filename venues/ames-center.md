@@ -1,11 +1,7 @@
 # Ames Center (Burnsville): upcoming shows
 
-8 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+7 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Motown Christmas** · 19:30 · hip-hop/R&B · [tickets](https://www.ticketmaster.com/motown-christmas-burnsville-minnesota-11-14-2026/event/060064CBCE5B1D6F) [info](https://www.ticketmaster.com/motown-christmas-burnsville-minnesota-11-14-2026/event/060064CBCE5B1D6F)
 
 ## Thursday, December 3, 2026
 

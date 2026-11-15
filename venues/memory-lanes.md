@@ -1,6 +1,6 @@
 # Memory Lanes (Minneapolis): upcoming shows
 
-6 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+6 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
 
 ## Monday, November 16, 2026

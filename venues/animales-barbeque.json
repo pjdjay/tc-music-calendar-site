@@ -1,26 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Animales Barbeque",
  "city": "Minneapolis",
- "count": 7,
+ "count": 6,
  "shows": [
-  {
-   "id": "01fd3d5d43d2",
-   "headliner": "Drew Peterson",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:30",
-   "venue": "Animales Barbeque",
-   "venue_slug": "animales-barbeque",
-   "city": "Minneapolis",
-   "genre": "unknown",
-   "source": "https://animalesbbq.com/calendar/drew-peterson-november-2026"
-  },
   {
    "id": "7b55a428acd6",
    "headliner": "Funk Friday",

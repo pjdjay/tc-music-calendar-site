@@ -1,11 +1,7 @@
 # The Cedar (Minneapolis): upcoming shows
 
-12 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+12 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Chicago Farmer w/ Thomas Sticha, The Fieldnotes** · 20:00 · country/folk/Americana · $10 · [info](https://www.thecedar.org/events/chicago-farmer) [spotify](https://open.spotify.com/artist/69MACpHHQg9ovd1retYWPq)
 
 ## Sunday, November 15, 2026
 
@@ -17,7 +13,7 @@
 
 ## Friday, November 20, 2026
 
-- **Origins to Ovation** · 18:00 · unknown · [info](https://www.thecedar.org/events/orgins-to-ovation)
+- **Origins to Ovation** · 18:00 · classical · [info](https://www.thecedar.org/events/orgins-to-ovation)
 
 ## Saturday, November 21, 2026
 
@@ -50,5 +46,9 @@
 ## Friday, December 11, 2026
 
 - **Maddie Thies w/ Squinny, The Nunnery, Sachi Keiko** · 19:30 · unknown · [info](https://www.thecedar.org/events/maddie-thies) [spotify](https://open.spotify.com/artist/6uFMSAtb6jrFk9n4SkDIPC)
+
+## Saturday, December 12, 2026
+
+- **Nathan Graham and Good Company w/ Molly Dean** · 20:00 · unknown · [info](https://www.thecedar.org/events/nathan-graham)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

@@ -1,6 +1,6 @@
 # Uptown VFW (Minneapolis): upcoming shows
 
-9 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+9 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
 
 ## Thursday, November 19, 2026
@@ -30,10 +30,10 @@
 
 ## Monday, December 7, 2026
 
-- **Scott H. Biram** · 19:00 · unknown · [tickets](https://app.opendate.io/e/scott-h-biram-december-07-2026-754264?default_theme=true) [info](https://app.opendate.io/e/scott-h-biram-december-07-2026-754264?default_theme=true) [spotify](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf)
+- **Scott H. Biram** · 19:00 · country/folk/Americana · [tickets](https://app.opendate.io/e/scott-h-biram-december-07-2026-754264?default_theme=true) [info](https://app.opendate.io/e/scott-h-biram-december-07-2026-754264?default_theme=true) [spotify](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf)
 
 ## Friday, December 11, 2026
 
-- **Vampiros** · 22:00 · unknown · [tickets](https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true) [info](https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true) [spotify](https://open.spotify.com/artist/3ollyUMlBmeookjESaJu5Z)
+- **Vampiros** · 22:00 · metal/punk · [tickets](https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true) [info](https://app.opendate.io/e/gothess-presents-vampiros-december-11-2026-758582?default_theme=true) [spotify](https://open.spotify.com/artist/3ollyUMlBmeookjESaJu5Z)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

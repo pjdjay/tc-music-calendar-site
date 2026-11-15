@@ -1,12 +1,7 @@
 # Utepils Brewing (Minneapolis): upcoming shows
 
-12 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+10 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Cuchillo** · 12:00 · unknown · [info](https://utepilsbrewing.com/events/cuchillo/2026-11-14/)
-- **Grunge Unplugged** · 18:00 · rock/indie · [info](https://utepilsbrewing.com/events/grunge-unplugged/)
 
 ## Tuesday, November 17, 2026
 
@@ -37,12 +32,12 @@
 - **Cuchillo** · 12:00 · unknown · [info](https://utepilsbrewing.com/events/cuchillo/2026-12-05/)
 - **Santa Rampage** · 12:00 · unknown · [info](https://utepilsbrewing.com/events/santa-rampage/)
 
-## Monday, December 7, 2026
-
-- **Backgammon & Brews** · 19:00 · unknown · [info](https://utepilsbrewing.com/events/backgammon-brews/2026-12-07/)
-
 ## Friday, December 11, 2026
 
 - **Friday Night Live - FNL** · 18:00 · unknown · FREE Live Music · all ages · [info](https://utepilsbrewing.com/events/friday-night-live-fnl/2026-12-11/)
+
+## Saturday, December 12, 2026
+
+- **Cuchillo** · 12:00 · unknown · [info](https://utepilsbrewing.com/events/cuchillo/2026-12-12/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

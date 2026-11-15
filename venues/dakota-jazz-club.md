@@ -1,11 +1,7 @@
 # Dakota Jazz Club (Minneapolis): upcoming shows
 
-35 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+36 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Lucinda Williams** · 19:00 · country/folk/Americana · $108.90+ · [info](https://www.dakotacooks.com/event/an-evening-with-lucinda-williams-her-band-nov-2026/2026-11-14/) [spotify](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP)
 
 ## Sunday, November 15, 2026
 
@@ -113,10 +109,15 @@
 
 ## Wednesday, December 9, 2026
 
-- **Esera Tuaolo** · 19:00 · unknown · $52.25+ · [info](https://www.dakotacooks.com/event/esera-tuaolo-act-of-kindness-holiday-show-dec9-2026/)
+- **Esera Tuaolo** · 19:00 · pop · $52.25+ · [info](https://www.dakotacooks.com/event/esera-tuaolo-act-of-kindness-holiday-show-dec9-2026/)
 
 ## Friday, December 11, 2026
 
 - **Karrin Allyson** · 19:00 · jazz/blues · $41.95+ · [info](https://www.dakotacooks.com/event/karrin-allyson-yuletide-hideaway-dec11-2026/)
+
+## Saturday, December 12, 2026
+
+- **Ladies of Soul, Vol 6: A Soulful Holiday** · 18:30 · hip-hop/R&B · [info](https://www.dakotacooks.com/event/ladies-of-soul-vol-6-a-soulful-holiday-dec12-2026/2026-12-12/1/)
+- **Ladies of Soul, Vol 6: A Soulful Holiday** · 21:00 · hip-hop/R&B · [info](https://www.dakotacooks.com/event/ladies-of-soul-vol-6-a-soulful-holiday-dec12-2026/2026-12-12/2/)
 
 _Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go._

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
@@ -9,24 +9,6 @@
  "city": "Minneapolis",
  "count": 25,
  "shows": [
-  {
-   "id": "eacaac6c8a96",
-   "headliner": "Kitchen Dwellers",
-   "openers": [
-    "Dogs In A Pile"
-   ],
-   "date": "2026-11-14",
-   "start_time": "20:00",
-   "venue": "First Avenue",
-   "venue_slug": "first-avenue",
-   "city": "Minneapolis",
-   "genre": "country/folk/Americana",
-   "doors_time": "19:00",
-   "age": "18+",
-   "tickets": "https://www.axs.com/events/1568171/kitchen-dwellers-and-dogs-in-a-pile-tickets?cid=usaffjambase",
-   "source": "https://first-avenue.com/event/2026-11-kitchen-dwellers-and-dogs-in-a-pile/",
-   "spotify": "https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31"
-  },
   {
    "id": "1f66e5a25930",
    "headliner": "Hurricane Wisdom",
@@ -447,6 +429,23 @@
    "tickets": "https://www.axs.com/events/1640636/the-womack-sisters-tickets?skin=firstavenue",
    "source": "https://first-avenue.com/event/2027-01-the-womack-sisters/",
    "spotify": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+  },
+  {
+   "id": "206cd4ea5a39",
+   "headliner": "Josh Meloy",
+   "openers": [
+    "Hoss Miller"
+   ],
+   "date": "2027-02-06",
+   "start_time": "20:00",
+   "venue": "First Avenue",
+   "venue_slug": "first-avenue",
+   "city": "Minneapolis",
+   "genre": "unknown",
+   "doors_time": "19:00",
+   "age": "18+",
+   "tickets": "https://www.axs.com/events/1675984/josh-meloy-tickets?skin=firstavenue",
+   "source": "https://first-avenue.com/event/2027-02-josh-meloy/"
   }
  ]
 }

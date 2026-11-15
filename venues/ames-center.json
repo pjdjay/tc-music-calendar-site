@@ -1,27 +1,14 @@
 {
- "generated_at": "2026-11-15T05:44:51+00:00",
- "window_start": "2026-11-14",
- "window_end": "2027-02-05",
+ "generated_at": "2026-11-15T11:38:46+00:00",
+ "window_start": "2026-11-15",
+ "window_end": "2027-02-06",
  "timezone": "America/Chicago",
  "source": "https://music.tcshows.org/",
  "note": "Listings are collected from venue calendars and public listings each week and may be incomplete or out of date; check the venue before you go.",
  "venue": "Ames Center",
  "city": "Burnsville",
- "count": 8,
+ "count": 7,
  "shows": [
-  {
-   "id": "c2597e6ba434",
-   "headliner": "Motown Christmas",
-   "openers": [],
-   "date": "2026-11-14",
-   "start_time": "19:30",
-   "venue": "Ames Center",
-   "venue_slug": "ames-center",
-   "city": "Burnsville",
-   "genre": "hip-hop/R&B",
-   "tickets": "https://www.ticketmaster.com/motown-christmas-burnsville-minnesota-11-14-2026/event/060064CBCE5B1D6F",
-   "source": "https://www.ticketmaster.com/motown-christmas-burnsville-minnesota-11-14-2026/event/060064CBCE5B1D6F"
-  },
   {
    "id": "a7b7fd2cbbcd",
    "headliner": "Rocky Mountain High Experience: A John Denver Tribute",

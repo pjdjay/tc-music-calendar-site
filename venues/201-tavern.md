@@ -1,11 +1,7 @@
 # 201 Tavern (Anoka): upcoming shows
 
-2 shows, 2026-11-14 to 2027-02-05. All shows: https://music.tcshows.org/shows.md
+1 shows, 2026-11-15 to 2027-02-06. All shows: https://music.tcshows.org/shows.md
 
-
-## Saturday, November 14, 2026
-
-- **Jeff Loven (live music)** · 20:00 · unknown · [info](https://www.201tavern.com/anoka-201-tavern-beer-garden-and-grill-events) [spotify](https://open.spotify.com/artist/2mxDDIyOtwGNgNY4WFUmG3)
 
 ## Saturday, November 21, 2026
 
